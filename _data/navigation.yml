@@ -46,16 +46,16 @@ docs:
   - title: "Language"
     children:
       - title: "English"
-        url: /
+        url: https://eraofchaos.github.io/
       - title: "Русский"
-        url: /ru/
+        url: https://eraofchaos.github.io/ru/
       - title: "Deutsch"
-        url: /de/
+        url: https://eraofchaos.github.io/de/
       - title: "Français"
-        url: /fr/
+        url: https://eraofchaos.github.io/fr/
       - title: "Italiano"
-        url: /it/
+        url: https://eraofchaos.github.io/it/
       - title: "Español"
-        url: /es/
+        url: https://eraofchaos.github.io/es/
 
 

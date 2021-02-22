@@ -11,7 +11,7 @@ sidebar:
 ---
 
 {% capture notice-update20210216 %}
-*Mise à jour du clien** (Version **142 (3100)**):
+**Mise à jour du clien** (Version **142 (3100)**):
 
 * Correction de quelques astuces pour l'événement en cours
 * 1 chaîne de caractères ajoutée aux fichiers de localisation (effet principal sur la taille de la mise à jour)
@@ -19,7 +19,7 @@ sidebar:
 
 **Mise à jour du wiki**
 
-[Autel de faction pour 2021] (https://eraofchaos.github.io/FactionAltar/) - Complétez l'autel de faction avec des unités / âmes et des chances de chute. Cliquez sur "Détails de l'Autel de Faction" pour en savoir plus.
+[Autel de faction pour 2021](https://eraofchaos.github.io/FactionAltar/) - Complétez l'autel de faction avec des unités / âmes et des chances de chute. Cliquez sur "Détails de l'Autel de Faction" pour en savoir plus.
 
 Merci pour votre activité. Nous avons ** 3,6 000 utilisateurs uniques **, soit environ ** 30 000 visiteurs par semaine ** en provenance de ** 86 pays **.
 En raison des limitations techniques de Github (nous avons environ 4000 pages dans le wiki), nous devrions diviser le wiki pour chaque langue. Ensuite, les langues DE / FR / RU / IT / ES seront mises à jour à l'état actuel du jeu.{% endcapture %}

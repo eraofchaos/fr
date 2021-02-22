@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, unique sorcière connue d'Antagarich, serait la fille illégitime du roi Gryphonheart."
 heroID: 61402
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: fr
 ref: "Sephinroth"
 toc: true

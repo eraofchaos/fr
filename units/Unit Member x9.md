@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Unit Member x9"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
   | 17 | [Elfe sylvaine](/units/Wood Elf/) | À distance | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
   | 18 | [Squelette](/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Guerrier squelette  |
   | 19 | [Trépassé](/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombie  |
-  | 20 | [Revenante](/units/Wight/) | Lanceur de sorts | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spectre  |
+  | 20 | [Revenante](/units/Wight/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spectre  |
   | 21 | [Druidesse](/units/Druid/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Archidruidesse  |
   | 22 | [Gobelin](/units/Goblin/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  Hobgobelin  |
   | 23 | [Chevaucheur de loup](/units/Wolf Rider/) | Assaut | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  Pillard  |

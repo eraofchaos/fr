@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Griffon"
 toc: true
@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Unité aérienne. Contre-attaques illimitées.
 
- **Position :** Inflige des dégâts directs en début de combat. Contre-attaque souvent et inflige des dégâts de zone.
+ **Position :** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
 
  **Recommend:** En augmentant votre vitesse de déplacement, vous renforcez grandement l'efficacité de votre armée.
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "index.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 23 | [Mullich](/heroes/Mullich/) | Château | Chevalier | R+ |  Charge d'assaut  |
   | 24 | [Mutare](/heroes/Mutare/) | Donjon | Seigneur de guerre | R |  Torrent du Donjon  |
   | 25 | [PeterLee](/heroes/Peter Lee/) | Crique | Pirate | R+ |  Levez les voiles  |
-  | 26 | [Rashka](/heroes/Rashka/) | Hadès | Démoniaque | R |  Fire Lord  |
+  | 26 | [Rashka](/heroes/Rashka/) | Hadès | Demoniac | R |  Fire Lord  |
   | 27 | [Roland](/heroes/Roland/) | Château | Chevalier | SR+ |  Moral accru  |
   | 28 | [Ryland](/heroes/Ryland/) | Rempart | Ranger | R |  Garde sylvanien  |
   | 29 | [Sandro](/heroes/Sandro/) | Nécropole | Nécromancien | SSR |  Les Ténèbres se répandent  |
@@ -47,6 +47,6 @@ classes: wide
   | 35 | [Tazar](/heroes/Tazar/) | Forteresse | Maître des bêtes | SR |  Rage sanguinaire  |
   | 36 | [Vidomina](/heroes/Vidomina/) | Nécropole | Nécromancien | R |  Nécromancien  |
   | 37 | [Wystan](/heroes/Wystan/) | Forteresse | Maître des bêtes | R |  Chasseur des marais  |
-  | 38 | [Xeron](/heroes/Xeron/) | Hadès | Démoniaque | SSR |  Archidiable  |
+  | 38 | [Xeron](/heroes/Xeron/) | Hadès | Demoniac | SSR |  Archidiable  |
   | 39 | [Yog](/heroes/Yog/) | Bastion | Barbare | SR |  Cyclope enragé  |
   | 40 | [Zydar](/heroes/Zydar/) | Hadès | Hérétique | R |  Invocation d'Hadès  |

@@ -2,7 +2,7 @@
 title: "Formation de combat Conflux"
 permalink: /Battle Formation/Battle Formation Faction Conflux
 excerpt: "Formation de combat Conflux"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "BattleFormationFactionConflux"
 toc: false
@@ -59,10 +59,10 @@ classes: wide
   | 4 | Conflux - A Strike Hit | Précision + **6**  | 160 |  **10** x [Élémentaire de tempête](/units/Storm Elemental) |
   | 5 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Conflux - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Élémentaire de glace](/units/Ice Elemental) |
+  | 7 | Conflux - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Ice Elemental](/units/Ice Elemental) |
   | 8 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Conflux - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Conflux - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Élémentaire de glace](/units/Ice Elemental) |
+  | 10 | Conflux - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Ice Elemental](/units/Ice Elemental) |
   | 11 | Conflux - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 13 | Conflux - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Élémentaire de tempête](/units/Storm Elemental) |

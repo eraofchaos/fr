@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Archimage"
 toc: true
@@ -193,7 +193,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
 
 ### 6th Skill (or 5th): Suppression d'énergie
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Perte d'énergie&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 200 % de sa valeur précédente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 200% of the previous skill's effect</span>
 
 ## Technical info
  **runart:** 1

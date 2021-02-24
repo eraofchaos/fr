@@ -1,15 +1,15 @@
 ---
 title: "Druidesse"
 permalink: /units/Druid/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
+excerpt: "Era of Chaos Unités. Unités. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Druidesse"
 toc: true
 ---
 ## General information
- **Description:** Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt.
+ **Description:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
 
  **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Chromosphère sylvestre : immunise les unités situées dans son cercle magique contre les dégâts magiques.
+ **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
  **Short description:** Annule le bouclier. Améliore les coups critiques.
 

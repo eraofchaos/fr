@@ -2,7 +2,7 @@
 title: "Formation de combat Bastion"
 permalink: /Battle Formation/Battle Formation Faction Stronghold internal
 excerpt: "Formation de combat Bastion"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "BattleFormationFactionStronghold"
 toc: false

@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Arbalétrière de Regna"
 toc: true
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** 
+ **Awaking Description:** Les yeux rouges des femmes pirates instillent la peur dans le cœur des hommes. Tandis que les sots se laissent envoûter, les plus rusés prennent garde à ne jamais croiser leur regard.
 
 ### Awaking Tasks
  1. 

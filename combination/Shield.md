@@ -2,7 +2,7 @@
 title: "Infos combinaison for Bouclier"
 permalink: /combination/Shield/
 excerpt: "Infos combinaison - Bouclier. Units and Heroes Formation."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Bouclier.md"
 toc: false

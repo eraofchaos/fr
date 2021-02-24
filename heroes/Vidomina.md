@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina faisait preuve d'un immense potentiel quand elle était jeune, jusqu'à ce qu'elle soit expulsée de Bracada après qu'il a été découvert qu'elle utilisait sa magie pour changer les vivants en Non-Morts. Cette sanction n'a fait que la placer définitivement sur la voie du mal."
 heroID: 60502
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Vidomina"
 toc: true
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Apprentie hérétique**
 
- **Description:** <span style="color: #ffffff;font-size:20px">La plupart ne voient que l'horreur et le chaos de la mort. Je vais au-delà et parviens à apercevoir la vérité de l'éternité.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Most only see the ugliness and chaos of death, but I see the truth of eternity.</span>
 
  **Skin features:** 
 

@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Même s'il est dans un monde totalement différent, Ezio s'accroche à ses convictions. Il agit dans l'ombre pour servir la lumière."
 heroID: 61901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Ezio"
 toc: true
@@ -40,7 +40,7 @@ toc: true
 ### 3 Spell: Discrétion
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> dégâts de sort de feu aux unités ennemies situées dans une large zone ainsi que <span style="color: #e07c44;font-size:20px">Silence</span><span style="color: black"> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000} secondes.
 
-### 4 Spell: Vision d'aigle
+### 4 Spell: Eagle Vision
  **Description:** Octroie <span style="color: #e07c44;font-size:20px">Œil de faucon</span><span style="color: black"> à toutes les unités alliées et augmente les coups critiques et la précision de 900 pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> secondes.
 
 

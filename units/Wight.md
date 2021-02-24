@@ -3,7 +3,7 @@ title: "Revenante"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Revenante"
 toc: true
@@ -160,7 +160,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Spectre
 
@@ -184,16 +184,16 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Invisibilité&gt; : </span><span style="color: #645252;font-size:18px">Double la résistance magique. Après avoir été touchée par un sort ennemi, la Revenante libère une bénédiction mortelle, qui augmente la résistance aux dégâts des unités alliées de la Nécropole de 10 % pour toute la durée de la bataille. Cet effet peut se cumuler jusqu'à 3 fois.</span>
 
 ### 3rd Skill (or 4th): Trouble panique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cri effroyable&gt; : </span><span style="color: #645252;font-size:18px">Les unités victimes de Silence voient leur résistance magique diminuée de 50 % pendant toute la durée de l'effet.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cri effroyable&gt; : </span><span style="color: #645252;font-size:18px">Les unités victimes de Silence voient leur résistance magique réduite de 50 % et leurs dégâts réduits de 20 % pendant toute la durée de l'effet.</span>
 
 ### 4th Skill (or 3rd): Maîtrise du cri
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cri effroyable&gt; : </span><span style="color: #645252;font-size:18px">Augmente de 50 % la résistance magique des unités de la Nécropole alliées placées sur la même ligne pendant 25 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cri effroyable&gt; : </span><span style="color: #645252;font-size:18px">Augmente de 50 % la résistance magique et de 20 % les dégâts des unités de la Nécropole alliées placées sur la même ligne pendant 25 secondes.</span>
 
 ### 5th Skill (or 6th): Quaky Soul
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Horreur incarnée&gt; : </span><span style="color: #645252;font-size:18px">Lorsqu'un Héros allié lance un sort de terre, la Revenante regagne 5 points de mana par Héros et réduit la résistance magique aux sorts de terre de tous les ennemis de 8 % pour toute la durée de la bataille. Cet effet peut se cumuler jusqu'à 20 fois et ne peut pas être dissipé.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Horreur incarnée&gt; : </span><span style="color: #645252;font-size:18px">Augmente la DÉF de la Revenante de 10 %. Lorsqu'un Héros allié lance un sort de terre, la Revenante regagne 5 points de mana par Héros et réduit la résistance magique aux sorts de terre ainsi que les dégâts de tous les ennemis de 4 % et 2 % respectivement. Cet effet peut se cumuler jusqu'à 20 fois, ne peut pas être dissipé et dure toute la bataille.</span>
 
 ### 6th Skill (or 5th): Scène atroce
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Horreur incarnée&gt; : </span><span style="color: #645252;font-size:18px">Lorsqu'un Héros allié lance un sort de terre, la Revenante regagne 5 points de mana par Héros et réduit la résistance magique aux sorts de terre de tous les ennemis de 16 % pour toute la durée de la bataille. Cet effet peut se cumuler jusqu'à 6 fois et ne peut pas être dissipé.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Horreur incarnée&gt; : </span><span style="color: #645252;font-size:18px">Augmente la DÉF de la Revenante de 10 %. Lorsqu'un Héros allié lance un sort de terre, la Revenante regagne 5 points de mana par Héros et réduit la résistance magique aux sorts de terre ainsi que les dégâts de tous les ennemis de 8 % et 4 % respectivement. Cet effet peut se cumuler jusqu'à 6 fois, ne peut pas être dissipé et dure toute la bataille.</span>
 
 ## Technical info
  **runart:** 0

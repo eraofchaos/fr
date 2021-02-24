@@ -3,7 +3,7 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Oracle de Regna"
 toc: true
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Élémentaire des marées
 
- **Awaking Description:** 
+ **Awaking Description:** Levez l'ancre et hissez les voiles ! Réduisez tout à néant ! Pillez et emparez-vous de tout ce qui vous entoure ! Faites de ces mers votre terrain de jeu personnel !
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Naga et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités de la Tour pour réussir </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> fois le niveau Champion, ou un niveau supérieur, de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>

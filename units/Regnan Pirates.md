@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Pirates de Regna"
 toc: true
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Roi des pirates
 
- **Awaking Description:** 
+ **Awaking Description:** Levez l'ancre et hissez les voiles ! Réduisez tout à néant ! Pillez et emparez-vous de tout ce qui vous entoure ! Faites de ces mers votre terrain de jeu personnel !
 
 ### Awaking Tasks
  1. 

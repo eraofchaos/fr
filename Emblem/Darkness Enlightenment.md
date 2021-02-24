@@ -2,7 +2,7 @@
 title: "Emblème sacré - Darkness Enlightenment"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Darkness Enlightenment. Darkness Enlightenment. Era of Chaos Emblème sacré Darkness Enlightenment. Era of Chaos Mauvais Darkness Enlightenment"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Darkness Enlightenment.md"
 toc: false

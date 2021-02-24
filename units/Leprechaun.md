@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
 unitID: 909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "Farfadet"
 toc: true
@@ -196,10 +196,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Coup dévastateur
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Brûlure, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Brûlure, sa DÉF sera également réduite de 2 %. L'affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
 ### 2nd Skill (or 1st): Coup immédiat
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Gel, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Gel, sa DÉF sera également réduite de 2 %. L'affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
 ### 3rd Skill (or 4th): Chiffre porte-bonheur
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Bonne fortune&gt; :</span><span style="color: #645252;font-size:18px"> L'effet de la compétence du Farfadet peut se cumuler de 5 à 12 fois.</span>

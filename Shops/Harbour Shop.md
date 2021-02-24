@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: fr
 ref: "index.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   |  Nr  |      Name      |         Price        |   Maximum available      |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1 |  **12x** Fervor(An item used to challenge bosses in the Cove Attack event.) |  **180x** <i class="fas fa-gem"/>  | **100** |
-  | 2 |  **1x** Catherine - Ailes du Triomphe(Permet d'obtenir le skin Ailes du Triomphe de Catherine) |  **2500x** Shekel  | **1** |
+  | 2 |  **1x** Wings of Triumph: Catherine(Permet d'obtenir le skin Ailes du Triomphe de Catherine) |  **2500x** Shekel  | **1** |
   | 3 |  **10x** Peter Lee(Récupérez 30 Jetons pour que PeterLee rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang.) |  **2500x** Shekel  | **3** |
   | 4 |  **10x** Âme d'unité SSR(Récupérez-en 80 pour obtenir une unité d'aptitude SSR aléatoire (sauf le Chevalier noir, l'Assassin et les Guerriers spartiates).) |  **3800x** Shekel  | **4** |
   | 5 |  **10x** Âme d'unité SR(Récupérez-en 30 pour obtenir une de ces unités à 2 étoiles au hasard : Griffon, Spadassin, Moine, Cavalier, Nain, Elfe sylvaine, Pégase, Garde sylvanien, Licorne, Orque, Ogre, Rock, Cyclope, Revenante, Vampire, Chien de l'Enfer, Démon, Servante des Abîmes, Effrit, Gargouille, Golem de fer, Mage,Pirates de Regna, Élémentaire de tempête, Élémentaire de glace, Harpie, Minotaure ou Homme-lézard.) |  **1000x** Shekel  | **3** |

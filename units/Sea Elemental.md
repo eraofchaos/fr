@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Larmes éternelles](/equipment/Larmes éternelles/) | **ATQ** | **DEF** | 
-  | [Noyau d'Élémentaire d'eau](/equipment/Noyau d'Élémentaire d'eau/) | **PV** | **DEF** | 
-  | [Flux ondulants](/equipment/Flux ondulants/) | **ATQ** | **DEF** | 
-  | [Balafre tourbillonnante](/equipment/Balafre tourbillonnante/) | **PV** | **DEF** | 
+  | [Larmes éternelles](/equipment/Larmes éternelles/) | **ATQ** | **DÉF** | 
+  | [Noyau d'Élémentaire d'eau](/equipment/Noyau d'Élémentaire d'eau/) | **PV** | **DÉF** | 
+  | [Flux ondulants](/equipment/Flux ondulants/) | **ATQ** | **DÉF** | 
+  | [Balafre tourbillonnante](/equipment/Balafre tourbillonnante/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -106,9 +106,9 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de mer crée sur le sol un maelstrom de 10 secondes toutes les 30 secondes, diminuant la vitesse d'ATQ des ennemis à portée de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par seconde. Le maelstrom inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts aux ennemis lorsqu'il se dissipe.</span><span style="color: black">
 
 ### Compétence normale 1 : Présent des flots
- **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, l'Élémentaire de mer crée un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bouclier de glace&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour les unités alliées sur son chemin. L'Élémentaire de mer </span><span style="color: black"><span style="color: #48b946;font-size:20px">"ralentira"</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis qui l'attaquent. Le bouclier dure </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, l'Élémentaire de mer crée un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bouclier de glace&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour les unités alliées sur son chemin. L'Élémentaire de mer </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"ralentira\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis qui l'attaquent. Le bouclier dure </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### Compétence normale 2 : Tidal Rite
+### Compétence normale 2 : Rite des marées
  **Description:** <span style="color: #645252;font-size:20px">Au début de la bataille, l'Élémentaire de mer génère un cercle qui augmente ses PV de <span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black">. Diminue les soins des ennemis de 1 % toutes les 2 secondes pour toute la durée de la bataille.</span><span style="color: black">
 
 ### Compétence normale 3 : Cage abyssale
@@ -117,7 +117,7 @@ toc: true
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -203,7 +203,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Immunise contre les dégâts de sorts pendant 3 secondes.</span>
 
 ### 6th Skill (or 5th): Lame enchantée
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de l'unité de 30 % pendant 6 secondes.</span>
 
 ## Technical info
  **runart:** 0

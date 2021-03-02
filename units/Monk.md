@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Soins très efficaces et bonus puissants.
 
- **Position :** Provides high morale, has a powerful healing ability.
+ **Position :** Lance Exaltation, dispose d'une puissante capacité de guérison.
 
  **Recommend:** Le Guerrier, le Mage et le Prêtre sont efficaces ensemble.
 
@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe de divinité](/equipment/Orbe de divinité/) | **ATQ** | **DEF** | 
-  | [Chapeau mystique](/equipment/Chapeau mystique/) | **PV** | **DEF** | 
-  | [Rune du rituel](/equipment/Rune du rituel/) | **ATQ** | **DEF** | 
-  | [Armure légère standard](/equipment/Armure légère standard/) | **PV** | **DEF** | 
+  | [Orbe de divinité](/equipment/Orbe de divinité/) | **ATQ** | **DÉF** | 
+  | [Chapeau mystique](/equipment/Chapeau mystique/) | **PV** | **DÉF** | 
+  | [Rune du rituel](/equipment/Rune du rituel/) | **ATQ** | **DÉF** | 
+  | [Armure légère standard](/equipment/Armure légère standard/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -109,7 +109,7 @@ toc: true
 ### Compétence normale 1 : Bénédiction des courageux
  **Description:** <span style="color: #645252;font-size:20px">Lorsque le combat commence, les Moines octroient </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités alliées sur leur chemin pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### Compétence normale 2 : Meditation
+### Compétence normale 2 : Méditation
  **Description:** <span style="color: #645252;font-size:20px">Quand les Moines sont sur le champ de bataille, la vitesse de récupération du sort du Héros augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 3 : Récupération
@@ -118,7 +118,7 @@ toc: true
 ### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### Compétence spéciale de faction II : Defense Resonance
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -180,7 +180,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pièces d'équipement lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Zealot souls in the Underground: Levels 13-2 and 13-4.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Zélote dans les niveaux 13-2 et 13-4 du souterrain.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Déployez un Moine et remportez </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> combats dans l'arène.</span>
 

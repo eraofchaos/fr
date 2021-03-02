@@ -1,17 +1,17 @@
 ---
-title: "Exclusif - Spirit Core"
+title: "Exclusif - Noyau spirituel"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
-excerpt: "Era of Chaos Spirit Core. Spirit Core. Era of Chaos Exclusif Spirit Core. Élémentaire de l'esprit Exclusif."
+excerpt: "Era of Chaos Noyau spirituel. Noyau spirituel. Era of Chaos Exclusif Noyau spirituel. Élémentaire de l'esprit Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Psychic Elemental Spirit Core.md"
+ref: "Psychic Elemental Noyau spirituel.md"
 toc: false
 classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Spirit Core** 
+ **Name: Noyau spirituel** 
 
  **Exclusif for Unit:** [Élémentaire de l'esprit](/units/Psychic Elemental/) 
 
@@ -23,7 +23,7 @@ classes: wide
 
  **Open:** -
 
- **Power:** 1560
+ **Power:** 1610
 
 ## Rang supérieur
 
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 234 | 35.65 | 294.15 |
-  | 2 | 265 | 42.78 | 352.97 |
-  | 3 | 296 | 49.92 | 411.8 |
-  | 4 | 328 | 57.05 | 470.63 |
-  | 5 | 359 | 64.18 | 529.46 |
-  | 6 | 390 | 71.31 | 588.29 |
-  | 7 | 421 | 78.44 | 647.12 |
+  | 1 | 242 | 35.65 | 294.15 |
+  | 2 | 274 | 42.78 | 352.97 |
+  | 3 | 306 | 49.92 | 411.8 |
+  | 4 | 338 | 57.05 | 470.63 |
+  | 5 | 370 | 64.18 | 529.46 |
+  | 6 | 403 | 71.31 | 588.29 |
+  | 7 | 435 | 78.44 | 647.12 |
 
 

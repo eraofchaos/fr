@@ -29,9 +29,9 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Holy Spear Strike> Pikeman deals damage equal to 400% of own ATK to the target unit once every 15s and decreases the target's DEF by 4% for 7s, stacking up to 4 times. If the target unit is stunned, Tenacity is also reduced by 150 for 6s. |
+  |  Initial  | ? | <Lance sacrée> : Le Lancier inflige des dégâts équivalents à 400 % de son ATQ une fois toutes les 15 secondes et diminue la DÉF de la cible de 4 % pendant 7 secondes. L'effet peut se cumuler jusqu'à 4 fois. Si l'unité cible est étourdie, sa ténacité est également réduite de 150 pendant 6 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque du Lancier de 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Increases Pikeman's Tenacity by 150. |
+  | **2x** <i class="fas fa-star"/> | ? | Augmente la ténacité du Lancier de 150. |
   | **3x** <i class="fas fa-star"/> | ? | <Assaut zélé> : Déclenche <Lance sacrée> une fois de plus en cas d'Exaltation du Lancier. |
   | **4x** <i class="fas fa-star"/> | ? | Augmente les dégâts des coups critiques du Lancier de 15 %. |
   | **5x** <i class="fas fa-star"/> | ? | Augmente la DÉF de 3 % et l'esquive de 30 pour chaque unité du Château présente sur le champ de bataille. |

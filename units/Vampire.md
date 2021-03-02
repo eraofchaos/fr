@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ceinture sanguinaire](/equipment/Ceinture sanguinaire/) | **ATQ** | **DEF** | 
-  | [Armure légère sanguinaire](/equipment/Armure légère sanguinaire/) | **PV** | **DEF** | 
-  | [Épaulières des ombres](/equipment/Épaulières des ombres/) | **ATQ** | **DEF** | 
-  | [Manteau des ombres](/equipment/Manteau des ombres/) | **PV** | **DEF** | 
+  | [Ceinture sanguinaire](/equipment/Ceinture sanguinaire/) | **ATQ** | **DÉF** | 
+  | [Armure légère sanguinaire](/equipment/Armure légère sanguinaire/) | **PV** | **DÉF** | 
+  | [Épaulières des ombres](/equipment/Épaulières des ombres/) | **ATQ** | **DÉF** | 
+  | [Manteau des ombres](/equipment/Manteau des ombres/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Charge gracieuse](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Pic du Chevalier](/Exclusive/Vampire Knight Pike/) 
 
  **Item to Rang supérieur:** -
 
@@ -105,7 +105,7 @@ toc: true
 ### Capacité ultime: Drain de vie
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 12 secondes, les Vampires infligent aléatoirement </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie dans une large zone et lui volent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV.</span><span style="color: black">
 
-### Compétence normale 1 : Bloodthirst
+### Compétence normale 1 : Assoiffé de sang
  **Description:** <span style="color: #645252;font-size:20px">Drain de vie du Vampire augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 2 : Gonflement

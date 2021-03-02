@@ -1,11 +1,11 @@
 ---
-title: "Stone Elemental"
+title: "Élémentaire de pierre"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre."
 unitID: 905
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Stone Elemental"
+ref: "Élémentaire de pierre"
 toc: true
 ---
 ## General information
@@ -65,10 +65,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Noyau de magma](/equipment/Noyau de magma/) | **ATQ** | **DEF** | 
-  | [Magma explosif](/equipment/Magma explosif/) | **PV** | **DEF** | 
-  | [Pierre du crépuscule](/equipment/Pierre du crépuscule/) | **ATQ** | **DEF** | 
-  | [Couronne de pierre](/equipment/Couronne de pierre/) | **PV** | **DEF** | 
+  | [Noyau de magma](/equipment/Noyau de magma/) | **ATQ** | **DÉF** | 
+  | [Magma explosif](/equipment/Magma explosif/) | **PV** | **DÉF** | 
+  | [Pierre du crépuscule](/equipment/Pierre du crépuscule/) | **ATQ** | **DÉF** | 
+  | [Couronne de pierre](/equipment/Couronne de pierre/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -100,7 +100,7 @@ toc: true
 ### Capacité ultime: Rochers brisés
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de pierre se sépare en deux Élémentaires de pierre inférieurs à sa mort. L'Élémentaire de pierre inférieur a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, et demeure pendant toute la durée de la bataille.</span><span style="color: black">
 
-### Compétence normale 1 : Rock Solid
+### Compétence normale 1 : Dur comme la pierre
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de l'Élémentaire de pierre augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double si l'Élémentaire de pierre est blessé par des unités à distance.</span><span style="color: black">
 
 ### Compétence normale 2 : Force élémentaire
@@ -109,7 +109,7 @@ toc: true
 ### Compétence normale 3 : Écho de la terre
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de pierre et les Élémentaires de pierre inférieurs sont tués, ils infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts aux ennemis dans une large zone, et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### Compétence spéciale de faction I : Elemental Affinity
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire
@@ -185,7 +185,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -193,10 +193,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

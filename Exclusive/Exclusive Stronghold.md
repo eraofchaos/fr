@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gobelin](/units/Goblin/) | [Épée](/Exclusive/Goblin Sword/) | - | Assaut | - | - |
-  | 2  | [Chevaucheur de loup](/units/Wolf Rider/) | [Charge gracieuse](/Exclusive/Wolf Rider Knight Pike/) | - | Assaut | - | - |
+  | 2  | [Chevaucheur de loup](/units/Wolf Rider/) | [Pic du Chevalier](/Exclusive/Wolf Rider Knight Pike/) | - | Assaut | - | - |
   | 3  | [Orque](/units/Orc/) | [Arc long](/Exclusive/Orc Long Bow/) | - | Assaut | - | - |
   | 4  | [Ogre](/units/Ogre/) | [Bouclier iris](/Exclusive/Ogre Iris Shield/) | - | Assaut | - | - |
   | 5  | [Rock](/units/Roc/) | [Mélopée des arcanes](/Exclusive/Roc Arcane Chant/) | - | Assaut | - | - |
-  | 6  | [Cyclope](/units/Cyclops/) | [Arc long](/Exclusive/Cyclops Long Bow/) | - | Assaut | - | - |
+  | 6  | [Cyclope](/units/Cyclops/) | [Arc long](/Exclusive/Cyclops Long Bow/) | + | Assaut | - | - |
   | 7  | [Béhémoth](/units/Behemoth/) | [Esprit sanguinaire](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Soutien | - | - |
   | 8  | [Berserker](/units/Berserker/) | [Hache de Berserker](/Exclusive/Berserker Berserker's Axe/) | - | Soutien | - | - |
   | 9  | [Troll](/units/Troll/) | - | - | - | none | none |

@@ -33,8 +33,8 @@ classes: wide
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts du Chevalier noir augmente de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Les dégâts du Chevalier noir augmentent de 25 %. |
   | **3x** <i class="fas fa-star"/> | ? | Le Chevalier noir charge directement au début du combat. Pendant ce temps, il est immunisé contre tout type de dégâts. Il apparaît devant les unités ennemies placées à la fin de la ligne en 6 secondes. S'il n'y a pas de cible adéquate, il attaque une unité aléatoire située sur la ligne arrière et lui inflige une Frappe fatale. (Aucun effet d'éveil. Ne fonctionne qu'une seule fois par combat.) |
-  | **4x** <i class="fas fa-star"/> | ? | Lorsqu'il réalise un coup critique, le Chevalier noir reçoit 50 en coups critiques. L'effet dure 5 secondes, et peut se cumuler jusqu'à 10 fois. |
-  | **5x** <i class="fas fa-star"/> | ? | Le drain de vie du Chevalier noir augmente de 10 %. Il reçoit un bonus de 10 % de drain de vie pendant 5 secondes après un coup critique. |
+  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
+  | **5x** <i class="fas fa-star"/> | ? | Le drain de vie du Chevalier noir augmente de 20 %. Il reçoit un bonus de 20 % de drain de vie pendant 5 secondes après un coup critique. |
   | **6x** <i class="fas fa-star"/> | ? | <Renaissance du roi> : Invoque un Chevalier noir toutes les 20 secondes. Un Chevalier noir peut être invoqué une fois que la cible a été tuée. Dès qu'il apparaît, les coups critiques de l'unité augmentent de 100 et sa pénétration de 50. |
 
 

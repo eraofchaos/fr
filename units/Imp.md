@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes sinistres](/equipment/Griffes sinistres/) | **ATQ** | **DEF** | 
-  | [Katar sinistre](/equipment/Katar sinistre/) | **PV** | **DEF** | 
-  | [Ailes sinistres](/equipment/Ailes sinistres/) | **ATQ** | **DEF** | 
-  | [Armure légère sinistre](/equipment/Armure légère sinistre/) | **PV** | **DEF** | 
+  | [Griffes sinistres](/equipment/Griffes sinistres/) | **ATQ** | **DÉF** | 
+  | [Katar sinistre](/equipment/Katar sinistre/) | **PV** | **DÉF** | 
+  | [Ailes sinistres](/equipment/Ailes sinistres/) | **ATQ** | **DÉF** | 
+  | [Armure légère sinistre](/equipment/Armure légère sinistre/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -155,7 +155,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
 
 ### Bonus de héros
@@ -199,7 +199,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Agilité&gt; : </span><span style="color: #645252;font-size:18px">L'esquive du Diablotin augmente de 2000 pendant 20 secondes.</span>
 
 ### 4th Skill (or 3rd): Règles de l'Hadès
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Agility&gt;</span><span style="color: #645252;font-size:18px">Imp increases dodge by 200 for friendly units within a certain range. For Inferno Faction units, the effect doubles</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Agilité&gt; : </span><span style="color: #645252;font-size:18px">Le Diablotin augmente l'esquive de 200 points pour toutes les unités autour de lui. Cet effet est doublé pour les unités de l'Hadès.</span>
 
 ### 5th Skill (or 6th): Le dernier refuge
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Séide de l'Hadès&gt; : </span><span style="color: #645252;font-size:18px">Augmente la DÉF du Diablotin de 15 %, et de 4 % supplémentaires pour chaque unité de l'Hadès déployée.</span>

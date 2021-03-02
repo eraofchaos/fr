@@ -2,7 +2,7 @@
 title: "Emblème sacré - Ange gardien"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Era of Chaos Ange gardien. Ange gardien. Era of Chaos Emblème sacré Ange gardien. Era of Chaos Bonté Ange gardien"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Guardian Angel.md"
 toc: false

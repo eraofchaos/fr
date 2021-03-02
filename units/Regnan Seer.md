@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sceptre divin de l'âme de l'océan](/equipment/Sceptre divin de l'âme de l'océan/) | **ATQ** | **DEF** | 
-  | [Collier de l'âme de Poséidon](/equipment/Collier de l'âme de Poséidon/) | **PV** | **DEF** | 
-  | [Bandeau rayonnant](/equipment/Bandeau rayonnant/) | **ATQ** | **DEF** | 
-  | [Bracelet noble](/equipment/Bracelet noble/) | **PV** | **DEF** | 
+  | [Sceptre divin de l'âme de l'océan](/equipment/Sceptre divin de l'âme de l'océan/) | **ATQ** | **DÉF** | 
+  | [Collier de l'âme de Poséidon](/equipment/Collier de l'âme de Poséidon/) | **PV** | **DÉF** | 
+  | [Bandeau rayonnant](/equipment/Bandeau rayonnant/) | **ATQ** | **DÉF** | 
+  | [Bracelet noble](/equipment/Bracelet noble/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -116,7 +116,7 @@ toc: true
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 6 : Furie océanique
@@ -209,7 +209,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Immunise contre les dégâts de sorts pendant 3 secondes.</span>
 
 ### 6th Skill (or 5th): Lame enchantée
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de l'unité de 30 % pendant 6 secondes.</span>
 
 ## Technical info
  **runart:** 0

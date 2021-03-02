@@ -1,7 +1,7 @@
 ---
 title: "Druidesse"
 permalink: /units/Druid/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
+excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
 last_modified_at: 2021-03-02
 locale: fr
@@ -9,7 +9,7 @@ ref: "Druidesse"
 toc: true
 ---
 ## General information
- **Description:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
+ **Description:** Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt.
 
  **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
 
@@ -25,11 +25,11 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
+ **Unit description:** Chromosphère sylvestre : immunise les unités situées dans son cercle magique contre les dégâts magiques.
 
  **Short description:** Annule le bouclier. Améliore les coups critiques.
 
- **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+ **Position :** Soutient les troupes de la ligne arrière, améliore les DPS des unités alliées et immunise contre les dégâts magiques.
 
 ## Stats de base
  **Base HP: 844.0**
@@ -67,10 +67,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Couronne de quiétude](/equipment/Couronne de quiétude/) | **ATQ** | **DEF** | 
-  | [Bâton ancien](/equipment/Bâton ancien/) | **PV** | **DEF** | 
-  | [Robe de la rage tempétueuse](/equipment/Robe de la rage tempétueuse/) | **ATQ** | **DEF** | 
-  | [Bottes hautes forestières](/equipment/Bottes hautes forestières/) | **PV** | **DEF** | 
+  | [Couronne de quiétude](/equipment/Couronne de quiétude/) | **ATQ** | **DÉF** | 
+  | [Bâton ancien](/equipment/Bâton ancien/) | **PV** | **DÉF** | 
+  | [Robe de la rage tempétueuse](/equipment/Robe de la rage tempétueuse/) | **ATQ** | **DÉF** | 
+  | [Bottes hautes forestières](/equipment/Bottes hautes forestières/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -107,7 +107,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Augmente l'ATQ de la Druidesse de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 2 : Bénédiction de la vie
- **Description:** <span style="color: #645252;font-size:20px">La Druidesse génère toutes les 30 secondes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">"bouclier"</span><span style="color: black"><span style="color: #645252;font-size:20px">aléatoire pour 4 unités alliées en première ligne, qui absorbe une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Druidesse génère toutes les 30 secondes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bouclier\"</span><span style="color: black"><span style="color: #645252;font-size:20px">aléatoire pour 4 unités alliées en première ligne, qui absorbe une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max.</span><span style="color: black">
 
 ### Compétence normale 3 : Le cœur de la nature
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 25 secondes, la Druidesse bénit ses alliés dans une vaste zone, augmentant leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes. Ce bonus est doublé quand la Druidesse le lance pour la première fois.</span><span style="color: black">

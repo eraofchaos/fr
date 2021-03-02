@@ -3,20 +3,20 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka utilise la peur pour mener ses troupes à la victoire. Jusqu'ici, sa stratégie s'est révélée très efficace."
 heroID: 60802
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Rashka"
 toc: true
 ---
  **Description:** Rashka utilise la peur pour mener ses troupes à la victoire. Jusqu'ici, sa stratégie s'est révélée très efficace.
 ## Details
- **Profession:** Demoniac
+ **Profession:** Démoniaque
 
  **Race:** Hadès
 
  **Rate:** R
 
- **Specialty:** Fire Lord
+ **Specialty:** Seigneur du feu
 
  **Specialty Desc:** Sous le commandement de Rashka, l'Effrit devient un Seigneur du feu aux capacités fortement accrues.
 

@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
+ **Unit description:** Souffle du Dragon : attaque les ennemis dans une large zone et les brûle.
 
  **Short description:** Attaque et défense magiques équilibrées.
 
@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes de dragon magique](/equipment/Griffes de dragon magique/) | **ATQ** | **DEF** | 
-  | [Feu dévastateur](/equipment/Feu dévastateur/) | **PV** | **DEF** | 
-  | [Ailes couvre-ciel](/equipment/Ailes couvre-ciel/) | **ATQ** | **DEF** | 
-  | [Écailles en fer](/equipment/Écailles en fer/) | **PV** | **DEF** | 
+  | [Griffes de dragon magique](/equipment/Griffes de dragon magique/) | **ATQ** | **DÉF** | 
+  | [Feu dévastateur](/equipment/Feu dévastateur/) | **PV** | **DÉF** | 
+  | [Ailes couvre-ciel](/equipment/Ailes couvre-ciel/) | **ATQ** | **DÉF** | 
+  | [Écailles en fer](/equipment/Écailles en fer/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -158,7 +158,7 @@ toc: true
 ### Bonus de héros
 * [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -188,7 +188,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Écailles magnétiques
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunité à la magie&gt; : </span><span style="color: #645252;font-size:18px">À chaque fois que &lt;Souffle du Dragon&gt; est lancé, le Dragon noir gagne un point de bonus. Ce bonus peut se cumuler jusqu'à 6 fois et ne peut pas être dissipé.</span>
 
 ### 2nd Skill (or 1st): Armure de dragon fondue
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunité à la magie&gt; : </span><span style="color: #645252;font-size:18px">À chaque fois que &lt;Souffle du Dragon&gt; est lancé, le Dragon noir gagne 2 points de bonus. Ce bonus peut se cumuler jusqu'à 4 fois et ne peut pas être dissipé.</span>

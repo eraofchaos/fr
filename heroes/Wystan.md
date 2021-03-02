@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan est le beau-fils aîné du Roi Tralossk et le second héritier du trône. Il attend impatiemment le jour où il pourra enfin régner."
 heroID: 61504
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Wystan"
 toc: true
@@ -41,7 +41,7 @@ toc: true
  **Description:** Octroie un <span style="color: #e07c44;font-size:20px">bouclier</span><span style="color: black"> aux unités alliées à portée, qui absorbe <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> points de dégâts et dure {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Bourbier
- **Description:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: #e07c44;font-size:20px">10%</span><span style="color: black"> and restore HP by <span style="color: #e07c44;font-size:20px">3%</span><span style="color: black"> of their Max HP every second; reduces ATK speed by <span style="color: #e07c44;font-size:20px">30%</span><span style="color: black"> and movement speed by <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Description:** Invoque un Bourbier à un emplacement précis, qui restaure chaque seconde <span style="color: #e07c44;font-size:20px">3 %</span><span style="color: black"> des PV max des alliés de la Forteresse dans une large zone et augmente leur vitesse d'ATQ de <span style="color: #e07c44;font-size:20px">10 %</span><span style="color: black"> ; réduit la vitesse d'ATQ de <span style="color: #e07c44;font-size:20px">30 %</span><span style="color: black"> et la vitesse de déplacement de <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> pour toutes les unités ennemies au sol, pendant {($olast11+$olast12*($sklevel-1))/1000} secondes.
 
 
 ## HERO Biography

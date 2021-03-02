@@ -66,10 +66,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cristal de glace creux](/equipment/Cristal de glace creux/) | **ATQ** | **DEF** | 
-  | [Coiffe raz-de-marée](/equipment/Coiffe raz-de-marée/) | **PV** | **DEF** | 
-  | [Marque de l'océan](/equipment/Marque de l'océan/) | **ATQ** | **DEF** | 
-  | [Étoffe de la sirène](/equipment/Étoffe de la sirène/) | **PV** | **DEF** | 
+  | [Cristal de glace creux](/equipment/Cristal de glace creux/) | **ATQ** | **DÉF** | 
+  | [Coiffe raz-de-marée](/equipment/Coiffe raz-de-marée/) | **PV** | **DÉF** | 
+  | [Marque de l'océan](/equipment/Marque de l'océan/) | **ATQ** | **DÉF** | 
+  | [Étoffe de la sirène](/equipment/Étoffe de la sirène/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -107,12 +107,12 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de l'Élémentaire de glace a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> à la cible pendant 15 secondes, et de ralentir la vitesse d'ATQ de la cible de <span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes. Cet effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### Compétence normale 2 : Force élémentaire
- **Description:** <span style="color: #645252;font-size:20px">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces water magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de glace est sur le champ de bataille, il augmente la résistance magique aux sorts d'eau de ses alliés de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et réduit la résistance magique aux sorts d'eau de ses ennemis de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. De plus, la régénération de mana du Héros allié augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 3 : null
  **Description:** 
 
-### Compétence spéciale de faction I : Elemental Affinity
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire

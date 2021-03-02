@@ -1,11 +1,11 @@
 ---
-title: "Gremlin"
+title: "Lutin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Gremlin"
+ref: "Lutin"
 toc: true
 ---
 ## General information
@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fléau foudroyant](/equipment/Fléau foudroyant/) | **ATQ** | **DEF** | 
-  | [Capuchon enchanté](/equipment/Capuchon enchanté/) | **PV** | **DEF** | 
-  | [Gants enchantés](/equipment/Gants enchantés/) | **ATQ** | **DEF** | 
-  | [Cape pare-vent](/equipment/Cape pare-vent/) | **PV** | **DEF** | 
+  | [Fléau foudroyant](/equipment/Fléau foudroyant/) | **ATQ** | **DÉF** | 
+  | [Capuchon enchanté](/equipment/Capuchon enchanté/) | **PV** | **DÉF** | 
+  | [Gants enchantés](/equipment/Gants enchantés/) | **ATQ** | **DÉF** | 
+  | [Cape pare-vent](/equipment/Cape pare-vent/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -109,7 +109,7 @@ toc: true
 ### Compétence normale 1 : Chasse au dragon
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'il fait face à des unités de 1 ou de 4 combattant(s), l'attaque normale du Lutin a une chance d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### Compétence normale 2 : Magic Will
+### Compétence normale 2 : Volonté magique
  **Description:** <span style="color: #645252;font-size:20px">Les PV des Lutins augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 3 : Éveil magique
@@ -154,7 +154,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **À distance**  (Groupement - À distance)
 
 ### Bonus de héros
@@ -184,7 +184,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -192,10 +192,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

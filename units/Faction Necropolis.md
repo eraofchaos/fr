@@ -21,5 +21,5 @@ classes: wide
   | 5 | [Revenante](/units/Wight/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spectre  |
   | 6 | [Vampire](/units/Vampire/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Seigneur Vampire  |
   | 7 | [Chevalier noir](/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  Chevalier de l'Effroi  |
-  | 8 | [Lich](/units/Lich/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Grande Liche  |
+  | 8 | [Liche](/units/Lich/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Grande Liche  |
   | 9 | [Dragon squelette](/units/Bone Dragon/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  Dragon fantôme  |

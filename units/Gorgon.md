@@ -1,7 +1,7 @@
 ---
 title: "Gorgone"
 permalink: /units/Gorgon/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
+excerpt: "Era of Chaos Unités. Unités. Era of Chaos D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
 last_modified_at: 2021-03-02
 locale: fr
@@ -9,7 +9,7 @@ ref: "Gorgone"
 toc: true
 ---
 ## General information
- **Description:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
+ **Description:** D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais.
 
  **Classe:** [Défense](/units/Unit Class Defense/)
 
@@ -67,10 +67,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuir adamantin](/equipment/Cuir adamantin/) | **ATQ** | **DEF** | 
-  | [Armure dorsale barbare](/equipment/Armure dorsale barbare/) | **PV** | **DEF** | 
-  | [Corne de bœuf mortelle](/equipment/Corne de bœuf mortelle/) | **ATQ** | **DEF** | 
-  | [Sabot de bœuf magique](/equipment/Sabot de bœuf magique/) | **PV** | **DEF** | 
+  | [Cuir adamantin](/equipment/Cuir adamantin/) | **ATQ** | **DÉF** | 
+  | [Armure dorsale barbare](/equipment/Armure dorsale barbare/) | **PV** | **DÉF** | 
+  | [Corne de bœuf mortelle](/equipment/Corne de bœuf mortelle/) | **ATQ** | **DÉF** | 
+  | [Sabot de bœuf magique](/equipment/Sabot de bœuf magique/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -99,7 +99,7 @@ toc: true
 * [Brûlure](/combination/Brûlure/) 
 * [Démotivation](/combination/Démotivation/) 
 * [Maladie](/combination/Maladie/) 
-* [Blind](/combination/Blind/) 
+* [Cécité](/combination/Cécité/) 
 * [Silence](/combination/Silence/) 
 * [Étourdissement](/combination/Étourdissement/) 
 
@@ -122,12 +122,12 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de la Gorgone est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### Compétence normale 3 : Malédiction sauvage
- **Description:** <span style="color: #645252;font-size:20px">Decreases Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">% of hostile units around Gorgon.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Diminue les coups critiques des ennemis proches de la Gorgone de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Rise of Vitality
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
   <script language="JavaScript">

@@ -33,7 +33,7 @@ toc: true
 
  **Unit extra description:** L'Ange peut ressusciter les unités vaincues.
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+ **Recommend:** Augmentez votre moral pour profiter des avantages de l'exaltation, dont des points de déplacement supplémentaires pour les unités concernées.
 
 ## Stats de base
  **Base HP: 5431.0**
@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Épée de l'Empire](/equipment/Épée de l'Empire/) | **ATQ** | **DEF** | 
-  | [Armure de combat légère](/equipment/Armure de combat légère/) | **PV** | **DEF** | 
-  | [Gantelets légers](/equipment/Gantelets légers/) | **ATQ** | **DEF** | 
-  | [Épaulières de légèreté](/equipment/Épaulières de légèreté/) | **PV** | **DEF** | 
+  | [Épée de l'Empire](/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
+  | [Armure de combat légère](/equipment/Armure de combat légère/) | **PV** | **DÉF** | 
+  | [Gantelets légers](/equipment/Gantelets légers/) | **ATQ** | **DÉF** | 
+  | [Épaulières de légèreté](/equipment/Épaulières de légèreté/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -104,10 +104,10 @@ toc: true
   <p id="log"></p>
   </form>
 ### Capacité ultime: Condamnation
- **Description:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les Anges infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies au hasard et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Résurrection
- **Description:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Ange ressuscite une de vos unités et lui rend </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV.</span><span style="color: black">
 
 ### Compétence normale 2 : Radiance
  **Description:** <span style="color: #645252;font-size:20px">Lorsque les Anges sont sur le champ de bataille, toutes les unités alliées récupèrent des PV toutes les 2 secondes à hauteur de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max.</span><span style="color: black">
@@ -182,7 +182,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes d'Archange dans les niveaux 15-2 et 15-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Angel and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Ange et remportez </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 

@@ -1,11 +1,11 @@
 ---
-title: "Genie"
+title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Genie"
+ref: "Djinn"
 toc: true
 ---
 ## General information
@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lampe en or mystique](/equipment/Lampe en or mystique/) | **ATQ** | **DEF** | 
-  | [Bibelot mystérieux en cristal](/equipment/Bibelot mystérieux en cristal/) | **PV** | **DEF** | 
-  | [Bracelet en cuivre rouge](/equipment/Bracelet en cuivre rouge/) | **ATQ** | **DEF** | 
-  | [Armure enchantée](/equipment/Armure enchantée/) | **PV** | **DEF** | 
+  | [Lampe en or mystique](/equipment/Lampe en or mystique/) | **ATQ** | **DÉF** | 
+  | [Bibelot mystérieux en cristal](/equipment/Bibelot mystérieux en cristal/) | **PV** | **DÉF** | 
+  | [Bracelet en cuivre rouge](/equipment/Bracelet en cuivre rouge/) | **ATQ** | **DÉF** | 
+  | [Armure enchantée](/equipment/Armure enchantée/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -103,7 +103,7 @@ toc: true
 ### Capacité ultime: Don magique
  **Description:** <span style="color: #645252;font-size:20px">Quand l'attaque de la Djinn se change en soin, elle rend une quantité de PV égale à 80 % de l'ATQ de la Djinn à l'unité alliée qui possède le pourcentage de PV le moins élevé. Les soins de la Djinn augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Compétence normale 1 : Three Wishes
+### Compétence normale 1 : Trois vœux
  **Description:** <span style="color: #645252;font-size:20px">Quand une Djinn se trouve sur le champ de bataille, elle bénit 3 unités alliées aléatoires et leur octroient l'un des effets suivants : </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de résistance aux dégâts, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts ou </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de vitesse d'ATQ.</span><span style="color: black">
 
 ### Compétence normale 2 : Mèche magique
@@ -157,7 +157,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
 
 ### Bonus de héros

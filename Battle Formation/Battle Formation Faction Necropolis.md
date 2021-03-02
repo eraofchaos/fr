@@ -2,7 +2,7 @@
 title: "Formation de combat Nécropole"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "Formation de combat Nécropole"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "BattleFormationFactionNecropolis"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **Necropolis units will receive an increase of 5% unit damage when against units in Low Morale** |
+  | **2** | **Les dégâts des unités de la Nécropole augmentent de 5 % contre les unités victimes de Démotivation.** |
   | **3** | **Augmente les PV de toutes les unités de la Nécropole de 8 %.** |
   | **4** | **Augmente la DÉF de toutes les unités de la Nécropole de 8 %.** |
   | **5** | **Les dégâts critiques de toutes les unités de la Nécropole alliées augmentent de 12 % pendant 6 secondes quand un Héros allié lance un sort de terre.** |

@@ -65,12 +65,18 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corne du feu écarlate](/equipment/Corne du feu écarlate/) | **ATQ** | **DEF** | 
-  | [Ailes antiques](/equipment/Ailes antiques/) | **PV** | **DEF** | 
-  | [Griffes brûlantes](/equipment/Griffes brûlantes/) | **ATQ** | **DEF** | 
-  | [Queue de dragon fougueux](/equipment/Queue de dragon fougueux/) | **PV** | **DEF** | 
+  | [Corne du feu écarlate](/equipment/Corne du feu écarlate/) | **ATQ** | **DÉF** | 
+  | [Ailes antiques](/equipment/Ailes antiques/) | **PV** | **DÉF** | 
+  | [Griffes brûlantes](/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
+  | [Queue de dragon fougueux](/equipment/Queue de dragon fougueux/) | **PV** | **DÉF** | 
 
 ## Exclusif
+
+ **Name:** [Annihilation](/Exclusive/Red Dragon Annihilation/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
 
 
 ## Emblèmes sacrés recommandés
@@ -158,7 +164,7 @@ toc: true
 ### Bonus de héros
 * [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -188,7 +194,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Écailles magnétiques
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunité à la magie&gt; : </span><span style="color: #645252;font-size:18px">À chaque fois que &lt;Souffle du Dragon&gt; est lancé, le Dragon noir gagne un point de bonus. Ce bonus peut se cumuler jusqu'à 6 fois et ne peut pas être dissipé.</span>
 
 ### 2nd Skill (or 1st): Armure de dragon fondue
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunité à la magie&gt; : </span><span style="color: #645252;font-size:18px">À chaque fois que &lt;Souffle du Dragon&gt; est lancé, le Dragon noir gagne 2 points de bonus. Ce bonus peut se cumuler jusqu'à 4 fois et ne peut pas être dissipé.</span>

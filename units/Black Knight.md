@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Inflige de lourds dégâts. Décapitation améliorée.
 
- **Position :** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
+ **Position :** La meilleure unité d'assaut. Inflige des dégâts directs élevés et se renforce au combat.
 
  **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
 
@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Épée maudite](/equipment/Épée maudite/) | **ATQ** | **DEF** | 
-  | [Visière des morts](/equipment/Visière des morts/) | **PV** | **DEF** | 
-  | [Bracelet des cauchemars](/equipment/Bracelet des cauchemars/) | **ATQ** | **DEF** | 
-  | [Épaulières des cauchemars](/equipment/Épaulières des cauchemars/) | **PV** | **DEF** | 
+  | [Épée maudite](/equipment/Épée maudite/) | **ATQ** | **DÉF** | 
+  | [Visière des morts](/equipment/Visière des morts/) | **PV** | **DÉF** | 
+  | [Bracelet des cauchemars](/equipment/Bracelet des cauchemars/) | **ATQ** | **DÉF** | 
+  | [Épaulières des cauchemars](/equipment/Épaulières des cauchemars/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -106,7 +106,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Le Chevalier noir inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> point de dégâts à sa cible, ainsi que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Charge mortelle
- **Description:** <span style="color: #645252;font-size:20px">If the target is downed, the Black Knight's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit value is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. It works throughout the battle, up to 5 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Si sa cible meurt, l'ATQ du Chevalier noir augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet perdure pendant tout le combat et peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### Compétence normale 2 : Capacités de Chevalier
  **Description:** <span style="color: #645252;font-size:20px">Les PV de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance aux dégâts de </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -189,7 +189,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Chevalier de l'Effroi dans les niveaux 15-2 et 15-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Black Knights to win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battles.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Chevaliers noirs et remportez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
 
 ## Awaken Skills
 

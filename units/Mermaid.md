@@ -1,11 +1,11 @@
 ---
-title: "Mermaid"
+title: "Sirène"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Mermaid"
+ref: "Sirène"
 toc: true
 ---
 ## General information
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orgue aquatique](/equipment/Orgue aquatique/) | **ATQ** | **DEF** | 
-  | [Boucles d'oreille de sirène](/equipment/Boucles d'oreille de sirène/) | **PV** | **DEF** | 
-  | [Queue de poisson flexible](/equipment/Queue de poisson flexible/) | **ATQ** | **DEF** | 
-  | [Protection de l'océan](/equipment/Protection de l'océan/) | **PV** | **DEF** | 
+  | [Orgue aquatique](/equipment/Orgue aquatique/) | **ATQ** | **DÉF** | 
+  | [Boucles d'oreille de sirène](/equipment/Boucles d'oreille de sirène/) | **PV** | **DÉF** | 
+  | [Queue de poisson flexible](/equipment/Queue de poisson flexible/) | **ATQ** | **DÉF** | 
+  | [Protection de l'océan](/equipment/Protection de l'océan/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Night Tides](/Exclusive/Mermaid Night Tides/) 
+ **Name:** [Marées nocturnes](/Exclusive/Mermaid Night Tides/) 
 
  **Item to Rang supérieur:** -
 
@@ -111,7 +111,7 @@ toc: true
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

@@ -72,10 +72,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Branche de vitalité](/equipment/Branche de vitalité/) | **ATQ** | **DEF** | 
-  | [Couronne lourde](/equipment/Couronne lourde/) | **PV** | **DEF** | 
-  | [Rune impérissable](/equipment/Rune impérissable/) | **ATQ** | **DEF** | 
-  | [Armure de liane](/equipment/Armure de liane/) | **PV** | **DEF** | 
+  | [Branche de vitalité](/equipment/Branche de vitalité/) | **ATQ** | **DÉF** | 
+  | [Couronne lourde](/equipment/Couronne lourde/) | **PV** | **DÉF** | 
+  | [Rune impérissable](/equipment/Rune impérissable/) | **ATQ** | **DÉF** | 
+  | [Armure de liane](/equipment/Armure de liane/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -107,11 +107,11 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Capacité ultime: Bind
+### Capacité ultime: Engourdissement
  **Description:** <span style="color: #645252;font-size:20px">Le Garde sylvanien </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies dans une large zone autour de lui et réduit leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Roulade écrasante
- **Description:** <span style="color: #645252;font-size:20px">The Dendroid Guard's normal attack has a great chance to create a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself to absorb damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Garde sylvanien a une chance de créer un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bouclier&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> qui lui permettra d'absorber une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max.</span><span style="color: black">
 
 ### Compétence normale 2 : Armure du chêne sacré
  **Description:** <span style="color: #645252;font-size:20px">Le Garde sylvanien est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">

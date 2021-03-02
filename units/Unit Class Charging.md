@@ -17,7 +17,7 @@ classes: wide
   | 3 | [Dompteur de requins](/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Chevaucheur de requins  |
   | 4 | [Harpie](/units/Harpy/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
   | 5 | [Griffon](/units/Griffin/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
-  | 6 | [Cavalier](/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 6 | [Cavalier](/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Chevaliers légendaires  |
   | 7 | [Manticore](/units/Manticore/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Scorpicore  |
   | 8 | [Fée](/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 9 | [Licorne](/units/Unicorn/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Licorne de guerre  |

@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centaure](/units/Centaur/) | [Bouclier iris](/Exclusive/Centaur Iris Shield/) | + | Assaut | - | - |
+  | 1  | [Centaure](/units/Centaur/) | [Bouclier iris](/Exclusive/Centaur Iris Shield/) | - | Assaut | - | - |
   | 2  | [Nain](/units/Dwarf/) | [Bouclier iris](/Exclusive/Dwarf Iris Shield/) | - | Assaut | - | - |
-  | 3  | [Elfe sylvaine](/units/Wood Elf/) | [Arc long](/Exclusive/Wood Elf Long Bow/) | + | Assaut | - | - |
+  | 3  | [Elfe sylvaine](/units/Wood Elf/) | [Arc long](/Exclusive/Wood Elf Long Bow/) | - | Assaut | - | - |
   | 4  | [Pégase](/units/Pegasus/) | [Arc long](/Exclusive/Pegasus Long Bow/) | + | Assaut | - | - |
   | 5  | [Garde sylvanien](/units/Dendroid Guard/) | [Bouclier iris](/Exclusive/Dendroid Guard Iris Shield/) | - | Assaut | - | - |
-  | 6  | [Licorne](/units/Unicorn/) | [Charge gracieuse](/Exclusive/Unicorn Knight Pike/) | - | Assaut | - | - |
-  | 7  | [Dragon vert](/units/Green Dragon/) | [Aile de dragon resplendissante](/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Soutien | - | - |
-  | 8  | [Druidesse](/units/Druid/) | [Bâton de renouveau](/Exclusive/Druid Staff of Regrowth/) | + | À distance | - | - |
+  | 6  | [Licorne](/units/Unicorn/) | [Pic du Chevalier](/Exclusive/Unicorn Knight Pike/) | - | Assaut | - | - |
+  | 7  | [Dragon vert](/units/Green Dragon/) | [Aile de dragon resplendissante](/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Soutien | - | - |
+  | 8  | [Druidesse](/units/Druid/) | [Bâton de renouveau](/Exclusive/Druid Staff of Regrowth/) | - | À distance | - | - |
   | 9  | [Mante religieuse](/units/Mantis/) | - | - | - | none | none |

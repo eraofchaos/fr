@@ -17,7 +17,7 @@ toc: true
 
  **Faction :** [Bastion](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Barbare
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Rocher](/equipment/Rocher/) | **ATQ** | **DEF** | 
-  | [Chaînes de gladiateur](/equipment/Chaînes de gladiateur/) | **PV** | **DEF** | 
-  | [Bracelets à pointes](/equipment/Bracelets à pointes/) | **ATQ** | **DEF** | 
-  | [Leather Trousers](/equipment/Leather Trousers/) | **PV** | **DEF** | 
+  | [Rocher](/equipment/Rocher/) | **ATQ** | **DÉF** | 
+  | [Chaînes de gladiateur](/equipment/Chaînes de gladiateur/) | **PV** | **DÉF** | 
+  | [Bracelets à pointes](/equipment/Bracelets à pointes/) | **ATQ** | **DÉF** | 
+  | [Pantalon en cuir](/equipment/Pantalon en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

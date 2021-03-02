@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Renvoie les sorts. Bonus de domaine.
 
- **Position :** 
+ **Position :** Renvoie les sorts. Bonus de domaine.
 
 ## Stats de base
  **Base HP: 5770.0**
@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **PV** | **DEF** | 
+  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -166,7 +166,7 @@ toc: true
 ### Bonus de héros
 * [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -1,9 +1,9 @@
 ---
-title: "Dragon Mutare"
+title: "Mutare (dragon)"
 permalink: /heroes/Dragon Mutare/
-excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. En buvant la Fiole de sang de dragon, Mutare en est elle-même devenue un, tout en conservant sa conscience humaine. Certains affirment que sa transformation est annonciatrice de l'arrivée du Dragon patriarche."
+excerpt: "Era of Chaos Mutare (dragon). Mutare (dragon). En buvant la Fiole de sang de dragon, Mutare en est elle-même devenue un, tout en conservant sa conscience humaine. Certains affirment que sa transformation est annonciatrice de l'arrivée du Dragon patriarche."
 heroID: 61302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Dragon Mutare"
 toc: true
@@ -69,6 +69,16 @@ toc: true
  **Skin features:** 
 
    - Elfe de Noël qui joue avec des flocons de neige
+   - Toute nouvelle image de bataille
+   - Avatar unique et effet de sort
+
+### Skin 4: **Seigneur du givre**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Le vent se lève et le blizzard hurle quand je le leur ordonne. Le gel est ma couronne, car je suis la seule conquérante des terres gelées !</span>
+
+ **Skin features:** 
+
+   - Seigneur du givre
    - Toute nouvelle image de bataille
    - Avatar unique et effet de sort
 

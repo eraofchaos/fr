@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Général invaincu sur le champ de bataille, Ciele fait partie des premiers Héros à avoir rejoint les rangs des Élémentaires. Elle s'est découvert une connexion avec eux à travers ses flèches magiques."
 heroID: 60705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Ciele"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Saint-Valentin chinoise
+   - Toute nouvelle image de bataille
+   - Avatar unique et effet de sort
+
+### Skin 3: **Messager de Noël**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Le magnifique messager de Noël arrive les bras chargés de cadeaux ! Les froides nuits d'hiver ne peuvent pas atténuer la joie de fêter Noël !</span>
+
+ **Skin features:** 
+
+   - Messager de Noël qui a les bras chargés de cadeaux
    - Toute nouvelle image de bataille
    - Avatar unique et effet de sort
 

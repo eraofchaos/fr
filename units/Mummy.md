@@ -67,10 +67,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Toucher immortel](/equipment/Toucher immortel/) | **ATQ** | **DEF** | 
-  | [Bandage antique](/equipment/Bandage antique/) | **PV** | **DEF** | 
-  | [Pupille du défunt](/equipment/Pupille du défunt/) | **ATQ** | **DEF** | 
-  | [Souffle de la mort](/equipment/Souffle de la mort/) | **PV** | **DEF** | 
+  | [Toucher immortel](/equipment/Toucher immortel/) | **ATQ** | **DÉF** | 
+  | [Bandage antique](/equipment/Bandage antique/) | **PV** | **DÉF** | 
+  | [Pupille du défunt](/equipment/Pupille du défunt/) | **ATQ** | **DÉF** | 
+  | [Souffle de la mort](/equipment/Souffle de la mort/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -189,15 +189,15 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Putréfaction maudite
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Malédiction putride&gt; : </span><span style="color: #645252;font-size:18px">Peut être déclenchée une fois toutes les 18 secondes. Les dégâts infligés augmentent à 150 % de sa valeur précédente. "Maladie" réduit de 10 % supplémentaires la résistance aux dégâts de l'ennemi. Cet effet supplémentaire double si la cible appartient au Rempart. La portée de &lt;Malédiction Putride&gt; augmente considérablement.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Malédiction putride&gt; : </span><span style="color: #645252;font-size:18px">Peut être déclenchée une fois toutes les 18 secondes. Les dégâts infligés augmentent à 150 % de sa valeur précédente. \"Maladie\" réduit de 10 % supplémentaires la résistance aux dégâts de l'ennemi. Cet effet supplémentaire double si la cible appartient au Rempart. La portée de &lt;Malédiction Putride&gt; augmente considérablement.</span>
 
 ### 2nd Skill (or 1st): Volonté de la mort
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Malédiction putride&gt; : </span><span style="color: #645252;font-size:18px">Peut être déclenchée une fois toutes les 18 secondes. Les dégâts infligés augmentent à 150 % de sa valeur précédente. "Maladie" réduit de 10 % supplémentaires la résistance aux dégâts de l'ennemi. L'effet de "Maladie" ne peut pas être dissipé. La portée de &lt;Malédiction Putride&gt; augmente considérablement.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Malédiction putride&gt; : </span><span style="color: #645252;font-size:18px">Peut être déclenchée une fois toutes les 18 secondes. Les dégâts infligés augmentent à 150 % de sa valeur précédente. \"Maladie\" réduit de 10 % supplémentaires la résistance aux dégâts de l'ennemi. L'effet de \"Maladie\" ne peut pas être dissipé. La portée de &lt;Malédiction Putride&gt; augmente considérablement.</span>
 
 ### 3rd Skill (or 4th): Croisé en armure
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Linceul&gt; : </span><span style="color: #645252;font-size:18px">La résistance aux dégâts de la Momie augmente de 20 %. La durée du bonus de &lt;Linceul&gt; augmente de 5 secondes. La résistance aux dégâts des alliés à portée augmente de 20 %, et leurs PV sont restaurés à hauteur de 5 % de leurs PV max.</span>
 
-### 4th Skill (or 3rd): The Hardened Shroud
+### 4th Skill (or 3rd): Linceul renforcé
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Linceul&gt; : </span><span style="color: #645252;font-size:18px">La résistance aux dégâts de la Momie augmente de 20%. La durée du bonus de &lt;Linceul&gt; augmente de 5 secondes. La résistance aux dégâts de l'unité augmente de 20 % supplémentaires pour chaque unité de la Nécropole, et leurs PV sont restaurés à hauteur de 5 % de leurs PV max.</span>
 
 ### 5th Skill (or 6th): Mutation de la maladie

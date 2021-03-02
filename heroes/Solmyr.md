@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr est resté piégé dans une lampe de génie pendant plus d'un millénaire. Infiniment reconnaissant envers celui qui l'a libéré, Gavin Magnus le souverain immortel des Hautes Terres de Bracada, il lui a juré son éternelle allégeance."
 heroID: 61201
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Solmyr"
 toc: true

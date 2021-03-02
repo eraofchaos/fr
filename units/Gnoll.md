@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machette de loup-garou](/equipment/Machette de loup-garou/) | **ATQ** | **DEF** | 
-  | [Bouclier carré de loup-garou](/equipment/Bouclier carré de loup-garou/) | **PV** | **DEF** | 
-  | [Chaînes de loup-garou](/equipment/Chaînes de loup-garou/) | **ATQ** | **DEF** | 
-  | [Gantelets de loup-garou](/equipment/Gantelets de loup-garou/) | **PV** | **DEF** | 
+  | [Machette de loup-garou](/equipment/Machette de loup-garou/) | **ATQ** | **DÉF** | 
+  | [Bouclier carré de loup-garou](/equipment/Bouclier carré de loup-garou/) | **PV** | **DÉF** | 
+  | [Chaînes de loup-garou](/equipment/Chaînes de loup-garou/) | **ATQ** | **DÉF** | 
+  | [Gantelets de loup-garou](/equipment/Gantelets de loup-garou/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -116,7 +116,7 @@ toc: true
 ### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Rise of Vitality
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -171,40 +171,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Guerrier Gnoll
 
- **Awaking Description:** null
+ **Awaking Description:** Ces bêtes d'une pâleur cadavérique sous le clair de lune sont de vaillants guerriers des marais. Ce sont les meilleurs soldats des Gnolls, dont le devoir est de libérer le peuple de la Forteresse.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Déployez un Gnoll et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités de la Forteresse pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #876741;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #876741;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monstres lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Guerrier Gnoll dans les niveaux 14-2 et 14-4 du souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. <span style="color: #876741;font-size:18px">Déployez un Gnoll et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités de la Forteresse pour remporter 3 batailles dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Coup enchaîné
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup enchaîné&gt; :</span><span style="color: #645252;font-size:18px"> Inflige des dégâts supplémentaires équivalents à 400 % de sa propre ATQ à l'unité cible.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Martelage enchaîné
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup enchaîné&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la durée de l'effet d'Étourdissement de la compétence de 5 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Appel de la nature
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sauvagerie primitive&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la pénétration de 100. Cet effet est doublé contre les ennemis victimes d'Étourdissement.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Appel de la bestialité
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sauvagerie primitive&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les dégâts des coups critiques de 15 %. Cet effet est doublé contre les ennemis victimes de Peste.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Mort garantie
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Exécution&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les coups critiques de 250 face à des unités qui ont moins de 60 % de leurs PV.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Fracture
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Exécution&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les dégâts d'unité de 20 % face à des unités qui ont moins de 60 % de leurs PV.</span>
 
 ## Technical info
  **runart:** 1

@@ -1,7 +1,7 @@
 ---
 title: "Ogre"
 permalink: /units/Ogre/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
+excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
 last_modified_at: 2021-03-02
 locale: fr
@@ -9,7 +9,7 @@ ref: "Ogre"
 toc: true
 ---
 ## General information
- **Description:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
+ **Description:** Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat.
 
  **Classe:** [Défense](/units/Unit Class Defense/)
 
@@ -17,7 +17,7 @@ toc: true
 
  **Faction :** [Bastion](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Barbare
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bâton bélier](/equipment/Bâton bélier/) | **ATQ** | **DEF** | 
-  | [Ceinture du rituel](/equipment/Ceinture du rituel/) | **PV** | **DEF** | 
-  | [Talisman tribal](/equipment/Talisman tribal/) | **ATQ** | **DEF** | 
-  | [Épaulières du rituel](/equipment/Épaulières du rituel/) | **PV** | **DEF** | 
+  | [Bâton bélier](/equipment/Bâton bélier/) | **ATQ** | **DÉF** | 
+  | [Ceinture du rituel](/equipment/Ceinture du rituel/) | **PV** | **DÉF** | 
+  | [Talisman tribal](/equipment/Talisman tribal/) | **ATQ** | **DÉF** | 
+  | [Épaulières du rituel](/equipment/Épaulières du rituel/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -202,13 +202,13 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'Ogre de 20 %. L'effet double quand l'unité est déchaînée.</span>
 
 ### 4th Skill (or 3rd): Chant de guerre exaltant
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in &lt;Rampage&gt; state</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'Ogre de 20 %. Augmente l'ATQ à hauteur de 200 % de l'ATQ de la compétence précédente quand l'unité est déchaînée.</span>
 
 ### 5th Skill (or 6th): Afflux ancestral
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Détox&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente.</span>
 
 ### 6th Skill (or 5th): Protection du patriarche
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Détox&gt; : </span><span style="color: #645252;font-size:18px">L'effet est maintenu même après la mort de l'Ogre.</span>
 
 ## Technical info
  **runart:** 1

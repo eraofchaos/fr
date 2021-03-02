@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache sauvage](/equipment/Hache sauvage/) | **ATQ** | **DEF** | 
-  | [Heaume sauvage](/equipment/Heaume sauvage/) | **PV** | **DEF** | 
-  | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATQ** | **DEF** | 
-  | [Épaulières sauvages](/equipment/Épaulières sauvages/) | **PV** | **DEF** | 
+  | [Hache sauvage](/equipment/Hache sauvage/) | **ATQ** | **DÉF** | 
+  | [Heaume sauvage](/equipment/Heaume sauvage/) | **PV** | **DÉF** | 
+  | [Gantelets sauvages](/equipment/Gantelets sauvages/) | **ATQ** | **DÉF** | 
+  | [Épaulières sauvages](/equipment/Épaulières sauvages/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -112,7 +112,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Centaure augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 2 : Férocité
- **Description:** <span style="color: #645252;font-size:20px">Centaur's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attaque supplémentaire du Centaure est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Son attaque normale applique un effet de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sur la cible pendant 6 secondes.</span><span style="color: black">
 
 ### Compétence normale 3 : Meneur courageux
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Centaure augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Octroie 2 % de résistance aux dégâts supplémentaires pour chaque unité défensive alliée présente sur le champ de bataille.</span><span style="color: black">

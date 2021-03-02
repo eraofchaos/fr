@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Œil du blasphème](/equipment/Œil du blasphème/) | **ATQ** | **DEF** | 
-  | [Pupille de la mort](/equipment/Pupille de la mort/) | **PV** | **DEF** | 
-  | [Défense démoniaque](/equipment/Défense démoniaque/) | **ATQ** | **DEF** | 
-  | [Tentacules de l'abîme](/equipment/Tentacules de l'abîme/) | **PV** | **DEF** | 
+  | [Œil du blasphème](/equipment/Œil du blasphème/) | **ATQ** | **DÉF** | 
+  | [Pupille de la mort](/equipment/Pupille de la mort/) | **PV** | **DÉF** | 
+  | [Défense démoniaque](/equipment/Défense démoniaque/) | **ATQ** | **DÉF** | 
+  | [Tentacules de l'abîme](/equipment/Tentacules de l'abîme/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -104,14 +104,14 @@ toc: true
 ### Capacité ultime: Contrôle mental
  **Description:** <span style="color: #645252;font-size:20px">L'Œil maléfique contrôle une unité ennemie aléatoire. La cible subit une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max par seconde pendant 8 secondes. Lorsqu'elle est contrôlée, l'unité ciblée est dans l'incapacité d'attaquer, de bouger ou d'utiliser des compétences.</span><span style="color: black">
 
-### Compétence normale 1 : Spell Penetration
+### Compétence normale 1 : Pénétration de sort
  **Description:** <span style="color: #645252;font-size:20px">Quand un Œil maléfique arrive sur le champ de bataille, il ouvre ses 4 yeux de la mort. Chaque œil octroie </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts. Quand il tue une cible, il ferme un œil. Il n'en ferme jamais plus de 3 à la fois.</span><span style="color: black">
 
 ### Compétence normale 2 : Fragilité
  **Description:** <span style="color: #645252;font-size:20px">Quand un Œil maléfique est sur le champ de bataille, la quantité initiale de mana des Héros ennemis est réduite de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand une unité ennemie meurt, la quantité de mana des Héros ennemis est réduite de 10 points supplémentaires.</span><span style="color: black">
 
 ### Compétence normale 3 : Amas d'énergie
- **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Au début du combat, l'Œil maléfique augmente </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> les PV de toutes vos unités dans une large zone. L'effet dure pendant toute la bataille.</span><span style="color: black">
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
@@ -151,7 +151,7 @@ toc: true
 ### Bonus de héros
 * [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

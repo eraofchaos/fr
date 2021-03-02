@@ -72,10 +72,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bec du tonnerre](/equipment/Bec du tonnerre/) | **ATQ** | **DEF** | 
-  | [Ailes foudroyantes](/equipment/Ailes foudroyantes/) | **PV** | **DEF** | 
-  | [Griffes éclairs](/equipment/Griffes éclairs/) | **ATQ** | **DEF** | 
-  | [Lightning's armor](/equipment/Lightning's armor/) | **PV** | **DEF** | 
+  | [Bec du tonnerre](/equipment/Bec du tonnerre/) | **ATQ** | **DÉF** | 
+  | [Ailes foudroyantes](/equipment/Ailes foudroyantes/) | **PV** | **DÉF** | 
+  | [Griffes éclairs](/equipment/Griffes éclairs/) | **ATQ** | **DÉF** | 
+  | [Armure foudroyante](/equipment/Armure foudroyante/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

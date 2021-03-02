@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lance en os de l'éventreur](/equipment/Lance en os de l'éventreur/) | **ATQ** | **DEF** | 
-  | [Crâne de l'hôte](/equipment/Crâne de l'hôte/) | **PV** | **DEF** | 
-  | [Poignard brise-os](/equipment/Poignard brise-os/) | **ATQ** | **DEF** | 
-  | [Sang fortement acide](/equipment/Sang fortement acide/) | **PV** | **DEF** | 
+  | [Lance en os de l'éventreur](/equipment/Lance en os de l'éventreur/) | **ATQ** | **DÉF** | 
+  | [Crâne de l'hôte](/equipment/Crâne de l'hôte/) | **PV** | **DÉF** | 
+  | [Poignard brise-os](/equipment/Poignard brise-os/) | **ATQ** | **DÉF** | 
+  | [Sang fortement acide](/equipment/Sang fortement acide/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -110,7 +110,7 @@ toc: true
 ### Compétence normale 1 : Passion
  **Description:** <span style="color: #645252;font-size:20px">Augmente l'ATQ du Troglodyte de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Compétence normale 2 : Spell Breaker's Smell
+### Compétence normale 2 : Odeur du briseur de sort
  **Description:** <span style="color: #645252;font-size:20px">Augmente la résistance magique du Troglodyte et la résistance aux dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant les 10 prochaines secondes. L'effet double chaque fois qu'un Héros ennemi lance un sort.</span><span style="color: black">
 
 ### Compétence normale 3 : Lance empoisonnée
@@ -156,7 +156,7 @@ toc: true
 ### Bonus de héros
 * [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -179,20 +179,20 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monstres lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Troglodyte dans les niveaux 14-2 et 14-4 du souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Troglodyte des ténèbres dans les niveaux 14-2 et 14-4 du souterrain.</span>
 
  4. <span style="color: #876741;font-size:18px">Déployez un Troglodyte et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Donjon pour remporter 3 batailles dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Ferocious Assassination
+### 1st Skill (or 2nd): Assassinat sauvage
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les dégâts de 50 % et la vitesse d'attaque de 30 % pendant 5 secondes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances percutante
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; :</span><span style="color: #645252;font-size:18px"> Augmente l'effet d'Étourdissement de 50 % et la DÉF de 30 % pendant 5 secondes.</span>
 
 ### 3rd Skill (or 4th): Toucher sensoriel
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Keen&gt;</span><span style="color: #645252;font-size:18px"> Reduces the duration of Slow by 1s for Troglodyte. When slowed, deals damage equal to 500% of own ATK to the target unit and increases own DEF by 15% for 7s. CD is 15s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Passion&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la durée de Lenteur de 1 seconde pour le Troglodyte. En cas de Lenteur, il inflige des dégâts équivalents à 500 % de son ATQ à l'unité cible et sa DÉF augmente de 15 % pendant 7 secondes. Le temps de recharge est de 15 secondes.</span>
 
 ### 4th Skill (or 3rd): Toucher passionnel
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Passion&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la durée de Saignement de 1 seconde pour le Troglodyte. En cas de Saignement, il inflige des dégâts équivalents à 500 % de son ATQ à l'unité cible et sa vitesse d'attaque augmente de 15 % pendant 7 secondes. Le temps de recharge est de 15 secondes.</span>

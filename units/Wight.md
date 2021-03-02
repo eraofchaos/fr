@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Silence de masse. Évite les attaques. Régénère la magie.
 
- **Position :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+ **Position :** Inflige Silence à l'ennemi droit devant, ainsi qu'à tous les ennemis à sa mort.
 
  **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
 
@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes spectrales](/equipment/Griffes spectrales/) | **ATQ** | **DEF** | 
-  | [Armure légère du requiem](/equipment/Armure légère du requiem/) | **PV** | **DEF** | 
-  | [Âme maudite](/equipment/Âme maudite/) | **ATQ** | **DEF** | 
-  | [Robe du requiem](/equipment/Robe du requiem/) | **PV** | **DEF** | 
+  | [Griffes spectrales](/equipment/Griffes spectrales/) | **ATQ** | **DÉF** | 
+  | [Armure légère du requiem](/equipment/Armure légère du requiem/) | **PV** | **DÉF** | 
+  | [Âme maudite](/equipment/Âme maudite/) | **ATQ** | **DÉF** | 
+  | [Robe du requiem](/equipment/Robe du requiem/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -109,7 +109,7 @@ toc: true
 ### Compétence normale 1 : Horreur incarnée
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Revenante augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente l'ATQ de 8 % pour chaque unité alliée morte sur le champ de bataille. L'effet est actif pendant tout le combat et peut se cumuler jusqu'à 10 fois.</span><span style="color: black">
 
-### Compétence normale 2 : Misfortune Curse
+### Compétence normale 2 : Malchance
  **Description:** <span style="color: #645252;font-size:20px">Quand une Revenante est tuée, elle inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
 ### Compétence normale 3 : Invisibilité
@@ -182,7 +182,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Revenante dans les niveaux 15-2 et 15-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wight and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Revenante et remportez </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Maîtrise du cri
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Cri effroyable&gt; : </span><span style="color: #645252;font-size:18px">Augmente de 50 % la résistance magique et de 20 % les dégâts des unités de la Nécropole alliées placées sur la même ligne pendant 25 secondes.</span>
 
-### 5th Skill (or 6th): Quaky Soul
+### 5th Skill (or 6th): Âme tremblante
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Horreur incarnée&gt; : </span><span style="color: #645252;font-size:18px">Augmente la DÉF de la Revenante de 10 %. Lorsqu'un Héros allié lance un sort de terre, la Revenante regagne 5 points de mana par Héros et réduit la résistance magique aux sorts de terre ainsi que les dégâts de tous les ennemis de 4 % et 2 % respectivement. Cet effet peut se cumuler jusqu'à 20 fois, ne peut pas être dissipé et dure toute la bataille.</span>
 
 ### 6th Skill (or 5th): Scène atroce

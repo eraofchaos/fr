@@ -1,17 +1,17 @@
 ---
-title: "Exclusif - Charge gracieuse"
+title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Unicorn Knight Pike/
-excerpt: "Era of Chaos Charge gracieuse. Charge gracieuse. Era of Chaos Exclusif Charge gracieuse. Licorne Exclusif."
+excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Licorne Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Unicorn Charge gracieuse.md"
+ref: "Unicorn Pic du Chevalier.md"
 toc: false
 classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Charge gracieuse** 
+ **Name: Pic du Chevalier** 
 
  **Exclusif for Unit:** [Licorne](/units/Unicorn/) 
 

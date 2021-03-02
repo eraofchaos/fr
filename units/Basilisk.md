@@ -67,10 +67,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Basilisk's Neck Umbrella](/equipment/Basilisk's Neck Umbrella/) | **ATQ** | **DEF** | 
-  | [Écaille adamantine](/equipment/Écaille adamantine/) | **PV** | **DEF** | 
-  | [Griffe empoisonnée](/equipment/Griffe empoisonnée/) | **ATQ** | **DEF** | 
-  | [Croc de pétrification](/equipment/Croc de pétrification/) | **PV** | **DEF** | 
+  | [Aile de Basilic](/equipment/Aile de Basilic/) | **ATQ** | **DÉF** | 
+  | [Écaille adamantine](/equipment/Écaille adamantine/) | **PV** | **DÉF** | 
+  | [Griffe empoisonnée](/equipment/Griffe empoisonnée/) | **ATQ** | **DÉF** | 
+  | [Croc de pétrification](/equipment/Croc de pétrification/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -107,7 +107,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Augmente la DÉF du Basilic de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 2 : Symbiose de la peste
- **Description:** <span style="color: #645252;font-size:20px">Basilisk's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Basilisk's unit's damage reduction will be increased by 5% further for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Basilic est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### Compétence normale 3 : Impact pétrifiant
  **Description:** <span style="color: #645252;font-size:20px">À sa mort, le Basilic <span style="color: #48b946;font-size:20px">&lt;pétrifie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis proches pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -115,7 +115,7 @@ toc: true
 ### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Rise of Vitality
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -183,7 +183,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -191,10 +191,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

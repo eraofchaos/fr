@@ -2,7 +2,7 @@
 title: "Emblème sacré - Mur du savoir"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Mur du savoir. Mur du savoir. Era of Chaos Emblème sacré Mur du savoir. Era of Chaos Bonté Mur du savoir"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Wall of Knowledge.md"
 toc: false

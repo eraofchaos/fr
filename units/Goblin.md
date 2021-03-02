@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Gourdin à pointes](/equipment/Gourdin à pointes/) | **ATQ** | **DEF** | 
-  | [Ceinture de cuir](/equipment/Ceinture de cuir/) | **PV** | **DEF** | 
-  | [Collier d'os](/equipment/Collier d'os/) | **ATQ** | **DEF** | 
-  | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **PV** | **DEF** | 
+  | [Gourdin à pointes](/equipment/Gourdin à pointes/) | **ATQ** | **DÉF** | 
+  | [Ceinture de cuir](/equipment/Ceinture de cuir/) | **PV** | **DÉF** | 
+  | [Collier d'os](/equipment/Collier d'os/) | **ATQ** | **DÉF** | 
+  | [Épaulières en cuir](/equipment/Épaulières en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -109,7 +109,7 @@ toc: true
 ### Compétence normale 1 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques du Gobelin augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
-### Compétence normale 2 : Execution
+### Compétence normale 2 : Exécution
  **Description:** <span style="color: #645252;font-size:20px">Quand un Gobelin combat une unité qui a moins de 30 % de PV, son ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 3 : Furie sanguinaire
@@ -198,7 +198,7 @@ toc: true
 ### 3rd Skill (or 4th): Virtuosité
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Exécution&gt; : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ du Gobelin de 150 % supplémentaires quand il affronte des cibles ayant moins de 30 % de leurs PV.</span>
 
-### 4th Skill (or 3rd): Unarmed Counter
+### 4th Skill (or 3rd): Contre-attaque à mains nues
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Exécution&gt; : </span><span style="color: #645252;font-size:20px">Augmente les dégâts du Gobelin de 30 % quand il affronte une cible ayant moins de 30 % de PV.</span>
 
 ### 5th Skill (or 6th): Spécialité sanguine

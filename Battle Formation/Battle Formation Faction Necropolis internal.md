@@ -2,7 +2,7 @@
 title: "Formation de combat Nécropole"
 permalink: /Battle Formation/Battle Formation Faction Necropolis internal
 excerpt: "Formation de combat Nécropole"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "BattleFormationFactionNecropolis"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **Necropolis units will receive an increase of 5% unit damage when against units in Low Morale** |
+  | **2** | **Les dégâts des unités de la Nécropole augmentent de 5 % contre les unités victimes de Démotivation.** |
   | **3** | **Augmente les PV de toutes les unités de la Nécropole de 8 %.** |
   | **4** | **Augmente la DÉF de toutes les unités de la Nécropole de 8 %.** |
   | **5** | **Les dégâts critiques de toutes les unités de la Nécropole alliées augmentent de 12 % pendant 6 secondes quand un Héros allié lance un sort de terre.** |
@@ -33,8 +33,8 @@ classes: wide
   | **8** | **Les unités de la Nécropole reçoivent une augmentation de 5 % de dégâts d'unité contre les unités ennemies affectées de Démotivation** |
   | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Nécropole de 4 %.** |
   | **10** | **Augmente l'ATQ de toutes les unités de la Nécropole de 15 %.** |
-  | **11** | **Increases 17% HP for all Necropolis Units** |
-  | **12** | **Increases 50 Critical Hit for all friendly Necropolis Units for 6 seconds when a friendly hero casts an earth spell** |
+  | **11** | **Augmente les PV de toutes les unités de la Nécropole de 17 %.** |
+  | **12** | **Les coups critiques de toutes les unités de la Nécropole alliées augmentent de 50 pendant 6 secondes quand un Héros allié lance un sort de terre.** |
 
 ## Formation de combat Circle 1:
 

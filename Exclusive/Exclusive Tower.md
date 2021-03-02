@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Gremlin](/units/Gremlin/) | [Arc long](/Exclusive/Gremlin Long Bow/) | - | Assaut | - | - |
-  | 2  | [Stone Gargoyle](/units/Stone Gargoyle/) | [Épée](/Exclusive/Stone Gargoyle Sword/) | - | Assaut | - | - |
+  | 1  | [Lutin](/units/Gremlin/) | [Arc long](/Exclusive/Gremlin Long Bow/) | - | Assaut | - | - |
+  | 2  | [Gargouille](/units/Stone Gargoyle/) | [Épée](/Exclusive/Stone Gargoyle Sword/) | - | Assaut | - | - |
   | 3  | [Golem de fer](/units/Iron Golem/) | [Bouclier iris](/Exclusive/Iron Golem Iris Shield/) | - | Assaut | - | - |
   | 4  | [Archimage](/units/Arch Mage/) | [Mélopée des arcanes](/Exclusive/Arch Mage Arcane Chant/) | - | Assaut | - | - |
-  | 5  | [Genie](/units/Genie/) | [Lyre](/Exclusive/Genie Lyra/) | - | À distance | - | - |
-  | 6  | [Naga](/units/Naga/) | [Épée Naga](/Exclusive/Naga Naga Sword/) | - | Soutien | - | - |
+  | 5  | [Djinn](/units/Genie/) | [Lyre](/Exclusive/Genie Lyra/) | - | À distance | - | - |
+  | 6  | [Naga](/units/Naga/) | [Épée Naga](/Exclusive/Naga Naga Sword/) | + | Soutien | - | - |
   | 7  | [Géant](/units/Giant/) | [Mille tonnes](/Exclusive/Giant Thousand Ton/) | - | Soutien | - | - |
   | 8  | [Aéronef magique](/units/Magic Airship/) | [Étoile polaire](/Exclusive/Magic Airship Polaris/) | - | À distance | - | - |
   | 9  | [Golem dragon](/units/Dragon Golem/) | - | - | - | none | none |

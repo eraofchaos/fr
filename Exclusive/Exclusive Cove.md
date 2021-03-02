@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Pirates de Regna](/units/Regnan Pirates/) | [Épée](/Exclusive/Regnan Pirates Sword/) | - | Assaut | - | - |
-  | 2  | [Arbalétrière de Regna](/units/Regnan Archer/) | - | - | - | none | none |
+  | 1  | [Pirates de Regna](/units/Regnan Pirates/) | [Épée](/Exclusive/Regnan Pirates Sword/) | + | Assaut | - | - |
+  | 2  | [Arbalétrière de Regna](/units/Regnan Archer/) | [Miracle](/Exclusive/Regnan Archer Miracle/) | - | Soutien | - | - |
   | 3  | [Élémentaire de mer](/units/Sea Elemental/) | [Mélopée des arcanes](/Exclusive/Sea Elemental Arcane Chant/) | - | Assaut | - | - |
   | 4  | [Serpent de Regna](/units/Regnan Serpent/) | [Marées diurnes](/Exclusive/Regnan Serpent Day Tides/) | - | À distance | - | - |
-  | 5  | [Mermaid](/units/Mermaid/) | [Night Tides](/Exclusive/Mermaid Night Tides/) | - | À distance | - | - |
+  | 5  | [Sirène](/units/Mermaid/) | [Marées nocturnes](/Exclusive/Mermaid Night Tides/) | - | À distance | - | - |
   | 6  | [Tortue dragon](/units/Dragon Turtle/) | [Obéissance](/Exclusive/Dragon Turtle Obedience/) | - | Soutien | - | - |
   | 7  | [Oracle de Regna](/units/Regnan Seer/) | [](/Exclusive/Regnan Seer /) | - | Capitale | - | - |
-  | 8  | [Revyaratan](/units/Revyaratan/) | - | - | - | none | none |
-  | 9  | [Dompteur de requins](/units/Shark Trainer/) | - | - | - | none | none |
+  | 8  | [Revyaratan](/units/Revyaratan/) | [Marées obscures](/Exclusive/Revyaratan Gloom Tides/) | - | À distance | - | - |
+  | 9  | [Dompteur de requins](/units/Shark Trainer/) | [Brise-vagues](/Exclusive/Shark Trainer Break Waves/) | - | Soutien | - | - |

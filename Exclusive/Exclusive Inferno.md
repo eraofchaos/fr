@@ -19,8 +19,8 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Diablotin](/units/Imp/) | [Bouclier iris](/Exclusive/Imp Iris Shield/) | - | Assaut | - | - |
   | 2  | [Gog](/units/Gog/) | [Mélopée des arcanes](/Exclusive/Gog Arcane Chant/) | - | Assaut | - | - |
-  | 3  | [Chien de l'Enfer](/units/Hell Hound/) | [Charge gracieuse](/Exclusive/Hell Hound Knight Pike/) | - | Assaut | - | - |
-  | 4  | [Démon](/units/Demon/) | [Bouclier iris](/Exclusive/Demon Iris Shield/) | - | Assaut | - | - |
+  | 3  | [Chien de l'Enfer](/units/Hell Hound/) | [Pic du Chevalier](/Exclusive/Hell Hound Knight Pike/) | - | Assaut | - | - |
+  | 4  | [Démon](/units/Demon/) | [Bouclier iris](/Exclusive/Demon Iris Shield/) | + | Assaut | - | - |
   | 5  | [Servante des Abîmes](/units/Pit Fiend/) | [Épée](/Exclusive/Pit Fiend Sword/) | - | Assaut | - | - |
   | 6  | [Effrit](/units/Efreeti/) | [Mélopée des arcanes](/Exclusive/Efreeti Arcane Chant/) | - | Assaut | - | - |
   | 7  | [Diable](/units/Devil/) | [Faux du diable](/Exclusive/Devil Devil Scythe/) | - | Soutien | - | - |

@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Assaut
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Triggers a powerful counter when attacked, and deals 300% damage to enemies. CD is 8s |
+  |  Initial  | ? | Active une puissante contre-attaque en cas d'attaque, et inflige 300 % de dégâts aux ennemis. Le temps de recharge est de 8 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Lors d'une attaque, a 50 % de chance d'infliger <Scorbut> aux unités ennemies, ce qui leur fait perdre 1 % de PV par seconde et diminue leurs soins de 35 % pendant 3 secondes (effet non cumulable). |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ des Pirates de Regna de 20 % et leurs dégâts de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Régénère 30 % des PV après avoir mangé des oranges pour guérir du Scorbut quand la santé des Pirates de Regna est inférieure à 30 % pour la première fois. Immunise contre Étourdissement, Pétrification et Silence pendant 5 secondes si un Emblème sacré est équipé. |

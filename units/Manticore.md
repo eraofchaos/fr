@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffe de l'abîme](/equipment/Griffe de l'abîme/) | **ATQ** | **DEF** | 
-  | [Croc empoisonné mortel](/equipment/Croc empoisonné mortel/) | **PV** | **DEF** | 
-  | [Queue toxique](/equipment/Queue toxique/) | **ATQ** | **DEF** | 
-  | [Ailes de Manticore](/equipment/Ailes de Manticore/) | **PV** | **DEF** | 
+  | [Griffe de l'abîme](/equipment/Griffe de l'abîme/) | **ATQ** | **DÉF** | 
+  | [Croc empoisonné mortel](/equipment/Croc empoisonné mortel/) | **PV** | **DÉF** | 
+  | [Queue toxique](/equipment/Queue toxique/) | **ATQ** | **DÉF** | 
+  | [Ailes de Manticore](/equipment/Ailes de Manticore/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Queue de scorpion](/Exclusive/Manticore Scorpion tail/) 
+ **Name:** [Queue de scorpion](/Exclusive/Manticore Scorpion Tail/) 
 
  **Item to Rang supérieur:** -
 
@@ -103,7 +103,7 @@ toc: true
 ### Capacité ultime: Venin paralysant
  **Description:** <span style="color: #645252;font-size:20px">Les Manticores attaquent l'unité ciblée toutes les 20 secondes. Elles infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à leur cible, ainsi qu'aux ennemis dans une certaine zone autour d'elle, tout en diminuant leur DÉF de 30 % pendant 10 secondes.</span><span style="color: black">
 
-### Compétence normale 1 : Tactical Decision
+### Compétence normale 1 : Choix tactique
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de la Manticore a 25 % de chances de diminuer la résistance aux dégâts des unités de mêlée de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand elle affronte des unités à distance ou des Lanceurs de sorts, son attaque normale a 25 % de chances d'augmenter les coups critiques des unités alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. L'effet peut se cumuler jusqu'à 8 fois.</span><span style="color: black">
 
 ### Compétence normale 2 : null
@@ -150,7 +150,7 @@ toc: true
 ### Bonus de héros
 * [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -65,10 +65,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bâton de théocratie](/equipment/Bâton de théocratie/) | **ATQ** | **DEF** | 
-  | [Capuche céleste bénie](/equipment/Capuche céleste bénie/) | **PV** | **DEF** | 
-  | [Cape légère](/equipment/Cape légère/) | **ATQ** | **DEF** | 
-  | [Brassard divin](/equipment/Brassard divin/) | **PV** | **DEF** | 
+  | [Bâton de théocratie](/equipment/Bâton de théocratie/) | **ATQ** | **DÉF** | 
+  | [Capuche céleste bénie](/equipment/Capuche céleste bénie/) | **PV** | **DÉF** | 
+  | [Cape légère](/equipment/Cape légère/) | **ATQ** | **DÉF** | 
+  | [Brassard divin](/equipment/Brassard divin/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -98,7 +98,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Capacité ultime: Ray of Judgment
+### Capacité ultime: Rayon du jugement
  **Description:** <span style="color: #645252;font-size:20px">L'Adjudicatrice invoque deux Rayons du jugement toutes les 25 secondes. Quand les rayons apparaissent, ils <span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"> les ennemis à portée pendant 1 seconde, infligent une quantité de dégâts égale à <span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"> des PV max de l'unité, et diminuent les soins des ennemis de <span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"> pendant 8 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Bénédiction
@@ -195,7 +195,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt; : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Les trois premières invocations augmentent les dégâts et la résistance aux dégâts de vos unités de 10 % pendant 30 secondes. Le Paladin suprême invoque un Chef du sanctuaire la première fois qu'il apparaît sur le champ de bataille.</span>
 
 ### 3rd Skill (or 4th): Croyance et loyauté
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par "Exaltation".</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par \"Exaltation\".</span>
 
 ### 4th Skill (or 3rd): Foi inébranlable
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:20px">La résistance aux dégâts du Paladin augmente de 15 % supplémentaires.</span><span style="color: #645252;font-size:20px"> Cet effet double en cas d'</span><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;.</span><span style="color: #645252;font-size:20px"></span>
@@ -203,7 +203,7 @@ toc: true
 ### 5th Skill (or 6th): Persévérance
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts critiques de 50 % et la ténacité de 150 points. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
-### 6th Skill (or 5th): Agile Riposte
+### 6th Skill (or 5th): Riposte agile
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts de 15 % et la ténacité de 150 points pour toutes les unités à portée. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
 ## Technical info

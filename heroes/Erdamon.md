@@ -1,14 +1,14 @@
 ---
 title: "Erdamon"
 permalink: /heroes/Erdamon/
-excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war."
+excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, ancien Roi du magma, dormait depuis des siècles dans les montagnes à la frontière d'Eeofol. Il est maintenant sorti de son sommeil pour rejoindre les Élémentaires, très enthousiaste à l'idée de se battre pour débarrasser le monde des Kreegans."
 heroID: 60703
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Erdamon"
 toc: true
 ---
- **Description:** Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war.
+ **Description:** Erdamon, ancien Roi du magma, dormait depuis des siècles dans les montagnes à la frontière d'Eeofol. Il est maintenant sorti de son sommeil pour rejoindre les Élémentaires, très enthousiaste à l'idée de se battre pour débarrasser le monde des Kreegans.
 ## Details
  **Profession:** Marcheur
 

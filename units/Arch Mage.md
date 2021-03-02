@@ -31,7 +31,7 @@ toc: true
 
  **Position :** Utilise des capacités d'entrave sur les troupes ennemies de la ligne arrière, améliore les sorts de vos Héros et réduit la restauration de PM des Héros ennemis.
 
- **Recommend:** Deals extra damage to any slowed enemies.
+ **Recommend:** Inflige des dégâts supplémentaires aux ennemis ralentis.
 
 ## Stats de base
  **Base HP: 1324.0**
@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Grand bâton mystique](/equipment/Grand bâton mystique/) | **ATQ** | **DEF** | 
-  | [Couronne magique en cristal](/equipment/Couronne magique en cristal/) | **PV** | **DEF** | 
-  | [Orbe mystique de mana](/equipment/Orbe mystique de mana/) | **ATQ** | **DEF** | 
-  | [Manteau des mages](/equipment/Manteau des mages/) | **PV** | **DEF** | 
+  | [Grand bâton mystique](/equipment/Grand bâton mystique/) | **ATQ** | **DÉF** | 
+  | [Couronne magique en cristal](/equipment/Couronne magique en cristal/) | **PV** | **DÉF** | 
+  | [Orbe mystique de mana](/equipment/Orbe mystique de mana/) | **ATQ** | **DÉF** | 
+  | [Manteau des mages](/equipment/Manteau des mages/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -106,7 +106,7 @@ toc: true
 ### Capacité ultime: Pénétration de sort
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Mage augmente sa propre ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet, qui peut se cumuler jusqu'à 20 fois, est permanent tant que la cible ne change pas. Il se réinitialise quand le Mage attaque un nouvel ennemi.</span><span style="color: black">
 
-### Compétence normale 1 : Hurricane
+### Compétence normale 1 : Ouragan
  **Description:** <span style="color: #645252;font-size:20px">Le Mage invoque une tornade qui emporte une unité ennemie aléatoire située sur la ligne arrière, ce qui l'empêche d'attaquer ou d'utiliser des compétences, et il augmente la résistance aux dégâts de son unité de 100 %. De plus, la tornade inflige <span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée. La tornade et Statique durent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes (la ligne arrière indique l'endroit où se trouve l'unité ennemie au bout de chaque ligne).</span><span style="color: black">
 
 ### Compétence normale 2 : Perte d'énergie
@@ -152,7 +152,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
@@ -199,10 +199,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Champ magique&gt; : </span><span style="color: #645252;font-size:18px">Au début de la bataille, génère un autre &lt;Champ magique&gt; pour toutes les unités alliées de la Tour (l'effet n'est pas doublé, mais cumulé au précédent).</span>
 
 ### 5th Skill (or 6th): Bilan macabre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Perte d'énergie&gt; : </span><span style="color: #645252;font-size:18px">Lorsque la cible meurt, le mana des Héros ennemis diminue de 2 points.</span>
 
 ### 6th Skill (or 5th): Suppression d'énergie
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 200% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Perte d'énergie&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 200 % de sa valeur précédente.</span>
 
 ## Technical info
  **runart:** 1
@@ -247,7 +247,7 @@ toc: true
 
  **posclass:** 5
 
- **talk1:** That was just the warmup! When does the battle begin?
+ **talk1:** Ce n'était que l'échauffement ! La bataille commence quand ?
 
  **talk2:** Venez à moi, mes frères !
 

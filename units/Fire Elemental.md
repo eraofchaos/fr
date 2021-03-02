@@ -66,10 +66,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Noyau de feu](/equipment/Noyau de feu/) | **ATQ** | **DEF** | 
-  | [Bouclier bouillonnant](/equipment/Bouclier bouillonnant/) | **PV** | **DEF** | 
-  | [Œil maléfique de saphir](/equipment/Œil maléfique de saphir/) | **ATQ** | **DEF** | 
-  | [Griffe tranchante bleu marine](/equipment/Griffe tranchante bleu marine/) | **PV** | **DEF** | 
+  | [Noyau de feu](/equipment/Noyau de feu/) | **ATQ** | **DÉF** | 
+  | [Bouclier bouillonnant](/equipment/Bouclier bouillonnant/) | **PV** | **DÉF** | 
+  | [Œil maléfique de saphir](/equipment/Œil maléfique de saphir/) | **ATQ** | **DÉF** | 
+  | [Griffe tranchante bleu marine](/equipment/Griffe tranchante bleu marine/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -111,7 +111,7 @@ toc: true
 ### Compétence normale 3 : Conducteur d'énergie ardente
  **Description:** <span style="color: #645252;font-size:20px">Quand un Élémentaire de feu tue un ennemi, il regagne </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max et son ATQ est augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet est actif pendant tout le combat et peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
 
-### Compétence spéciale de faction I : Elemental Affinity
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire
@@ -190,14 +190,14 @@ toc: true
 ### 1st Skill (or 2nd): Embrasement céleste
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu céleste&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 200 % de sa valeur précédente.</span>
 
-### 2nd Skill (or 1st): Running Fire
+### 2nd Skill (or 1st): Feu incontrôlable
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu céleste&gt; : </span><span style="color: #645252;font-size:18px">Inflige des dégâts à deux unités ennemies aléatoires.</span>
 
 ### 3rd Skill (or 4th): Injection élémentaire
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Force élémentaire&gt; : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ de 50 % et le drain de vie de 10 % pour deux unités offensives aléatoires pendant 10 secondes quand le Héros allié lance un sort de feu.</span>
 
 ### 4th Skill (or 3rd): Foudre de guerre élémentaire
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Has a 30% chance to unleash &lt;Heavenly Fire&gt; on 1 random hostile unit when the friendly hero casts a fire spell</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Force élémentaire&gt; : </span><span style="color: #645252;font-size:18px">A 30 % de chance d'infliger &lt;Feu céleste&gt; à une unité ennemie aléatoire quand le Héros allié lance un sort de feu.</span>
 
 ### 5th Skill (or 6th): Malédiction des flammes furieuses
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Conducteur d'énergie ardente&gt; : </span><span style="color: #645252;font-size:18px">Double les bonus, mais peut se cumuler toujours autant de fois.</span>

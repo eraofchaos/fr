@@ -17,12 +17,12 @@ classes: wide
   | 3 | [Revyaratan](/units/Revyaratan/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1267.1 | 7128 |  Monstre marin ancestral  |
   | 4 | [Servante des Abîmes](/units/Pit Fiend/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Seigneur des Abîmes  |
   | 5 | [Berserker](/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Hurleur macabre  |
-  | 6 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offensive | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 6 | [Gargouille](/units/Stone Gargoyle/) | Offensive | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 7 | [Lancier](/units/Pikeman/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  Hallebardier  |
   | 8 | [Diable](/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archidiable  |
   | 9 | [Troglodyte](/units/Troglodyte/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Troglodyte des ténèbres  |
   | 10 | [Naga](/units/Naga/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Reine Naga  |
-  | 11 | [Gnoll](/units/Gnoll/) | Offensive | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 11 | [Gnoll](/units/Gnoll/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerrier Gnoll  |
   | 12 | [Ange](/units/Angel/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archange  |
   | 13 | [Pirates de Regna](/units/Regnan Pirates/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Roi des pirates  |
   | 14 | [Dragon rouge](/units/Red Dragon/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |   -   |

@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack n'était qu'un Héros oublié d'Enroth quand il a fait voile vers Erathia. Ces terres dans la tourmente lui permettent de mettre ses immenses talents à profit."
 heroID: 60602
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Crag Hack"
 toc: true
@@ -49,7 +49,7 @@ toc: true
    - Cette terre aride se trouve à proximité de Krewlod. Cela fait des années qu'elle est occupée par les barbares.
    - Le Chevalier de la mort Ramos gouvernait les lieux. Selon vos informations, il aurait dérobé un artefact sacré dans le tombeau d'un grand Héros.
    - Dans le marais de Ferris demeurait un groupe de Revenantes. Victimes du sort d'un artefact démoniaque, il leur était impossible de trouver la paix.
-   - Un culte nommé "La Main de la mort" contrôle la zone. Son chef, Charnath, possède le dernier artefact de l'Armure du Damné.
+   - Un culte nommé \"La Main de la mort\" contrôle la zone. Son chef, Charnath, possède le dernier artefact de l'Armure du Damné.
 
 ## HERO Skins
 ### Skin 1: **Classique**

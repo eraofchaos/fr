@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Soutien
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1610
 

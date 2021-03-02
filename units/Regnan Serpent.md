@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Trident](/equipment/Trident/) | **ATQ** | **DEF** | 
-  | [Corne infernale](/equipment/Corne infernale/) | **PV** | **DEF** | 
-  | [Griffes de sirène](/equipment/Griffes de sirène/) | **ATQ** | **DEF** | 
-  | [Nageoire bleu foncé](/equipment/Nageoire bleu foncé/) | **PV** | **DEF** | 
+  | [Trident](/equipment/Trident/) | **ATQ** | **DÉF** | 
+  | [Corne infernale](/equipment/Corne infernale/) | **PV** | **DÉF** | 
+  | [Griffes de sirène](/equipment/Griffes de sirène/) | **ATQ** | **DÉF** | 
+  | [Nageoire bleu foncé](/equipment/Nageoire bleu foncé/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -118,7 +118,7 @@ toc: true
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

@@ -2,7 +2,7 @@
 title: "Formation de combat Forteresse"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Formation de combat Forteresse"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "BattleFormationFactionFortress"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Forteresse](/units/Faction Fortress)
 
-  **Description:** Unity and solidarity, people were born free
+  **Description:** Unité et solidarité, libres les gens sont nés.
 
 **Info** You can find this feature under **Arsenal** -> **Formation de combat** -> **Forteresse** 
 {: .notice--danger}
@@ -27,7 +27,7 @@ classes: wide
   | **5** | **Les dégâts des unités de la Forteresse augmentent de 5 % contre des unités victimes de Maladie.** |
   | **6** | **Augmente l'ATQ de toutes les unités de la Forteresse de 10 %.** |
   | **7** | **Augmente la résistance magique de toutes les unités de la Forteresse de 10 %.** |
-  | **8** | **Fortress units will receive an increase of 12% CRIT DMG when against the units suffering from disease** |
+  | **8** | **Les dégâts critiques des unités de la Forteresse augmentent de 12 % contre des unités victimes de Maladie.** |
   | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Forteresse de 4 %.** |
 
 ## Formation de combat Circle 1:

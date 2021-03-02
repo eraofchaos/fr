@@ -2,7 +2,7 @@
 title: "Formation de combat Rempart"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "Formation de combat Rempart"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | Level |         Effect        |
   |:------|:---------------------|
   | **2** | **Quand les unités du Rempart se battent contre des unités affectées par Saignement ou Lenteur, elles gagnent 40 en précision par effet actif.** |
-  | **3** | **Increases 8% HP for all Rampart Units** |
+  | **3** | **Augmente les PV de toutes les unités du Rempart de 8 %.** |
   | **4** | **Augmente la DÉF de toutes les unités du Rempart de 8 %.** |
   | **5** | **Quand les unités du Rempart se battent contre des unités affectées par Saignement ou Lenteur, leurs coups critiques augmentent de 25 par effet.** |
   | **6** | **Augmente l'ATQ de toutes les unités du Rempart de 10 %.** |

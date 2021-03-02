@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fouet infernal](/equipment/Fouet infernal/) | **ATQ** | **DEF** | 
-  | [Charmed Light Armor](/equipment/Charmed Light Armor/) | **PV** | **DEF** | 
-  | [Corne ensorcelée](/equipment/Corne ensorcelée/) | **ATQ** | **DEF** | 
-  | [Épaulières ensorcelées](/equipment/Épaulières ensorcelées/) | **PV** | **DEF** | 
+  | [Fouet infernal](/equipment/Fouet infernal/) | **ATQ** | **DÉF** | 
+  | [Armure légère ensorcelée](/equipment/Armure légère ensorcelée/) | **PV** | **DÉF** | 
+  | [Corne ensorcelée](/equipment/Corne ensorcelée/) | **ATQ** | **DÉF** | 
+  | [Épaulières ensorcelées](/equipment/Épaulières ensorcelées/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -105,7 +105,7 @@ toc: true
 ### Capacité ultime: Cercle de feu
  **Description:** <span style="color: #645252;font-size:20px">La Servante des Abîmes lance Cercle de feu, ce qui rend une quantité de PV égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max à toutes les unités alliées dans une large zone toutes les 2 secondes pendant 8 secondes.</span><span style="color: black">
 
-### Compétence normale 1 : Lord's Summon
+### Compétence normale 1 : Invocation du Seigneur
  **Description:** <span style="color: #645252;font-size:20px">Quand une Servante des Abîmes est sur le champ de bataille, elle invoque 4 démons pour se battre à ses côtés. Les démons ont </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, 700 en DÉF et 500 en coup critique. Ils demeurent pendant toute la durée de la bataille.</span><span style="color: black">
 
 ### Compétence normale 2 : Chaleur
@@ -118,7 +118,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Résonance magique
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -155,7 +155,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Offensive**  (Groupement - Offensive)
 
 ### Bonus de héros

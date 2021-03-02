@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Faux du diable](/equipment/Faux du diable/) | **ATQ** | **DEF** | 
-  | [Pentagramme en fusion](/equipment/Pentagramme en fusion/) | **PV** | **DEF** | 
-  | [Gantelets de lave en fusion](/equipment/Gantelets de lave en fusion/) | **ATQ** | **DEF** | 
-  | [Épaulières de lave en fusion](/equipment/Épaulières de lave en fusion/) | **PV** | **DEF** | 
+  | [Faux du diable](/equipment/Faux du diable/) | **ATQ** | **DÉF** | 
+  | [Pentagramme en fusion](/equipment/Pentagramme en fusion/) | **PV** | **DÉF** | 
+  | [Gantelets de lave en fusion](/equipment/Gantelets de lave en fusion/) | **ATQ** | **DÉF** | 
+  | [Épaulières de lave en fusion](/equipment/Épaulières de lave en fusion/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -107,9 +107,9 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Frappe l'unité la plus lointaine de la zone de front dès que le combat commence (attaque une unité aléatoire sur la ligne arrière s'il n'y a aucune cible valide), ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et invoque un gouffre enflammé qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts toute les 0,5 seconde pendant 6 secondes. Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes la première fois. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">Peut être déployé dans n'importe quelle position. Cette compétence se réinitialise quand la cible meurt.</span><span style="color: black">
 
 ### Compétence normale 1 : Torture cruelle
- **Description:** <span style="color: #645252;font-size:20px">Deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 radom hostile units. Critical Hit dealt to </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 500.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies aléatoires. Les coups critiques infligés aux unités victimes de </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 500.</span><span style="color: black">
 
-### Compétence normale 2 : Withering
+### Compétence normale 2 : Décadence
  **Description:** <span style="color: #645252;font-size:20px">Quand cette unité est sur le champ de bataille, elle inflige une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à toutes les unités ennemies toutes les 2 secondes.</span><span style="color: black">
 
 ### Compétence normale 3 : Destruction d'âmes
@@ -156,7 +156,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Offensive**  (Groupement - Offensive)
 
 ### Bonus de héros

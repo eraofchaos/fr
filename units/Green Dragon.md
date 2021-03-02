@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corne venimeuse](/equipment/Corne venimeuse/) | **ATQ** | **DEF** | 
-  | [Armure Dragon](/equipment/Armure Dragon/) | **PV** | **DEF** | 
-  | [Griffes de putréfaction](/equipment/Griffes de putréfaction/) | **ATQ** | **DEF** | 
-  | [Sang de dragon empoisonné](/equipment/Sang de dragon empoisonné/) | **PV** | **DEF** | 
+  | [Corne venimeuse](/equipment/Corne venimeuse/) | **ATQ** | **DÉF** | 
+  | [Armure Dragon](/equipment/Armure Dragon/) | **PV** | **DÉF** | 
+  | [Griffes de putréfaction](/equipment/Griffes de putréfaction/) | **ATQ** | **DÉF** | 
+  | [Sang de dragon empoisonné](/equipment/Sang de dragon empoisonné/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -160,7 +160,7 @@ toc: true
 
 ### Bonus de héros
 * [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent

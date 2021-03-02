@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache en obsidienne](/equipment/Hache en obsidienne/) | **ATQ** | **DEF** | 
-  | [Collier d'os](/equipment/Collier d'os/) | **PV** | **DEF** | 
-  | [Heaume en os de bêtes](/equipment/Heaume en os de bêtes/) | **ATQ** | **DEF** | 
-  | [Bandeau en cuir](/equipment/Bandeau en cuir/) | **PV** | **DEF** | 
+  | [Hache en obsidienne](/equipment/Hache en obsidienne/) | **ATQ** | **DÉF** | 
+  | [Collier d'os](/equipment/Collier d'os/) | **PV** | **DÉF** | 
+  | [Heaume en os de bêtes](/equipment/Heaume en os de bêtes/) | **ATQ** | **DÉF** | 
+  | [Bandeau en cuir](/equipment/Bandeau en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

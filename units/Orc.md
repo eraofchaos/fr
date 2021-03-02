@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache de lancer](/equipment/Hache de lancer/) | **ATQ** | **DEF** | 
-  | [Ceinture de restriction](/equipment/Ceinture de restriction/) | **PV** | **DEF** | 
-  | [Épaulières de fer](/equipment/Épaulières de fer/) | **ATQ** | **DEF** | 
-  | [Épaulières sanguinaires](/equipment/Épaulières sanguinaires/) | **PV** | **DEF** | 
+  | [Hache de lancer](/equipment/Hache de lancer/) | **ATQ** | **DÉF** | 
+  | [Ceinture de restriction](/equipment/Ceinture de restriction/) | **PV** | **DÉF** | 
+  | [Épaulières de fer](/equipment/Épaulières de fer/) | **ATQ** | **DÉF** | 
+  | [Épaulières sanguinaires](/equipment/Épaulières sanguinaires/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -109,7 +109,7 @@ toc: true
 ### Compétence normale 1 : Couper
  **Description:** <span style="color: #645252;font-size:20px">L'attaque supplémentaire de l'Orque est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sur la cible pendant 6 secondes.</span><span style="color: black">
 
-### Compétence normale 2 : Rampage
+### Compétence normale 2 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques de l'Orque augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
 ### Compétence normale 3 : Furie sanguinaire
@@ -189,7 +189,7 @@ toc: true
 
  3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes d'Orque dans les niveaux 14-2 et 14-4 du souterrain.</span>
 
- 4. <span style="color: #876741;font-size:18px">Deploy Orc with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Stronghold units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #876741;font-size:18px">Déployez un Orque et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Bastion pour remporter 3 batailles dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 

@@ -1,7 +1,7 @@
 ---
 title: "Farfadet"
 permalink: /units/Leprechaun/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
+excerpt: "Era of Chaos Unités. Unités. Era of Chaos Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !"
 unitID: 909
 last_modified_at: 2021-03-02
 locale: fr
@@ -9,7 +9,7 @@ ref: "Farfadet"
 toc: true
 ---
 ## General information
- **Description:** Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde.
+ **Description:** Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !
 
  **Classe:** [Défense](/units/Unit Class Defense/)
 
@@ -67,12 +67,18 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Desbénédictionschanceuses](/equipment/Desbénédictionschanceuses/) | **ATQ** | **DEF** | 
-  | [Sourcedupouvoir](/equipment/Sourcedupouvoir/) | **PV** | **DEF** | 
-  | [Gardiendelavie](/equipment/Gardiendelavie/) | **ATQ** | **DEF** | 
-  | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **PV** | **DEF** | 
+  | [Desbénédictionschanceuses](/equipment/Desbénédictionschanceuses/) | **ATQ** | **DÉF** | 
+  | [Sourcedupouvoir](/equipment/Sourcedupouvoir/) | **PV** | **DÉF** | 
+  | [Gardiendelavie](/equipment/Gardiendelavie/) | **ATQ** | **DÉF** | 
+  | [Lalégèretéduvent](/equipment/Lalégèretéduvent/) | **PV** | **DÉF** | 
 
 ## Exclusif
+
+ **Name:** [Ronces](/Exclusive/Leprechaun Thorns/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
 
 
 ## Emblèmes sacrés recommandés
@@ -105,7 +111,7 @@ toc: true
 ### Compétence normale 3 : Blocage tactique
  **Description:** <span style="color: #645252;font-size:20px">Lorsque le Farfadet est atteint par un coup critique, la valeur de son bouclier augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, et un &lt;Coup de poing immédiat&gt; se déclenche. Cet effet dure pendant 10 secondes et a un temps de recharge de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque son esquive se déclenche, le Farfadet récupère </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max. Le temps de recharge est de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le blocage du Farfadet est activé, un &lt;Coup de poing immédiat&gt; se déclenche immédiatement. Le temps de recharge est de 2 secondes.</span><span style="color: black">
 
-### Compétence spéciale de faction I : Elemental Affinity
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire
@@ -183,7 +189,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** Esprit-gardien de l'arbre sacré
+ **Awaking Name:** Maître Farfadet
 
  **Awaking Description:** La légende raconte qu'un gigantesque Arbre du monde demeure sur le Plan du Conflux. C'est un arbre ancien et mystérieux, qui suscite à la fois la curiosité et la peur chez les aventuriers. Pourquoi ? Parce qu'un groupe de gardiens féroces s'est installé tout près de l'Arbre du monde, et toutes les créatures qui osent s'approcher sont immédiatement éliminées. D'innombrables jeunes aventuriers intrépides se sont lancés à la poursuite de l'arbre qu'ils admiraient tant, mais aucun n'est jamais revenu.
 
@@ -199,10 +205,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Coup dévastateur
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Brûlure, sa DÉF sera également réduite de 2 %. L'affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Brûlure, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
 ### 2nd Skill (or 1st): Coup immédiat
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Gel, sa DÉF sera également réduite de 2 %. L'affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Gel, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
 ### 3rd Skill (or 4th): Chiffre porte-bonheur
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Bonne fortune&gt; :</span><span style="color: #645252;font-size:18px"> L'effet de la compétence du Farfadet peut se cumuler de 5 à 12 fois.</span>

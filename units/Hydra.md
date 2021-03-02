@@ -67,10 +67,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Queue de dragon de la peste](/equipment/Queue de dragon de la peste/) | **ATQ** | **DEF** | 
-  | [Boucles d'oreille du dirigeant](/equipment/Boucles d'oreille du dirigeant/) | **PV** | **DEF** | 
-  | [Griffe du dragon de la peste](/equipment/Griffe du dragon de la peste/) | **ATQ** | **DEF** | 
-  | [Piques dorsaux acérés](/equipment/Piques dorsaux acérés/) | **PV** | **DEF** | 
+  | [Queue de dragon de la peste](/equipment/Queue de dragon de la peste/) | **ATQ** | **DÉF** | 
+  | [Boucles d'oreille du dirigeant](/equipment/Boucles d'oreille du dirigeant/) | **PV** | **DÉF** | 
+  | [Griffe du dragon de la peste](/equipment/Griffe du dragon de la peste/) | **ATQ** | **DÉF** | 
+  | [Piques dorsaux acérés](/equipment/Piques dorsaux acérés/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -106,7 +106,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">L'Hydre a 60 %/40 %/30 %/10 % de chance d'infliger respectivement 1/2/3/4 coups de tête après une attaque, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à chaque coup.</span><span style="color: black">
 
 ### Compétence normale 2 : Peste généralisée
- **Description:** <span style="color: #645252;font-size:20px">For every Fortress unit deployed, Hydra's unit's damage increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Hydra's Crit Hit will be increased by another 100 for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Pour chaque unité de la Forteresse déployée, les dégâts infligés par l'Hydre augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et ses coups critiques de 100 points supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### Compétence normale 3 : Morsure profonde
  **Description:** <span style="color: #645252;font-size:20px">Si son attaque précédente a été esquivée, l'Hydre attaque une fois de plus, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts. Elle infligera également un coup critique dans les 3 secondes qui suivent Morsure profonde.</span><span style="color: black">
@@ -114,7 +114,7 @@ toc: true
 ### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Rise of Vitality
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
   <script language="JavaScript">

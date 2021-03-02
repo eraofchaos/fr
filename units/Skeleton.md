@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cimeterre profane](/equipment/Cimeterre profane/) | **ATQ** | **DEF** | 
-  | [Heaume rouillé](/equipment/Heaume rouillé/) | **PV** | **DEF** | 
-  | [Bouclier profane](/equipment/Bouclier profane/) | **ATQ** | **DEF** | 
-  | [Épaulières rouillées](/equipment/Épaulières rouillées/) | **PV** | **DEF** | 
+  | [Cimeterre profane](/equipment/Cimeterre profane/) | **ATQ** | **DÉF** | 
+  | [Heaume rouillé](/equipment/Heaume rouillé/) | **PV** | **DÉF** | 
+  | [Bouclier profane](/equipment/Bouclier profane/) | **ATQ** | **DÉF** | 
+  | [Épaulières rouillées](/equipment/Épaulières rouillées/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

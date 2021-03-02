@@ -65,10 +65,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Casque spartiate](/equipment/Casque spartiate/) | **ATQ** | **DEF** | 
-  | [Bouclier en acier](/equipment/Bouclier en acier/) | **PV** | **DEF** | 
-  | [Lance perçante](/equipment/Lance perçante/) | **ATQ** | **DEF** | 
-  | [Bande molletière](/equipment/Bande molletière/) | **PV** | **DEF** | 
+  | [Casque spartiate](/equipment/Casque spartiate/) | **ATQ** | **DÉF** | 
+  | [Bouclier en acier](/equipment/Bouclier en acier/) | **PV** | **DÉF** | 
+  | [Lance perçante](/equipment/Lance perçante/) | **ATQ** | **DÉF** | 
+  | [Bande molletière](/equipment/Bande molletière/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -146,7 +146,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Neutre**  (Neutral Roster)
+* **Unité (Neutre)**  (Groupement - Neutre)
 * **Offensive**  (Groupement - Offensive)
 
 ### Bonus de héros
@@ -176,7 +176,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -184,10 +184,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

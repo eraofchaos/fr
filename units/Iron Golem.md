@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Gantelets en fer](/equipment/Gantelets en fer/) | **ATQ** | **DEF** | 
-  | [Épaulières à pointes](/equipment/Épaulières à pointes/) | **PV** | **DEF** | 
-  | [Cœur d'arcane](/equipment/Cœur d'arcane/) | **ATQ** | **DEF** | 
-  | [Plastron en fer renforcé](/equipment/Plastron en fer renforcé/) | **PV** | **DEF** | 
+  | [Gantelets en fer](/equipment/Gantelets en fer/) | **ATQ** | **DÉF** | 
+  | [Épaulières à pointes](/equipment/Épaulières à pointes/) | **PV** | **DÉF** | 
+  | [Cœur d'arcane](/equipment/Cœur d'arcane/) | **ATQ** | **DÉF** | 
+  | [Plastron en fer renforcé](/equipment/Plastron en fer renforcé/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -155,7 +155,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **Défense**  (Groupement - Défense)
 
 ### Bonus de héros

@@ -1,11 +1,11 @@
 ---
-title: "Lich"
+title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Lich"
+ref: "Liche"
 toc: true
 ---
 ## General information
@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bâton des limbes](/equipment/Bâton des limbes/) | **ATQ** | **DEF** | 
-  | [Couronne noire](/equipment/Couronne noire/) | **PV** | **DEF** | 
-  | [Ceinture spirituelle](/equipment/Ceinture spirituelle/) | **ATQ** | **DEF** | 
-  | [Armure légère des limbes](/equipment/Armure légère des limbes/) | **PV** | **DEF** | 
+  | [Bâton des limbes](/equipment/Bâton des limbes/) | **ATQ** | **DÉF** | 
+  | [Couronne noire](/equipment/Couronne noire/) | **PV** | **DÉF** | 
+  | [Ceinture spirituelle](/equipment/Ceinture spirituelle/) | **ATQ** | **DÉF** | 
+  | [Armure légère des limbes](/equipment/Armure légère des limbes/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -182,7 +182,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Power Lich souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Grande Liche dans les niveaux 17-2 et 17-4 du Souterrain.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Déployez Vidomina et 1 Liche pour remporter </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> combat de Duel de champions.</span>
 

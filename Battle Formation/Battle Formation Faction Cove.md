@@ -2,7 +2,7 @@
 title: "Formation de combat Crique"
 permalink: /Battle Formation/Battle Formation Faction Cove
 excerpt: "Formation de combat Crique"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "BattleFormationFactionCove"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
   | **3** | **Augmente les PV de toutes les unités de la Crique de 8 %.** |
   | **4** | **Augmente la DÉF de toutes les unités de la Crique de 8 %.** |
   | **5** | **Pour chaque unité de la Crique supplémentaire déployée, la résistance aux dégâts des unités de la Crique augmente de 3 %** |
-  | **6** | **Increases 10% ATK for all Cove Units** |
+  | **6** | **Augmente l'ATQ de toutes les unités de la Crique de 10 %.** |
   | **7** | **Augmente la résistance magique de toutes les unités de la Crique de 10 %.** |
   | **8** | **Pour chaque unité de la Crique supplémentaire déployée, l'ATQ des unités de la Crique augmente de 8 %.** |
   | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Crique de 4 %.** |

@@ -3,14 +3,14 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Mephala a suivi sa formation au sein de l'armée d'Erathia et possède un génie tactique naturel lui permettant d'exploiter le terrain à son avantage. Bien qu'elle préfère le calme de son village, elle reste dans l'armée pour servir son pays."
 heroID: 60302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Mephala"
 toc: true
 ---
  **Description:** Mephala a suivi sa formation au sein de l'armée d'Erathia et possède un génie tactique naturel lui permettant d'exploiter le terrain à son avantage. Bien qu'elle préfère le calme de son village, elle reste dans l'armée pour servir son pays.
 ## Details
- **Profession:** Ranger
+ **Profession:** Rôdeur
 
  **Race:** Rempart
 
@@ -52,7 +52,7 @@ toc: true
    - Un Béhémoth s'était installé dans la forêt. Son existence menaçait toutes les créatures qui y résidaient.
 
 ## HERO Skins
-### Skin 1: **Classic**
+### Skin 1: **Classique**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Protéger les plus faibles est dans ma nature. Le courage est le meilleur des boucliers contre le mal ! </span>
 

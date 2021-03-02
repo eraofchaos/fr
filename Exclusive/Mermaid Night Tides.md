@@ -1,19 +1,19 @@
 ---
-title: "Exclusif - Night Tides"
+title: "Exclusif - Marées nocturnes"
 permalink: /Exclusive/Mermaid Night Tides/
-excerpt: "Era of Chaos Night Tides. Night Tides. Era of Chaos Exclusif Night Tides. Mermaid Exclusif."
+excerpt: "Era of Chaos Marées nocturnes. Marées nocturnes. Era of Chaos Exclusif Marées nocturnes. Sirène Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Mermaid Night Tides.md"
+ref: "Mermaid Marées nocturnes.md"
 toc: false
 classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Night Tides** 
+ **Name: Marées nocturnes** 
 
- **Exclusif for Unit:** [Mermaid](/units/Mermaid/) 
+ **Exclusif for Unit:** [Sirène](/units/Mermaid/) 
 
  **Item to Rang supérieur:** -
 

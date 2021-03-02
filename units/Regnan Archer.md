@@ -65,12 +65,18 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arbalète de l'océan](/equipment/Arbalète de l'océan/) | **ATQ** | **DEF** | 
-  | [Chapeau de prestige](/equipment/Chapeau de prestige/) | **PV** | **DEF** | 
-  | [Flèche en acier](/equipment/Flèche en acier/) | **ATQ** | **DEF** | 
-  | [Vêtements du chasseur](/equipment/Vêtements du chasseur/) | **PV** | **DEF** | 
+  | [Arbalète de l'océan](/equipment/Arbalète de l'océan/) | **ATQ** | **DÉF** | 
+  | [Chapeau de prestige](/equipment/Chapeau de prestige/) | **PV** | **DÉF** | 
+  | [Flèche en acier](/equipment/Flèche en acier/) | **ATQ** | **DÉF** | 
+  | [Vêtements du chasseur](/equipment/Vêtements du chasseur/) | **PV** | **DÉF** | 
 
 ## Exclusif
+
+ **Name:** [Miracle](/Exclusive/Regnan Archer Miracle/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
 
 
 ## Emblèmes sacrés recommandés
@@ -107,7 +113,7 @@ toc: true
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

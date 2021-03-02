@@ -67,12 +67,18 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Crocs acérés](/equipment/Crocs acérés/) | **ATQ** | **DEF** | 
-  | [Nageoire glaciale](/equipment/Nageoire glaciale/) | **PV** | **DEF** | 
-  | [Queue de monstre marin](/equipment/Queue de monstre marin/) | **ATQ** | **DEF** | 
-  | [Tentacules de la tentation](/equipment/Tentacules de la tentation/) | **PV** | **DEF** | 
+  | [Crocs acérés](/equipment/Crocs acérés/) | **ATQ** | **DÉF** | 
+  | [Nageoire glaciale](/equipment/Nageoire glaciale/) | **PV** | **DÉF** | 
+  | [Queue de monstre marin](/equipment/Queue de monstre marin/) | **ATQ** | **DÉF** | 
+  | [Tentacules de la tentation](/equipment/Tentacules de la tentation/) | **PV** | **DÉF** | 
 
 ## Exclusif
+
+ **Name:** [Marées obscures](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
 
 
 ## Emblèmes sacrés recommandés
@@ -100,7 +106,7 @@ toc: true
 ### Compétence normale 1 : Nageoire glaciale
  **Description:** <span style="color: #645252;font-size:20px">Immunise contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Gel&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">et </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Arrêt du temps&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ainsi que contre les dégâts infligés par les sorts d'eau. Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité de la Crique déployée, et les dégâts critiques augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsque le Revyaratan est déployé, les dégâts, la vitesse d'attaque et les dégâts critiques de toutes les unités alliées augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ce bonus est augmenté de 2,5 % supplémentaires pour les unités de la Crique.</span><span style="color: black">
 
-### Compétence normale 2 : Skeleton Covet
+### Compétence normale 2 : Squelette gourmet
  **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Marque 2 unités ennemies au début du combat. Les unités marquées voient leur vitesse d'attaque, leurs dégâts critiques et leurs dégâts réduits de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. De plus, elles ne peuvent plus être réanimées par les compétences de l'Ange après leur première mort. &lt;Mâchoire féroce&gt; a 30 % de chance de restaurer </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max de l'utilisateur.</span><span style="color: black">
 
 ### Compétence normale 3 : Courants de fond irrépressibles
@@ -109,7 +115,7 @@ toc: true
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

@@ -65,10 +65,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Capuche d'assassin](/equipment/Capuche d'assassin/) | **ATQ** | **DEF** | 
-  | [Lame secrète](/equipment/Lame secrète/) | **PV** | **DEF** | 
-  | [Ceinture d'assassin](/equipment/Ceinture d'assassin/) | **ATQ** | **DEF** | 
-  | [Bottes en cuir](/equipment/Bottes en cuir/) | **PV** | **DEF** | 
+  | [Capuche d'assassin](/equipment/Capuche d'assassin/) | **ATQ** | **DÉF** | 
+  | [Lame secrète](/equipment/Lame secrète/) | **PV** | **DÉF** | 
+  | [Ceinture d'assassin](/equipment/Ceinture d'assassin/) | **ATQ** | **DÉF** | 
+  | [Bottes en cuir](/equipment/Bottes en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -100,7 +100,7 @@ toc: true
 ### Compétence normale 2 : Bombe fumante
  **Description:** <span style="color: #645252;font-size:20px">L'Assassin lance une bombe fumante par terre, augmentant sa DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Inflige également </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Cécité&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies dans une large zone et réduit leurs dégâts et leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. Le temps de recharge est de 18 secondes.</span><span style="color: black">
 
-### Compétence normale 3 : Chain Attack
+### Compétence normale 3 : Attaque en chaîne
  **Description:** <span style="color: #645252;font-size:20px">Les Assassins voient leurs dégâts augmenter de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet est triplé pendant 20 secondes lorsqu'un Assassin tue une unité cible. De plus, l'Assassin passe en mode </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 5 secondes.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Conflit armé
@@ -148,7 +148,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Neutre**  (Neutral Roster)
+* **Unité (Neutre)**  (Groupement - Neutre)
 * **Assaut**  (Groupement - Assaut)
 
 ### Bonus de héros
@@ -178,7 +178,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -186,10 +186,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

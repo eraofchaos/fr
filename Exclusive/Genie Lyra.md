@@ -1,7 +1,7 @@
 ---
 title: "Exclusif - Lyre"
 permalink: /Exclusive/Genie Lyra/
-excerpt: "Era of Chaos Lyre. Lyre. Era of Chaos Exclusif Lyre. Genie Exclusif."
+excerpt: "Era of Chaos Lyre. Lyre. Era of Chaos Exclusif Lyre. Djinn Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
 ref: "Genie Lyre.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Lyre** 
 
- **Exclusif for Unit:** [Genie](/units/Genie/) 
+ **Exclusif for Unit:** [Djinn](/units/Genie/) 
 
  **Item to Rang supérieur:** -
 

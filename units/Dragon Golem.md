@@ -1,7 +1,7 @@
 ---
 title: "Golem dragon"
 permalink: /units/Dragon Golem/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
+excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
 last_modified_at: 2021-03-02
 locale: fr
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:** The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power.
+ **Description:** L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable.
 
  **Classe:** [Défense](/units/Unit Class Defense/)
 
@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffe en alliage](/equipment/Griffe en alliage/) | **ATQ** | **DEF** | 
-  | [Tête de dragon de titane](/equipment/Tête de dragon de titane/) | **PV** | **DEF** | 
-  | [Manche de contrôle principal](/equipment/Manche de contrôle principal/) | **ATQ** | **DEF** | 
-  | [Armure en alliage](/equipment/Armure en alliage/) | **PV** | **DEF** | 
+  | [Griffe en alliage](/equipment/Griffe en alliage/) | **ATQ** | **DÉF** | 
+  | [Tête de dragon de titane](/equipment/Tête de dragon de titane/) | **PV** | **DÉF** | 
+  | [Manche de contrôle principal](/equipment/Manche de contrôle principal/) | **ATQ** | **DÉF** | 
+  | [Armure en alliage](/equipment/Armure en alliage/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -157,7 +157,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **Défense**  (Groupement - Défense)
 
 ### Bonus de héros
@@ -198,7 +198,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt; : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Les trois premières invocations augmentent les dégâts et la résistance aux dégâts de vos unités de 10 % pendant 30 secondes. Le Paladin suprême invoque un Chef du sanctuaire la première fois qu'il apparaît sur le champ de bataille.</span>
 
 ### 3rd Skill (or 4th): Croyance et loyauté
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par "Exaltation".</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par \"Exaltation\".</span>
 
 ### 4th Skill (or 3rd): Foi inébranlable
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:20px">La résistance aux dégâts du Paladin augmente de 15 % supplémentaires.</span><span style="color: #645252;font-size:20px"> Cet effet double en cas d'</span><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;.</span><span style="color: #645252;font-size:20px"></span>
@@ -206,7 +206,7 @@ toc: true
 ### 5th Skill (or 6th): Persévérance
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts critiques de 50 % et la ténacité de 150 points. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
-### 6th Skill (or 5th): Agile Riposte
+### 6th Skill (or 5th): Riposte agile
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts de 15 % et la ténacité de 150 points pour toutes les unités à portée. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
 ## Technical info

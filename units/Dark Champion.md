@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Faucille du silence](/equipment/Faucille du silence/) | **ATQ** | **DEF** | 
-  | [Heaume lourd de l'avant-vie](/equipment/Heaume lourd de l'avant-vie/) | **PV** | **DEF** | 
-  | [Feu infernal du salut](/equipment/Feu infernal du salut/) | **ATQ** | **DEF** | 
-  | [Scapula de l'Hadès](/equipment/Scapula de l'Hadès/) | **PV** | **DEF** | 
+  | [Faucille du silence](/equipment/Faucille du silence/) | **ATQ** | **DÉF** | 
+  | [Heaume lourd de l'avant-vie](/equipment/Heaume lourd de l'avant-vie/) | **PV** | **DÉF** | 
+  | [Feu infernal du salut](/equipment/Feu infernal du salut/) | **ATQ** | **DÉF** | 
+  | [Scapula de l'Hadès](/equipment/Scapula de l'Hadès/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -100,13 +100,13 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts et une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max à la cible toutes les 24 secondes, tout en lui infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes. Le Champion des ténèbres restaure les PV à hauteur de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ par attaque normale.</span><span style="color: black">
 
 ### Compétence normale 1 : Fin de la destinée
- **Description:** <span style="color: #645252;font-size:20px">Quand le Champion des ténèbres est sur le champ de bataille, les unités victimes de &lt;Démotivation&gt; sont achevées au moment où leurs PV tombent en dessous de 5 %. Lance </span><span style="color: black"><span style="color: #F0F000;font-size:20px">"Malchance"</span><span style="color: black"><span style="color: #645252;font-size:20px"> toutes les 13 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand le Champion des ténèbres est sur le champ de bataille, les unités victimes de &lt;Démotivation&gt; sont achevées au moment où leurs PV tombent en dessous de 5 %. Lance </span><span style="color: black"><span style="color: #F0F000;font-size:20px">\"Malchance\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> toutes les 13 secondes.</span><span style="color: black">
 
 ### Compétence normale 2 : Tombes sinistres
  **Description:** <span style="color: #645252;font-size:20px">Quand les PV de la cible sont inférieurs à 40 %, le Champion des ténèbres enterre la cible sous une pierre tombale pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. L'unité enterrée est réduite au silence et ne peut pas être soignée. Elle ne peut ni bouger, ni attaquer. Tous les dégâts qui lui seront infligés pendant ce temps seront renvoyés à 4 unités ennemies à distance. Tant que la pierre tombale n'a pas disparu, toutes les unités alliées de la Nécropole à portée bénéficieront d'une restauration de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max par seconde. Le temps de recharge est de 28 secondes.</span><span style="color: black">
 
-### Compétence normale 3 : Bones Monarch
- **Description:** <span style="color: #645252;font-size:20px">unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. HP given by the End of Fate will be increased by an extra 4% for every Necropolis unit on the battlefield. HP given by End of Fate will be increased by an extra 1% for every unit the Necropolis summons onto the battlefield. HP can be increased by up to 25% by The End of Fate. When a friendly hero casts an earth spell, shorten 1 random spell's CD by 4s.</span><span style="color: black">
+### Compétence normale 3 : Monarque squelette
+ **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les PV nécessaires pour déclencher Fin de la destinée augmentent de 4 % supplémentaires par unité de la Nécropole présente sur le champ de bataille. Ils augmentent également de 1 % supplémentaire par unité invoquée par la Nécropole sur le champ de bataille. Fin de la destinée peut se déclencher jusqu'à un maximum de 25 % de PV. Quand un Héros allié lance un sort de terre, le temps de recharge d'un sort aléatoire diminue de 4 secondes.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
@@ -186,7 +186,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pièces d'équipement lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Ghost Dragon souls in the Underground: 18-2 and 18-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Dragon fantôme dans les niveaux 18-2 et 18-4 du Souterrain.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Dragon squelette et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités de la Nécropole pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats en Campagne. (Les raids ne comptent pas pour la mission.)</span>
 

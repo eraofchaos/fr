@@ -1,11 +1,11 @@
 ---
-title: "Stone Gargoyle"
+title: "Gargouille"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat."
 unitID: 602
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Stone Gargoyle"
+ref: "Gargouille"
 toc: true
 ---
 ## General information
@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cor en pierre](/equipment/Cor en pierre/) | **ATQ** | **DEF** | 
-  | [Ailes de pierre](/equipment/Ailes de pierre/) | **PV** | **DEF** | 
-  | [Griffes en pierre tranchantes](/equipment/Griffes en pierre tranchantes/) | **ATQ** | **DEF** | 
-  | [Queue enchantée](/equipment/Queue enchantée/) | **PV** | **DEF** | 
+  | [Cor en pierre](/equipment/Cor en pierre/) | **ATQ** | **DÉF** | 
+  | [Ailes de pierre](/equipment/Ailes de pierre/) | **PV** | **DÉF** | 
+  | [Griffes en pierre tranchantes](/equipment/Griffes en pierre tranchantes/) | **ATQ** | **DÉF** | 
+  | [Queue enchantée](/equipment/Queue enchantée/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -157,7 +157,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **Offensive**  (Groupement - Offensive)
 
 ### Bonus de héros
@@ -187,7 +187,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -195,10 +195,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

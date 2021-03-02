@@ -1,17 +1,17 @@
 ---
-title: "Exclusif - Charge gracieuse"
+title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Cavalier Knight Pike/
-excerpt: "Era of Chaos Charge gracieuse. Charge gracieuse. Era of Chaos Exclusif Charge gracieuse. Cavalier Exclusif."
+excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Cavalier Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Cavalier Charge gracieuse.md"
+ref: "Cavalier Pic du Chevalier.md"
 toc: false
 classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Charge gracieuse** 
+ **Name: Pic du Chevalier** 
 
  **Exclusif for Unit:** [Cavalier](/units/Cavalier/) 
 
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Javelot accablant> : Lorsque la bataille démarre, les chevaliers jettent leurs lances supplémentaires, infligeant une quantité de dégâts égale à 200 % de leur ATQ à une unité ennemie aléatoire, et réduisant la DÉF de la cible de 10 % pendant 30 secondes. Lorsque l'unité affronte des unités à distance ou des Lanceurs de sorts, ses dégâts sont réduits de 20 %. |
+  |  Initial  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts du Cavalier augmente de 25 % lorsqu'il reçoit des dégâts à distance. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ des Cavaliers de 20 % et leurs dégâts de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | La DÉF du Cavalier augmente de 10 %. Au début du combat, la pénétration de toutes les unités du Château alliées augmente de 300. Cet effet ne peut pas être dissipé. |

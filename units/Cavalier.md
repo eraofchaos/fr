@@ -73,14 +73,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lance de Cavalier](/equipment/Lance de Cavalier/) | **ATQ** | **DEF** | 
-  | [Visière de défense](/equipment/Visière de défense/) | **PV** | **DEF** | 
-  | [Bouclier de protection](/equipment/Bouclier de protection/) | **ATQ** | **DEF** | 
-  | [Épaulière de Paladin](/equipment/Épaulière de Paladin/) | **PV** | **DEF** | 
+  | [Lance de Cavalier](/equipment/Lance de Cavalier/) | **ATQ** | **DÉF** | 
+  | [Visière de défense](/equipment/Visière de défense/) | **PV** | **DÉF** | 
+  | [Bouclier de protection](/equipment/Bouclier de protection/) | **ATQ** | **DÉF** | 
+  | [Épaulière de Paladin](/equipment/Épaulière de Paladin/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Charge gracieuse](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Pic du Chevalier](/Exclusive/Cavalier Knight Pike/) 
 
  **Item to Rang supérieur:** -
 
@@ -108,7 +108,7 @@ toc: true
   <p id="log"></p>
   </form>
 ### Capacité ultime: Joute
- **Description:** <span style="color: #645252;font-size:20px">When a Cavalier unit is on the battlefield, their 1st attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand un Cavalier se trouve sur le champ de bataille, sa 1re attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sa cible pendant 5 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Charge glorieuse
  **Description:** <span style="color: #645252;font-size:20px">Augmente les coups critiques des Cavaliers de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double en cas d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -122,7 +122,7 @@ toc: true
 ### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### Compétence spéciale de faction II : Defense Resonance
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -177,7 +177,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Champion Knights
+ **Awaking Name:** Chevaliers légendaires
 
  **Awaking Description:** Mettons-nous en route, braves chevaliers d'Erathia ! Les lauriers du champion vous attendent ! Défendez vos principes et la justice. Accomplissez votre destinée !
 
@@ -186,9 +186,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ressources lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Chevalier légendaire dans les niveaux 16-2 et 16-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Cavalier and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battles in the Duel of Champions under the leadership of Mullich.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Cavalier et remportez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions sous le commandement de Mullich.</span>
 
 ## Awaken Skills
 
@@ -208,7 +208,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance de chevalier&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'unité de 20 % supplémentaires. L'effet double en cas d'&lt;Exaltation&gt;.</span>
 
 ### 6th Skill (or 5th): Nerfs d'acier
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance de chevalier&gt; : </span><span style="color: #645252;font-size:18px">Active &lt;Exaltation&gt; au combat, et garantit un coup critique. L'effet dure 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance de chevalier&gt; : </span><span style="color: #645252;font-size:18px">Garantit un coup critique lorsque l'effet \"Exaltation\" est activé au combat. L'effet dure 10 secondes.</span>
 
 ## Technical info
  **runart:** 1

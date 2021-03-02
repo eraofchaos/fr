@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodyte](/units/Troglodyte/) | [Épée](/Exclusive/Troglodyte Sword/) | - | Assaut | - | - |
-  | 2  | [Harpie](/units/Harpy/) | [Charge gracieuse](/Exclusive/Harpy Knight Pike/) | - | Assaut | - | - |
+  | 2  | [Harpie](/units/Harpy/) | [Pic du Chevalier](/Exclusive/Harpy Knight Pike/) | - | Assaut | - | - |
   | 3  | [Œil maléfique](/units/Beholder/) | [Regard ténébreux](/Exclusive/Beholder Dark Gaze/) | - | À distance | - | - |
-  | 4  | [Méduse](/units/Medusa/) | [Arc de la Méduse](/Exclusive/Medusa Medusa's bow/) | - | À distance | - | - |
+  | 4  | [Méduse](/units/Medusa/) | [Arc de la Méduse](/Exclusive/Medusa Medusa's Bow/) | - | À distance | - | - |
   | 5  | [Minotaure](/units/Minotaur/) | [Bouclier iris](/Exclusive/Minotaur Iris Shield/) | - | Assaut | - | - |
-  | 6  | [Manticore](/units/Manticore/) | [Queue de scorpion](/Exclusive/Manticore Scorpion tail/) | - | À distance | - | - |
+  | 6  | [Manticore](/units/Manticore/) | [Queue de scorpion](/Exclusive/Manticore Scorpion Tail/) | + | À distance | - | - |
   | 7  | [Dragon noir](/units/Black Dragon/) | [Écaille de Dragon noir](/Exclusive/Black Dragon Black Dragon's Scale/) | - | Soutien | - | - |
-  | 8  | [Dragon rouge](/units/Red Dragon/) | - | - | - | none | none |
+  | 8  | [Dragon rouge](/units/Red Dragon/) | [Annihilation](/Exclusive/Red Dragon Annihilation/) | - | Soutien | - | - |
   | 9  | [Sorcière maléfique](/units/Evil Sorceress/) | - | - | - | none | none |

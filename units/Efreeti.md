@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe enflammé](/equipment/Orbe enflammé/) | **ATQ** | **DEF** | 
-  | [Armure légère enflammée](/equipment/Armure légère enflammée/) | **PV** | **DEF** | 
-  | [Bracers of Flame](/equipment/Bracers of Flame/) | **ATQ** | **DEF** | 
-  | [Épaulières enflammées](/equipment/Épaulières enflammées/) | **PV** | **DEF** | 
+  | [Orbe enflammé](/equipment/Orbe enflammé/) | **ATQ** | **DÉF** | 
+  | [Armure légère enflammée](/equipment/Armure légère enflammée/) | **PV** | **DÉF** | 
+  | [Bracelets enflammés](/equipment/Bracelets enflammés/) | **ATQ** | **DÉF** | 
+  | [Épaulières enflammées](/equipment/Épaulières enflammées/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -107,7 +107,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">L'Effrit lance Tempête de feu sur une zone cible, ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à tous les ennemis qui s'y trouve et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">brûle</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Bouclier enflammé
- **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Au début du combat, l'Effrit crée un &lt;Bouclier de flammes&gt; pour toutes les unités alliées de l'Hadès. Ce bouclier renvoie 15 % des dégâts subis pendant les </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> prochaines secondes.</span><span style="color: black">
 
 ### Compétence normale 2 : Brûlant
  **Description:** <span style="color: #645252;font-size:20px">Le &lt;Bouclier de flammes&gt; de l'Effrit augmente la résistance aux dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -119,7 +119,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Résonance magique
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -158,7 +158,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
@@ -208,7 +208,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Dieu du feu&gt; : </span><span style="color: #645252;font-size:18px">La vitesse d'ATQ de l'Effrit augmente de 5 % pour chaque unité de l'Hadès présente sur le champ de bataille.</span>
 
 ### 6th Skill (or 5th): Canevas magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">Efreeti's ATK speed will be increased by 5% for every Caster Unit on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dieu du feu&gt; : </span><span style="color: #645252;font-size:18px">La vitesse d'ATQ de l'Effrit augmente de 5 % pour chaque unité de Lanceurs de sorts présente sur le champ de bataille.</span>
 
 ## Technical info
  **runart:** 0

@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arc long de massacre](/equipment/Arc long de massacre/) | **ATQ** | **DEF** | 
-  | [Coiffe de serpent entortillé](/equipment/Coiffe de serpent entortillé/) | **PV** | **DEF** | 
-  | [Queen's Crown](/equipment/Queen's Crown/) | **ATQ** | **DEF** | 
-  | [Armure de l'abîme](/equipment/Armure de l'abîme/) | **PV** | **DEF** | 
+  | [Arc long de massacre](/equipment/Arc long de massacre/) | **ATQ** | **DÉF** | 
+  | [Coiffe de serpent entortillé](/equipment/Coiffe de serpent entortillé/) | **PV** | **DÉF** | 
+  | [Couronne de la reine](/equipment/Couronne de la reine/) | **ATQ** | **DÉF** | 
+  | [Armure de l'abîme](/equipment/Armure de l'abîme/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc de la Méduse](/Exclusive/Medusa Medusa's bow/) 
+ **Name:** [Arc de la Méduse](/Exclusive/Medusa Medusa's Bow/) 
 
  **Item to Rang supérieur:** -
 
@@ -156,7 +156,7 @@ toc: true
 * [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sephinroth](/heroes/Sephinroth/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

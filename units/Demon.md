@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corne ardente](/equipment/Corne ardente/) | **ATQ** | **DEF** | 
-  | [Pendentif en acier](/equipment/Pendentif en acier/) | **PV** | **DEF** | 
-  | [Scalding Claws](/equipment/Scalding Claws/) | **ATQ** | **DEF** | 
-  | [Bracelets à pointes](/equipment/Bracelets à pointes/) | **PV** | **DEF** | 
+  | [Corne ardente](/equipment/Corne ardente/) | **ATQ** | **DÉF** | 
+  | [Pendentif en acier](/equipment/Pendentif en acier/) | **PV** | **DÉF** | 
+  | [Griffes brûlantes](/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
+  | [Bracelets à pointes](/equipment/Bracelets à pointes/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -105,7 +105,7 @@ toc: true
 ### Capacité ultime: Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les Démons infligent aléatoirement </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie dans une large zone et augmentent leur esquive de 300 pendant 12 secondes.</span><span style="color: black">
 
-### Compétence normale 1 : Burns
+### Compétence normale 1 : Brûlures
  **Description:** <span style="color: #645252;font-size:20px">Le Démon restaure <span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à chaque fois qu'il esquive une attaque.</span><span style="color: black">
 
 ### Compétence normale 2 : Séide de l'Hadès
@@ -118,7 +118,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Résonance magique
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -153,7 +153,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
 
 ### Bonus de héros
@@ -183,7 +183,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -191,10 +191,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

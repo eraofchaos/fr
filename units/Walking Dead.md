@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machette maculée de sang](/equipment/Machette maculée de sang/) | **ATQ** | **DEF** | 
-  | [Collier en os](/equipment/Collier en os/) | **PV** | **DEF** | 
-  | [Bracelet en acier raffiné](/equipment/Bracelet en acier raffiné/) | **ATQ** | **DEF** | 
-  | [Pantalon de putréfaction](/equipment/Pantalon de putréfaction/) | **PV** | **DEF** | 
+  | [Machette maculée de sang](/equipment/Machette maculée de sang/) | **ATQ** | **DÉF** | 
+  | [Collier en os](/equipment/Collier en os/) | **PV** | **DÉF** | 
+  | [Bracelet en acier raffiné](/equipment/Bracelet en acier raffiné/) | **ATQ** | **DÉF** | 
+  | [Pantalon de putréfaction](/equipment/Pantalon de putréfaction/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -186,12 +186,12 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Trépassé dans les niveaux 15-2 et 15-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Walking Dead and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Trépassé et remportez </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Disease Outbreak
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
+### 1st Skill (or 2nd): Épidémie
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gaz toxique&gt; : </span><span style="color: #645252;font-size:18px">Inflige une quantité supplémentaire de dégâts égale à 2 % des PV max.</span>
 
 ### 2nd Skill (or 1st): Maladie infectieuse
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Gaz toxique&gt; : </span><span style="color: #645252;font-size:18px">Au début de la bataille, s'applique à l'ensemble des unités de mêlée alliées de la Nécropole ; l'effet est actif pendant toute la bataille et peut se cumuler jusqu'à 6 fois.</span>

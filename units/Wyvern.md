@@ -67,10 +67,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes de dragon](/equipment/Griffes de dragon/) | **ATQ** | **DEF** | 
-  | [Croc de la peste](/equipment/Croc de la peste/) | **PV** | **DEF** | 
-  | [Piques dorsaux de Diablotin](/equipment/Piques dorsaux de Diablotin/) | **ATQ** | **DEF** | 
-  | [Ailes de dragon](/equipment/Ailes de dragon/) | **PV** | **DEF** | 
+  | [Griffes de dragon](/equipment/Griffes de dragon/) | **ATQ** | **DÉF** | 
+  | [Croc de la peste](/equipment/Croc de la peste/) | **PV** | **DÉF** | 
+  | [Piques dorsaux de Diablotin](/equipment/Piques dorsaux de Diablotin/) | **ATQ** | **DÉF** | 
+  | [Ailes de dragon](/equipment/Ailes de dragon/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -115,7 +115,7 @@ toc: true
 ### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Rise of Vitality
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
   <script language="JavaScript">

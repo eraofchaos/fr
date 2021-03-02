@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
 
- **Position :** 
+ **Position :** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
 
 ## Stats de base
  **Base HP: 13350.0**
@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **PV** | **DEF** | 
+  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -110,7 +110,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str37"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str38"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Résonance magique
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str39"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str39"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ### Compétence normale 6 : Ragnarok
  **Description:** <span style="color: #645252;font-size:20px">Augmente la DÉF de la Progéniture venimeuse de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str40"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa ténacité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str41"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points lorsque 3 unités de l'Hadès sont déployées.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">5 secondes après le début du combat, le domaine </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Ragnarok&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> se forme, puis s'étend avec l'augmentation du niveau de la compétence. Ce domaine existe pendant 15 secondes, après quoi il est déclenché une fois toutes les 30 secondes.</span><span style="color: black">
@@ -216,7 +216,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
 
 ### Bonus de héros
@@ -257,7 +257,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt; : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Les trois premières invocations augmentent les dégâts et la résistance aux dégâts de vos unités de 10 % pendant 30 secondes. Le Paladin suprême invoque un Chef du sanctuaire la première fois qu'il apparaît sur le champ de bataille.</span>
 
 ### 3rd Skill (or 4th): Croyance et loyauté
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par "Exaltation".</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par \"Exaltation\".</span>
 
 ### 4th Skill (or 3rd): Foi inébranlable
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:20px">La résistance aux dégâts du Paladin augmente de 15 % supplémentaires.</span><span style="color: #645252;font-size:20px"> Cet effet double en cas d'</span><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;.</span><span style="color: #645252;font-size:20px"></span>
@@ -265,7 +265,7 @@ toc: true
 ### 5th Skill (or 6th): Persévérance
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts critiques de 50 % et la ténacité de 150 points. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
-### 6th Skill (or 5th): Agile Riposte
+### 6th Skill (or 5th): Riposte agile
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts de 15 % et la ténacité de 150 points pour toutes les unités à portée. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
 ## Technical info

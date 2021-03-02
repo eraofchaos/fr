@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lame transperçante](/equipment/Lame transperçante/) | **ATQ** | **DEF** | 
-  | [Épaulières marines](/equipment/Épaulières marines/) | **PV** | **DEF** | 
-  | [Coiffe du dieu serpent](/equipment/Coiffe du dieu serpent/) | **ATQ** | **DEF** | 
-  | [Plaque de hanche solide et flexible](/equipment/Plaque de hanche solide et flexible/) | **PV** | **DEF** | 
+  | [Lame transperçante](/equipment/Lame transperçante/) | **ATQ** | **DÉF** | 
+  | [Épaulières marines](/equipment/Épaulières marines/) | **PV** | **DÉF** | 
+  | [Coiffe du dieu serpent](/equipment/Coiffe du dieu serpent/) | **ATQ** | **DÉF** | 
+  | [Plaque de hanche solide et flexible](/equipment/Plaque de hanche solide et flexible/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -156,7 +156,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **Offensive**  (Groupement - Offensive)
 
 ### Bonus de héros
@@ -206,7 +206,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Immunise contre les dégâts de sorts pendant 3 secondes.</span>
 
 ### 6th Skill (or 5th): Lame enchantée
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de l'unité de 30 % pendant 6 secondes.</span>
 
 ## Technical info
  **runart:** 1

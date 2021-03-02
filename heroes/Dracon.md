@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon est considéré comme un prodige de la magie par bon nombre de ses aînés. Son but dans la vie est de devenir le plus grand chasseur de dragons de l'histoire."
 heroID: 61202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Dracon"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air à toutes les unités ennemies dans la zone d'effet.
 
 ### 4 Spell: Clone
- **Description:** Copy 1 of friendly units to fight in the battlefield. It has <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> of the original unit's ATK and takes {($duplidmg11+$duplidmg12*($sklevel-1))}% more damage. Lasts for 30s.
+ **Description:** Copie une de vos unités. Ce clone persiste 30s, possède <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))} %</span><span style="color: black"> de l'ATQ de l'unité originale et subit des dégâts majorés de {($duplidmg11+$duplidmg12*($sklevel-1))} %.
 
 
 ## HERO Biography

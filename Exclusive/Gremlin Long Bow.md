@@ -1,7 +1,7 @@
 ---
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Gremlin Long Bow/
-excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Gremlin Exclusif."
+excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Lutin Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
 ref: "Gremlin Arc long.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Arc long** 
 
- **Exclusif for Unit:** [Gremlin](/units/Gremlin/) 
+ **Exclusif for Unit:** [Lutin](/units/Gremlin/) 
 
  **Item to Rang supérieur:** -
 
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 216 | 13.62 | 78.64 |
-  | 2 | 245 | 16.35 | 94.37 |
-  | 3 | 274 | 19.07 | 110.1 |
-  | 4 | 302 | 21.8 | 125.83 |
-  | 5 | 331 | 24.52 | 141.55 |
-  | 6 | 360 | 27.25 | 157.28 |
-  | 7 | 389 | 29.97 | 173.01 |
+  | 1 | 216 | 13.64 | 89.04 |
+  | 2 | 245 | 16.37 | 106.84 |
+  | 3 | 274 | 19.1 | 124.65 |
+  | 4 | 302 | 21.82 | 142.46 |
+  | 5 | 331 | 24.55 | 160.26 |
+  | 6 | 360 | 27.28 | 178.07 |
+  | 7 | 389 | 30.01 | 195.88 |
 
 

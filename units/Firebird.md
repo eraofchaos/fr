@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bec des flammes furieuses](/equipment/Bec des flammes furieuses/) | **ATQ** | **DEF** | 
-  | [Rune de résurrection](/equipment/Rune de résurrection/) | **PV** | **DEF** | 
-  | [Griffes des flammes furieuses](/equipment/Griffes des flammes furieuses/) | **ATQ** | **DEF** | 
-  | [Ailes arc-en-ciel](/equipment/Ailes arc-en-ciel/) | **PV** | **DEF** | 
+  | [Bec des flammes furieuses](/equipment/Bec des flammes furieuses/) | **ATQ** | **DÉF** | 
+  | [Rune de résurrection](/equipment/Rune de résurrection/) | **PV** | **DÉF** | 
+  | [Griffes des flammes furieuses](/equipment/Griffes des flammes furieuses/) | **ATQ** | **DÉF** | 
+  | [Ailes arc-en-ciel](/equipment/Ailes arc-en-ciel/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Eternal Flame](/Exclusive/Firebird Eternal Flame/) 
+ **Name:** [Flamme éternelle](/Exclusive/Firebird Eternal Flame/) 
 
  **Item to Rang supérieur:** -
 
@@ -116,7 +116,7 @@ toc: true
 ### Compétence normale 3 : Bonus de feu
  **Description:** <span style="color: #645252;font-size:20px">L'Oiseau de feu est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts critiques augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Compétence spéciale de faction I : Elemental Affinity
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire

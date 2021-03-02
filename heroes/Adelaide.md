@@ -3,7 +3,7 @@ title: "Adelaïde"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaïde. Adelaïde. Alors qu'elle n'était qu'une jeune naufragée solitaire, Adelaïde est entrée par hasard sur le territoire des Elfes des neiges. Elle s'est entraînée pendant vingt ans à leurs côtés pour devenir la Mage la plus puissante du royaume avant de retourner en Erathia."
 heroID: 60001
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Adelaide"
 toc: true
@@ -67,13 +67,13 @@ toc: true
    - Toute nouvelle image de bataille
    - Avatar unique
 
-### Skin 3: **Mage de Worli**
+### Skin 3: **Mage de Vori**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Personne n'est jamais venu à bout d'un hiver de Vori.</span>
 
  **Skin features:** 
 
-   - Mage de Worli
+   - Mage de Vori
    - Avatar unique
 
 ### Skin 4: **Chant de Noël**

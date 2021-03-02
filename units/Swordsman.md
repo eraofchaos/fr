@@ -27,11 +27,11 @@ toc: true
 
  **Unit description:** Protection divine : réduit les dégâts reçus.
 
- **Short description:** Shield absorbs damage. Can self heal
+ **Short description:** Le bouclier absorbe les dégâts. Peut se soigner.
 
  **Position :** Inflige de lourds dégâts en début de combat. Peut frapper deux fois et se soigner.
 
- **Recommend:** Deals extra damage to any slowed enemies.
+ **Recommend:** Inflige des dégâts supplémentaires aux ennemis ralentis.
 
 ## Stats de base
  **Base HP: 1324.0**
@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Épée de l'Empire](/equipment/Épée de l'Empire/) | **ATQ** | **DEF** | 
-  | [Heaume d'officier](/equipment/Heaume d'officier/) | **PV** | **DEF** | 
-  | [Bouclier de l'Empire](/equipment/Bouclier de l'Empire/) | **ATQ** | **DEF** | 
-  | [Épaulières de l'Empire](/equipment/Épaulières de l'Empire/) | **PV** | **DEF** | 
+  | [Épée de l'Empire](/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
+  | [Heaume d'officier](/equipment/Heaume d'officier/) | **PV** | **DÉF** | 
+  | [Bouclier de l'Empire](/equipment/Bouclier de l'Empire/) | **ATQ** | **DÉF** | 
+  | [Épaulières de l'Empire](/equipment/Épaulières de l'Empire/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -119,7 +119,7 @@ toc: true
 ### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### Compétence spéciale de faction II : Defense Resonance
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -243,7 +243,7 @@ toc: true
 
  **posclass:** 2
 
- **talk1:** That was just the warmup! When does the battle begin?
+ **talk1:** Ce n'était que l'échauffement ! La bataille commence quand ?
 
  **talk2:** Venez à moi, mes frères !
 

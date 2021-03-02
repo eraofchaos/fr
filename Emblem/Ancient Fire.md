@@ -2,7 +2,7 @@
 title: "Emblème sacré - Feu ancien"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Feu ancien. Feu ancien. Era of Chaos Emblème sacré Feu ancien. Era of Chaos Ordre Feu ancien"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Ancient Fire.md"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | [Feu ancien](/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +6, PV +3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des unités au sol, les dégâts augmentent de 4 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +16, PV +7 %</span> | 
   | [Feu ancien](/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +2, PV +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des unités au sol, les dégâts augmentent de 2 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +6, PV +2 %</span> | 
   | [Feu ancien](/Emblem/Ancient Fire/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +20, PV +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des unités au sol, les dégâts augmentent de 12 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +55, PV +20 %</span> | 
-  | [Feu ancien](/Emblem/Ancient Fire/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +13, HP +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des unités au sol, les dégâts augmentent de 8 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +30, PV +15 %</span> | 
+  | [Feu ancien](/Emblem/Ancient Fire/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +13, PV +5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des unités au sol, les dégâts augmentent de 8 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +30, PV +15 %</span> | 
 
   |         Description            | 
   |:-------------------------------|

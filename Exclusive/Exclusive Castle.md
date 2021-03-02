@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Lancier](/units/Pikeman/) | [Épée](/Exclusive/Pikeman Sword/) | - | Assaut | - | - |
-  | 2  | [Grand Arbalétrier](/units/Marksman/) | [Arc long](/Exclusive/Marksman Long Bow/) | + | Assaut | - | - |
-  | 3  | [Griffon](/units/Griffin/) | [Charge gracieuse](/Exclusive/Griffin Knight Pike/) | - | Assaut | - | - |
+  | 2  | [Grand Arbalétrier](/units/Marksman/) | [Arc long](/Exclusive/Marksman Long Bow/) | - | Assaut | - | - |
+  | 3  | [Griffon](/units/Griffin/) | [Pic du Chevalier](/Exclusive/Griffin Knight Pike/) | - | Assaut | - | - |
   | 4  | [Spadassin](/units/Swordsman/) | [Bouclier iris](/Exclusive/Swordsman Iris Shield/) | - | Assaut | - | - |
-  | 5  | [Moine](/units/Monk/) | [Mélopée des arcanes](/Exclusive/Monk Arcane Chant/) | + | Assaut | - | - |
-  | 6  | [Cavalier](/units/Cavalier/) | [Charge gracieuse](/Exclusive/Cavalier Knight Pike/) | + | Assaut | - | - |
-  | 7  | [Ange](/units/Angel/) | [Durandel](/Exclusive/Angel Durandel/) | + | Soutien | - | - |
+  | 5  | [Moine](/units/Monk/) | [Mélopée des arcanes](/Exclusive/Monk Arcane Chant/) | - | Assaut | - | - |
+  | 6  | [Cavalier](/units/Cavalier/) | [Pic du Chevalier](/Exclusive/Cavalier Knight Pike/) | + | Assaut | - | - |
+  | 7  | [Ange](/units/Angel/) | [Durandel](/Exclusive/Angel Durandel/) | - | Soutien | - | - |
   | 8  | [Paladin](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Soutien | - | - |
   | 9  | [Adjudicatrice](/units/Judicator/) | [](/Exclusive/Judicator /) | - | Capitale | - | - |

@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Chaque attaque normale inflige à la cible des dégâts équivalents à 30 % de l'ATQ de l'unité. |
+  |  Initial  | ? | Chaque attaque normale inflige à la cible des dégâts supplémentaires équivalents à 30 % de l'ATQ. |
   | **1x** <i class="fas fa-star"/> | ? | Les dégâts de la Pégase augmentent de 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Les dégâts de la Pégase augmentent de 20 % et sa vitesse d'ATQ de 10 %. |
+  | **2x** <i class="fas fa-star"/> | ? | L'ATQ de la Pégase augmente de 20 % et sa vitesse d'ATQ de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Tempête de lames> : La Pégase lance une épine de rose toutes les 25 secondes, infligeant à toutes les unités ennemies une quantité de dégâts égale à l'addition de 5 % de ses PV max et de 20 % de son ATQ. Elle inflige aussi Saignement aux ennemis pendant 10 secondes. |
   | **4x** <i class="fas fa-star"/> | ? | L'attaque normale de la Pégase réduit la résistance aux dégâts de sa cible de 2 %. Cet effet dure 3 secondes, et peut se cumuler jusqu'à 7 fois. |
   | **5x** <i class="fas fa-star"/> | ? | Lorsqu'il affronte des cibles portant un <Bouclier>, la vitesse d'ATQ de la Pégase augmente de 10 % pendant 3 secondes. Lorsqu'elle affronte des cibles victimes de <Saignement>, ses dégâts augmentent de 20 % pendant 3 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | <Perce-cœur> : La Pégase inflige 250 % de dégâts à l'unité cible et réduit sa DÉF de 20 % pendant 3 secondes toutes les 15 secondes. |
+  | **6x** <i class="fas fa-star"/> | ? | <Perce-cœur> : La Pégase inflige 250 % de dégâts à un membre de l'unité cible et réduit la DÉF de l'unité de 20 % pendant 3 secondes toutes les 15 secondes. |
 
 
 ## Améliorer

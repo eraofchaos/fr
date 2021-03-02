@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Frappe à deux reprises. Efficace contre les grandes unités.
 
- **Position :** Deal colossal burst damage and a double strike. Most effective against large units.
+ **Position :** Inflige de lourds dégâts directs et une double frappe. Surtout efficace sur les grandes unités.
 
  **Recommend:** Le Guerrier, le Mage et le Prêtre sont efficaces ensemble.
 
@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arbalète légère](/equipment/Arbalète légère/) | **ATQ** | **DEF** | 
-  | [Chapeau d'acier](/equipment/Chapeau d'acier/) | **PV** | **DEF** | 
-  | [Flèches perçantes](/equipment/Flèches perçantes/) | **ATQ** | **DEF** | 
-  | [Gantelets en cuir](/equipment/Gantelets en cuir/) | **PV** | **DEF** | 
+  | [Arbalète légère](/equipment/Arbalète légère/) | **ATQ** | **DÉF** | 
+  | [Chapeau d'acier](/equipment/Chapeau d'acier/) | **PV** | **DÉF** | 
+  | [Flèches perçantes](/equipment/Flèches perçantes/) | **ATQ** | **DÉF** | 
+  | [Gantelets en cuir](/equipment/Gantelets en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -120,7 +120,7 @@ toc: true
 ### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### Compétence spéciale de faction II : Defense Resonance
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">

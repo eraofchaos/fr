@@ -66,10 +66,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Boule électrique vacillante](/equipment/Boule électrique vacillante/) | **ATQ** | **DEF** | 
-  | [Noyau du tonnerre](/equipment/Noyau du tonnerre/) | **PV** | **DEF** | 
-  | [Griffe magique](/equipment/Griffe magique/) | **ATQ** | **DEF** | 
-  | [Œil maléfique de foudre](/equipment/Œil maléfique de foudre/) | **PV** | **DEF** | 
+  | [Boule électrique vacillante](/equipment/Boule électrique vacillante/) | **ATQ** | **DÉF** | 
+  | [Noyau du tonnerre](/equipment/Noyau du tonnerre/) | **PV** | **DÉF** | 
+  | [Griffe magique](/equipment/Griffe magique/) | **ATQ** | **DÉF** | 
+  | [Œil maléfique de foudre](/equipment/Œil maléfique de foudre/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -111,7 +111,7 @@ toc: true
 ### Compétence normale 3 : Percée statique
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'Élémentaire de tempête augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double si la cible est victime de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Compétence spéciale de faction I : Elemental Affinity
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Éclair explosif
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Rebond électrique&gt; :</span><span style="color: #645252;font-size:18px"> Double les dégâts de la compétence.</span>
 
-### 5th Skill (or 6th): Conflux Aura
+### 5th Skill (or 6th): Aura du Conflux
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Force élémentaire&gt; :</span><span style="color: #645252;font-size:18px"> Augmente de 25 % la vitesse d'attaque de deux unités aléatoires en ligne arrière pendant 10 secondes lorsqu'un Héros lance un sort d'air.</span>
 
 ### 6th Skill (or 5th): Explosion du Conflux

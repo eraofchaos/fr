@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pointe en os](/equipment/Pointe en os/) | **ATQ** | **DEF** | 
-  | [Crâne draconique](/equipment/Crâne draconique/) | **PV** | **DEF** | 
-  | [Griffes perçantes](/equipment/Griffes perçantes/) | **ATQ** | **DEF** | 
-  | [Gemme spirituelle](/equipment/Gemme spirituelle/) | **PV** | **DEF** | 
+  | [Pointe en os](/equipment/Pointe en os/) | **ATQ** | **DÉF** | 
+  | [Crâne draconique](/equipment/Crâne draconique/) | **PV** | **DÉF** | 
+  | [Griffes perçantes](/equipment/Griffes perçantes/) | **ATQ** | **DÉF** | 
+  | [Gemme spirituelle](/equipment/Gemme spirituelle/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -112,7 +112,7 @@ toc: true
 ### Compétence normale 2 : Pénétration
  **Description:** <span style="color: #645252;font-size:20px">La pénétration défensive du Dragon squelette augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsqu'il attaque des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ce bonus double.</span><span style="color: black">
 
-### Compétence normale 3 : Ageing
+### Compétence normale 3 : Vieillissement
  **Description:** <span style="color: #645252;font-size:20px">Quand un Dragon squelette est sur le champ de bataille, la résistance aux dégâts de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
@@ -183,7 +183,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pièces d'équipement lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Ghost Dragon souls in the Underground: 18-2 and 18-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Dragon fantôme dans les niveaux 18-2 et 18-4 du Souterrain.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Dragon squelette et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités de la Nécropole pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats en Campagne. (Les raids ne comptent pas pour la mission.)</span>
 

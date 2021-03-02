@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Fée](/units/Sprite/) | [Charge gracieuse](/Exclusive/Sprite Knight Pike/) | - | Assaut | - | - |
+  | 1  | [Fée](/units/Sprite/) | [Pic du Chevalier](/Exclusive/Sprite Knight Pike/) | - | Assaut | - | - |
   | 2  | [Élémentaire de tempête](/units/Storm Elemental/) | [Arc long](/Exclusive/Storm Elemental Long Bow/) | - | Assaut | - | - |
   | 3  | [Élémentaire de glace](/units/Ice Elemental/) | [Mélopée des arcanes](/Exclusive/Ice Elemental Arcane Chant/) | - | Assaut | - | - |
   | 4  | [Élémentaire de feu](/units/Fire Elemental/) | [Énergie de feu](/Exclusive/Fire Elemental Fire Energy/) | - | À distance | - | - |
-  | 5  | [Stone Elemental](/units/Stone Elemental/) | [Noyau d'énergie](/Exclusive/Stone Elemental Energy Core/) | - | À distance | - | - |
-  | 6  | [Élémentaire de l'esprit](/units/Psychic Elemental/) | [Spirit Core](/Exclusive/Psychic Elemental Spirit Core/) | - | Soutien | - | - |
-  | 7  | [Oiseau de feu](/units/Firebird/) | [Eternal Flame](/Exclusive/Firebird Eternal Flame/) | - | À distance | - | - |
-  | 8  | [Démon de glace](/units/Ice Demon/) | - | - | - | none | none |
-  | 9  | [Farfadet](/units/Leprechaun/) | - | - | - | none | none |
+  | 5  | [Élémentaire de pierre](/units/Stone Elemental/) | [Noyau d'énergie](/Exclusive/Stone Elemental Energy Core/) | - | À distance | - | - |
+  | 6  | [Élémentaire de l'esprit](/units/Psychic Elemental/) | [Noyau spirituel](/Exclusive/Psychic Elemental Spirit Core/) | - | Soutien | - | - |
+  | 7  | [Oiseau de feu](/units/Firebird/) | [Flamme éternelle](/Exclusive/Firebird Eternal Flame/) | + | À distance | - | - |
+  | 8  | [Démone de glace](/units/Ice Demon/) | - | - | - | none | none |
+  | 9  | [Farfadet](/units/Leprechaun/) | [Ronces](/Exclusive/Leprechaun Thorns/) | - | Soutien | - | - |

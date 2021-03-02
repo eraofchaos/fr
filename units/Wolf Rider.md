@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sabre acéré](/equipment/Sabre acéré/) | **ATQ** | **DEF** | 
-  | [Ceinture de puissance](/equipment/Ceinture de puissance/) | **PV** | **DEF** | 
-  | [Bracelet du loup](/equipment/Bracelet du loup/) | **ATQ** | **DEF** | 
-  | [Épaulières de langue-loup](/equipment/Épaulières de langue-loup/) | **PV** | **DEF** | 
+  | [Sabre acéré](/equipment/Sabre acéré/) | **ATQ** | **DÉF** | 
+  | [Ceinture de puissance](/equipment/Ceinture de puissance/) | **PV** | **DÉF** | 
+  | [Bracelet du loup](/equipment/Bracelet du loup/) | **ATQ** | **DÉF** | 
+  | [Épaulières de langue-loup](/equipment/Épaulières de langue-loup/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Charge gracieuse](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Pic du Chevalier](/Exclusive/Wolf Rider Knight Pike/) 
 
  **Item to Rang supérieur:** -
 
@@ -190,7 +190,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Pillard dans les niveaux 16-2 et 16-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wolf Rider and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Arena battles. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Chevaucheur de loup et remportez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> victoires dans l'Arène. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 

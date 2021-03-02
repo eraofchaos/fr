@@ -71,10 +71,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe brûlant](/equipment/Orbe brûlant/) | **ATQ** | **DEF** | 
-  | [Cor ardent](/equipment/Cor ardent/) | **PV** | **DEF** | 
-  | [Queue enflammée](/equipment/Queue enflammée/) | **ATQ** | **DEF** | 
-  | [Bracelets brûlants](/equipment/Bracelets brûlants/) | **PV** | **DEF** | 
+  | [Orbe brûlant](/equipment/Orbe brûlant/) | **ATQ** | **DÉF** | 
+  | [Cor ardent](/equipment/Cor ardent/) | **PV** | **DÉF** | 
+  | [Queue enflammée](/equipment/Queue enflammée/) | **ATQ** | **DÉF** | 
+  | [Bracelets brûlants](/equipment/Bracelets brûlants/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -104,11 +104,11 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Capacité ultime: Fire Wall
+### Capacité ultime: Mur de flammes
  **Description:** <span style="color: #645252;font-size:20px">La Gog crée un mur de flammes devant elle et inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies autour. Le mur de flammes dure 8 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Explosion enflammée
- **Description:** <span style="color: #645252;font-size:20px">Gog's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets, and may </span><span style="color: black"><span style="color: #e07c44;font-size:20px">\"Burn\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Gogs a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à 3 cibles et de les </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;brûler&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
 ### Compétence normale 2 : Incinération
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Gog augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -155,7 +155,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
@@ -184,7 +184,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Magog dans les niveaux 15-2 et 15-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Gog and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Caster Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez Gog et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités de lanceurs de sorts pour remporter </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 

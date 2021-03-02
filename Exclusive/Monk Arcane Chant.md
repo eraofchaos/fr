@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Assaut
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1510
 
@@ -31,11 +31,11 @@ classes: wide
   |:-------------|:---------------:|:---------------:|
   |  Initial  | ? | <Prédication> sera déclenchée toutes les 9 secondes pour restaurer une quantité de PV égale à 125 % de l'ATQ de l'unité alliée ayant le pourcentage de PV le plus bas. |
   | **1x** <i class="fas fa-star"/> | ? | L'attaque du Moine augmente de 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Dés que <Prédication> est lancée, une unité alliée aléatoire entrera en "Exaltation" pendant 10 secondes. |
+  | **2x** <i class="fas fa-star"/> | ? | Dés que <Prédication> est lancée, une unité alliée aléatoire entrera en \"Exaltation\" pendant 10 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Dévotion> : Le Moine dissipe l'affaiblissement d'une unité alliée aléatoire toutes les 10 secondes. |
   | **4x** <i class="fas fa-star"/> | ? | La résistance aux dégâts du Moine augmente de 25 %. |
   | **5x** <i class="fas fa-star"/> | ? | Dès que <Prédication> est lancée, la vitesse d'ATQ d'une unité ennemie aléatoire diminue de 10 % pendant 10 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | Dès que <Dévotion> est lancée, l'unité bénéficie d'un bouclier égal à 20 % de ses PV max, et elle génère un bouclier égal à 10 % de ses PV max pour une unité alliée aléatoire. Cet effet ne peut pas être cumulé (les Moines peuvent recevoir deux "boucliers"). |
+  | **6x** <i class="fas fa-star"/> | ? | Dès que <Dévotion> est lancée, l'unité bénéficie d'un bouclier égal à 20 % de ses PV max, et elle génère un bouclier égal à 10 % de ses PV max pour une unité alliée aléatoire. Cet effet ne peut pas être cumulé (les Moines peuvent recevoir deux \"boucliers\"). |
 
 
 ## Améliorer

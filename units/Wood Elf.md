@@ -72,10 +72,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arc long sylvain](/equipment/Arc long sylvain/) | **ATQ** | **DEF** | 
-  | [Bandeau des vertes-feuilles](/equipment/Bandeau des vertes-feuilles/) | **PV** | **DEF** | 
-  | [Flèches de jade](/equipment/Flèches de jade/) | **ATQ** | **DEF** | 
-  | [Robe courte des vertes-feuilles](/equipment/Robe courte des vertes-feuilles/) | **PV** | **DEF** | 
+  | [Arc long sylvain](/equipment/Arc long sylvain/) | **ATQ** | **DÉF** | 
+  | [Bandeau des vertes-feuilles](/equipment/Bandeau des vertes-feuilles/) | **PV** | **DÉF** | 
+  | [Flèches de jade](/equipment/Flèches de jade/) | **ATQ** | **DÉF** | 
+  | [Robe courte des vertes-feuilles](/equipment/Robe courte des vertes-feuilles/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -174,7 +174,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Grand Elf
+ **Awaking Name:** Grand Elfe
 
  **Awaking Description:** Les oiseaux dans la forêt sont ses yeux, les flèches qui fendent les airs sont son cri adoubé par une sorte de bénédiction naturelle. Les Grands Elfes de Tularean sont de nobles chasseurs qui défendent la volonté de la grande forêt.
 
@@ -185,11 +185,11 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Grand Elfe dans les niveaux 15-2 et 15-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Rampart Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Elfe sylvaine et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Rempart pour remporter </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Phantom Concentration
+### 1st Skill (or 2nd): Concentration spectrale
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Pluie de flèches&gt; : </span><span style="color: #645252;font-size:18px">Quand l'unité reçoit les bonus de &lt;Foudre de guerre&gt;, ses dégâts augmentent de 20 % pendant 5 secondes.</span>
 
 ### 2nd Skill (or 1st): Déluge

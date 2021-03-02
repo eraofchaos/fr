@@ -1,18 +1,18 @@
 ---
-title: "Démon de glace"
+title: "Démone de glace"
 permalink: /units/Ice Demon/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Démon de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales."
+excerpt: "Era of Chaos Unités. Unités. Era of Chaos La Démone de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales."
 unitID: 908
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Démon de glace"
+ref: "Démone de glace"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
- **Description:** Le Démon de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales.
+ **Description:** La Démone de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales.
 
  **Classe:** [À distance](/units/Unit Class Ranged/)
 
@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Glace ancestrale](/equipment/Glace ancestrale/) | **ATQ** | **DEF** | 
-  | [Toucher glacial](/equipment/Toucher glacial/) | **PV** | **DEF** | 
-  | [Heaume gelé](/equipment/Heaume gelé/) | **ATQ** | **DEF** | 
-  | [Throne of Ice](/equipment/Throne of Ice/) | **PV** | **DEF** | 
+  | [Glace ancestrale](/equipment/Glace ancestrale/) | **ATQ** | **DÉF** | 
+  | [Toucher glacial](/equipment/Toucher glacial/) | **PV** | **DÉF** | 
+  | [Heaume gelé](/equipment/Heaume gelé/) | **ATQ** | **DÉF** | 
+  | [Trône de glace](/equipment/Trône de glace/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -97,35 +97,36 @@ toc: true
 ### Capacité ultime: Épine glaciale
  **Description:** <span style="color: #645252;font-size:20px">La Démone de glace lance &lt;Épine glaciale&gt; toutes les 11 secondes et inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de l'ATQ à l'unité ciblée 3 fois. Si &lt;Épine glaciale&gt; réalise un coup critique, elle inflige des dégâts supplémentaires équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de l'ATQ à 3 unités ennemies dans un vaste périmètre et inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gelure</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
-### Compétence normale 1 : Frost Triumph
+### Compétence normale 1 : Triomphe de givre
  **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et octroie</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Augmente la vitesse d'attaque de la Démone de glace de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points pour chaque unité du Conflux déployée.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Augmente les dégâts de la Démone de glace de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa pénétration de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points pour chaque unité à distance et Lanceurs de sorts déployés.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Les attaques normales de la Démone de glace ont </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">Lenteur</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Les attaques normales de la Démone de glace ont </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gel</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée. Cet effet ne peut pas être dissipé et dure 4 secondes. Le temps de recharge est de 8 secondes.</span><span style="color: black">
 
 ### Compétence normale 2 : Zéro absolu
  **Description:** <span style="color: #645252;font-size:20px">Lorsque la Démone de glace est sur le champ de bataille, les unités défensives ennemies qui ont des PV supérieurs à 50 % subiront des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max toutes les 3 secondes. Cet effet augmente de 30 % pour les unités touchées par </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gelure</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque la Démone de glace se bat contre des unités ennemies touchées par </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gel</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gelure</span><span style="color: black"><span style="color: #645252;font-size:20px">, ou </span><span style="color: black"><span style="color: #48b946;font-size:20px">Arrêt du temps</span><span style="color: black"><span style="color: #645252;font-size:20px">, inflige des dégâts supplémentaires équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de l'ATQ de la Démone de glace toutes les 3 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque la Démone de glace est sur le champ de bataille, un jugement sera émis toutes les 3 secondes, après quoi la vitesse d'attaque de toutes les unités ennemies dont les PV sont inférieurs à 50 % sera réduite de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ces unités auront également 10 % de chance d'être touchées par </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gelure</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 3 : Maîtresse de la glace
- **Description:** <span style="color: #645252;font-size:20px">Le Démon de glace et les unités (hors Forteresse) situées dans un vaste périmètre autour du Démon de glace sont immunisés contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gel</span><span style="color: black"><span style="color: #645252;font-size:20px"> et </span><span style="color: black"><span style="color: #48b946;font-size:20px">Arrêt du temps</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Le Démon de glace octroie </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Armure de cristal&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux unités à distance et de Lanceurs de sorts alliées, et augmente leur résistance aux dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> toutes les 13 secondes. Cet effet ne peut pas être dissipé ni cumulé. Il dure 6 secondes et disparaît après que l'unité a subi 5 fois des dégâts. Ce chiffre est doublé pour le Démon de glace.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Démone de glace et les unités (hors Forteresse) situées dans un vaste périmètre autour de la Démone de glace sont immunisées contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gel</span><span style="color: black"><span style="color: #645252;font-size:20px"> et </span><span style="color: black"><span style="color: #48b946;font-size:20px">Arrêt du temps</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Toutes les 13 secondes, la Démone de glace octroie </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Armure de cristal&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux unités à distance et de Lanceurs de sorts alliées, augmentant leur résistance aux dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur renvoi de dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet ne peut pas être dissipé ni cumulé. Il dure 6 secondes et disparaît après que l'unité a subi 5 fois des dégâts. Ce chiffre est doublé pour la Démone de glace.</span><span style="color: black">
 
-### Compétence spéciale de faction I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Compétence spéciale de faction I : Affinité élémentaire
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 6 : Domaine de givre
- **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts d'unité du Démon de glace de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsque 3 unités du Conflux sont déployées.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 secondes après le début du combat, </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Domaine de givre&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> se forme, puis s'étend avec l'augmentation du niveau de la compétence. Ce domaine existe pendant 15 secondes, après quoi il est déclenché une fois toutes les 30 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts d'unité de la Démone de glace de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsque 3 unités du Conflux sont déployées.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 secondes après le début du combat, </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Domaine de givre&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> se forme, puis s'étend avec l'augmentation du niveau de la compétence. Ce domaine existe pendant 15 secondes, après quoi il est déclenché une fois toutes les 30 secondes.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
+    let str20 = "LEVEL*2+5"
     let str7 = "LEVEL*0.7+4.5"
     let str8 = "LEVEL*5+25"
     let str5 = "LEVEL*0.7+4.5"
-    let str18 = "LEVEL*2+4"
+    let str18 = "(LEVEL*1+5)"
     let str6 = "LEVEL*5+25"
-    let str19 = "LEVEL*2+5"
+    let str19 = "LEVEL*2+4"
     let str3 = "LEVEL*1+15"
     let str4 = "LEVEL*0.5+12.5"
     let str1 = "LEVEL*5+45"
@@ -134,13 +135,14 @@ toc: true
     let str13 = "LEVEL*3+10"
     let str10 = "LEVEL*0.2+1.8"
     let str11 = "LEVEL*0.5+23.5"
-    let str16 = "(LEVEL*3+15)"
-    let str17 = "(LEVEL*1+5)"
+    let str16 = "LEVEL*2+2"
+    let str17 = "(LEVEL*3+15)"
     let str9 = "LEVEL*1.5+22.5"
     let str14 = "LEVEL*1+10"
     let str15 = "LEVEL*5+25"
     let res="ERR";
     try {
+     res = eval(str20); document.getElementById('str20').textContent = res;
      res = eval(str7); document.getElementById('str7').textContent = res;
      res = eval(str8); document.getElementById('str8').textContent = res;
      res = eval(str5); document.getElementById('str5').textContent = res;
@@ -202,7 +204,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -210,10 +212,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

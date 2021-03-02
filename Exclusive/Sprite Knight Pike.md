@@ -1,17 +1,17 @@
 ---
-title: "Exclusif - Charge gracieuse"
+title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Sprite Knight Pike/
-excerpt: "Era of Chaos Charge gracieuse. Charge gracieuse. Era of Chaos Exclusif Charge gracieuse. Fée Exclusif."
+excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Fée Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
-ref: "Sprite Charge gracieuse.md"
+ref: "Sprite Pic du Chevalier.md"
 toc: false
 classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Charge gracieuse** 
+ **Name: Pic du Chevalier** 
 
  **Exclusif for Unit:** [Fée](/units/Sprite/) 
 
@@ -23,7 +23,7 @@ classes: wide
 
  **Open:** -
 
- **Power:** 1560
+ **Power:** 1440
 
 ## Rang supérieur
 
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 234 | 11.69 | 167.0 |
-  | 2 | 265 | 14.03 | 200.4 |
-  | 3 | 296 | 16.36 | 233.8 |
-  | 4 | 328 | 18.7 | 267.2 |
-  | 5 | 359 | 21.04 | 300.6 |
-  | 6 | 390 | 23.38 | 334.0 |
-  | 7 | 421 | 25.71 | 367.4 |
+  | 1 | 216 | 11.69 | 167.0 |
+  | 2 | 245 | 14.03 | 200.4 |
+  | 3 | 274 | 16.36 | 233.8 |
+  | 4 | 302 | 18.7 | 267.2 |
+  | 5 | 331 | 21.04 | 300.6 |
+  | 6 | 360 | 23.38 | 334.0 |
+  | 7 | 389 | 25.71 | 367.4 |
 
 

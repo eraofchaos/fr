@@ -1,7 +1,7 @@
 ---
 title: "Exclusif - Noyau d'énergie"
 permalink: /Exclusive/Stone Elemental Energy Core/
-excerpt: "Era of Chaos Noyau d'énergie. Noyau d'énergie. Era of Chaos Exclusif Noyau d'énergie. Stone Elemental Exclusif."
+excerpt: "Era of Chaos Noyau d'énergie. Noyau d'énergie. Era of Chaos Exclusif Noyau d'énergie. Élémentaire de pierre Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
 ref: "Stone Elemental Noyau d'énergie.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Noyau d'énergie** 
 
- **Exclusif for Unit:** [Stone Elemental](/units/Stone Elemental/) 
+ **Exclusif for Unit:** [Élémentaire de pierre](/units/Stone Elemental/) 
 
  **Item to Rang supérieur:** -
 
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Frappe de pierre> : Frappe le sol, infligeant une quantité de dégâts égale à 200 % de son ATQ aux unités ennemies dans une large zone. Elles sont "assommées" et "étourdies" pendant 3 secondes. Le temps de recharge est de 20 secondes et le temps de chargement est de 10 secondes. |
+  |  Initial  | ? | <Frappe de pierre> : Frappe le sol, infligeant une quantité de dégâts égale à 200 % de son ATQ aux unités ennemies dans une large zone. Elles sont \"assommées\" et \"étourdies\" pendant 3 secondes. Le temps de recharge est de 20 secondes et le temps de chargement est de 10 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts de l'Élémentaire de pierre augmente de 20 %. L'effet double lorsque l'Élémentaire de pierre est attaqué par des Mages. |
   | **2x** <i class="fas fa-star"/> | ? | <Argile> : Lorsqu'un ennemi ou un allié lance un sort, l'Élémentaire de pierre récupère 2 % de ses PV max. |
   | **3x** <i class="fas fa-star"/> | ? | <Frappe de pierre> diminue la vitesse d'ATQ des unités ennemies de 20 % pendant 8 secondes. Si les ennemis sont <brûlées> par <Trio de feu>, leur résistance aux dégâts diminuera de 15 %. L'effet dure 8 secondes. |

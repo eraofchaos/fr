@@ -65,12 +65,18 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Branche fleurie rigide](/equipment/Branche fleurie rigide/) | **ATQ** | **DEF** | 
-  | [Épine toxique](/equipment/Épine toxique/) | **PV** | **DEF** | 
-  | [Seigneur des fleurs](/equipment/Seigneur des fleurs/) | **ATQ** | **DEF** | 
-  | [Abeille assassine](/equipment/Abeille assassine/) | **PV** | **DEF** | 
+  | [Branche fleurie rigide](/equipment/Branche fleurie rigide/) | **ATQ** | **DÉF** | 
+  | [Épine toxique](/equipment/Épine toxique/) | **PV** | **DÉF** | 
+  | [Seigneur des fleurs](/equipment/Seigneur des fleurs/) | **ATQ** | **DÉF** | 
+  | [Abeille assassine](/equipment/Abeille assassine/) | **PV** | **DÉF** | 
 
 ## Exclusif
+
+ **Name:** [Feuille de Guêpier](/Exclusive/Waspwort Waspwort Leaf/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
 
 
 ## Emblèmes sacrés recommandés
@@ -97,7 +103,7 @@ toc: true
 ### Capacité ultime: Aiguillon de pestilence
  **Description:** <span style="color: #645252;font-size:20px">Le Guêpier crache une pluie de dards empoisonnés toutes les 12 secondes, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible, ainsi que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. S'il inflige un coup critique lors d'une attaque normale, le Guêpier augmente sa vitesse d'ATQ de 5 % pour les 10 prochaines secondes. Cet effet peut se cumuler jusqu'à 20 fois.</span><span style="color: black">
 
-### Compétence normale 1 : Plague Wasp
+### Compétence normale 1 : Guêpe de pestilence
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Guêpier a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'invoquer 1 Guêpe pestilentielle. Chaque invocation fournit un bonus de 2 % de dégâts supplémentaires à toutes les unités alliées de la Forteresse. Cet effet peut se cumuler jusqu'à 8 fois. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsqu'il attaque, le Guêpier a 20 % de chance d'invoquer une </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Abeille de pestilence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et a 30 % de chance de dissiper les bonus de la cible. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">L'&lt;Abeille de pestilence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> infligera </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Paralyse&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ou </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à la cible. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Les Guêpes survivent 40 secondes. Quand une Guêpe meurt, elle inflige une quantité de dégâts égale à 4 % de ses PV max aux unités ennemies à portée.</span><span style="color: black">
 
 ### Compétence normale 2 : Grande peste
@@ -109,7 +115,7 @@ toc: true
 ### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Rise of Vitality
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -179,7 +185,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour remporter </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -187,10 +193,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>

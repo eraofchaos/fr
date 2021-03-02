@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Portée de découpe rapide étendue.
 
- **Position :** 
+ **Position :** Portée de découpe rapide étendue.
 
 ## Stats de base
  **Base HP: 6336.0**
@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **PV** | **DEF** | 
+  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -103,7 +103,7 @@ toc: true
 ### Compétence normale 2 : Aura tyrannique
  **Description:** <span style="color: #645252;font-size:20px">La Mante religieuse est immunisée contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">Pétrification</span><span style="color: black"><span style="color: #645252;font-size:20px"> et </span><span style="color: black"><span style="color: #48b946;font-size:20px">Maladie</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente la vitesse d'attaque de la Mante religieuse de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour chaque unité du Rempart sur le champ de bataille. Après avoir infligé un coup critique, dissipe les affaiblissements sur elle-même et 1 unité du Rempart alliée dans un certain périmètre autour d'elle et déploie un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bouclier tyrannique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> équivalent à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max (ne peut pas être dissipé). L'effet peut se cumuler jusqu'à 3 fois, et le temps de recharge est de 8 secondes. Au début du combat, la Mante religieuse s'octroie </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bouclier tyrannique&gt;.</span><span style="color: black">
 
-### Compétence normale 3 : Bind
+### Compétence normale 3 : Engourdissement
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'elle attaque une unité </span><span style="color: black"><span style="color: #48b946;font-size:20px">ralentie</span><span style="color: black"><span style="color: #645252;font-size:20px">, elle a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'infliger <span style="color: #48b946;font-size:20px">Engourdissement</span><span style="color: black"> à 2 unités ennemies dans un périmètre restreint autour d'elle pendant 3 secondes. Le temps de recharge est de 6 secondes. Lorsqu'une unité du Rempart reçoit </span><span style="color: black"><span style="color: #48b946;font-size:20px">Bouclier</span><span style="color: black"><span style="color: #645252;font-size:20px">, les dégâts d'unité de la Mante religieuse augmentent de 0,5 %, sa vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points supplémentaires pendant 10 secondes. Cet effet peut se cumuler jusqu'à 50 fois.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Prolifération paisible

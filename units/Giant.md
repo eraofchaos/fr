@@ -31,7 +31,7 @@ toc: true
 
  **Position :** Peut infliger des dégâts magiques à tous les ennemis. Les sorts de Héros augmentent son attaque.
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+ **Recommend:** Augmentez votre moral pour profiter des avantages de l'exaltation, dont des points de déplacement supplémentaires pour les unités concernées.
 
 ## Stats de base
  **Base HP: 5431.0**
@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Éclair](/equipment/Éclair/) | **ATQ** | **DEF** | 
-  | [Épaulières en or pur](/equipment/Épaulières en or pur/) | **PV** | **DEF** | 
-  | [Heaume spirituel](/equipment/Heaume spirituel/) | **ATQ** | **DEF** | 
-  | [Plastron éclair](/equipment/Plastron éclair/) | **PV** | **DEF** | 
+  | [Éclair](/equipment/Éclair/) | **ATQ** | **DÉF** | 
+  | [Épaulières en or pur](/equipment/Épaulières en or pur/) | **PV** | **DÉF** | 
+  | [Heaume spirituel](/equipment/Heaume spirituel/) | **ATQ** | **DÉF** | 
+  | [Plastron éclair](/equipment/Plastron éclair/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -150,7 +150,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Tower**  (Groupement - Tour)
+* **Tour**  (Groupement - Tour)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
@@ -184,7 +184,7 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Awakening Enforcement
+### 1st Skill (or 2nd): Éveil forcé
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt;</span><span style="color: #645252;font-size:18px"> immunise le Géant contre les prises de contrôle. Lorsque le Géant est renforcé par le sort de soutien d'un Héros allié, il profite d'un bonus de vitesse d'attaque de 5 % et de résistance aux dégâts de 3 %. Cet effet peut se cumuler jusqu'à 6 fois. Les dégâts de PV max infligés aux unités ennemies par &lt;Éveil magique&gt; augmentent de 5 %.</span>
 
 ### 2nd Skill (or 1st): Éveil de la tempête

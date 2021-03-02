@@ -9,10 +9,10 @@ toc: false
 classes: wide
 ---
 
-  [Exaltation](/combination/High Morale/){: .btn .btn--primary} [Lenteur](/combination/Slow/){: .btn .btn--success} [Saignement](/combination/Bleeding/){: .btn .btn--warning} [Brûlure](/combination/Burning/){: .btn .btn--danger} [Démotivation](/combination/Low Morale/){: .btn .btn--info} [Maladie](/combination/Disease/){: .btn .btn--primary} [Blind](/combination/Blind/){: .btn .btn--success} [Silence](/combination/Silence/){: .btn .btn--warning} [Étourdissement](/combination/Stun/){: .btn .btn--danger} [Bouclier](/combination/Shield/){: .btn .btn--info} [Statique](/combination/Static/){: .btn .btn--primary} [Pétrification](/combination/Petrify/){: .btn .btn--success} [Peste](/combination/Plague/){: .btn .btn--warning} [Gel](/combination/Freeze/){: .btn .btn--danger} [Découragement](/combination/Deterrence/){: .btn .btn--info} 
+  [Exaltation](/combination/High Morale/){: .btn .btn--primary} [Lenteur](/combination/Slow/){: .btn .btn--success} [Saignement](/combination/Bleeding/){: .btn .btn--warning} [Brûlure](/combination/Burning/){: .btn .btn--danger} [Démotivation](/combination/Low Morale/){: .btn .btn--info} [Maladie](/combination/Disease/){: .btn .btn--primary} [Cécité](/combination/Blind/){: .btn .btn--success} [Silence](/combination/Silence/){: .btn .btn--warning} [Étourdissement](/combination/Stun/){: .btn .btn--danger} [Bouclier](/combination/Shield/){: .btn .btn--info} [Statique](/combination/Static/){: .btn .btn--primary} [Pétrification](/combination/Petrify/){: .btn .btn--success} [Peste](/combination/Plague/){: .btn .btn--warning} [Gel](/combination/Freeze/){: .btn .btn--danger} [Découragement](/combination/Deterrence/){: .btn .btn--info} 
 
 
-#### Units and heroes that cause \"stun\"
+#### Les unités et les Héros infligent <Étourdissement>.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
@@ -23,11 +23,11 @@ classes: wide
   | 5 | [Béhémoth](/units/Béhémoth/) | [Seigneur Haart](/heroes/Seigneur Haart/) |
   | 6 | [Cyclope](/units/Cyclope/) | [Sandro](/heroes/Sandro/) |
   | 7 | [Diablotin](/units/Diablotin/) | [Vidomina](/heroes/Vidomina/) |
-  | 8 | [Gremlin](/units/Gremlin/) | [Crag Hack](/heroes/Crag Hack/) |
+  | 8 | [Lutin](/units/Lutin/) | [Crag Hack](/heroes/Crag Hack/) |
   | 9 | [Élémentaire de l'esprit](/units/Élémentaire de l'esprit/) | [Shiva](/heroes/Shiva/) |
-  | 10 | [Stone Elemental](/units/Stone Elemental/) | [Luna](/heroes/Luna/) |
+  | 10 | [Élémentaire de pierre](/units/Élémentaire de pierre/) | [Luna](/heroes/Luna/) |
   | 11 | [Troglodyte](/units/Troglodyte/) | [Erdamon](/heroes/Erdamon/) |
-  | 12 | [Gnoll](/units/Gnoll/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 12 | [Gnoll](/units/Gnoll/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
   | 13 | [Tortue dragon](/units/Tortue dragon/) | [Mutare](/heroes/Mutare/) |
   | 14 | [Guêpier](/units/Guêpier/) | [Sephinroth](/heroes/Sephinroth/) |
   | 15 | [Adjudicatrice](/units/Adjudicatrice/) | [Jeddite](/heroes/Jeddite/) |
@@ -37,7 +37,7 @@ classes: wide
   | 19 | - | [Ciele](/heroes/Ciele/) |
 
 
-#### Les unités et les Héros ont un avantage contre les ennemis "étourdis".
+#### Les unités et les Héros ont un avantage contre les ennemis \"étourdis\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 

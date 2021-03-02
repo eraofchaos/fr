@@ -1,7 +1,7 @@
 ---
 title: "Exclusif - Épée"
 permalink: /Exclusive/Stone Gargoyle Sword/
-excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Stone Gargoyle Exclusif."
+excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gargouille Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
 ref: "Stone Gargoyle Épée.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Épée** 
 
- **Exclusif for Unit:** [Stone Gargoyle](/units/Stone Gargoyle/) 
+ **Exclusif for Unit:** [Gargouille](/units/Stone Gargoyle/) 
 
  **Item to Rang supérieur:** -
 

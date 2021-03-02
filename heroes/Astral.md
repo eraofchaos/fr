@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Arrivé à Erathia il y a environ dix ans, Astral a rapidement été accepté par les Mages de Bracada. Son ascension au sein de leur guilde a été si rapide que certains disent en plaisantant qu'il a dû utiliser la magie pour atteindre un tel rang aussi vite."
 heroID: 61203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Astral"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Magicien mental
+   - Toute nouvelle image de bataille
+   - Avatar unique et effet de sort
+
+### Skin 3: **Puissance du Dragon patriarche**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Le tonnerre recouvre mon corps, et les flammes du Dragon brûlent dans mon âme ! Je suis le châtiment divin, le jugement des cieux ! Je suis la fusion parfaite de puissance et de magie dans ce monde !</span>
+
+ **Skin features:** 
+
+   - Puissance du Dragon patriarche
    - Toute nouvelle image de bataille
    - Avatar unique et effet de sort
 

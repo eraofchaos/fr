@@ -1,7 +1,7 @@
 ---
 title: "Exclusif - Hommage mortel"
 permalink: /Exclusive/Lich Death Tribute/
-excerpt: "Era of Chaos Hommage mortel. Hommage mortel. Era of Chaos Exclusif Hommage mortel. Lich Exclusif."
+excerpt: "Era of Chaos Hommage mortel. Hommage mortel. Era of Chaos Exclusif Hommage mortel. Liche Exclusif."
 last_modified_at: 2021-03-02
 locale: fr
 ref: "Lich Hommage mortel.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Hommage mortel** 
 
- **Exclusif for Unit:** [Lich](/units/Lich/) 
+ **Exclusif for Unit:** [Liche](/units/Lich/) 
 
  **Item to Rang supérieur:** -
 
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** À distance
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1560
 

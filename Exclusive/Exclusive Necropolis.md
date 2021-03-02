@@ -18,10 +18,10 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Squelette](/units/Skeleton/) | [Bouclier iris](/Exclusive/Skeleton Iris Shield/) | - | Assaut | - | - |
-  | 2  | [Trépassé](/units/Walking Dead/) | [Bouclier iris](/Exclusive/Walking Dead Iris Shield/) | + | Assaut | - | - |
+  | 2  | [Trépassé](/units/Walking Dead/) | [Bouclier iris](/Exclusive/Walking Dead Iris Shield/) | - | Assaut | - | - |
   | 3  | [Revenante](/units/Wight/) | [Mélopée des arcanes](/Exclusive/Wight Arcane Chant/) | - | Assaut | - | - |
-  | 4  | [Vampire](/units/Vampire/) | [Charge gracieuse](/Exclusive/Vampire Knight Pike/) | - | Assaut | - | - |
-  | 5  | [Lich](/units/Lich/) | [Hommage mortel](/Exclusive/Lich Death Tribute/) | + | À distance | - | - |
+  | 4  | [Vampire](/units/Vampire/) | [Pic du Chevalier](/Exclusive/Vampire Knight Pike/) | - | Assaut | - | - |
+  | 5  | [Liche](/units/Lich/) | [Hommage mortel](/Exclusive/Lich Death Tribute/) | - | À distance | - | - |
   | 6  | [Chevalier noir](/units/Black Knight/) | [Sabre des limbes](/Exclusive/Black Knight Nether Sabre/) | + | Soutien | - | - |
   | 7  | [Dragon squelette](/units/Bone Dragon/) | [Os de dragon immortel](/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Soutien | - | - |
   | 8  | [Momie](/units/Mummy/) | [Bandage](/Exclusive/Mummy Gauze/) | - | À distance | - | - |

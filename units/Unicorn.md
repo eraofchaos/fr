@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Grande corne en cristal](/equipment/Grande corne en cristal/) | **ATQ** | **DEF** | 
-  | [Pierres du rêveur](/equipment/Pierres du rêveur/) | **PV** | **DEF** | 
-  | [Sabots en cristal](/equipment/Sabots en cristal/) | **ATQ** | **DEF** | 
-  | [Crinière brumeuse](/equipment/Crinière brumeuse/) | **PV** | **DEF** | 
+  | [Grande corne en cristal](/equipment/Grande corne en cristal/) | **ATQ** | **DÉF** | 
+  | [Pierres du rêveur](/equipment/Pierres du rêveur/) | **PV** | **DÉF** | 
+  | [Sabots en cristal](/equipment/Sabots en cristal/) | **ATQ** | **DÉF** | 
+  | [Crinière brumeuse](/equipment/Crinière brumeuse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Charge gracieuse](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Pic du Chevalier](/Exclusive/Unicorn Knight Pike/) 
 
  **Item to Rang supérieur:** -
 
@@ -92,7 +92,7 @@ toc: true
 
 ## Infos combinaison
 
-* [Blind](/combination/Blind/) 
+* [Cécité](/combination/Cécité/) 
 * [Bouclier](/combination/Bouclier/) 
 
 

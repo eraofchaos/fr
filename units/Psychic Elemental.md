@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Noyau de l'étoile polaire](/equipment/Noyau de l'étoile polaire/) | **ATQ** | **DEF** | 
-  | [Étoile céleste](/equipment/Étoile céleste/) | **PV** | **DEF** | 
-  | [Couronne de l'esprit stellaire](/equipment/Couronne de l'esprit stellaire/) | **ATQ** | **DEF** | 
-  | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **PV** | **DEF** | 
+  | [Noyau de l'étoile polaire](/equipment/Noyau de l'étoile polaire/) | **ATQ** | **DÉF** | 
+  | [Étoile céleste](/equipment/Étoile céleste/) | **PV** | **DÉF** | 
+  | [Couronne de l'esprit stellaire](/equipment/Couronne de l'esprit stellaire/) | **ATQ** | **DÉF** | 
+  | [Brassard de puissance](/equipment/Brassard de puissance/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Spirit Core](/Exclusive/Psychic Elemental Spirit Core/) 
+ **Name:** [Noyau spirituel](/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Item to Rang supérieur:** -
 
@@ -110,7 +110,7 @@ toc: true
 ### Compétence normale 3 : Seigneur élémentaire
  **Description:** <span style="color: #645252;font-size:20px">La résistance magique de l'Élémentaire de l'esprit augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Élémentaire de l'esprit meurt, les points de mana des Héros ennemis sont réduits de 20.</span><span style="color: black">
 
-### Compétence spéciale de faction I : Elemental Affinity
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Conflit élémentaire
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Élémentaire de magie
 
- **Awaking Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
+ **Awaking Description:** Caché au fin fond du cœur, son existence reflète les joies et les peines de toutes les créatures du monde. Un monde vaste et infini, et unique par nécessité.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Élémentaire de l'esprit pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
@@ -200,7 +200,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu&gt; : </span><span style="color: #645252;font-size:18px">Triple la résistance aux dégâts de l'unité et brûle tout un groupe d'ennemis. Chance d'activation augmentée de 10 %.</span>
 
 ### 6th Skill (or 5th): Embrasement
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire&gt;</span><span style="color: #645252;font-size:18px"> Unit's damage reduction triples. Trigger chance increased by 10%. Burn duration increased to 12s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu&gt; : </span><span style="color: #645252;font-size:18px">Triple la résistance aux dégâts de l'unité et prolonge la durée de Brûlure à 12 secondes. Chance d'activation augmentée de 10 %.</span>
 
 ## Technical info
  **runart:** 1

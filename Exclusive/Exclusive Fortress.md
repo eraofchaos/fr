@@ -19,10 +19,10 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gnoll](/units/Gnoll/) | [Épée](/Exclusive/Gnoll Sword/) | - | Assaut | - | - |
   | 2  | [Homme-lézard](/units/Lizardman/) | [Arc long](/Exclusive/Lizardman Long Bow/) | - | Assaut | - | - |
-  | 3  | [Guêpe serpent](/units/Serpent Fly/) | [Mélopée des arcanes](/Exclusive/Serpent Fly Arcane Chant/) | - | Assaut | - | - |
+  | 3  | [Guêpe serpent](/units/Serpent Fly/) | [Mélopée des arcanes](/Exclusive/Serpent Fly Arcane Chant/) | + | Assaut | - | - |
   | 4  | [Basilic](/units/Basilisk/) | [Queue de Basilic](/Exclusive/Basilisk Basilisk's Tail/) | - | À distance | - | - |
   | 5  | [Gorgone](/units/Gorgon/) | [Corne de Gorgone](/Exclusive/Gorgon Gorgon's Horn/) | - | Soutien | - | - |
   | 6  | [Wivern](/units/Wyvern/) | [Queue de Wivern](/Exclusive/Wyvern Wyvern's Tail/) | - | À distance | - | - |
   | 7  | [Hydre](/units/Hydra/) | [Tête d'Hydre](/Exclusive/Hydra Hydra's Head/) | - | Soutien | - | - |
-  | 8  | [Guêpier](/units/Waspwort/) | - | - | - | none | none |
+  | 8  | [Guêpier](/units/Waspwort/) | [Feuille de Guêpier](/Exclusive/Waspwort Waspwort Leaf/) | - | À distance | - | - |
   | 9  | [Tigre blanc](/units/White Tiger/) | - | - | - | none | none |

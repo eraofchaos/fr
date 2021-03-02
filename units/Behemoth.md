@@ -69,10 +69,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes féroces](/equipment/Griffes féroces/) | **ATQ** | **DEF** | 
-  | [Peau de fer](/equipment/Peau de fer/) | **PV** | **DEF** | 
-  | [Crocs féroces](/equipment/Crocs féroces/) | **ATQ** | **DEF** | 
-  | [Fourrure épaisse](/equipment/Fourrure épaisse/) | **PV** | **DEF** | 
+  | [Griffes féroces](/equipment/Griffes féroces/) | **ATQ** | **DÉF** | 
+  | [Peau de fer](/equipment/Peau de fer/) | **PV** | **DÉF** | 
+  | [Crocs féroces](/equipment/Crocs féroces/) | **ATQ** | **DÉF** | 
+  | [Fourrure épaisse](/equipment/Fourrure épaisse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -180,7 +180,7 @@ toc: true
 
  **Awaking Name:** Béhémoth royal
 
- **Awaking Description:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
+ **Awaking Description:** Le roi des animaux sauvages, la créature la plus terrifiante qui soit. Il n'a peur de rien et il méprise tous les autres êtres vivants. Même la montagne lui offre ses bénédictions et reconnaît qu'il est le roi de la nature sauvage.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Béhémoth et au moins </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unités du Bastion pour réussir </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> fois le niveau Champion, ou un niveau supérieur, de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>

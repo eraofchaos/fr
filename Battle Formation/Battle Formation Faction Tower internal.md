@@ -2,7 +2,7 @@
 title: "Formation de combat Tour"
 permalink: /Battle Formation/Battle Formation Faction Tower internal
 excerpt: "Formation de combat Tour"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "BattleFormationFactionTower"
 toc: false
@@ -30,10 +30,10 @@ classes: wide
   | **5** | **L'esquive des unités de la Tour augmente de 30 pour chaque unité de la Tour présente sur le champ de bataille.** |
   | **6** | **Augmente l'ATQ de toutes les unités de la Tour de 10 %.** |
   | **7** | **Augmente la résistance magique de toutes les unités de la Tour de 10 %.** |
-  | **8** | **Increases Crit DMG of all friendly Tower units by 12% for 6 seconds when a friendly hero casts a support spell.** |
+  | **8** | **Les dégâts critiques de toutes les unités de la Tour alliées augmentent de 12 % pendant 6 secondes quand un Héros allié lance un sort de soutien.** |
   | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Tour de 4 %.** |
   | **10** | **Augmente l'ATQ de toutes les unités de la Tour de 15 %.** |
-  | **11** | **Increases 17% HP for all Tower Units** |
+  | **11** | **Augmente les PV de toutes les unités de la Tour de 17 %.** |
   | **12** | **La DÉF de toutes les unités de la Tour alliées augmente de 8 % pendant 6 secondes quand un Héros allié lance un sort de soutien.** |
 
 ## Formation de combat Circle 1:

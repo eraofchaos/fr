@@ -65,10 +65,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pupille de cauchemar](/equipment/Pupille de cauchemar/) | **ATQ** | **DEF** | 
-  | [Feu de l'abysse](/equipment/Feu de l'abysse/) | **PV** | **DEF** | 
-  | [Fer à cheval cendré](/equipment/Fer à cheval cendré/) | **ATQ** | **DEF** | 
-  | [Crin de feu](/equipment/Crin de feu/) | **PV** | **DEF** | 
+  | [Pupille de cauchemar](/equipment/Pupille de cauchemar/) | **ATQ** | **DÉF** | 
+  | [Feu de l'abysse](/equipment/Feu de l'abysse/) | **PV** | **DÉF** | 
+  | [Fer à cheval cendré](/equipment/Fer à cheval cendré/) | **ATQ** | **DÉF** | 
+  | [Crin de feu](/equipment/Crin de feu/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -113,7 +113,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Résonance magique
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -148,7 +148,7 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Inferno**  (Groupement - Hadès)
+* **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
 
 ### Bonus de héros
@@ -169,7 +169,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
+ **Awaking Description:** Émergeant du royaume des rêves, sillonnant la lave pour rejoindre le monde des vivants, son corps enveloppé d'une aura terrifiante. Son souffle ardent laisse derrière lui une traînée de cendre, et son sang n'est que magma en fusion. Lorsqu'il attaque, même le plus brave des guerriers prend peur et devient incapable de brandir son épée sous l'effet du tremblement de ses mains.
 
 ### Awaking Tasks
  1. 

@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache de Gorgone](/equipment/Hache de Gorgone/) | **ATQ** | **DEF** | 
-  | [Épaulières de Gorgone](/equipment/Épaulières de Gorgone/) | **PV** | **DEF** | 
-  | [Bandeaux de Gorgone](/equipment/Bandeaux de Gorgone/) | **ATQ** | **DEF** | 
-  | [Ceinture de Gorgone](/equipment/Ceinture de Gorgone/) | **PV** | **DEF** | 
+  | [Hache de Gorgone](/equipment/Hache de Gorgone/) | **ATQ** | **DÉF** | 
+  | [Épaulières de Gorgone](/equipment/Épaulières de Gorgone/) | **PV** | **DÉF** | 
+  | [Bandeaux de Gorgone](/equipment/Bandeaux de Gorgone/) | **ATQ** | **DÉF** | 
+  | [Ceinture de Gorgone](/equipment/Ceinture de Gorgone/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -157,7 +157,7 @@ toc: true
 ### Bonus de héros
 * [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Résistance à la magie
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Physique du briseur de sort&gt; : </span><span style="color: #645252;font-size:18px">Si un Héros ennemi lance un sort, le Minotaure entre en état d'&lt;Exaltation&gt; pendant 5 secondes et augmente sa résistance aux dégâts de 10 %. Cet effet peut se cumuler jusqu'à 3 fois pendant toute la durée de la bataille.</span>
 
-### 5th Skill (or 6th): Ferocious Will
+### 5th Skill (or 6th): Volonté féroce
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Férocité brutale&gt; : </span><span style="color: #645252;font-size:18px">Quand il affronte des ennemis victimes de Saignement, les dégâts infligés par le Minotaure augmentent de 20 %. Si le Minotaure est victime de Saignement, sa vitesse d'attaque augmente de 20 % pendant 6 secondes.</span>
 
 ### 6th Skill (or 5th): Férocité sanglante

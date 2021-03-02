@@ -21,21 +21,21 @@ classes: wide
 
  **Type:** Soutien
 
- **Open:** -
+ **Open:** +
 
- **Power:** 1510
+ **Power:** 1660
 
 ## Rang supérieur
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Volonté inébranlable> : Lorsqu'une Naga est affectée par "Lenteur", "Pétrification" ou "Silence", elle est immunisée contre les effets de la plupart des formes de contrôle et d'affaiblissement (Gel, Silence, Pétrification, Étourdissement, Démotivation, Découragement et <Arrêt du temps>) pendant 7 secondes. Le temps de recharge est de 15 secondes (après avoir équipé un Emblème sacré). |
+  |  Initial  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
   | **1x** <i class="fas fa-star"/> | ? | La durée d'Étourdissement, Pétrification, Lenteur, Gel, Démotivation et Silence diminue de 50 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ et les dégâts de la Naga de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Escrime> : La première fois que ses PV passent sous la barre des 25 %, la Naga fait montre de ses talents d'<Escrime> et augmente la pénétration de toutes les unités alliées de 20 par seconde dans une large zone. L'effet peut se cumuler jusqu'à 10 fois et reste actif même si la Naga est abattue. |
+  | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |
   | **4x** <i class="fas fa-star"/> | ? | Augmente le drain de vie et la résistance aux dégâts de la Naga de 20 %. |
   | **5x** <i class="fas fa-star"/> | ? | Immunise la Naga contre Étourdissement. |
-  | **6x** <i class="fas fa-star"/> | ? | <Rayon de la Naga> : Inflige une quantité de dégâts égale à 300 % de son ATQ aux unités ennemies se trouvant sur la même ligne que la cible toutes les 20 secondes et diminue la DÉF et la résistance aux dégâts des ennemis de 20 %, tout en augmentant les coups critiques de la Naga de 1 000 pendant 5 secondes. |
+  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Causes damage equal to 200% of its ATK to all hostile units standing in the same row as the target every 20s, while decreasing the enemies' DEF and unit's damage reduction by 30%, and increasing 1000 Crit Hit and 20% Life drain for herself over the next 5 seconds |
 
 
 ## Améliorer
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 227 | 37.84 | 299.86 |
-  | 2 | 257 | 45.41 | 359.84 |
-  | 3 | 287 | 52.98 | 419.81 |
-  | 4 | 317 | 60.54 | 479.78 |
-  | 5 | 347 | 68.11 | 539.75 |
-  | 6 | 378 | 75.68 | 599.73 |
-  | 7 | 408 | 83.25 | 659.7 |
+  | 1 | 249 | 37.84 | 299.86 |
+  | 2 | 282 | 45.41 | 359.84 |
+  | 3 | 315 | 52.98 | 419.81 |
+  | 4 | 349 | 60.54 | 479.78 |
+  | 5 | 382 | 68.11 | 539.75 |
+  | 6 | 415 | 75.68 | 599.73 |
+  | 7 | 448 | 83.25 | 659.7 |
 
 

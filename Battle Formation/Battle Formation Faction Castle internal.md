@@ -2,7 +2,7 @@
 title: "Formation de combat Château"
 permalink: /Battle Formation/Battle Formation Faction Castle internal
 excerpt: "Formation de combat Château"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "BattleFormationFactionCastle"
 toc: false
@@ -62,13 +62,13 @@ classes: wide
   | 1 | Castle - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **10** x [Lancier](/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Castle - A Strike Hit | Précision + **6**  | 160 |  **10** x [Swordsman](/units/Swordsman) |
+  | 4 | Castle - A Strike Hit | Précision + **6**  | 160 |  **10** x [Spadassin](/units/Swordsman) |
   | 5 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 7 | Castle - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Moine](/units/Monk) |
   | 8 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Castle - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Castle - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Swordsman](/units/Swordsman) |
+  | 10 | Castle - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Spadassin](/units/Swordsman) |
   | 11 | Castle - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 13 | Castle - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Moine](/units/Monk) |
@@ -92,7 +92,7 @@ classes: wide
   | 6 | Castle - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 7 | Castle - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 8 | Castle - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 9 | Castle - Ingeniousness | Esquive + **7**  | 180 |  **10** x [Swordsman](/units/Swordsman) |
+  | 9 | Castle - Ingeniousness | Esquive + **7**  | 180 |  **10** x [Spadassin](/units/Swordsman) |
   | 10 | Castle - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 11 | Castle - Physical Trials | PV + **1.2** % | 90 |   |
   | 12 | Castle - Physical Trials | PV + **1.2** % | 90 |   |
@@ -100,7 +100,7 @@ classes: wide
   | 14 | Castle - Physical Trials | PV + **1.2** % | 90 |   |
   | 15 | Castle - Physical Trials | PV + **1.2** % | 90 |   |
   | 16 | Castle - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 17 | Castle - Rocklike Skin | Ténacité + **8**  | 180 |  **10** x [Swordsman](/units/Swordsman) |
+  | 17 | Castle - Rocklike Skin | Ténacité + **8**  | 180 |  **10** x [Spadassin](/units/Swordsman) |
   | 18 | Castle - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 19 | Castle - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 20 | Castle - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |

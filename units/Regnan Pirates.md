@@ -68,10 +68,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machette renforcée](/equipment/Machette renforcée/) | **ATQ** | **DEF** | 
-  | [Chemise de marin](/equipment/Chemise de marin/) | **PV** | **DEF** | 
-  | [Bandeau du juste](/equipment/Bandeau du juste/) | **ATQ** | **DEF** | 
-  | [Pantalon de marin](/equipment/Pantalon de marin/) | **PV** | **DEF** | 
+  | [Machette renforcée](/equipment/Machette renforcée/) | **ATQ** | **DÉF** | 
+  | [Chemise de marin](/equipment/Chemise de marin/) | **PV** | **DÉF** | 
+  | [Bandeau du juste](/equipment/Bandeau du juste/) | **ATQ** | **DÉF** | 
+  | [Pantalon de marin](/equipment/Pantalon de marin/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -109,13 +109,13 @@ toc: true
 ### Compétence normale 2 : Lame nue
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques des Pirates de Regna augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. La DÉF de la cible diminue de 2 % pendant 6 secondes pour chaque coup critique subi. L'effet peut se cumuler jusqu'à 20 %.</span><span style="color: black">
 
-### Compétence normale 3 : Prudence and Greed
+### Compétence normale 3 : Prudence et Avarice
  **Description:** <span style="color: #645252;font-size:20px">Plus les Pirates de Regna perdent de PV, plus ils infligent de dégâts. Leur ATQ augmente lorsque les PV de la cible baissent. Leur ATQ peut augmenter jusqu'à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

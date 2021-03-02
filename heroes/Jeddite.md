@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite est un homme mystérieux, qui maintient d'étroites relations avec des dirigeants importants de différentes nations. Mais personne ne sait rien sur son passé, il n'en parle jamais."
 heroID: 61401
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Jeddite"
 toc: true
@@ -40,7 +40,7 @@ toc: true
 ### 3 Spell: Pétrification
  **Description:** <span style="color: #e07c44;font-size:20px">Pétrifie</span><span style="color: black"> les unités ennemies pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s, tout en leur infligeant <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre.
 
-### 4 Spell: The Cycle of Life
+### 4 Spell: Cycle de la vie
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre toutes les {$ointerval/1000} secondes aux unités ennemies dans une large zone et restaure la santé des unités alliées à hauteur des dégâts infligés. Dure {($olast11+$olast12*($sklevel-1))/1000} secondes.
 
 

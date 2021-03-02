@@ -67,10 +67,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dents tranchantes de Tortue dragon](/equipment/Dents tranchantes de Tortue dragon/) | **ATQ** | **DEF** | 
-  | [Carapace de tortue à pointes](/equipment/Carapace de tortue à pointes/) | **PV** | **DEF** | 
-  | [Griffes tranchantes de Tortue dragon](/equipment/Griffes tranchantes de Tortue dragon/) | **ATQ** | **DEF** | 
-  | [Queue de Tortue dragon](/equipment/Queue de Tortue dragon/) | **PV** | **DEF** | 
+  | [Dents tranchantes de Tortue dragon](/equipment/Dents tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
+  | [Carapace de tortue à pointes](/equipment/Carapace de tortue à pointes/) | **PV** | **DÉF** | 
+  | [Griffes tranchantes de Tortue dragon](/equipment/Griffes tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
+  | [Queue de Tortue dragon](/equipment/Queue de Tortue dragon/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -116,7 +116,7 @@ toc: true
 ### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Pirate Conflict
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -167,7 +167,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Tortue dragon primaire
 
  **Awaking Description:** 
 

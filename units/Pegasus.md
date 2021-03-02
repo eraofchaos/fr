@@ -27,7 +27,7 @@ toc: true
 
  **Unit description:** Protection de vitalité : confère un bouclier vital à votre unité la plus proche.
 
- **Short description:** Shields and causes bleed.
+ **Short description:** Protège et inflige Saignement.
 
  **Position :** Protège les unités à proximité et invoque une Pégase pour vous aider.
 
@@ -70,10 +70,10 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Chakram épineux](/equipment/Chakram épineux/) | **ATQ** | **DEF** | 
-  | [Bandeau verdoyant](/equipment/Bandeau verdoyant/) | **PV** | **DEF** | 
-  | [Gantelets des roses](/equipment/Gantelets des roses/) | **ATQ** | **DEF** | 
-  | [Armure miraculeuse](/equipment/Armure miraculeuse/) | **PV** | **DEF** | 
+  | [Chakram épineux](/equipment/Chakram épineux/) | **ATQ** | **DÉF** | 
+  | [Bandeau verdoyant](/equipment/Bandeau verdoyant/) | **PV** | **DÉF** | 
+  | [Gantelets des roses](/equipment/Gantelets des roses/) | **ATQ** | **DÉF** | 
+  | [Armure miraculeuse](/equipment/Armure miraculeuse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -104,14 +104,14 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Capacité ultime: Forest Guardian
+### Capacité ultime: Gardien de la forêt
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'une Pégase meurt, elle invoque une autre Pégase pour prendre sa place. La Pégase alors invoquée a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ et </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV. Elle demeure pendant toute la durée de la bataille.</span><span style="color: black">
 
 ### Compétence normale 1 : Tranchant
  **Description:** <span style="color: #645252;font-size:20px">La vitesse d'ATQ de la Pégase augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée pendant 6 secondes.</span><span style="color: black">
 
 ### Compétence normale 2 : Protection de vitalité
- **Description:** <span style="color: #645252;font-size:20px">La Pégase octroie un </span><span style="color: black"><span style="color: #48b946;font-size:20px">"bouclier"</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités alliées dans une large zone. Ce bouclier absorbe une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Pégase octroie un </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bouclier\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités alliées dans une large zone. Ce bouclier absorbe une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max.</span><span style="color: black">
 
 ### Compétence normale 3 : Cavalerie des ailes d'argent
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Pégase et de la Pégase invoquée augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs PV de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">

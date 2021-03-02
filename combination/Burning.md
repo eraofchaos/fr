@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  [Exaltation](/combination/High Morale/){: .btn .btn--primary} [Lenteur](/combination/Slow/){: .btn .btn--success} [Saignement](/combination/Bleeding/){: .btn .btn--warning} [Brûlure](/combination/Burning/){: .btn .btn--danger} [Démotivation](/combination/Low Morale/){: .btn .btn--info} [Maladie](/combination/Disease/){: .btn .btn--primary} [Blind](/combination/Blind/){: .btn .btn--success} [Silence](/combination/Silence/){: .btn .btn--warning} [Étourdissement](/combination/Stun/){: .btn .btn--danger} [Bouclier](/combination/Shield/){: .btn .btn--info} [Statique](/combination/Static/){: .btn .btn--primary} [Pétrification](/combination/Petrify/){: .btn .btn--success} [Peste](/combination/Plague/){: .btn .btn--warning} [Gel](/combination/Freeze/){: .btn .btn--danger} [Découragement](/combination/Deterrence/){: .btn .btn--info} 
+  [Exaltation](/combination/High Morale/){: .btn .btn--primary} [Lenteur](/combination/Slow/){: .btn .btn--success} [Saignement](/combination/Bleeding/){: .btn .btn--warning} [Brûlure](/combination/Burning/){: .btn .btn--danger} [Démotivation](/combination/Low Morale/){: .btn .btn--info} [Maladie](/combination/Disease/){: .btn .btn--primary} [Cécité](/combination/Blind/){: .btn .btn--success} [Silence](/combination/Silence/){: .btn .btn--warning} [Étourdissement](/combination/Stun/){: .btn .btn--danger} [Bouclier](/combination/Shield/){: .btn .btn--info} [Statique](/combination/Static/){: .btn .btn--primary} [Pétrification](/combination/Petrify/){: .btn .btn--success} [Peste](/combination/Plague/){: .btn .btn--warning} [Gel](/combination/Freeze/){: .btn .btn--danger} [Découragement](/combination/Deterrence/){: .btn .btn--info} 
 
 
 #### Les unités et les Héros infligent <Brûlure>.
@@ -17,7 +17,7 @@ classes: wide
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
   | 1 | [Gog](/units/Gog/) | [Xeron](/heroes/Xeron/) |
-  | 2 | [Effrit](/units/Effrit/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 2 | [Effrit](/units/Effrit/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
   | 3 | [Cyclope](/units/Cyclope/) | [Roland](/heroes/Roland/) |
   | 4 | [Élémentaire de feu](/units/Élémentaire de feu/) | [Kilgor](/heroes/Kilgor/) |
   | 5 | [Élémentaire de l'esprit](/units/Élémentaire de l'esprit/) | [Shiva](/heroes/Shiva/) |
@@ -38,6 +38,6 @@ classes: wide
   | 1 | [Diable](/units/Diable/) | [Luna](/heroes/Luna/) |
   | 2 | [Oiseau de feu](/units/Oiseau de feu/) | [Xeron](/heroes/Xeron/) |
   | 3 | [Dragon noir](/units/Dragon noir/) | [Fiur](/heroes/Fiur/) |
-  | 4 | [Gorgone](/units/Gorgone/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 4 | [Gorgone](/units/Gorgone/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
   | 5 | [Guêpe serpent](/units/Guêpe serpent/) | - |
   | 6 | [Sorcière maléfique](/units/Sorcière maléfique/) | - |

@@ -19,7 +19,7 @@ classes: wide
   | 3 | [Griffon](/units/Griffin/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
   | 4 | [Spadassin](/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Croisé  |
   | 5 | [Moine](/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Zélote  |
-  | 6 | [Cavalier](/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 6 | [Cavalier](/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Chevaliers légendaires  |
   | 7 | [Paladin](/units/Paladin/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Paladin suprême  |
   | 8 | [Ange](/units/Angel/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archange  |
   | 9 | [Adjudicatrice](/units/Judicator/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |   -   |

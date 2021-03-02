@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Assaut
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1440
 

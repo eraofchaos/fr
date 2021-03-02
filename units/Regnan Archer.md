@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Arbalétrière de Regna"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction : ** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/units/Faction Cove/)
 
  **Race:** Pirate
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 235.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Chapeau de prestige](/equipment/Chapeau de prestige/) | **PV** | **DEF** | 
   | [Flèche en acier](/equipment/Flèche en acier/) | **ATQ** | **DEF** | 
   | [Vêtements du chasseur](/equipment/Vêtements du chasseur/) | **PV** | **DEF** | 
+
+## Exclusif
+
 
 ## Emblèmes sacrés recommandés
 

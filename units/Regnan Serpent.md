@@ -3,7 +3,7 @@ title: "Serpent de Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Serpent de Regna"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 100.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Corne infernale](/equipment/Corne infernale/) | **PV** | **DEF** | 
   | [Griffes de sirène](/equipment/Griffes de sirène/) | **ATQ** | **DEF** | 
   | [Nageoire bleu foncé](/equipment/Nageoire bleu foncé/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Marées diurnes](/Exclusive/Regnan Serpent Day Tides/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

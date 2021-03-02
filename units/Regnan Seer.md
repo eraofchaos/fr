@@ -3,12 +3,12 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Oracle de Regna"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1006.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Collier de l'âme de Poséidon](/equipment/Collier de l'âme de Poséidon/) | **PV** | **DEF** | 
   | [Bandeau rayonnant](/equipment/Bandeau rayonnant/) | **ATQ** | **DEF** | 
   | [Bracelet noble](/equipment/Bracelet noble/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [](/Exclusive/Regnan Seer /) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

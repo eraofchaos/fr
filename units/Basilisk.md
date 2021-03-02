@@ -3,7 +3,7 @@ title: "Basilic"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Basilic"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/units/Faction Fortress/)
 
  **Race:** Bête
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 121.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Écaille adamantine](/equipment/Écaille adamantine/) | **PV** | **DEF** | 
   | [Griffe empoisonnée](/equipment/Griffe empoisonnée/) | **ATQ** | **DEF** | 
   | [Croc de pétrification](/equipment/Croc de pétrification/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Queue de Basilic](/Exclusive/Basilisk Basilisk's Tail/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

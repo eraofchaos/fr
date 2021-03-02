@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Adjudicatrice"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/units/Faction Castle/)
 
  **Race:** Humain
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Capuche céleste bénie](/equipment/Capuche céleste bénie/) | **PV** | **DEF** | 
   | [Cape légère](/equipment/Cape légère/) | **ATQ** | **DEF** | 
   | [Brassard divin](/equipment/Brassard divin/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [](/Exclusive/Judicator /) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

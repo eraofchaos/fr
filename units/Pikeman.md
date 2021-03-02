@@ -3,7 +3,7 @@ title: "Lancier"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Lancier"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction : ** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/units/Faction Castle/)
 
  **Race:** Humain
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Heaume blindé](/equipment/Heaume blindé/) | **PV** | **DEF** | 
   | [Bouclier sentinelle](/equipment/Bouclier sentinelle/) | **ATQ** | **DEF** | 
   | [Épaulière blindée](/equipment/Épaulière blindée/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Épée](/Exclusive/Pikeman Sword/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

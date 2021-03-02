@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Guêpe serpent"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/units/Faction Fortress/)
 
  **Race:** Bête
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 178.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Mâchoire fatale](/equipment/Mâchoire fatale/) | **PV** | **DEF** | 
   | [Pointe morne](/equipment/Pointe morne/) | **ATQ** | **DEF** | 
   | [Croc toxique](/equipment/Croc toxique/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Mélopée des arcanes](/Exclusive/Serpent Fly Arcane Chant/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

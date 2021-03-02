@@ -3,7 +3,7 @@ title: "Œil maléfique"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Œil maléfique"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/units/Faction Dungeon/)
 
  **Race:** Esprit maléfique
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Pupille de la mort](/equipment/Pupille de la mort/) | **PV** | **DEF** | 
   | [Défense démoniaque](/equipment/Défense démoniaque/) | **ATQ** | **DEF** | 
   | [Tentacules de l'abîme](/equipment/Tentacules de l'abîme/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Regard ténébreux](/Exclusive/Beholder Dark Gaze/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

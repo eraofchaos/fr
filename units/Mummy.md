@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Momie"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/units/Faction Necropolis/)
 
  **Race:** Non-Morts
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 141.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Bandage antique](/equipment/Bandage antique/) | **PV** | **DEF** | 
   | [Pupille du défunt](/equipment/Pupille du défunt/) | **ATQ** | **DEF** | 
   | [Souffle de la mort](/equipment/Souffle de la mort/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Bandage](/Exclusive/Mummy Gauze/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

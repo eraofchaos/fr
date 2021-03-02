@@ -3,7 +3,7 @@ title: "Dragon noir"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Dragon noir"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/units/Faction Dungeon/)
 
  **Race:** Dragon
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 430.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Feu dévastateur](/equipment/Feu dévastateur/) | **PV** | **DEF** | 
   | [Ailes couvre-ciel](/equipment/Ailes couvre-ciel/) | **ATQ** | **DEF** | 
   | [Écailles en fer](/equipment/Écailles en fer/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Écaille de Dragon noir](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

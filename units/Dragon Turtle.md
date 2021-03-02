@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Tortue dragon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 362.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Carapace de tortue à pointes](/equipment/Carapace de tortue à pointes/) | **PV** | **DEF** | 
   | [Griffes tranchantes de Tortue dragon](/equipment/Griffes tranchantes de Tortue dragon/) | **ATQ** | **DEF** | 
   | [Queue de Tortue dragon](/equipment/Queue de Tortue dragon/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Obéissance](/Exclusive/Dragon Turtle Obedience/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

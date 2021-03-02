@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Genie"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/units/Faction Tower/)
 
  **Race:** Humain
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Bibelot mystérieux en cristal](/equipment/Bibelot mystérieux en cristal/) | **PV** | **DEF** | 
   | [Bracelet en cuivre rouge](/equipment/Bracelet en cuivre rouge/) | **ATQ** | **DEF** | 
   | [Armure enchantée](/equipment/Armure enchantée/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Lyre](/Exclusive/Genie Lyra/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

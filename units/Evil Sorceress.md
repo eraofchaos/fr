@@ -3,12 +3,12 @@ title: "Sorcière maléfique"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons."
 unitID: 709
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Sorcière maléfique"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction : ** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/units/Faction Dungeon/)
 
  **Race:** Troupes du Donjon
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 633.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **PV** | **DEF** | 
   | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATQ** | **DEF** | 
   | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **PV** | **DEF** | 
+
+## Exclusif
+
 
 ## Emblèmes sacrés recommandés
 

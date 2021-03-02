@@ -3,7 +3,7 @@ title: "Garde sylvanien"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Garde sylvanien"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/units/Faction Rampart/)
 
  **Race:** Fiélon
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 396.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Couronne lourde](/equipment/Couronne lourde/) | **PV** | **DEF** | 
   | [Rune impérissable](/equipment/Rune impérissable/) | **ATQ** | **DEF** | 
   | [Armure de liane](/equipment/Armure de liane/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Bouclier iris](/Exclusive/Dendroid Guard Iris Shield/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

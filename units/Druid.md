@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Druidesse"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/units/Faction Rampart/)
 
  **Race:** Forêt
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Bâton ancien](/equipment/Bâton ancien/) | **PV** | **DEF** | 
   | [Robe de la rage tempétueuse](/equipment/Robe de la rage tempétueuse/) | **ATQ** | **DEF** | 
   | [Bottes hautes forestières](/equipment/Bottes hautes forestières/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Bâton de renouveau](/Exclusive/Druid Staff of Regrowth/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

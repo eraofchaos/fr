@@ -3,7 +3,7 @@ title: "Guêpier"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
 unitID: 808
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Guêpier"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction : ** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/units/Faction Fortress/)
 
  **Race:** Bête
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 950.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Épine toxique](/equipment/Épine toxique/) | **PV** | **DEF** | 
   | [Seigneur des fleurs](/equipment/Seigneur des fleurs/) | **ATQ** | **DEF** | 
   | [Abeille assassine](/equipment/Abeille assassine/) | **PV** | **DEF** | 
+
+## Exclusif
+
 
 ## Emblèmes sacrés recommandés
 

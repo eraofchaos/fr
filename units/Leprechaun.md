@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
 unitID: 909
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Farfadet"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/units/Faction Conflux/)
 
  **Race:** Licorne
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 134.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,9 @@ toc: true
   | [Sourcedupouvoir](/equipment/Sourcedupouvoir/) | **PV** | **DEF** | 
   | [Gardiendelavie](/equipment/Gardiendelavie/) | **ATQ** | **DEF** | 
   | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **PV** | **DEF** | 
+
+## Exclusif
+
 
 ## Emblèmes sacrés recommandés
 

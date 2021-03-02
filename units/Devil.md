@@ -3,7 +3,7 @@ title: "Diable"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Diable"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction : ** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Pentagramme en fusion](/equipment/Pentagramme en fusion/) | **PV** | **DEF** | 
   | [Gantelets de lave en fusion](/equipment/Gantelets de lave en fusion/) | **ATQ** | **DEF** | 
   | [Épaulières de lave en fusion](/equipment/Épaulières de lave en fusion/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Faux du diable](/Exclusive/Devil Devil Scythe/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

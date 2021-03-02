@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Cavalier"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction : ** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/units/Faction Castle/)
 
  **Race:** Humain
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -77,6 +77,15 @@ toc: true
   | [Visière de défense](/equipment/Visière de défense/) | **PV** | **DEF** | 
   | [Bouclier de protection](/equipment/Bouclier de protection/) | **ATQ** | **DEF** | 
   | [Épaulière de Paladin](/equipment/Épaulière de Paladin/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Charge gracieuse](/Exclusive/Cavalier Knight Pike/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

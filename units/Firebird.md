@@ -3,7 +3,7 @@ title: "Oiseau de feu"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Oiseau de feu"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/units/Faction Conflux/)
 
  **Race:** Licorne
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 848.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Rune de résurrection](/equipment/Rune de résurrection/) | **PV** | **DEF** | 
   | [Griffes des flammes furieuses](/equipment/Griffes des flammes furieuses/) | **ATQ** | **DEF** | 
   | [Ailes arc-en-ciel](/equipment/Ailes arc-en-ciel/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Eternal Flame](/Exclusive/Firebird Eternal Flame/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

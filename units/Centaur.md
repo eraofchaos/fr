@@ -3,7 +3,7 @@ title: "Centaure"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Centaure"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/units/Faction Rampart/)
 
  **Race:** Forêt
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Heaume sauvage](/equipment/Heaume sauvage/) | **PV** | **DEF** | 
   | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATQ** | **DEF** | 
   | [Épaulières sauvages](/equipment/Épaulières sauvages/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Bouclier iris](/Exclusive/Centaur Iris Shield/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

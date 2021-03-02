@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
 unitID: 108
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Paladin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/units/Faction Castle/)
 
  **Race:** Humain
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 128.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Heaume du serment](/equipment/Heaume du serment/) | **PV** | **DEF** | 
   | [Épaulières de fer](/equipment/Épaulières de fer/) | **ATQ** | **DEF** | 
   | [Forged Bracers](/equipment/Forged Bracers/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [](/Exclusive/Paladin /) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

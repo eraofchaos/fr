@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Naga"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction : ** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/units/Faction Tower/)
 
  **Race:** Humain
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Épaulières marines](/equipment/Épaulières marines/) | **PV** | **DEF** | 
   | [Coiffe du dieu serpent](/equipment/Coiffe du dieu serpent/) | **ATQ** | **DEF** | 
   | [Plaque de hanche solide et flexible](/equipment/Plaque de hanche solide et flexible/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Épée Naga](/Exclusive/Naga Naga Sword/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

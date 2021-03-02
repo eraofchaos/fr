@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction : ** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 99.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Noyau du tonnerre](/equipment/Noyau du tonnerre/) | **PV** | **DEF** | 
   | [Griffe magique](/equipment/Griffe magique/) | **ATQ** | **DEF** | 
   | [Œil maléfique de foudre](/equipment/Œil maléfique de foudre/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Arc long](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

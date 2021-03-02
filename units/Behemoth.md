@@ -3,7 +3,7 @@ title: "Béhémoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis."
 unitID: 407
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Béhémoth"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/units/Faction Stronghold/)
 
  **Race:** Licorne
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 407.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Peau de fer](/equipment/Peau de fer/) | **PV** | **DEF** | 
   | [Crocs féroces](/equipment/Crocs féroces/) | **ATQ** | **DEF** | 
   | [Fourrure épaisse](/equipment/Fourrure épaisse/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Esprit sanguinaire](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

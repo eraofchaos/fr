@@ -3,7 +3,7 @@ title: "Fée"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Fée"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction : ** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 69.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Toge de lunétoile](/equipment/Toge de lunétoile/) | **PV** | **DEF** | 
   | [Ailes de papillon phosphoreux](/equipment/Ailes de papillon phosphoreux/) | **ATQ** | **DEF** | 
   | [Bracelet en émeraude](/equipment/Bracelet en émeraude/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Charge gracieuse](/Exclusive/Sprite Knight Pike/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

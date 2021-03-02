@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Berserker"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction : ** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/units/Faction Stronghold/)
 
  **Race:** Orque
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 678.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Collier d'os](/equipment/Collier d'os/) | **PV** | **DEF** | 
   | [Heaume en os de bêtes](/equipment/Heaume en os de bêtes/) | **ATQ** | **DEF** | 
   | [Bandeau en cuir](/equipment/Bandeau en cuir/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Hache de Berserker](/Exclusive/Berserker Berserker's Axe/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Squelette"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/units/Faction Necropolis/)
 
  **Race:** Non-Morts
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 57.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Heaume rouillé](/equipment/Heaume rouillé/) | **PV** | **DEF** | 
   | [Bouclier profane](/equipment/Bouclier profane/) | **ATQ** | **DEF** | 
   | [Épaulières rouillées](/equipment/Épaulières rouillées/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Bouclier iris](/Exclusive/Skeleton Iris Shield/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

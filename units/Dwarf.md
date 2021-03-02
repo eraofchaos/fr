@@ -3,7 +3,7 @@ title: "Nain"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Nain"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/units/Faction Rampart/)
 
  **Race:** Forêt
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Horned Helmet](/equipment/Horned Helmet/) | **PV** | **DEF** | 
   | [Gantelets de l'âtre-flamme](/equipment/Gantelets de l'âtre-flamme/) | **ATQ** | **DEF** | 
   | [Épaulières de l'âtre-flamme](/equipment/Épaulières de l'âtre-flamme/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Bouclier iris](/Exclusive/Dwarf Iris Shield/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

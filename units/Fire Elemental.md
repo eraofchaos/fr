@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction : ** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 195.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Bouclier bouillonnant](/equipment/Bouclier bouillonnant/) | **PV** | **DEF** | 
   | [Œil maléfique de saphir](/equipment/Œil maléfique de saphir/) | **ATQ** | **DEF** | 
   | [Griffe tranchante bleu marine](/equipment/Griffe tranchante bleu marine/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Énergie de feu](/Exclusive/Fire Elemental Fire Energy/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Lich"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/units/Faction Necropolis/)
 
  **Race:** Non-Morts
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 228.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Couronne noire](/equipment/Couronne noire/) | **PV** | **DEF** | 
   | [Ceinture spirituelle](/equipment/Ceinture spirituelle/) | **ATQ** | **DEF** | 
   | [Armure légère des limbes](/equipment/Armure légère des limbes/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Hommage mortel](/Exclusive/Lich Death Tribute/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction : ** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Coiffe raz-de-marée](/equipment/Coiffe raz-de-marée/) | **PV** | **DEF** | 
   | [Marque de l'océan](/equipment/Marque de l'océan/) | **ATQ** | **DEF** | 
   | [Étoffe de la sirène](/equipment/Étoffe de la sirène/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Mélopée des arcanes](/Exclusive/Ice Elemental Arcane Chant/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

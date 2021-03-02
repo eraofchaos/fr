@@ -3,7 +3,7 @@ title: "Wivern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Wivern"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction : ** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/units/Faction Fortress/)
 
  **Race:** Bête
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 500.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Croc de la peste](/equipment/Croc de la peste/) | **PV** | **DEF** | 
   | [Piques dorsaux de Diablotin](/equipment/Piques dorsaux de Diablotin/) | **ATQ** | **DEF** | 
   | [Ailes de dragon](/equipment/Ailes de dragon/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Queue de Wivern](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

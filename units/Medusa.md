@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Méduse"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction : ** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/units/Faction Dungeon/)
 
  **Race:** Esprit maléfique
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 202.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Coiffe de serpent entortillé](/equipment/Coiffe de serpent entortillé/) | **PV** | **DEF** | 
   | [Queen's Crown](/equipment/Queen's Crown/) | **ATQ** | **DEF** | 
   | [Armure de l'abîme](/equipment/Armure de l'abîme/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Arc de la Méduse](/Exclusive/Medusa Medusa's bow/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

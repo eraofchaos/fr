@@ -2,13 +2,13 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Unit Class Defense"
 toc: false
 classes: wide
 ---
- [À distance](/units/Unit Class Ranged){: .btn .btn--primary} [Assaut](/units/Unit Class Charging){: .btn .btn--success} [Lanceur de sorts](/units/Unit Class Caster){: .btn .btn--warning} [Offensive](/units/Unit Class Offense){: .btn .btn--danger} [Défense](/units/Unit Class Defense){: .btn .btn--info} 
+ [À distance](/units/Unit Class Ranged/){: .btn .btn--primary} [Assaut](/units/Unit Class Charging/){: .btn .btn--success} [Lanceur de sorts](/units/Unit Class Caster/){: .btn .btn--warning} [Offensive](/units/Unit Class Offense/){: .btn .btn--danger} [Défense](/units/Unit Class Defense/){: .btn .btn--info} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

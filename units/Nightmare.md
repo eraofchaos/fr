@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Cauchemar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction : ** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 84.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Feu de l'abysse](/equipment/Feu de l'abysse/) | **PV** | **DEF** | 
   | [Fer à cheval cendré](/equipment/Fer à cheval cendré/) | **ATQ** | **DEF** | 
   | [Crin de feu](/equipment/Crin de feu/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [](/Exclusive/Nightmare /) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: fr
 ref: "Chevaucheur de loup"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction : ** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/units/Faction Stronghold/)
 
  **Race:** Orque
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 72.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Ceinture de puissance](/equipment/Ceinture de puissance/) | **PV** | **DEF** | 
   | [Bracelet du loup](/equipment/Bracelet du loup/) | **ATQ** | **DEF** | 
   | [Épaulières de langue-loup](/equipment/Épaulières de langue-loup/) | **PV** | **DEF** | 
+
+## Exclusif
+
+ **Name:** [Charge gracieuse](/Exclusive/Wolf Rider Knight Pike/) 
+
+ **Item to Rang supérieur:** -
+
+ **Skin:** -
+
 
 ## Emblèmes sacrés recommandés
 

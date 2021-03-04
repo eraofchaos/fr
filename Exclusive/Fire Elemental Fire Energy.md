@@ -2,7 +2,7 @@
 title: "Exclusif - Énergie de feu"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Énergie de feu. Énergie de feu. Era of Chaos Exclusif Énergie de feu. Élémentaire de feu Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Fire Elemental Énergie de feu.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Trio de feu> : L'Élémentaire de feu manipule des boules de feu pour infliger des dégâts de zone en 3 étapes aux cibles toutes les 20 secondes. La zone d'attaque se réduit puis s'élargit et inflige une quantité de dégâts égale à 90 %, 120 % et 150 % de l'ATQ respectivement. L'effet de brûlure sur la cible dure 5 secondes. |
+  |  Réveil  | ? | <Trio de feu> : L'Élémentaire de feu manipule des boules de feu pour infliger des dégâts de zone en 3 étapes aux cibles toutes les 20 secondes. La zone d'attaque se réduit puis s'élargit et inflige une quantité de dégâts égale à 90 %, 120 % et 150 % de l'ATQ respectivement. L'effet de brûlure sur la cible dure 5 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | La pénétration de l'Élémentaire de feu augmente de 150. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de l'Élémentaire de feu de 20 % et ses dégâts de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Au début du combat, l'Élémentaire de Feu reçoit un bouclier égal à 100 % de ses PV max. Ses flammes infligent chaque seconde une quantité de dégâts égale à 10 % de son ATQ aux unités ennemies environnantes dans une zone réduite. Cet effet ne peut pas être dissipé. |

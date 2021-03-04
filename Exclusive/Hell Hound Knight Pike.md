@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Chien de l'Enfer Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Hell Hound Pic du Chevalier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Le Chien de l'Enfer attaque avec ses 3 têtes, augmentant sa vitesse d'attaque de 300 %, mais diminuant ses dégâts d'unité de 20 %. |
+  |  Réveil  | ? | Le Chien de l'Enfer attaque avec ses 3 têtes, augmentant sa vitesse d'attaque de 300 %, mais diminuant ses dégâts d'unité de 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Chien de l'Enfer de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts critiques de 5 % pendant 3 secondes chaque fois que le Chien de l'Enfer attaque. L'effet peut se cumuler jusqu'à 10 fois. |
   | **3x** <i class="fas fa-star"/> | ? | <Mort vivant>: Lorsque les PV du Chien de l'Enfer tombent sous la barre des 66 % et 33 % pour la première fois, il sacrifie une de ses têtes pour dissiper tous les statuts anormaux et s'en immuniser, augmentant son esquive de 2 000 et sa ténacité de 1 000 pendant 5 secondes. |

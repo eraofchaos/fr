@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Rock Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Roc Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Impulsion statique> : Le Rock manipule la foudre à l'intérieur de son corps pour infliger aux unités ennemies dans une large zone des dégâts équivalents à 2 % de ses PV max chaque seconde, tout en diminuant leur vitesse d'attaque de 20 % pendant 5 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Impulsion statique> : Le Rock manipule la foudre à l'intérieur de son corps pour infliger aux unités ennemies dans une large zone des dégâts équivalents à 2 % de ses PV max chaque seconde, tout en diminuant leur vitesse d'attaque de 20 % pendant 5 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente l'ATQ du Rock de 20 % et les dégâts infligés par ses coups critiques de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Rock de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Lorsque le Rock attaque des ennemis au moyen d'<Impulsion statique>, il augmente sa propre vitesse d'attaque de 30 % et les dégâts critiques de 40 %. |

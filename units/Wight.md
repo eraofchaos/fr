@@ -3,7 +3,7 @@ title: "Revenante"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Revenante"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Mélopée des arcanes](/Exclusive/Wight Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Momie"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Bandage](/Exclusive/Mummy Gauze/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

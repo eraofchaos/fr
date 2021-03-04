@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Harpie"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Pic du Chevalier](/Exclusive/Harpy Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

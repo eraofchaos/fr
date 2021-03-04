@@ -2,7 +2,7 @@
 title: "Exclusif - Épée Naga"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Épée Naga. Épée Naga. Era of Chaos Exclusif Épée Naga. Naga Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Naga Épée Naga.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Réveil  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
   | **1x** <i class="fas fa-star"/> | ? | La durée d'Étourdissement, Pétrification, Lenteur, Gel, Démotivation et Silence diminue de 50 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ et les dégâts de la Naga de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |

@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Diablotin Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Imp Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Langue de feu> : Le Diablotin inflige des dégâts équivalents à 300 % de son ATQ ainsi que Brûlure pendant 6 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Langue de feu> : Le Diablotin inflige des dégâts équivalents à 300 % de son ATQ ainsi que Brûlure pendant 6 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance magique du Diablotin de 25 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la DÉF du Diablotin de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Armure vaillante> : Lorsque les PV du Diablotin tombent à 60 % et 30 % pour la première fois, il reçoit un bouclier égal à 20 % de ses PV max et sa ténacité augmente de 150 pendant 20 secondes. |

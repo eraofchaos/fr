@@ -2,7 +2,7 @@
 title: "Exclusif - "
 permalink: /Exclusive/Paladin /
 excerpt: "Era of Chaos . . Era of Chaos Exclusif . Paladin Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Paladin .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Garde immuable> : Le Paladin se protège et protège au hasard une unité de mêlée n'appartenant pas à l'Hadès, augmentant la DÉF et la résistance aux dégâts des deux unités de 20 % pendant 10 secondes. Accorde également le statut de Gardien, ce qui augmente la DÉF et la résistance aux dégâts de l'unité de 20 %. Le statut de Gardien disparaîtra lorsque l'unité aura subi des dégâts 10 fois. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | <Garde immuable> : Le Paladin se protège et protège au hasard une unité de mêlée n'appartenant pas à l'Hadès, augmentant la DÉF et la résistance aux dégâts des deux unités de 20 % pendant 10 secondes. Accorde également le statut de Gardien, ce qui augmente la DÉF et la résistance aux dégâts de l'unité de 20 %. Le statut de Gardien disparaîtra lorsque l'unité aura subi des dégâts 10 fois. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts des unités alliées adjacentes dans une zone réduite de 20 % et supprime les limites des unités du Château. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la DÉF de base du Paladin de 300 et les soins reçus de 30 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Prière fervente> : Éveille la puissance intrépide du Paladin pendant un court moment, diminuant de 300 la précision des unités ennemies dans une large zone et augmentant de 300 la ténacité des unités alliées. Toutes les 4 secondes, purifie les unités alliées à portée pour leur retirer un niveau d'affaiblissement. Dure 12 secondes. Le temps de recharge est de 20 secondes. |

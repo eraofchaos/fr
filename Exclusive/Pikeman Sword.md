@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Lancier Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Pikeman Épée.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lance sacrée> : Le Lancier inflige des dégâts équivalents à 400 % de son ATQ une fois toutes les 15 secondes et diminue la DÉF de la cible de 4 % pendant 7 secondes. L'effet peut se cumuler jusqu'à 4 fois. Si l'unité cible est étourdie, sa ténacité est également réduite de 150 pendant 6 secondes. |
+  |  Réveil  | ? | <Lance sacrée> : Le Lancier inflige des dégâts équivalents à 400 % de son ATQ une fois toutes les 15 secondes et diminue la DÉF de la cible de 4 % pendant 7 secondes. L'effet peut se cumuler jusqu'à 4 fois. Si l'unité cible est étourdie, sa ténacité est également réduite de 150 pendant 6 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque du Lancier de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la ténacité du Lancier de 150. |
   | **3x** <i class="fas fa-star"/> | ? | <Assaut zélé> : Déclenche <Lance sacrée> une fois de plus en cas d'Exaltation du Lancier. |

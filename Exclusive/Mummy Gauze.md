@@ -2,7 +2,7 @@
 title: "Exclusif - Bandage"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Bandage. Bandage. Era of Chaos Exclusif Bandage. Momie Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Mummy Bandage.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | La Momie inflige Démotivation à toutes les unités dans une large zone toutes les 8 secondes et diminue les dégâts des unités ennemies à portée de 15 % tout en leur infligeant Peste pendant 3 secondes. |
+  |  Réveil  | ? | La Momie inflige Démotivation à toutes les unités dans une large zone toutes les 8 secondes et diminue les dégâts des unités ennemies à portée de 15 % tout en leur infligeant Peste pendant 3 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité de la Momie de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | La Momie augmente sa DÉF de 15 % pendant 5 secondes lorsqu'elle souffre de Démotivation et récupère une quantité de PV égale à 8 % de ses PV max. Le temps de recharge est de 15 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Momification> : La Momie utilise des bandages pour envelopper les unités de mêlée adjacentes, les rendant incapables de se déplacer, d'attaquer ou d'activer des compétences, tout en diminuant leur résistance aux dégâts de 15 % pendant 3 secondes. Le temps de recharge est de 25 secondes. |

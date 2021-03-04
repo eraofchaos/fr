@@ -2,7 +2,7 @@
 title: "Exclusif - Esprit sanguinaire"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Esprit sanguinaire. Esprit sanguinaire. Era of Chaos Exclusif Esprit sanguinaire. Béhémoth Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Behemoth Esprit sanguinaire.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Esprit du Bastion> : Le Béhémoth protège les autres unités du Bastion en encaissant 25 % de tous les dégâts subis par les unités du Bastion sur le champ de bataille et en augmentant la résistance aux dégâts de 40 % pendant 5 secondes. Le temps de recharge est de 25 secondes. |
+  |  Réveil  | ? | <Esprit du Bastion> : Le Béhémoth protège les autres unités du Bastion en encaissant 25 % de tous les dégâts subis par les unités du Bastion sur le champ de bataille et en augmentant la résistance aux dégâts de 40 % pendant 5 secondes. Le temps de recharge est de 25 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Lorsque le Béhémoth est sur le champ de bataille, les dégâts des unités alliées à distance/de Lanceurs de sorts du Bastion augmentent de 20 %, et la résistance aux dégâts des unités de mêlée alliées augmente de 20 % également. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les PV de base du Béhémoth de 50 000 points. Les dégâts subis lors des attaques d'unités à distance ou de Lanceurs de sorts sont réduits de 40 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Béhémoth tout-puissant> : Lorsque le Béhémoth subit un coup critique, il déchaîne sa fureur, étourdissant les ennemis dans une large zone autour de lui pendant 3 secondes et diminuant les dégâts d'unité et la vitesse d'attaque des ennemis de 20 % dans une très large zone pendant 5 secondes. Le temps de recharge est de 6 secondes. |

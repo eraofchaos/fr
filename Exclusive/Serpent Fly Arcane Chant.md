@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Guêpe serpent Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Serpent Fly Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Lorsque la cible est abattue, la Guêpe serpent devient folle, ce qui augmente sa vitesse d'ATQ de 100 % pendant 20 secondes. |
+  |  Réveil  | ? | Lorsque la cible est abattue, la Guêpe serpent devient folle, ce qui augmente sa vitesse d'ATQ de 100 % pendant 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Lorsqu'elle attaque, la Guêpe serpent a 30 % de chance d'infliger <Saignement> à sa cible. |
   | **2x** <i class="fas fa-star"/> | ? | Le drain de vie de la Guêpe serpent augmente de 15 %. |
   | **3x** <i class="fas fa-star"/> | ? | Lorsque la cible est abattue, <Miasme pestilentiel> absorbe une quantité de PV égale à 30 % de ses propres PV pendant 20 secondes. L'effet n'est pas cumulable. La première fois que ses PV passent en dessous de 30 %, <Miasme pestilentiel> s'active. |

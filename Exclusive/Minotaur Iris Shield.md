@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Minotaure Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Minotaur Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ruée brutale> : Le Minotaure charge violemment sa cible, lui infligeant des dégâts équivalents à 300 % de son ATQ tout en diminuant de 20 % la résistance aux dégâts des unités ennemies dans une large zone ainsi que leur vitesse d'attaque de 10% pendant 7 secondes. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | <Ruée brutale> : Le Minotaure charge violemment sa cible, lui infligeant des dégâts équivalents à 300 % de son ATQ tout en diminuant de 20 % la résistance aux dégâts des unités ennemies dans une large zone ainsi que leur vitesse d'attaque de 10% pendant 7 secondes. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Minotaure de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la ténacité de 400 pendant 5 secondes en cas d'Exaltation. |
   | **3x** <i class="fas fa-star"/> | ? | <Coup de sang> : Le Minotaure récupère une quantité de PV égale à 10 % de ses PV max et diminue de 20 % les dégâts des unités ennemies dans une zone réduite pendant 6 secondes. Le temps de recharge est de 15 secondes. |

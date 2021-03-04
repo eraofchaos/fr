@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Revyaratan"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Marées obscures](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

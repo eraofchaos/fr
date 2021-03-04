@@ -2,7 +2,7 @@
 title: "Exclusif - Hommage mortel"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Hommage mortel. Hommage mortel. Era of Chaos Exclusif Hommage mortel. Liche Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Lich Hommage mortel.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sacrifice spirituel de Dragon> : Un Dragon squelette est invoqué deux fois pendant 20 secondes après 5 et 45 secondes de combat. L'ATQ et les PV du Dragon squelette dépendent du niveau de l'unité. Il dispose des capacités <Effroi> et <Pénétration>. Lorsqu'il est présent sur le champ de bataille, il augmente les dégâts et la résistance aux dégâts de toutes les unités alliées de la Nécropole de 20 %. |
+  |  Réveil  | ? | <Sacrifice spirituel de Dragon> : Un Dragon squelette est invoqué deux fois pendant 20 secondes après 5 et 45 secondes de combat. L'ATQ et les PV du Dragon squelette dépendent du niveau de l'unité. Il dispose des capacités <Effroi> et <Pénétration>. Lorsqu'il est présent sur le champ de bataille, il augmente les dégâts et la résistance aux dégâts de toutes les unités alliées de la Nécropole de 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts de la Liche augmente de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | À chaque fois que la Liche fait un sacrifice (y compris un Sacrifice spirituel de Dragon), la résistance magique de toutes les unités ennemies diminue de 20 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 3 fois. |
   | **3x** <i class="fas fa-star"/> | ? | <Âme torturée> : La Liche invoque l'âme d'un Dragon squelette toutes les 15 secondes, infligeant une quantité de dégâts égale à 20 % de ses PV max à une unité aléatoire située sur la ligne arrière, ainsi que <Découragement> et <Démotivation> toutes les 10 secondes. |

@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Centaure Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Centaur Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Choc traumatique> : Une onde de choc massive est créée lorsque le Centaure finit de lancer <Choc guerrier>, ce qui ralentit les ennemis à portée de l'onde de choc et diminue leurs dégâts de 20 % pendant 10 secondes. |
+  |  Réveil  | ? | <Choc traumatique> : Une onde de choc massive est créée lorsque le Centaure finit de lancer <Choc guerrier>, ce qui ralentit les ennemis à portée de l'onde de choc et diminue leurs dégâts de 20 % pendant 10 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Au début de la bataille, le Centaure accorde à toutes les unités alliées de première ligne un bouclier égal à 20 % des PV max pendant 20 secondes. |
   | **2x** <i class="fas fa-star"/> | ? | Lorsque le Centaure reçoit un bouclier, sa DÉF augmente de 20 % pendant 10 secondes. Cet effet ne peut pas se cumuler. |
   | **3x** <i class="fas fa-star"/> | ? | <Choc traumatique> : Prolonge la durée de 10 secondes et inflige aux unités ennemies des dégâts équivalents à 10 % de l'ATQ une fois toutes les 0,5 seconde. |

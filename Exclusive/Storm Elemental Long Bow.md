@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Élémentaire de tempête Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Storm Elemental Arc long.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Force de la nature> : L'Élémentaire de tempête fait appel au jugement des cieux, ce qui inflige à l'unité cible des dégâts équivalents à 300 % de son ATQ ainsi que Paralysie pendant 5 secondes. Le temps de recharge est de 20 secondes. Le pré-temps de recharge est de 12 secondes. |
+  |  Réveil  | ? | <Force de la nature> : L'Élémentaire de tempête fait appel au jugement des cieux, ce qui inflige à l'unité cible des dégâts équivalents à 300 % de son ATQ ainsi que Paralysie pendant 5 secondes. Le temps de recharge est de 20 secondes. Le pré-temps de recharge est de 12 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Élémentaire de tempête de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les coups critiques de l'Élémentaire de tempête de 200, ainsi que les dégâts de ses coups critiques de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Augmente la pénétration de l'Élémentaire de tempête de 200. Lorsque l'unité cible est atteinte de Paralysie, cet effet est doublé. Lorsqu'il lance <Force de la nature>, si l'unité cible est affectée par l'affaiblissement de résistance magique à 3 étoiles de l'Élémentaire de glace, cela déclenche <Rage élémentaire>. <Rage élémentaire> inflige aux unités ennemies dans une large zone des dégâts équivalents à 100 % de l'ATQ plus à 2 % des PV max de la cible toutes les 0,2 seconde, et diminue également leur résistance aux dégâts et leur DÉF de 20 % pendant 3 secondes. |

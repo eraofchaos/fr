@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Aéronef magique"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Étoile polaire](/Exclusive/Magic Airship Polaris/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

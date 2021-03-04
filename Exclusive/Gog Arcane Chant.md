@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Gog Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Gog Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Étincelle brûlante> : la Gog inflige des dégâts équivalents à 400 % de son ATQ à l'unité cible toutes les 15 secondes et lui inflige Saignement pendant 7 secondes. Si l'unité cible est déjà victime de Saignement, sa DÉF est réduite de 15 % pendant 7 secondes. |
+  |  Réveil  | ? | <Étincelle brûlante> : la Gog inflige des dégâts équivalents à 400 % de son ATQ à l'unité cible toutes les 15 secondes et lui inflige Saignement pendant 7 secondes. Si l'unité cible est déjà victime de Saignement, sa DÉF est réduite de 15 % pendant 7 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque de la Gog de 15 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente le drain de vie de la Gog de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Vague de chaleur> : Lorsqu'un Héros allié lance des sorts de feu, la Gog inflige des dégâts équivalents à 50 % de son ATQ toutes les secondes aux unités situées dans une large zone devant lui, et leur inflige Brûlure pendant 5 secondes. |

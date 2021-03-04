@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Squelette Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Skeleton Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Cadavre putride> : Le Squelette se transforme en un cadavre putride, infligeant à toutes les unités dans une large zone autour de lui Démotivation toutes les 20 secondes pendant 10 secondes et infligeant à l'unité cible des dégâts équivalents à 250 % de son ATQ. |
+  |  Réveil  | ? | <Cadavre putride> : Le Squelette se transforme en un cadavre putride, infligeant à toutes les unités dans une large zone autour de lui Démotivation toutes les 20 secondes pendant 10 secondes et infligeant à l'unité cible des dégâts équivalents à 250 % de son ATQ. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la DÉF du Squelette de 200. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les PV de base du Squelette de 20 000. |
   | **3x** <i class="fas fa-star"/> | ? | <Calcification> : Le Squelette récupère 10 % de ses PV max lorsqu'il souffre de Démotivation. Le temps de recharge est de 10 secondes. |

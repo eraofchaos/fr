@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Fée Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Sprite Pic du Chevalier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Au début de la bataille, augmente les dégâts d'unité et la vitesse d'attaque de la Fée de 20 % pendant 30 secondes. |
+  |  Réveil  | ? | Au début de la bataille, augmente les dégâts d'unité et la vitesse d'attaque de la Fée de 20 % pendant 30 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de la Fée de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les coups critiques de la Fée de 200. |
   | **3x** <i class="fas fa-star"/> | ? | La Fée inflige des dégâts équivalents à 450 % de son ATQ et aléatoirement Gel, Brûlure, Pétrification ou Statique pendant 3 secondes à l'unité cible. Le temps de recharge est de 18 secondes. |

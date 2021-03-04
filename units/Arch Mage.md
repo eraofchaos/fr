@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Archimage"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Mélopée des arcanes](/Exclusive/Arch Mage Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

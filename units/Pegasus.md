@@ -3,7 +3,7 @@ title: "Pégase"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Pégase"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Arc long](/Exclusive/Pegasus Long Bow/) 
+
+ **Is Open:** + 
 
  **Item to Rang supérieur:** -
 

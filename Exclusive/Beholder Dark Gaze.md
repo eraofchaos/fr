@@ -2,7 +2,7 @@
 title: "Exclusif - Regard ténébreux"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Regard ténébreux. Regard ténébreux. Era of Chaos Exclusif Regard ténébreux. Œil maléfique Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Beholder Regard ténébreux.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Vision des ténèbres> : Inflige des dégâts équivalents à 200 % de son ATQ aux unités ennemies situées dans une large zone devant l'attaquant. Réduit également leur résistance aux dégâts d'unité de 15 %. L'effet est doublé contre des cibles étourdies et dure 7 secondes. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | <Vision des ténèbres> : Inflige des dégâts équivalents à 200 % de son ATQ aux unités ennemies situées dans une large zone devant l'attaquant. Réduit également leur résistance aux dégâts d'unité de 15 %. L'effet est doublé contre des cibles étourdies et dure 7 secondes. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Lorsqu'un Héros ennemi jette un sort, l'Œil maléfique reçoit un bouclier égal à 10 % des PV max pendant 7 secondes. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les coups critiques de l'Œil maléfique de 50 à chaque fois qu'une unité du Donjon est déployée. |
   | **3x** <i class="fas fa-star"/> | ? | L'Œil maléfique lance <Lien ombral> sur une unité ennemie au hasard toutes les 20 secondes. L'unité liée est incapable d'attaquer et sa DÉF est diminuée de 20 %. Si l'unité cible est déjà affectée par <Contrôle mental>, sa ténacité diminue de 200 pendant 5 secondes. |

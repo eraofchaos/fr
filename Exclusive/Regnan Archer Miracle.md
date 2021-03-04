@@ -2,7 +2,7 @@
 title: "Exclusif - Miracle"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Era of Chaos Miracle. Miracle. Era of Chaos Exclusif Miracle. Arbalétrière de Regna Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Regnan Archer Miracle.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Cœur océanique> : Lorsque des unités d'Arbalétrière de Regna meurent, elles ont 50% de chance de ressusciter et de récupérer 20 % de leurs PV. Chaque unité peut déclencher cet effet jusqu'à 3 fois. |
+  |  Réveil  | ? | <Cœur océanique> : Lorsque des unités d'Arbalétrière de Regna meurent, elles ont 50% de chance de ressusciter et de récupérer 20 % de leurs PV. Chaque unité peut déclencher cet effet jusqu'à 3 fois. |
   | **1x** <i class="fas fa-star"/> | ? | Chaque fois que l'Arbalétrière de Regna déclenche <Cœur océanique>, sa résistance aux dégâts d'unité augmente de 50 % et sa ténacité de 500 pendant 3 secondes. L'effet ne peut pas se cumuler. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Arbalétrière de Regna de 20 % et sa résistance aux dégâts de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Flèche mythique> : L'Arbalétrière de Regna stocke 1 flèche imprégnée d'un pouvoir mythique toutes les 10 secondes. Elle inflige des dégâts équivalents à 100 % de l'ATQ à l'unité cible et déclenche aléatoirement l'un des effets suivants :                  <Courant océanique> : Augmente la vitesse d'attaque de 300 % pendant 5 secondes.                                <Tourbillon> : Génère un tourbillon aux pieds de l'unité ennemie la plus proche, empêchant les unités ennemies dans une zone réduite d'attaquer ou de lancer des compétences pendant 3 secondes.                                 <Orage> : Attaque 4 unités ennemies au hasard sur le champ de bataille, infligeant des dégâts équivalents à 10 % des PV max.           <Ouragan> : Génère un ouragan à l'emplacement de la cible, purifiant les unités ennemies dans une zone réduite chaque seconde pendant 3 secondes. |

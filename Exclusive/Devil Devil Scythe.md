@@ -2,7 +2,7 @@
 title: "Exclusif - Faux du diable"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Faux du diable. Faux du diable. Era of Chaos Exclusif Faux du diable. Diable Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Devil Faux du diable.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Le Diable ressuscite à son point d'apparition 6 secondes après sa première mort. Il augmente alors de 10 % les dégâts critiques, la vitesse d'ATQ et la résistance aux dégâts de toutes les unités alliées pendant 20 secondes. L'effet double pour les unités de l'Hadès. Le Diable ressuscité déchaîne <Vengeance> sur sa cible. <Vengeance> inflige une quantité de dégâts égale à 200 % de l'ATQ et \"fragilise\" la cible. Cette compétence ne peut se déclencher qu'une fois toutes les 45 secondes. <Fragilité> dure 5 secondes et ne peut pas être dissipée. Réduit la résistance aux dégâts et la DÉF de l'unité \"fragilisée\" de 20 %. |
+  |  Réveil  | ? | Le Diable ressuscite à son point d'apparition 6 secondes après sa première mort. Il augmente alors de 10 % les dégâts critiques, la vitesse d'ATQ et la résistance aux dégâts de toutes les unités alliées pendant 20 secondes. L'effet double pour les unités de l'Hadès. Le Diable ressuscité déchaîne <Vengeance> sur sa cible. <Vengeance> inflige une quantité de dégâts égale à 200 % de l'ATQ et \"fragilise\" la cible. Cette compétence ne peut se déclencher qu'une fois toutes les 45 secondes. <Fragilité> dure 5 secondes et ne peut pas être dissipée. Réduit la résistance aux dégâts et la DÉF de l'unité \"fragilisée\" de 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Le Diable applique une <Marque de l'Hadès> à une unité ennemie aléatoire toutes les 9 secondes. Chaque marque ajoutée diminue la résistance aux dégâts de la cible de 7 %, jusqu'à 3 fois. Lorsque la cible a 3 marques, elles seront retirées, infligeant 300 % de dégâts. La marque est active pendant tout le combat et ne peut pas être dissipée. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts du Diable de 10 % et sa résistance aux dégâts de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | À chaque fois que le Diable réalise une attaque normale, il inflige une quantité de dégâts égale à 30 % de son ATQ à sa cible, et sa pénétration augmente de 300. |

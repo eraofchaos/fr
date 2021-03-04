@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Garde sylvanien Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Dendroid Guard Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Armure sylvestre> : Accorde au Garde sylvanien et à une unité du Rempart au hasard une augmentation de 10 % de leur résistance aux dégâts ainsi qu'un bouclier égal à 10 % des PV max. L'effet dure 8 secondes. Le temps de recharge est de 18 secondes. |
+  |  Réveil  | ? | <Armure sylvestre> : Accorde au Garde sylvanien et à une unité du Rempart au hasard une augmentation de 10 % de leur résistance aux dégâts ainsi qu'un bouclier égal à 10 % des PV max. L'effet dure 8 secondes. Le temps de recharge est de 18 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Garde sylvanien de 20 % et sa résistance aux dégâts de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la DÉF de base du Garde sylvanien de 50 à chaque fois qu'une unité du Rempart est déployée. |
   | **3x** <i class="fas fa-star"/> | ? | <Racines profondes> : Le Garde sylvanien enfouit ses racines profondément sous terre, ce qui augmente sa résistance aux dégâts d'unité de 15 %, inflige des dégâts équivalents à 2 % des PV max aux unités ennemies dans une large zone chaque seconde, et restaure 1 % de ses PV max chaque seconde pendant 10 secondes, au cours desquelles le Garde sylvanien ne pourra pas bouger. Le temps de recharge est de 25 secondes. |

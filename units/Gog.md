@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Gog"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Mélopée des arcanes](/Exclusive/Gog Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

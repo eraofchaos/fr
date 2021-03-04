@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gargouille Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Stone Gargoyle Épée.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Déchiquètement> : Le Lutin inflige des dégâts équivalents à 250 % de son ATQ ainsi que Saignement pendant 6 secondes, tout en augmentant sa vitesse d'attaque de 20 % pendant 6 secondes. Le temps de recharge est de 26 secondes. |
+  |  Réveil  | ? | <Déchiquètement> : Le Lutin inflige des dégâts équivalents à 250 % de son ATQ ainsi que Saignement pendant 6 secondes, tout en augmentant sa vitesse d'attaque de 20 % pendant 6 secondes. Le temps de recharge est de 26 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV de la Gargouille de 15 % et sa DÉF de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de la Gargouille de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Éveil magique> : Lorsqu'une Gargouille reçoit un bonus d'un Héros allié, sa résistance magique augmente de 15 % et elle reçoit un bouclier égal à 10 % de ses PV max pendant 8 secondes. L'effet peut se cumuler jusqu'à 2 fois. |

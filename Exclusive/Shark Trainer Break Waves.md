@@ -2,7 +2,7 @@
 title: "Exclusif - Brise-vagues"
 permalink: /Exclusive/Shark Trainer Break Waves/
 excerpt: "Era of Chaos Brise-vagues. Brise-vagues. Era of Chaos Exclusif Brise-vagues. Dompteur de requins Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Shark Trainer Brise-vagues.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tempête> : Toutes les 15 secondes, le Dompteur de requins agite sa lame, infligeant 100 % de dégâts à toutes les unités ennemies se trouvant dans une large zone. Il inflige également Découragement et diminue les dégâts des unités ennemies de 30 % pendant 7 secondes. |
+  |  Réveil  | ? | <Tempête> : Toutes les 15 secondes, le Dompteur de requins agite sa lame, infligeant 100 % de dégâts à toutes les unités ennemies se trouvant dans une large zone. Il inflige également Découragement et diminue les dégâts des unités ennemies de 30 % pendant 7 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les coups critiques du Dompteur de requins des Requins de 400. |
   | **2x** <i class="fas fa-star"/> | ? | Lorsqu'il reçoit une bulle, sa vitesse d'attaque augmente de 20 % pendant 8 secondes. La vitesse d'attaque augmente de 20 % contre les unités affligées de Saignement. |
   | **3x** <i class="fas fa-star"/> | ? | <Querelle ancestrale> : Lorsque les PV d'un Dompteur de requins ou d'un Requin tombent en dessous de 50 % pour la première fois, il reçoit, pour toute la durée de la bataille, une bulle égale à 30 % de ses PV max qui ne peut pas être dissipée. Dans le même temps, le Requin et le Dompteur de requins entrent en état de Revanche. Pendant les 10 secondes suivantes, les attaques infligent des dégâts équivalents à 8 % de leurs PV max aux cibles et infligent Saignement pendant 12 secondes. Cet effet ne peut pas être dissipé. Cette compétence ne peut pas être réduite au Silence. |

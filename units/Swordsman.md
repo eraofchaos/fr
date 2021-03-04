@@ -3,7 +3,7 @@ title: "Spadassin"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Spadassin"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Bouclier iris](/Exclusive/Swordsman Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

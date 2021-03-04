@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Homme-lézard Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Lizardman Arc long.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Chasseur sauvage> : Peut être lancé une fois toutes les 20 secondes, infligeant une quantité de dégâts égale à 300 % de son ATQ à toutes les unités ennemies dans une zone réduite, tout en infligeant chaque seconde une quantité de dégâts égale à 2 % de ses PV max pendant 5 secondes. |
+  |  Réveil  | ? | <Chasseur sauvage> : Peut être lancé une fois toutes les 20 secondes, infligeant une quantité de dégâts égale à 300 % de son ATQ à toutes les unités ennemies dans une zone réduite, tout en infligeant chaque seconde une quantité de dégâts égale à 2 % de ses PV max pendant 5 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | La résistance magique de l'Homme-lézard augmente de 50 %. |
   | **2x** <i class="fas fa-star"/> | ? | Lorsque l'Homme-lézard réalise un coup critique, ses coups critiques augmentent de 10 pendant 3 secondes. Cet effet peut se cumuler jusqu'à 50 fois. |
   | **3x** <i class="fas fa-star"/> | ? | Lorsque la cible est abattue, <Miasme pestilentiel> absorbe une quantité de PV égale à 30 % de ses propres PV pendant 20 secondes. L'effet n'est pas cumulable. La première fois que ses PV passent en dessous de 30 %, <Miasme pestilentiel> s'active. |

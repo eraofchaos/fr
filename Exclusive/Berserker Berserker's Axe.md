@@ -2,7 +2,7 @@
 title: "Exclusif - Hache de Berserker"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Hache de Berserker. Hache de Berserker. Era of Chaos Exclusif Hache de Berserker. Berserker Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Berserker Hache de Berserker.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Hache tournoyante> : Le Berserker lance une hache tournoyante, infligeant des dégâts équivalant à 150 % de son ATQ aux unités ennemies dans une large zone devant lui et infligeant Saignement pendant 8 secondes. Le temps de recharge est de 18 secondes. |
+  |  Réveil  | ? | <Hache tournoyante> : Le Berserker lance une hache tournoyante, infligeant des dégâts équivalant à 150 % de son ATQ aux unités ennemies dans une large zone devant lui et infligeant Saignement pendant 8 secondes. Le temps de recharge est de 18 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Berserker de 15 %. Augmente les dégâts d'unité de 15 % supplémentaires lorsqu'il combat des unités étourdies. |
   | **2x** <i class="fas fa-star"/> | ? | Les attaques du Berserker ont 5 % de chance d'étourdir une cible pendant 1,5 seconde. Se déclenche seulement une fois toutes les 5 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Coup de grâce> : Le Berserker inflige des dégâts équivalents à 225 % de son ATQ à l'unité cible, tout en réduisant de 20 % la résistance aux dégâts et de 10 % la DÉF de sa cible. Si l'unité cible est victime de Saignement, diminue ses dégâts d'unité de 20 % et sa vitesse d'attaque de 10 % pendant 10 secondes. Le temps de recharge est de 25 secondes. |

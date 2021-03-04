@@ -2,7 +2,7 @@
 title: "Exclusif - Bâton de renouveau"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Bâton de renouveau. Bâton de renouveau. Era of Chaos Exclusif Bâton de renouveau. Druidesse Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Druid Bâton de renouveau.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fouet de liane> : Au début de la bataille, attaque une unité ennemie en ligne arrière au hasard, infligeant des dégâts équivalents à 30 % de l'ATQ et limitant le mouvement de la cible pendant 10 secondes. Accorde également aux unités alliées en ligne arrière un bouclier égal à 25 % des PV max. Dure 10 secondes. |
+  |  Réveil  | ? | <Fouet de liane> : Au début de la bataille, attaque une unité ennemie en ligne arrière au hasard, infligeant des dégâts équivalents à 30 % de l'ATQ et limitant le mouvement de la cible pendant 10 secondes. Accorde également aux unités alliées en ligne arrière un bouclier égal à 25 % des PV max. Dure 10 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la portée de la Druidesse de 50, et sa ténacité de 200. |
   | **2x** <i class="fas fa-star"/> | ? | Au début du combat, augmente sa DÉF de 70 % ainsi que la résistance aux dégâts de toutes les unités alliées dans une large zone autour du Lanceur de sorts de 22 %, pendant 15 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Fleur de vie> : Invoque une Fleur de vie une fois toutes les 24 secondes. Les Fleurs de vie bénissent toutes les unités du Rempart dans une large zone une fois toutes les 5 secondes et 5 fois au total, augmentant la vitesse d'attaque de 5 % à chaque fois. L'effet dure 5 secondes et peut se cumuler jusqu'à 30 fois. |

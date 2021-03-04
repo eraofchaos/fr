@@ -2,7 +2,7 @@
 title: "Exclusif - Corne de Gorgone"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Corne de Gorgone. Corne de Gorgone. Era of Chaos Exclusif Corne de Gorgone. Gorgone Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Gorgon Corne de Gorgone.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Armure pétrifiée> : La Gorgone couvre l'intégralité de son corps d'une armure pétrifiée, ce qui augmente sa DÉF de 24 % et sa résistance aux dégâts d'unité de 20 % pendant 6 secondes. Lorsqu'elle perd tous ses bonus, la Gorgone inflige des dégâts équivalents à 150 % de son ATQ aux unités ennemies dans une large zone et a 30 % de chance de leur infliger Pétrification pendant 3 secondes. Le temps de recharge est de 18 secondes. |
+  |  Réveil  | ? | <Armure pétrifiée> : La Gorgone couvre l'intégralité de son corps d'une armure pétrifiée, ce qui augmente sa DÉF de 24 % et sa résistance aux dégâts d'unité de 20 % pendant 6 secondes. Lorsqu'elle perd tous ses bonus, la Gorgone inflige des dégâts équivalents à 150 % de son ATQ aux unités ennemies dans une large zone et a 30 % de chance de leur infliger Pétrification pendant 3 secondes. Le temps de recharge est de 18 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV et la résistance aux dégâts d'unité de la Gorgone de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Lorsqu'elle lance <Armure pétrifiée>, la Gorgone restaure une quantité de PV équivalente à 10 % de ses PV max en l'espace de 5 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Fission tectonique> : Lorsque la Gorgone perd son bonus d'<Armure pétrifiée>, elle inflige chaque seconde Lenteur ou Brûlure aux unités ennemies se trouvant dans une large zone, et inflige également des dégâts équivalents à 3 % de ses PV max pendant 6 secondes. |

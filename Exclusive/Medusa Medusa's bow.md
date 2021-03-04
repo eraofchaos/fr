@@ -2,7 +2,7 @@
 title: "Exclusif - Arc de la Méduse"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arc de la Méduse. Arc de la Méduse. Era of Chaos Exclusif Arc de la Méduse. Méduse Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Medusa Arc de la Méduse.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | La Méduse a 50 % de chance de lancer <Serpent venimeux> sur une unité aléatoire à chaque fois qu'elle attaque. L'effet dure pendant tout le combat, et peut se cumuler jusqu'à 10 fois. Lorsque la Méduse attaque une unité ayant accumulé <Serpent venimeux> 10 fois, ses dégâts augmentent de 30 %. <Serpent venimeux> : inflige une quantité de dégâts égale à 5 % de l'ATQ de la Méduse chaque seconde. |
+  |  Réveil  | ? | La Méduse a 50 % de chance de lancer <Serpent venimeux> sur une unité aléatoire à chaque fois qu'elle attaque. L'effet dure pendant tout le combat, et peut se cumuler jusqu'à 10 fois. Lorsque la Méduse attaque une unité ayant accumulé <Serpent venimeux> 10 fois, ses dégâts augmentent de 30 %. <Serpent venimeux> : inflige une quantité de dégâts égale à 5 % de l'ATQ de la Méduse chaque seconde. |
   | **1x** <i class="fas fa-star"/> | ? | Les coups critiques de la Méduse augmentent de 300. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'ATQ et l'attaque de la Méduse de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Résorption> : La Méduse lance une compétence toutes les 10 secondes pour supprimer les affaiblissements dont elle souffre. |

@@ -2,7 +2,7 @@
 title: "Exclusif - Annihilation"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Annihilation. Annihilation. Era of Chaos Exclusif Annihilation. Dragon rouge Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Red Dragon Annihilation.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Âme de Dragon> : Le Dragon rouge condense 1 âme de Dragon dans son corps toutes les 15 secondes, dans la limite de 4 âmes. Chaque âme de Dragon augmente les dégâts d'unité du Dragon rouge et sa résistance aux dégâts de 10 %. Lorsque le Dragon rouge dispose d'une âme de Dragon, il lance <Flamme infernale>, infligeant des dégâts équivalents à 150 % de son ATQ à l'unité cible, ainsi que des dégâts supplémentaires équivalents à 20 % de ses PV max aux unités victimes de Brûlure. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Âme de Dragon> : Le Dragon rouge condense 1 âme de Dragon dans son corps toutes les 15 secondes, dans la limite de 4 âmes. Chaque âme de Dragon augmente les dégâts d'unité du Dragon rouge et sa résistance aux dégâts de 10 %. Lorsque le Dragon rouge dispose d'une âme de Dragon, il lance <Flamme infernale>, infligeant des dégâts équivalents à 150 % de son ATQ à l'unité cible, ainsi que des dégâts supplémentaires équivalents à 20 % de ses PV max aux unités victimes de Brûlure. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la DÉF et la pénétration du Dragon rouge de 50 à chaque fois qu'une unité du souterrain est déployée. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de 20 % et les coups critiques de 200 face à des unités victimes de Brûlure. |
   | **3x** <i class="fas fa-star"/> | ? | <Flamme du Dragon> : Le Dragon rouge inflige des dégâts équivalents à 130 % de son ATQ aux unités ennemies dans une large zone ainsi que Brûlure, qui diminue de 20 % leur résistance aux dégâts d'unité et leur inflige des dégâts équivalents à 2 % des PV max chaque seconde pendant 8 secondes. Le temps de recharge est de 18 secondes. |

@@ -2,7 +2,7 @@
 title: "Exclusif - Durandel"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durandel. Durandel. Era of Chaos Exclusif Durandel. Ange Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Angel Durandel.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Représailles> : Inflige des dégâts équivalents à 100 % de son ATQ à l'unité cible ainsi qu'à une unité de première ligne au hasard, et leur inflige Représailles pendant 10 secondes. Le temps de recharge est de 17 secondes. Si l'unité cible subit déjà les effets de Représailles, inflige des dégâts équivalents à 150c% de sa propre ATQ et diminue sa DÉF de 20 % pendant 5 secondes, tout en annulant l'effet Représailles de la cible. L'effet est doublé lorsqu'il est utilisé sur les unités de l'Hadès. Le temps de recharge est de 10 secondes. |
+  |  Réveil  | ? | <Représailles> : Inflige des dégâts équivalents à 100 % de son ATQ à l'unité cible ainsi qu'à une unité de première ligne au hasard, et leur inflige Représailles pendant 10 secondes. Le temps de recharge est de 17 secondes. Si l'unité cible subit déjà les effets de Représailles, inflige des dégâts équivalents à 150c% de sa propre ATQ et diminue sa DÉF de 20 % pendant 5 secondes, tout en annulant l'effet Représailles de la cible. L'effet est doublé lorsqu'il est utilisé sur les unités de l'Hadès. Le temps de recharge est de 10 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Les unités alliées adjacentes dans une zone réduite reçoivent la bénédiction de l'Ange, ce qui augmente leurs dégâts de 20 % et supprime les limites de portée des unités du Château. |
   | **2x** <i class="fas fa-star"/> | ? | <Durandel> : Les unités alliées recevront la force de Durandel au début de la bataille. Effet du bonus : augmente la ténacité des unités défensives de 100 ; augmente la résistance aux dégâts des unités offensives et d'assaut de 10 %, et augmente la DÉF des unités à distance et de Lanceurs de sorts de 8 %. L'efficacité du bonus est multipliée par 1 pour les unités d'un combattant, par 2,5 pour les unités de 4 combattants, et par 5 pour les unités de 9 et 16 combattants. Le bonus est inefficace lorsqu'il est utilisé sur les unités de l'Hadès. Dure 25 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Entité divine> : 5 secondes après avoir rejoint le champ de bataille, reçoit un bouclier égal à 50 % des PV max, augmente la DÉF de 100 % et accorde une immunité à tous les dégâts magiques. Par la suite, la DÉF diminue de 5 % par seconde. Cet effet ne peut pas être dissipé. Le bouclier dure 20 secondes, après quoi la DÉF et les bonus d'immunité à la magie se dissipent. |

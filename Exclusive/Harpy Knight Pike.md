@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Harpie Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Harpy Pic du Chevalier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Voltige> : La Harpie lance une frappe puissante sur une unité cible, infligeant des dégâts équivalents à 300 % de son ATQ. Elle prend ensuite son envol pour tirer des flèches empennées, infligeant aux unités ennemies des dégâts équivalents à 10 % des PV max dans une large zone tout en leur infligeant Venin de faucon pendant 5 secondes. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | <Voltige> : La Harpie lance une frappe puissante sur une unité cible, infligeant des dégâts équivalents à 300 % de son ATQ. Elle prend ensuite son envol pour tirer des flèches empennées, infligeant aux unités ennemies des dégâts équivalents à 10 % des PV max dans une large zone tout en leur infligeant Venin de faucon pendant 5 secondes. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de la Harpie de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de la Harpie de 40 % lorsqu'elle combat des unités volantes. |
   | **3x** <i class="fas fa-star"/> | ? | <Friande de venin> : Lorsqu'elle combat des cibles empoisonnées, la Harpie se lance dans une poursuite et inflige des dégâts équivalents à 300 % de son ATQ. Le temps de recharge est de 10 secondes. Si la cible a déjà été attaquée au moyen d'<Éruption de poison>, elle est également étourdie pendant 5 secondes. |

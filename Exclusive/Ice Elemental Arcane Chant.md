@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Élémentaire de glace Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Ice Elemental Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fracture gelée> : Frappe l'ennemi d'un froid extrême, qui cause à l'unité cible des dégâts équivalents à 200 % de sa propre ATQ et inflige Gel pendant 5 secondes. Le temps de recharge est de 20 secondes. Le pré-temps de recharge est de 11 secondes. |
+  |  Réveil  | ? | <Fracture gelée> : Frappe l'ennemi d'un froid extrême, qui cause à l'unité cible des dégâts équivalents à 200 % de sa propre ATQ et inflige Gel pendant 5 secondes. Le temps de recharge est de 20 secondes. Le pré-temps de recharge est de 11 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Élémentaire de glace de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | <Bouclier de glace> : Fournit un bouclier de glace à une unité alliée de première ligne au hasard. Lorsque cette unité est attaquée, elle inflige Lenteur pendant 3 secondes. Bouclier de glace dure 10 secondes. Le temps de recharge est de 15 secondes. Cette compétence est lancée au début de la bataille. |
   | **3x** <i class="fas fa-star"/> | ? | Augmente les coups critiques de l'Élémentaire de glace de 200. Lorsque l'unité cible est atteinte de Gel, cet effet est doublé. Lorsque <Fracture gelée> est lancée, si l'unité cible est affectée par l'affaiblissement de résistance aux dégâts à 3 étoiles de l'Élémentaire de pierre, la résistance magique de l'unité cible diminue de 50 % supplémentaires. Cet effet dure 8 secondes. |

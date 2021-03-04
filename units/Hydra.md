@@ -3,7 +3,7 @@ title: "Hydre"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Hydre"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Tête d'Hydre](/Exclusive/Hydra Hydra's Head/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

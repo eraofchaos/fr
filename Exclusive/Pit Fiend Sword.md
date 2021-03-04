@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Servante des Abîmes Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Pit Fiend Épée.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Coup de fouet> : La Servante des Abîmes donne des coups de fouet, infligeant des dégâts équivalents à 300 % de son ATQ aux unités ennemies dans une large zone, ainsi que Saignement. Les dégâts d'unité ont 50 % de chance de diminuer de 20 % pendant 6 secondes. Le temps de recharge est de 16 secondes. |
+  |  Réveil  | ? | <Coup de fouet> : La Servante des Abîmes donne des coups de fouet, infligeant des dégâts équivalents à 300 % de son ATQ aux unités ennemies dans une large zone, ainsi que Saignement. Les dégâts d'unité ont 50 % de chance de diminuer de 20 % pendant 6 secondes. Le temps de recharge est de 16 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de la Servante des Abîmes de 20 % et ses soins de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts des unités de l'Hadès alliées de 10 % lorsque la Servante des Abîmes se trouve sur le champ de bataille. |
   | **3x** <i class="fas fa-star"/> | ? | <Liaison infernale> : La Servante des Abîmes enroule son fouet autour de l'unité cible, ce qui expose ses faiblesses et la rend incapable de se déplacer et d'attaquer, et diminue sa résistance aux dégâts d'unité de 15 % pendant 4 secondes. Le temps de recharge est de 20 secondes. |

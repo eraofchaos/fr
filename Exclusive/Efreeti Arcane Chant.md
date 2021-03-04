@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Effrit Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Efreeti Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Flammes de l'oubli> : Lorsque la cible attaquée brûle, une boule de feu extrêmement concentrée est lancée, ce qui inflige des dégâts équivalents à 30 % des PV max aux unités ennemies dans une large zone. Le temps de recharge est de 30 secondes. |
+  |  Réveil  | ? | <Flammes de l'oubli> : Lorsque la cible attaquée brûle, une boule de feu extrêmement concentrée est lancée, ce qui inflige des dégâts équivalents à 30 % des PV max aux unités ennemies dans une large zone. Le temps de recharge est de 30 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Effrit de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de l'Effrit de 20 % et sa vitesse d'attaque de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Allégeance> : Lorsqu'une unité ennemie sur le champ de bataille porte une marque de l'Hadès, l'Effrit utilisera immédiatement Flammes infernales pour attaquer l'une des unités marquées, ce qui inflige des dégâts équivalents à 100 % de son ATQ et ajoute une autre marque de l'Hadès. Le temps de recharge est de 15 secondes. |

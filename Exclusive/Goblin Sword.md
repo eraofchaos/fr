@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gobelin Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Goblin Épée.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ébouleur> : Le Gobelin inflige des dégâts équivalents à 300 % de son ATQ toutes les 15 secondes et inflige Saignement à sa cible pendant 7 secondes. Si l'unité cible est victime de Surchauffe, sa DÉF est réduite de 15 % pendant 5 secondes. |
+  |  Réveil  | ? | <Ébouleur> : Le Gobelin inflige des dégâts équivalents à 300 % de son ATQ toutes les 15 secondes et inflige Saignement à sa cible pendant 7 secondes. Si l'unité cible est victime de Surchauffe, sa DÉF est réduite de 15 % pendant 5 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Gobelin de 20 % et son esquive de 100. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les coups critiques du Gobelin de 150 face à des unités qui ont moins de 70 % de leurs PV. |
   | **3x** <i class="fas fa-star"/> | ? | <Pris de court> : Lorsque l'attaque du Gobelin est esquivée, le Gobelin inflige des dégâts équivalents à 100 % de son ATQ et diminue la DÉF de la cible de 4 % pendant 8 secondes. Le temps de recharge est de 2 secondes. L'effet peut se cumuler jusqu'à 4 fois. |

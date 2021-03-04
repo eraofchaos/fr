@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Troglodyte Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Troglodyte Épée.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fente transperçante> : Le Troglodyte inflige des dégâts équivalents à 200 % de son ATQ ainsi que Poison pendant 8 secondes. Si l'unité cible est déjà victime de Poison, alors elle subit Étourdissement pendant 1 seconde. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Fente transperçante> : Le Troglodyte inflige des dégâts équivalents à 200 % de son ATQ ainsi que Poison pendant 8 secondes. Si l'unité cible est déjà victime de Poison, alors elle subit Étourdissement pendant 1 seconde. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Troglodyte de 20 % et son esquive de 200. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ du Troglodyte de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Odeur du briseur de sorts> : Augmente la DÉF du Troglodyte de 5 % et sa ténacité de 40 pendant 6 secondes. L'effet peut se cumuler jusqu'à 5 fois. |

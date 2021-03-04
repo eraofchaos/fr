@@ -3,7 +3,7 @@ title: "Garde sylvanien"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Garde sylvanien"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Bouclier iris](/Exclusive/Dendroid Guard Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

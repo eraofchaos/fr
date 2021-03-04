@@ -2,7 +2,7 @@
 title: "Exclusif - Queue de scorpion"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Queue de scorpion. Queue de scorpion. Era of Chaos Exclusif Queue de scorpion. Manticore Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Manticore Queue de scorpion.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Piqûre de scorpion> : La Manticore lance une attaque en 3 étapes à une cible toutes les 20 secondes, infligeant 100 %, 125 %, et 150 % de dégâts respectivement, ainsi que l'effet \"Scorpion venimeux\". La ténacité et l'esquive de la cible sont également réduites de 200 pendant 5 secondes. |
+  |  Réveil  | ? | <Piqûre de scorpion> : La Manticore lance une attaque en 3 étapes à une cible toutes les 20 secondes, infligeant 100 %, 125 %, et 150 % de dégâts respectivement, ainsi que l'effet \"Scorpion venimeux\". La ténacité et l'esquive de la cible sont également réduites de 200 pendant 5 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Les dégâts de la Manticore augmentent de 25 %. |
   | **2x** <i class="fas fa-star"/> | ? | La résistance aux dégâts de la Manticore augmente de 25 %. |
   | **3x** <i class="fas fa-star"/> | ? | Les coups critiques de la Manticore augmentent de 300. Chaque attaque normale inflige une quantité de dégâts supplémentaire égale à 50 % de son ATQ lorsqu'elle se bat contre des cibles victimes de Saignement. |

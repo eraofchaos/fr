@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Chevaucheur de loup Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Wolf Rider Pic du Chevalier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Frappe du loup> : Le Chevaucheur de loup inflige des dégâts équivalents à 250 % de son ATQ et à 5 % des PV max de l'unité cible. Le temps de recharge est de 12 secondes. |
+  |  Réveil  | ? | <Frappe du loup> : Le Chevaucheur de loup inflige des dégâts équivalents à 250 % de son ATQ et à 5 % des PV max de l'unité cible. Le temps de recharge est de 12 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente l'ATQ du Chevaucheur de loup de 20 % et sa vitesse d'attaque de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Chevaucheur de loup de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Pacte du loup> : Le Chevaucheur de loup invoque un loup pour l'aider pendant la bataille toutes les 3 secondes pendant 10 secondes. Les attaques normales du loup invoqué ont 5 % de chance d'infliger Étourdissement à la cible pendant 2 secondes. |

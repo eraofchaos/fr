@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Élémentaire de mer"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Mélopée des arcanes](/Exclusive/Sea Elemental Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

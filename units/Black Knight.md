@@ -3,7 +3,7 @@ title: "Chevalier noir"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Chevalier noir"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Sabre des limbes](/Exclusive/Black Knight Nether Sabre/) 
+
+ **Is Open:** + 
 
  **Item to Rang supérieur:** -
 

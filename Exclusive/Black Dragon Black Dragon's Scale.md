@@ -2,7 +2,7 @@
 title: "Exclusif - Écaille de Dragon noir"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Écaille de Dragon noir. Écaille de Dragon noir. Era of Chaos Exclusif Écaille de Dragon noir. Dragon noir Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Black Dragon Écaille de Dragon noir.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Refuge de dragons> : Lorsque ses PV sont inférieurs à 75 %, 50 % et 25 %, le Dragon noir génère un bouclier égal à 15 % de ses PV max pour toutes les unités Dragons défensives alliées (Tortue dragon, Dragon noir/Roi Dragon noir) sur le champ de bataille, et un bouclier égal à 30 % de ses PV max à toutes les unités Dragon non défensives alliées (Dragon vert/Dragon d'or, Dragon squelette/Dragon fantôme, Dragon rouge, Hydre ou Wivern). Le bouclier dure pendant tout le combat et peut être cumulé. Le bouclier du Dragon noir ne peut pas être dissipé. Lorsqu'un bouclier est présent, il immunise contre les sorts pendant 3 secondes. |
+  |  Réveil  | ? | <Refuge de dragons> : Lorsque ses PV sont inférieurs à 75 %, 50 % et 25 %, le Dragon noir génère un bouclier égal à 15 % de ses PV max pour toutes les unités Dragons défensives alliées (Tortue dragon, Dragon noir/Roi Dragon noir) sur le champ de bataille, et un bouclier égal à 30 % de ses PV max à toutes les unités Dragon non défensives alliées (Dragon vert/Dragon d'or, Dragon squelette/Dragon fantôme, Dragon rouge, Hydre ou Wivern). Le bouclier dure pendant tout le combat et peut être cumulé. Le bouclier du Dragon noir ne peut pas être dissipé. Lorsqu'un bouclier est présent, il immunise contre les sorts pendant 3 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Lorsque le Dragon noir est sur le champ de bataille, il augmente les dégâts et la résistance aux dégâts des unités alliées du Donjon de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la ténacité du Dragon noir de 200 et ses PV de base de 50 000. |
   | **3x** <i class="fas fa-star"/> | ? | <Souffle du Dragon magique> : Le Dragon noir inflige une quantité de dégâts égale à 150 % de son ATQ à toutes les unités ennemies en face de lui dans une zone réduite toutes les 15 secondes. Il inflige également une quantité de dégâts égale à 10 % de ses PV max à sa cible. |

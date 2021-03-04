@@ -2,7 +2,7 @@
 title: "Exclusif - Lyre"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyre. Lyre. Era of Chaos Exclusif Lyre. Djinn Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Genie Lyre.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Gardienne de la lampe> : La Djinn reçoit un niveau de Gardienne de la lampe toutes les 5 secondes. Chaque niveau augmente de 2 % la résistance aux dégâts d'unité pour toute la durée de la bataille. L'effet peut se cumuler jusqu'à 20 fois. Lorsque la Djinn subit des dégâts, elle reçoit un autre niveau de Gardienne de la lampe. |
+  |  Réveil  | ? | <Gardienne de la lampe> : La Djinn reçoit un niveau de Gardienne de la lampe toutes les 5 secondes. Chaque niveau augmente de 2 % la résistance aux dégâts d'unité pour toute la durée de la bataille. L'effet peut se cumuler jusqu'à 20 fois. Lorsque la Djinn subit des dégâts, elle reçoit un autre niveau de Gardienne de la lampe. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la DÉF de la Djinn de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les soins de la Djinn de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | La Djinn génère une brume qui diminue de 20 % les dégâts de 2 unités ennemies à distance ou de Lanceurs de sorts aléatoires et de 400 les coups critiques pendant 10 secondes. Le temps de recharge est de 15 secondes. |

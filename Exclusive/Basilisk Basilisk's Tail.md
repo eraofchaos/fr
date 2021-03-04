@@ -2,7 +2,7 @@
 title: "Exclusif - Queue de Basilic"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Queue de Basilic. Queue de Basilic. Era of Chaos Exclusif Queue de Basilic. Basilic Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Basilisk Queue de Basilic.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Lorsqu'une attaque touche une unité cible, a 8 % de chance d'infliger en plus des dégâts équivalents à 100 % de son ATQ et de pétrifier la cible pendant 3 secondes. |
+  |  Réveil  | ? | Lorsqu'une attaque touche une unité cible, a 8 % de chance d'infliger en plus des dégâts équivalents à 100 % de son ATQ et de pétrifier la cible pendant 3 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV et la résistance aux dégâts d'unité du Basilic de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Après que les attaques du Basilic déclenchent l'effet d'éveil, sa DÉF augmente de 20 % pendant 3 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | Lorsque la cible est abattue, <Miasme pestilentiel> absorbe une quantité de PV égale à 30 % de ses propres PV pendant 20 secondes. L'effet n'est pas cumulable. La première fois que ses PV passent en dessous de 30 %, <Miasme pestilentiel> s'active. |

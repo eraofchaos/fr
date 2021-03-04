@@ -2,7 +2,7 @@
 title: "Exclusif - Sabre des limbes"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Sabre des limbes. Sabre des limbes. Era of Chaos Exclusif Sabre des limbes. Chevalier noir Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Black Knight Sabre des limbes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Le Chevalier noir réduit la DÉF des unités ennemies de 30 % dans une large zone. Sa pénétration augmente de 500 lorsqu'il affronte des unités victimes de <Démotivation>. |
+  |  Réveil  | ? | Le Chevalier noir réduit la DÉF des unités ennemies de 30 % dans une large zone. Sa pénétration augmente de 500 lorsqu'il affronte des unités victimes de <Démotivation>. |
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts du Chevalier noir augmente de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Les dégâts du Chevalier noir augmentent de 25 %. |
   | **3x** <i class="fas fa-star"/> | ? | Le Chevalier noir charge directement au début du combat. Pendant ce temps, il est immunisé contre tout type de dégâts. Il apparaît devant les unités ennemies placées à la fin de la ligne en 6 secondes. S'il n'y a pas de cible adéquate, il attaque une unité aléatoire située sur la ligne arrière et lui inflige une Frappe fatale. (Aucun effet d'éveil. Ne fonctionne qu'une seule fois par combat.) |

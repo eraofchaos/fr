@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Golem de fer Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Iron Golem Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Module d'amélioration> : Le Golem de fer active le mode d'amélioration caché en lui, ce qui augmente sa DÉF de 10 %, sa résistance aux dégâts d'unité de 10 % et sa vitesse d'attaque de 30 % pendant 10 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Module d'amélioration> : Le Golem de fer active le mode d'amélioration caché en lui, ce qui augmente sa DÉF de 10 %, sa résistance aux dégâts d'unité de 10 % et sa vitesse d'attaque de 30 % pendant 10 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Golem de fer de 20 % et sa DÉF de 15 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la ténacité du Golem de fer de 300. Lorsque <Module d'amélioration> se lance, le bonus de ténacité est doublé. |
   | **3x** <i class="fas fa-star"/> | ? | <Poing électromagnétique> : Lorsque le Golem de fer attaque, il a 10 % de chance de lancer <Poing électromagnétique> une fois, ce qui inflige des dégâts équivalents à 200 % de son ATQ et diminue les dégâts d'unité de la cible et sa résistance aux dégâts de 10 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 4 fois. |

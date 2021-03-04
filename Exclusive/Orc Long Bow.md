@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Orque Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Orc Arc long.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Hache de guerre élancée> : L'Orque lance une hache de guerre géante sur l'unité cible, ce qui inflige des dégâts équivalents à 300 % de son ATQ, tout en ignorant 1 000 points de la DÉF de l'unité cible. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | <Hache de guerre élancée> : L'Orque lance une hache de guerre géante sur l'unité cible, ce qui inflige des dégâts équivalents à 300 % de son ATQ, tout en ignorant 1 000 points de la DÉF de l'unité cible. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de l'Orque de 20 % et ses coups critiques de 100. |
   | **2x** <i class="fas fa-star"/> | ? | Chaque fois que les PV de l'Orque baissent de 10 %, sa résistance aux dégâts d'unité et sa résistance magique augmentent de 4 %. L'effet persiste même après la restauration des PV. |
   | **3x** <i class="fas fa-star"/> | ? | L'Orque est concentré sur sa bataille actuelle. Chaque attaque augmente la vitesse d'attaque des unités de 5 % et les coups critiques de 15. L'effet peut se cumuler jusqu'à 10 fois. Une fois que l'Orque change de cible, les niveaux sont remis à zéro. |

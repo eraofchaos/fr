@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Trépassé Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Walking Dead Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Massacre> : Le Trépassé brandit un hachoir, infligeant une quantité de dégâts égale à 100 % de son ATQ à des unités ennemies sur son chemin dans une petite zone. Les cibles touchées sont victimes de Saignement et reçoivent une quantité de dégâts égale à 10 % de son ATQ chaque seconde. L'effet dure 10 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Massacre> : Le Trépassé brandit un hachoir, infligeant une quantité de dégâts égale à 100 % de son ATQ à des unités ennemies sur son chemin dans une petite zone. Les cibles touchées sont victimes de Saignement et reçoivent une quantité de dégâts égale à 10 % de son ATQ chaque seconde. L'effet dure 10 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | La DÉF du Trépassé augmente de 300. |
   | **2x** <i class="fas fa-star"/> | ? | La ténacité du Trépassé augmente de 500. |
   | **3x** <i class="fas fa-star"/> | ? | Si la cible est victime de <Démotivation>, la vitesse d'ATQ et le drain de vie du Trépassé augmentent de 20 %. |

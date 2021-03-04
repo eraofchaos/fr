@@ -2,7 +2,7 @@
 title: "Exclusif - "
 permalink: /Exclusive/Judicator /
 excerpt: "Era of Chaos . . Era of Chaos Exclusif . Adjudicatrice Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Judicator .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? |  |
+  |  Réveil  | ? |  |
   | **1x** <i class="fas fa-star"/> | ? |  |
   | **2x** <i class="fas fa-star"/> | ? |  |
   | **3x** <i class="fas fa-star"/> | ? |  |

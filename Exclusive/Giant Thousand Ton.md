@@ -2,7 +2,7 @@
 title: "Exclusif - Mille tonnes"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Mille tonnes. Mille tonnes. Era of Chaos Exclusif Mille tonnes. Géant Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Giant Mille tonnes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Un Géant invoque un nuage orageux au-dessus d'une unité aléatoire pendant 10 secondes. L'orage frappera une unité au hasard toutes les 0,5 seconde, chaque frappe infligeant des dégâts équivalents à 40 % de son ATQ. Si la même unité est frappée deux fois de suite en l'espace de 4 secondes, cette unité est affligée de Paralysie pendant 5 secondes. Si la même unité est frappée quatre fois de suite, elle se voit infliger Fragilisation pendant 2 secondes. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | Un Géant invoque un nuage orageux au-dessus d'une unité aléatoire pendant 10 secondes. L'orage frappera une unité au hasard toutes les 0,5 seconde, chaque frappe infligeant des dégâts équivalents à 40 % de son ATQ. Si la même unité est frappée deux fois de suite en l'espace de 4 secondes, cette unité est affligée de Paralysie pendant 5 secondes. Si la même unité est frappée quatre fois de suite, elle se voit infliger Fragilisation pendant 2 secondes. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Le Géant augmente ses dégâts d'unité de 10 %. Lorsqu'il est présent sur le champ de bataille, il augmente également les dégâts des unités de Lanceurs de sorts alliées de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Le Géant réveille temporairement l'Élémentaire de foudre qui sommeille dans son armure, ce qui augmente ses coups critiques de 200 et sa vitesse d'attaque de 20% pendant 8 secondes. Le temps de recharge est de 14 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | Le Géant recharge son armure une fois toutes les 10 secondes, ce qui lui permet de bloquer des dégâts 3 fois tout en libérant une impulsion qui augmente de 200 la ténacité et l'esquive des unités de la Tour alliées pendant 6 secondes. |

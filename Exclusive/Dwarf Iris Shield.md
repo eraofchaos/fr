@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Nain Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Dwarf Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Le Nain martèle son enclume après avoir été attaqué, ce qui augmente sa DÉF de 50 % pendant 5 secondes, mais le rend incapable de bouger ou d'attaquer. Une fois cet effet terminé, les unités alliées de première ligne reçoivent un bouclier égal à 10 % des PV max pendant 5 secondes. Le temps de recharge est de 25 secondes. |
+  |  Réveil  | ? | Le Nain martèle son enclume après avoir été attaqué, ce qui augmente sa DÉF de 50 % pendant 5 secondes, mais le rend incapable de bouger ou d'attaquer. Une fois cet effet terminé, les unités alliées de première ligne reçoivent un bouclier égal à 10 % des PV max pendant 5 secondes. Le temps de recharge est de 25 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Nain de 20 % et sa DÉF de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Nain de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Martèlement> : Le Nain frappe avec son marteau, ce qui inflige des dégâts équivalents à 150 % de son ATQ aux unités ennemies dans une large zone et les ralentit pendant 5 secondes. Le temps de recharge est de 20 secondes. |

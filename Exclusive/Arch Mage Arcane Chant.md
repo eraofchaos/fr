@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Archimage Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Arch Mage Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Infusion de magie> : Le Mage infuse de la magie dans son bâton et lance une puissante attaque, qui inflige des dégâts équivalents à 200 % de son ATQ à l'unité cible. Le temps de recharge est de 18 secondes. |
+  |  Réveil  | ? | <Infusion de magie> : Le Mage infuse de la magie dans son bâton et lance une puissante attaque, qui inflige des dégâts équivalents à 200 % de son ATQ à l'unité cible. Le temps de recharge est de 18 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | <Éveil magique> : Lorsque le Mage reçoit des bonus d'un Héros allié, il lance immédiatement <Infusion de magie> une fois. |
   | **2x** <i class="fas fa-star"/> | ? | Infuse une armure avec de la magie lorsqu'il lance <Infusion de magie>, ce qui augmente la résistance aux dégâts des unités alliées dans une large zone autour de lui de 10 % et leur résistance magique de 40 % pendant 3 secondes. L'effet ne peut pas se cumuler. |
   | **3x** <i class="fas fa-star"/> | ? | Infuse une arme avec <Magie de l'eau - Gel> lorsqu'il lance <Infusion de magie>. La prochaine attaque est sûre de geler l'unité cible pendant 2 à 4 secondes. |

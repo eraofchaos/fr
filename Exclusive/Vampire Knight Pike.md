@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Vampire Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Vampire Pic du Chevalier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Frappe écarlate> : Le Vampire se transforme en chauve-souris et se précipite au cœur de la formation ennemie. Pendant ce temps, la vitesse de déplacement du Vampire augmente de 30, et il est immunisé contre Étourdissement, Gel et Lenteur. Le Vampire reprend sa forme humaine après avoir interagi avec une unité ennemie, et sa première attaque leur inflige des dégâts équivalents à 500 % de son ATQ. |
+  |  Réveil  | ? | <Frappe écarlate> : Le Vampire se transforme en chauve-souris et se précipite au cœur de la formation ennemie. Pendant ce temps, la vitesse de déplacement du Vampire augmente de 30, et il est immunisé contre Étourdissement, Gel et Lenteur. Le Vampire reprend sa forme humaine après avoir interagi avec une unité ennemie, et sa première attaque leur inflige des dégâts équivalents à 500 % de son ATQ. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Vampire de 20 % et sa DÉF de 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Vampire de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Évangile du Croc sanglant> : Le Vampire inflige des dégâts équivalents à 300 % de son ATQ, ce qui réduit de 20 % la résistance aux dégâts d'unité de sa cible. Si l'unité cible souffre de Démotivation, sa DÉF est réduite de 10 % pendant 5 secondes. Le temps de recharge est de 25 secondes. |

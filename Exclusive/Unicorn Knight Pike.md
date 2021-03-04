@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Licorne Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Unicorn Pic du Chevalier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Bouclier de renvoi> : Lorsque la Licorne perd son bouclier, elle inflige des dégâts équivalents à 150 % de son ATQ aux ennemis dans une zone réduite. Si l'unité cible est affligée de Saignement, sa DÉF sera également réduite de 20 %. Dure 5 secondes. |
+  |  Réveil  | ? | <Bouclier de renvoi> : Lorsque la Licorne perd son bouclier, elle inflige des dégâts équivalents à 150 % de son ATQ aux ennemis dans une zone réduite. Si l'unité cible est affligée de Saignement, sa DÉF sera également réduite de 20 %. Dure 5 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV de la Licorne de 20 % et son esquive de 200. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité de la Licorne de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Trait bleu> : Lorsque la Licorne subit des dégâts dépassant 15 % de ses PV max en une seule attaque, sa corne émet une lumière vive qui aveugle l'unité cible. Si l'unité cible est déjà aveuglée, ses dégâts seront réduits de 20 %. Dure 8 secondes. |

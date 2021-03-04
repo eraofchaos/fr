@@ -2,7 +2,7 @@
 title: "Exclusif - Marées nocturnes"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Marées nocturnes. Marées nocturnes. Era of Chaos Exclusif Marées nocturnes. Sirène Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Mermaid Marées nocturnes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ode du gardien> : Lorsque la Sirène est touchée par une attaque unique lui infligeant des dégâts supérieurs à 30 % de ses PV max, elle reçoit une bulle égale à 25 % de ses PV max et sa DÉF augmente de 400 pendant 15 secondes. Le temps de recharge est de 10 secondes. |
+  |  Réveil  | ? | <Ode du gardien> : Lorsque la Sirène est touchée par une attaque unique lui infligeant des dégâts supérieurs à 30 % de ses PV max, elle reçoit une bulle égale à 25 % de ses PV max et sa DÉF augmente de 400 pendant 15 secondes. Le temps de recharge est de 10 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente l'ATQ et la vitesse d'attaque de la Sirène de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | <Chant d'assistance> : La Sirène augmente de 25 % les dégâts d'une unité à distance ou de Lanceurs de sorts alliée au hasard et s'octroie une bulle égale à 20 % de ses PV max pendant 10 secondes. Le temps de recharge est de 20 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Chant de la sirène> : La Sirène joue le Chant de la sirène, et inflige Sommeil pendant 5 secondes à 2 unités ennemies au hasard. Une quantité de PV équivalente à 60 % de l'ATQ de la Sirène est également restituée aux unités alliées en ligne arrière toutes les secondes pendant 10 secondes. Le temps de recharge est de 24 secondes. |

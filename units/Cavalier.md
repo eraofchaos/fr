@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Cavalier"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Pic du Chevalier](/Exclusive/Cavalier Knight Pike/) 
+
+ **Is Open:** + 
 
  **Item to Rang supérieur:** -
 

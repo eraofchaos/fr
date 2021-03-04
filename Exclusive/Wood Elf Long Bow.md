@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Elfe sylvaine Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Wood Elf Arc long.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tempête de flèches> : Les attaques normales de l'Elfe sylvaine ont 3 % de chance de déclencher <Tempête de flèches>, déchaînant un barrage de flèches qui infligent à la zone cible des dégâts équivalents à 20 % de l'ATQ de l'Elfe sylvaine toutes les 0,5 seconde pendant 3 secondes. |
+  |  Réveil  | ? | <Tempête de flèches> : Les attaques normales de l'Elfe sylvaine ont 3 % de chance de déclencher <Tempête de flèches>, déchaînant un barrage de flèches qui infligent à la zone cible des dégâts équivalents à 20 % de l'ATQ de l'Elfe sylvaine toutes les 0,5 seconde pendant 3 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Elfe sylvaine de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de l'Elfe sylvaine de 20 % et sa vitesse d'attaque de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Le taux de déclenchement de <Tempête de flèches> passe à 200 % de la compétence originale, et elle a 50 % de chance d'infliger Lenteur aux ennemis, diminuant leur vitesse d'attaque de 10 %. Dure 5 secondes. |

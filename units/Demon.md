@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Démon"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Bouclier iris](/Exclusive/Demon Iris Shield/) 
+
+ **Is Open:** + 
 
  **Item to Rang supérieur:** -
 

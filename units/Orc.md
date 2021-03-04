@@ -3,7 +3,7 @@ title: "Orque"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Orque"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Arc long](/Exclusive/Orc Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Griffon Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Griffin Pic du Chevalier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Coup de bec> : Le Griffon mord l'unité cible, lui infligeant des dégâts équivalents à 150 % de sa propre ATQ. Inflige Saignement, diminue la précision de 300 et la vitesse d'attaque de 20 % pendant 8 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Coup de bec> : Le Griffon mord l'unité cible, lui infligeant des dégâts équivalents à 150 % de sa propre ATQ. Inflige Saignement, diminue la précision de 300 et la vitesse d'attaque de 20 % pendant 8 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Griffon de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'esquive du Griffon de 500. |
   | **3x** <i class="fas fa-star"/> | ? | <Roulade aérienne> : La ténacité du Griffon augmente de 50 chaque fois qu'il réussit à esquiver et inflige à l'unité cible des dégâts équivalents à 75 % de son ATQ. La ténacité peut se cumuler jusqu'à 500. |

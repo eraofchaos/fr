@@ -2,7 +2,7 @@
 title: "Exclusif - "
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Exclusif . Cauchemar Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Nightmare .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sans trace> : Chaque fois que le Cauchemar est attaqué, il a 25 % de chance de voir sa vitesse d'attaque augmenter de 500 % et son drain de vie de 50 % le temps d'une attaque. |
+  |  Réveil  | ? | <Sans trace> : Chaque fois que le Cauchemar est attaqué, il a 25 % de chance de voir sa vitesse d'attaque augmenter de 500 % et son drain de vie de 50 % le temps d'une attaque. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Cauchemar de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les PV du Cauchemar de 8 % et sa DÉF de 5 % à chaque fois qu'une unité de l'Hadès est déployée. |
   | **3x** <i class="fas fa-star"/> | ? | <Cure de Jouvence> : Lorsque <Sans trace> est activée, le Cauchemar soigne l'unité ayant le moins de PV à hauteur de 200 % de ses PV. |

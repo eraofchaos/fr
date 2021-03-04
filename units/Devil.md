@@ -3,7 +3,7 @@ title: "Diable"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Diable"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Faux du diable](/Exclusive/Devil Devil Scythe/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

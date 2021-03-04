@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Ogre Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Ogre Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Invoque un cercle de sacrifice toutes les 30 secondes, infligeant une quantité de dégâts égale à 1,5 % des PV max aux unités ennemies dans le cercle, et restaurant aux unités alliées dans le cercle une quantité de PV égale à 5 % de leur ATQ toutes les 15 secondes. |
+  |  Réveil  | ? | Invoque un cercle de sacrifice toutes les 30 secondes, infligeant une quantité de dégâts égale à 1,5 % des PV max aux unités ennemies dans le cercle, et restaurant aux unités alliées dans le cercle une quantité de PV égale à 5 % de leur ATQ toutes les 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts de l'Ogre augmente de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Lorsque l'Ogre utilise Carnage, les dégâts de toutes les unités alliées augmentent de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Lorsque l'Ogre est déployé, la vitesse d'ATQ des unités alliées du Bastion augmente de 10 %. La DÉF de l'Ogre augmente également de 10 %. |

@@ -2,7 +2,7 @@
 title: "Exclusif - Tête d'Hydre"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Tête d'Hydre. Tête d'Hydre. Era of Chaos Exclusif Tête d'Hydre. Hydre Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Hydra Tête d'Hydre.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Gloutonnerie> : Mord l'ennemi 1 fois toutes les secondes, attaquant 5 fois au total et infligeant des dégâts équivalents à 50 % de son ATQ à chaque fois. Diminue la ténacité de l'ennemi de 50 et augmente les dégâts infligés par ses propres coups critiques de 4 %. L'effet peut se cumuler jusqu'à 5 fois et dure 3 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Gloutonnerie> : Mord l'ennemi 1 fois toutes les secondes, attaquant 5 fois au total et infligeant des dégâts équivalents à 50 % de son ATQ à chaque fois. Diminue la ténacité de l'ennemi de 50 et augmente les dégâts infligés par ses propres coups critiques de 4 %. L'effet peut se cumuler jusqu'à 5 fois et dure 3 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité et l'ATQ de l'Hydre de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la DÉF et la résistance aux dégâts d'unité de l'Hydre de 10 %. Lorsque l'Hydre est sur le champ de bataille, elle augmente la DÉF et la résistance aux dégâts de toutes les unités de la Forteresse alliées de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Renaissance> : Lorsqu'elle subit une attaque lui infligeant des dégâts compris entre 10 et 20 % de ses PV max, elle récupère 500 000 HP après 3 secondes. Lorsque les dégâts reçus en une seule attaque dépassent 20 % de PV max, elle est immunisée contre tous les dégâts qui dépassent ces 20 %. |

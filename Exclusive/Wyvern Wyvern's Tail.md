@@ -2,7 +2,7 @@
 title: "Exclusif - Queue de Wivern"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Queue de Wivern. Queue de Wivern. Era of Chaos Exclusif Queue de Wivern. Wivern Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Wyvern Queue de Wivern.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Âme meurtrie> : À chaque fois qu'une Wivern meurt, les dégâts et la résistance aux dégâts des unités de la Forteresse alliées augmentent de 1 %. L'effet peut se cumuler jusqu'à 15 fois et dure toute la bataille. |
+  |  Réveil  | ? | <Âme meurtrie> : À chaque fois qu'une Wivern meurt, les dégâts et la résistance aux dégâts des unités de la Forteresse alliées augmentent de 1 %. L'effet peut se cumuler jusqu'à 15 fois et dure toute la bataille. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque de la Wivern de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de la Wivern de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Cœur meurtri> : Chaque fois qu'une Wivern entre en combat, elle augmente la pénétration de toutes les unités de la Forteresse alliées de 20 ainsi que leurs dégâts critiques de 2 %. L'effet peut se cumuler jusqu'à 15 fois et dure toute la bataille. Les unités de Wivern invoquent 1 Wivern toutes les 15 secondes. Les Wiverns invoquées disposent des compétences <Âme meurtrie> et >Cœur meurtri>. |

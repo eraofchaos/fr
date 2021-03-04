@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Revenante Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Wight Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Brume ensorcelée> : La Revenante déchaîne une brume ensorcelée qui diminue de 15 % la résistance aux dégâts des unités ennemies dans une large zone autour de l'unité cible et inflige des dégâts équivalents à 50 % de son ATQ toutes les secondes pendant 6 secondes. Le temps de recharge est de 18 secondes. |
+  |  Réveil  | ? | <Brume ensorcelée> : La Revenante déchaîne une brume ensorcelée qui diminue de 15 % la résistance aux dégâts des unités ennemies dans une large zone autour de l'unité cible et inflige des dégâts équivalents à 50 % de son ATQ toutes les secondes pendant 6 secondes. Le temps de recharge est de 18 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de la Revenante de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque de la Revenante de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Lorsque les unités de Revenante meurent, 3 unités se voient infliger Effroi pendant 5 secondes et une marque d'Effroi leur est apposée. (Effroi : impossible d'attaquer, de se déplacer ou d'activer des compétences. Diminue la résistance magique de 30 %). |

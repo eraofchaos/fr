@@ -3,7 +3,7 @@ title: "Gobelin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
 unitID: 401
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Gobelin"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Épée](/Exclusive/Goblin Sword/) 
+
+ **Is Open:** - 
 
  **Item to Rang supérieur:** -
 

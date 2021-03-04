@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Moine Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Monk Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Prédication> sera déclenchée toutes les 9 secondes pour restaurer une quantité de PV égale à 125 % de l'ATQ de l'unité alliée ayant le pourcentage de PV le plus bas. |
+  |  Réveil  | ? | <Prédication> sera déclenchée toutes les 9 secondes pour restaurer une quantité de PV égale à 125 % de l'ATQ de l'unité alliée ayant le pourcentage de PV le plus bas. |
   | **1x** <i class="fas fa-star"/> | ? | L'attaque du Moine augmente de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Dés que <Prédication> est lancée, une unité alliée aléatoire entrera en \"Exaltation\" pendant 10 secondes. |
   | **3x** <i class="fas fa-star"/> | ? | <Dévotion> : Le Moine dissipe l'affaiblissement d'une unité alliée aléatoire toutes les 10 secondes. |

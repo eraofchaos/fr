@@ -2,7 +2,7 @@
 title: "Exclusif - Marées diurnes"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Marées diurnes. Marées diurnes. Era of Chaos Exclusif Marées diurnes. Serpent de Regna Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Regnan Serpent Marées diurnes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Torrent infini> : Le Serpent de Regna agite son trident et invoque la puissance des marées pour balayer l'ennemi, infligeant des dégâts équivalents à 100 % de son ATQ aux unités ennemies dans une large zone en face de lui et diminuant leur vitesse d'attaque de 20 % et les dégâts critiques de 40 %. Diminue la ténacité et l'esquive des unités ennemies affligées de Lenteur de 200 pendant 6 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Torrent infini> : Le Serpent de Regna agite son trident et invoque la puissance des marées pour balayer l'ennemi, infligeant des dégâts équivalents à 100 % de son ATQ aux unités ennemies dans une large zone en face de lui et diminuant leur vitesse d'attaque de 20 % et les dégâts critiques de 40 %. Diminue la ténacité et l'esquive des unités ennemies affligées de Lenteur de 200 pendant 6 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts du Serpent de Regna de 20 %, puis de 20 % supplémentaires lorsqu'il subit des attaques à distance. |
   | **2x** <i class="fas fa-star"/> | ? | Lorsqu'il lance <Torrent infini>, la DÉF du Serpent de Regna augmente de 10 %. L'effet dure toute la bataille et peut se cumuler jusqu'à 3 fois. |
   | **3x** <i class="fas fa-star"/> | ? | Le Serpent de Regna, affecté par la force des marées, entre en Marée haute 5 secondes après le début de la bataille. Sa résistance aux dégâts augmente de 20 % pendant 6 secondes et il récupère une quantité de PV égale à 5 % de ses PV max. Par la suite, il entre en Marée nocturne : sa vitesse d'attaque augmente de 20 % et ses coups critiques de 200 pendant 6 secondes. Après cela, le Serpent de Regna déclenche alternativement Marée haute et Marée nocturne. L'effet dure jusqu'à la fin de la bataille. |

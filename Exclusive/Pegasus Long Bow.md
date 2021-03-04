@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Pégase Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Pegasus Arc long.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Chaque attaque normale inflige à la cible des dégâts supplémentaires équivalents à 30 % de l'ATQ. |
+  |  Réveil  | ? | Chaque attaque normale inflige à la cible des dégâts supplémentaires équivalents à 30 % de l'ATQ. |
   | **1x** <i class="fas fa-star"/> | ? | Les dégâts de la Pégase augmentent de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | L'ATQ de la Pégase augmente de 20 % et sa vitesse d'ATQ de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Tempête de lames> : La Pégase lance une épine de rose toutes les 25 secondes, infligeant à toutes les unités ennemies une quantité de dégâts égale à l'addition de 5 % de ses PV max et de 20 % de son ATQ. Elle inflige aussi Saignement aux ennemis pendant 10 secondes. |

@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Démon Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Demon Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Au début du combat, l'esquive du Démon augmente de 1 000 pendant 30 secondes. À chaque esquive, sa résistance aux dégâts augmente de 1 % de manière permanente, dans la limite de 30 %. |
+  |  Réveil  | ? | Au début du combat, l'esquive du Démon augmente de 1 000 pendant 30 secondes. À chaque esquive, sa résistance aux dégâts augmente de 1 % de manière permanente, dans la limite de 30 %. |
   | **1x** <i class="fas fa-star"/> | ? | Au début du combat, la ténacité du Démon augmente de 500 pendant 30 secondes. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les PV du Démon de 20 % et sa résistance aux dégâts de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Augmente la DÉF du Démon de 10 %. Elle augmente de 100 % pendant 10 secondes lorsqu'il perd plus de la moitié de ses PV pour la première fois. |

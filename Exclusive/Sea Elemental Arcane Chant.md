@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Élémentaire de mer Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Sea Elemental Mélopée des arcanes.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Raz-de-marée> : Peut être lancé une fois toutes les 20 secondes. Invoque des vagues sous une unité ennemie aléatoire, infligeant une quantité de dégâts égale à 200 % de son ATQ à toutes les unités ennemies dans une zone réduite. |
+  |  Réveil  | ? | <Raz-de-marée> : Peut être lancé une fois toutes les 20 secondes. Invoque des vagues sous une unité ennemie aléatoire, infligeant une quantité de dégâts égale à 200 % de son ATQ à toutes les unités ennemies dans une zone réduite. |
   | **1x** <i class="fas fa-star"/> | ? | En début de combat, toutes vos unités bénéficient d'une <bulle> égale à 10 % de leurs PV max. |
   | **2x** <i class="fas fa-star"/> | ? | L'attaque de l'Élémentaire de mer réduit les dégâts de l'unité ciblée de 10 % et sa résistance magique de 50 %. |
   | **3x** <i class="fas fa-star"/> | ? | Quand l'Élémentaire de mer fait face à une unité de 1 ou 4 combattants, son attaque normale inflige 30 % de dégâts de zone ; face à une unité de 9 combattants, son attaque normale inflige 50 % de dégâts de zone à 5 unités. |

@@ -2,7 +2,7 @@
 title: "Exclusif - Feuille de Guêpier"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Feuille de Guêpier. Feuille de Guêpier. Era of Chaos Exclusif Feuille de Guêpier. Guêpier Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Waspwort Feuille de Guêpier.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Poison mortel> : Toutes les 4 secondes, le Guêpier invoque des Feuilles de Guêpier sur 1 unité ennemie au hasard. (Lorsqu'elles sont invoquées sur la même unité ennemie, l'effet se cumule.) Les Guêpes perchées sur les Feuilles de Guêpier infligent des dégâts équivalents à 10 % de leur ATQ aux unités ennemies chaque seconde, et ont 10 % de chance de leur infliger Silence pendant 3 secondes. Le temps de recharge est de 9 secondes. |
+  |  Réveil  | ? | <Poison mortel> : Toutes les 4 secondes, le Guêpier invoque des Feuilles de Guêpier sur 1 unité ennemie au hasard. (Lorsqu'elles sont invoquées sur la même unité ennemie, l'effet se cumule.) Les Guêpes perchées sur les Feuilles de Guêpier infligent des dégâts équivalents à 10 % de leur ATQ aux unités ennemies chaque seconde, et ont 10 % de chance de leur infliger Silence pendant 3 secondes. Le temps de recharge est de 9 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Guêpier de 15 %, et sa DÉF contre les attaques perforantes de 150. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Guêpier de 15 %. Cet effet est doublé en cas d'attaque contre des unités de mêlée. |
   | **3x** <i class="fas fa-star"/> | ? | <Feuille vénéneuse> : Lorsque des créatures invoquées alliées meurent, le Guêpier s'empare de Feuilles de Guêpier pour empoisonner les unités ennemies, ce qui leur inflige Paralysie pendant 5 secondes. En parallèle, il les purifie pour supprimer 1 niveau de bonus. |

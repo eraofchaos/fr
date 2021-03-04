@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Grand Arbalétrier Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Marksman Arc long.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Flèche perforante> : Inflige des dégâts équivalents à 300 % de son ATQ tout en ignorant 1 000 points de la DÉF de l'unité cible. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | <Flèche perforante> : Inflige des dégâts équivalents à 300 % de son ATQ tout en ignorant 1 000 points de la DÉF de l'unité cible. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente l'ATQ du Grand Arbalétrier de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la DÉF du Grand Arbalétrier de 20 % en cas d'Exaltation. |
   | **3x** <i class="fas fa-star"/> | ? | Les attaques du Grand Arbalétrier infligeront Représailles aux unités ennemies. Attaquer la même unité 18 fois au total lui infligera des dégâts supplémentaires équivalant à 200 % de l'ATQ du Grand Arbalétrier. |

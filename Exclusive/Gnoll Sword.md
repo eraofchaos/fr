@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gnoll Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Gnoll Épée.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Blessures ouvertes> : Le Gnoll inflige des dégâts équivalents à 275 % de son ATQ ainsi que Saignement à l'unité cible pendant 8 secondes. Le temps de recharge est de 15 secondes. |
+  |  Réveil  | ? | <Blessures ouvertes> : Le Gnoll inflige des dégâts équivalents à 275 % de son ATQ ainsi que Saignement à l'unité cible pendant 8 secondes. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la pénétration du Gnoll de 100. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Gnoll de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Augmente l'esquive du Gnoll de 300. S'il reçoit un coup critique, il récupère 5 % de ses PV max et a 50 % de chance de voir sa résistance aux dégâts augmenter de 50 % pendant 1 seconde. Le temps de recharge est de 3 secondes. |

@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Guêpe serpent"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Exclusif
 
  **Name:** [Mélopée des arcanes](/Exclusive/Serpent Fly Arcane Chant/) 
+
+ **Is Open:** + 
 
  **Item to Rang supérieur:** -
 

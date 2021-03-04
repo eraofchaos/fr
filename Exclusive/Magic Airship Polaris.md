@@ -2,7 +2,7 @@
 title: "Exclusif - Étoile polaire"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Étoile polaire. Étoile polaire. Era of Chaos Exclusif Étoile polaire. Aéronef magique Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Magic Airship Étoile polaire.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | L'Aéronef magique inflige des dégâts équivalents à 150 % de son ATQ à 3 unités ennemies au hasard et diminue leurs dégâts d'unité de 20 % pendant 7 secondes. Le temps de recharge est de 21 secondes. |
+  |  Réveil  | ? | L'Aéronef magique inflige des dégâts équivalents à 150 % de son ATQ à 3 unités ennemies au hasard et diminue leurs dégâts d'unité de 20 % pendant 7 secondes. Le temps de recharge est de 21 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque de l'Aéronef magique de 10 % et son ATQ de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Aéronef magique de 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Toutes les 20 secondes, l'Aéronef magique augmente ses dégâts d'unité de 20 %, ses coups critiques de 200 et les dégâts de ses coups critiques de 20 % pendant 8 secondes. Il accorde également un bonus égal à la moitié de ses attributs à une unité de Lanceurs de sorts alliée au hasard. |

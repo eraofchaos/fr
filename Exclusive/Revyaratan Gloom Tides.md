@@ -2,7 +2,7 @@
 title: "Exclusif - Marées obscures"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Marées obscures. Marées obscures. Era of Chaos Exclusif Marées obscures. Revyaratan Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Revyaratan Marées obscures.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Recherche de sang> : le Revyaratan inflige des dégâts équivalents à 120 % de son ATQ à l'unité cible toutes les 7 secondes. Inflige également Saignement, et diminue la résistance aux dégâts d'unité de 20 % et la ténacité de 200 pendant 4 secondes. L'unité cible perd 1 % de ses PV max chaque seconde. |
+  |  Réveil  | ? | <Recherche de sang> : le Revyaratan inflige des dégâts équivalents à 120 % de son ATQ à l'unité cible toutes les 7 secondes. Inflige également Saignement, et diminue la résistance aux dégâts d'unité de 20 % et la ténacité de 200 pendant 4 secondes. L'unité cible perd 1 % de ses PV max chaque seconde. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Revyaratan de 20 %. Augmente de 20 % les dégâts des coups critiques infligés aux unités ennemies victimes de Lenteur. |
   | **2x** <i class="fas fa-star"/> | ? | Lorsque des Héros alliés lancent des sorts d'eau, augmente les dégâts des coups critiques du Revyaratan et de toutes les unités alliées sur son chemin de 10 % et les coups critiques de 100 pendant 7 secondes. Cet effet est doublé contre les unités de la Crique. |
   | **3x** <i class="fas fa-star"/> | ? | <Brisure frénétique> : Toutes les 20 secondes, le Revyaratan entre en <Brisure frénétique>. Pendant les 9 secondes suivantes, les dégâts infligés par ses coups critiques augmentent de 40 %, sa vitesse d'attaque de 40 %, et ses coups critiques de 400. Dans le même temps, la résistance aux dégâts de l'unité cible diminue de 20 %, ses soins reçus de 20 %, et sa ténacité de 200. Cet effet est doublé contre les unités ennemies victimes de Lenteur et ne peut pas être dissipé. |

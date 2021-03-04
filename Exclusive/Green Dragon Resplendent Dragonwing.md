@@ -2,7 +2,7 @@
 title: "Exclusif - Aile de dragon resplendissante"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Aile de dragon resplendissante. Aile de dragon resplendissante. Era of Chaos Exclusif Aile de dragon resplendissante. Dragon vert Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Green Dragon Aile de dragon resplendissante.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Les attaques du Dragon vert causeront Saignement, infligeant chez les cibles des dégâts équivalents à 2 % de leurs PV max toutes les 2 secondes pendant 3 secondes. |
+  |  Réveil  | ? | Les attaques du Dragon vert causeront Saignement, infligeant chez les cibles des dégâts équivalents à 2 % de leurs PV max toutes les 2 secondes pendant 3 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Dragon vert de 20 % et ses coups critiques de 200. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque du Dragon vert de 30 % lorsqu'il reçoit un bouclier. |
   | **3x** <i class="fas fa-star"/> | ? | <Garde de cristal> : La peau cristallisée du Dragon vert lui confère une protection, qui bloque les dégâts 5 fois. Après avoir bloqué des dégâts pour la 5e fois, <Garde de cristal> disparaîtra, les unités ennemies adjacentes subiront des dégâts équivalents à 100 % de l'ATQ du Dragon vert et seront cristallisées pendant 3 secondes. Octroie <Garde de cristal> une fois toutes les 20 secondes. |

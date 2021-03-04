@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Spadassin Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Swordsman Bouclier iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fracas de bouclier> : Le Spadassin ralentit une unité ennemie une fois toutes les 18 secondes et diminue sa résistance aux dégâts d'unité de 15 % pendant 7 secondes. |
+  |  Réveil  | ? | <Fracas de bouclier> : Le Spadassin ralentit une unité ennemie une fois toutes les 18 secondes et diminue sa résistance aux dégâts d'unité de 15 % pendant 7 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV de 20 % et l'esquive de 200. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente la DÉF de 20 % pendant 5 secondes en cas d'Exaltation. |
   | **3x** <i class="fas fa-star"/> | ? | <Récupération des dégâts> : Lorsque l'unité du Spadassin subit des dégâts dépassant 8 % de ses PV max en une seule attaque, elle récupère une quantité de PV équivalente à 150 % de son ATQ. Le temps de recharge est de 10 secondes. |

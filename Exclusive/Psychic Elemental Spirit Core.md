@@ -2,7 +2,7 @@
 title: "Exclusif - Noyau spirituel"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Noyau spirituel. Noyau spirituel. Era of Chaos Exclusif Noyau spirituel. Élémentaire de l'esprit Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Psychic Elemental Noyau spirituel.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Démoralisation> : L'Élémentaire de l'esprit bombarde la psyché de l'ennemi, infligeant des dégâts équivalents à 20 % de ses PV max à l'unité cible et restituant une quantité de PV équivalente à 50 % de sa propre ATQ. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | ? | <Démoralisation> : L'Élémentaire de l'esprit bombarde la psyché de l'ennemi, infligeant des dégâts équivalents à 20 % de ses PV max à l'unité cible et restituant une quantité de PV équivalente à 50 % de sa propre ATQ. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Élémentaire de l'esprit de 30 %. |
   | **2x** <i class="fas fa-star"/> | ? | L'Élémentaire de l'esprit est immunisé contre tous les dégâts de sorts. Lorsque l'Élémentaire de l'esprit reçoit 4 types d'effets de <Résonance élémentaire>, toutes les unités du Conflux alliées sont immunisées contre tous les dégâts de sorts. |
   | **3x** <i class="fas fa-star"/> | ? | <Domination> : L'Élémentaire de l'esprit vole 20 % de la DÉF d'une unité au hasard, s'accordant un bonus basé sur ce pourcentage pendant 10 secondes. Le temps de recharge est de 10 secondes. |

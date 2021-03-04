@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Pirates de Regna Exclusif."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: fr
 ref: "Regnan Pirates Épée.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effet exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Active une puissante contre-attaque en cas d'attaque, et inflige 300 % de dégâts aux ennemis. Le temps de recharge est de 8 secondes. |
+  |  Réveil  | ? | Active une puissante contre-attaque en cas d'attaque, et inflige 300 % de dégâts aux ennemis. Le temps de recharge est de 8 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Lors d'une attaque, a 50 % de chance d'infliger <Scorbut> aux unités ennemies, ce qui leur fait perdre 1 % de PV par seconde et diminue leurs soins de 35 % pendant 3 secondes (effet non cumulable). |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ des Pirates de Regna de 20 % et leurs dégâts de 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Régénère 30 % des PV après avoir mangé des oranges pour guérir du Scorbut quand la santé des Pirates de Regna est inférieure à 30 % pour la première fois. Immunise contre Étourdissement, Pétrification et Silence pendant 5 secondes si un Emblème sacré est équipé. |

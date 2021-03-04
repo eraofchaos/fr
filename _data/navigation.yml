@@ -53,6 +53,7 @@ docs:
         url: https://eraofchaos.github.io/de/
       - title: "Français"
         url: https://eraofchaos.github.io/fr/
+        isactive: 1
       - title: "Italiano"
         url: https://eraofchaos.github.io/it/
       - title: "Español"

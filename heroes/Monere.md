@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere possède la capacité innée de contrôler les Élémentaires de magie et de l'esprit. C'est un général idéal pour les armées d'Élémentaires."
 heroID: 60702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: fr
 ref: "Monere"
 toc: true

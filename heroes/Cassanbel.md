@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Bien qu'elle ait perdu son \"père\" à cause des humains, elle continue d'aider ceux qui vivent sur l'eau."
 heroID: 61701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: fr
 ref: "Cassanbel"
 toc: true

@@ -2,19 +2,19 @@
 title: "Emblème sacré - Chaos"
 permalink: /Emblem/Type Chaos/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Era of Chaos Emblème sacré Chaos. Era of Chaos Chaos"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: fr
 ref: "typeChaos.md"
 toc: false
 classes: wide
 ---
 
-  [Ordre](/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Luxure](/Emblem/Lust/) | Chaos | À incruster en priorité aux unités défensives | 
-  | 2 | [Orgueil](/Emblem/Arrogance/) | Chaos | À incruster en priorité aux unités DPS | 
-  | 3 | [Avarice](/Emblem/Greed/) | Chaos | À incruster en priorité aux unités défensives | 
-  | 4 | [Envie](/Emblem/Jealousy/) | Chaos | À incruster en priorité aux unités DPS | 
-  | 5 | [Colère](/Emblem/Anger/) | Chaos | Convient à toutes les unités | 
+  | 1 | [Luxure](/fr/Emblem/Lust/) | Chaos | À incruster en priorité aux unités défensives | 
+  | 2 | [Orgueil](/fr/Emblem/Arrogance/) | Chaos | À incruster en priorité aux unités DPS | 
+  | 3 | [Avarice](/fr/Emblem/Greed/) | Chaos | À incruster en priorité aux unités défensives | 
+  | 4 | [Envie](/fr/Emblem/Jealousy/) | Chaos | À incruster en priorité aux unités DPS | 
+  | 5 | [Colère](/fr/Emblem/Anger/) | Chaos | Convient à toutes les unités | 

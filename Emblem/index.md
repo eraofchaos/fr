@@ -2,7 +2,7 @@
 title: "Emblème sacré"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Les Emblèmes sacrés augmentent considérablement la puissance des unités qui les équipent. Plusieurs combinaisons d'Emblèmes sacrés sont possibles, selon leur qualité et les factions auxquelles ils appartiennent, et elles octroient des caractéristiques supplémentaires exceptionnelles."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: fr
 ref: "index.md"
 toc: false
@@ -13,41 +13,41 @@ classes: wide
 
 ## Emblème sacré (by type):
 
-  [Ordre](/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
 ## Emblème sacré (by name):
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Signe inquiétant](/Emblem/Ominous Sign/) | Mauvais | Convient à toutes les unités | 
-  | 2 | [Droits des successeurs](/Emblem/Successors' Legal Principles/) | Neutre | À incruster en priorité aux unités défensives | 
-  | 3 | [Luxure](/Emblem/Lust/) | Chaos | À incruster en priorité aux unités défensives | 
-  | 4 | [Illumination des ténèbres](/Emblem/Darkness Enlightenment/) | Mauvais | À incruster en priorité aux unités de 4/9/16 combattants | 
-  | 5 | [Jeton d'Aksoe](/Emblem/Aksoe Token/) | Neutre | À incruster en priorité aux unités qui infligent Lenteur | 
-  | 6 | [Orgueil](/Emblem/Arrogance/) | Chaos | À incruster en priorité aux unités DPS | 
-  | 7 | [Sanctuaire de Kosmos](/Emblem/Sanctuary of Kosmos/) | Ordre | À incruster en priorité aux unités défensives | 
-  | 8 | [Autonyme oublié](/Emblem/Forgotten Autonym/) | Mauvais | Convient à toutes les unités | 
-  | 9 | [Culpabilité de Tarnum](/Emblem/Tarnum's Culpability/) | Neutre | Convient à toutes les unités | 
-  | 10 | [Avarice](/Emblem/Greed/) | Chaos | À incruster en priorité aux unités défensives | 
-  | 11 | [Bénédiction de la reine](/Emblem/Queen's Blessing/) | Ordre | À incruster en priorité aux unités défensives | 
-  | 12 | [Prophète vert](/Emblem/Green Prophet/) | Bonté | Convient à toutes les unités | 
-  | 13 | [Prophétie brisée](/Emblem/Broken Prophecy/) | Mauvais | À incruster en priorité aux unités de 9 combattants | 
-  | 14 | [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) | Ordre | À incruster en priorité aux unités DPS | 
-  | 15 | [Mur du savoir](/Emblem/Wall of Knowledge/) | Bonté | Convient à toutes les unités | 
-  | 16 | [Le jugement des pères](/Emblem/The Judgment of Fathers/) | Neutre | À incruster en priorité aux unités qui infligent Étourdissement | 
-  | 17 | [Feu ancien](/Emblem/Ancient Fire/) | Ordre | Convient à toutes les unités | 
-  | 18 | [La voie de l'assassin](/Emblem/Path of an Assassin/) | Neutre | À incruster en priorité aux unités DPS | 
-  | 19 | [Souffle du Roi Dragon](/Emblem/Dragon King's Breath/) | Mauvais | À incruster en priorité aux unités défensives | 
-  | 20 | [Roue du temps](/Emblem/Gear of Time/) | Bonté | À incruster en priorité aux unités défensives | 
-  | 21 | [Clé en pierre](/Emblem/Stone Key to the Gates/) | Neutre | À incruster en priorité aux unités qui infligent Saignement | 
-  | 22 | [Envie](/Emblem/Jealousy/) | Chaos | À incruster en priorité aux unités DPS | 
-  | 23 | [Secret éternel](/Emblem/Everlasting Secret/) | Ordre | Convient à toutes les unités | 
-  | 24 | [Ange gardien](/Emblem/Guardian Angel/) | Bonté | À incruster en priorité aux unités DPS | 
-  | 25 | [Calamité du roi](/Emblem/King's Calamity/) | Mauvais | À incruster en priorité aux unités qui infligent Brûlure | 
-  | 26 | [Noyau du réseau global](/Emblem/Core of the Global Network/) | Neutre | Convient à toutes les unités | 
-  | 27 | [Colère](/Emblem/Anger/) | Chaos | Convient à toutes les unités | 
-  | 28 | [Ailes de Griffon](/Emblem/Griffin Wings/) | Ordre | À incruster en priorité aux unités DPS | 
-  | 29 | [Témoin](/Emblem/Witness/) | Bonté | À incruster en priorité aux unités DPS | 
+  | 1 | [Signe inquiétant](/fr/Emblem/Ominous Sign/) | Mauvais | Convient à toutes les unités | 
+  | 2 | [Droits des successeurs](/fr/Emblem/Successors' Legal Principles/) | Neutre | À incruster en priorité aux unités défensives | 
+  | 3 | [Luxure](/fr/Emblem/Lust/) | Chaos | À incruster en priorité aux unités défensives | 
+  | 4 | [Illumination des ténèbres](/fr/Emblem/Darkness Enlightenment/) | Mauvais | À incruster en priorité aux unités de 4/9/16 combattants | 
+  | 5 | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) | Neutre | À incruster en priorité aux unités qui infligent Lenteur | 
+  | 6 | [Orgueil](/fr/Emblem/Arrogance/) | Chaos | À incruster en priorité aux unités DPS | 
+  | 7 | [Sanctuaire de Kosmos](/fr/Emblem/Sanctuary of Kosmos/) | Ordre | À incruster en priorité aux unités défensives | 
+  | 8 | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/) | Mauvais | Convient à toutes les unités | 
+  | 9 | [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/) | Neutre | Convient à toutes les unités | 
+  | 10 | [Avarice](/fr/Emblem/Greed/) | Chaos | À incruster en priorité aux unités défensives | 
+  | 11 | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) | Ordre | À incruster en priorité aux unités défensives | 
+  | 12 | [Prophète vert](/fr/Emblem/Green Prophet/) | Bonté | Convient à toutes les unités | 
+  | 13 | [Prophétie brisée](/fr/Emblem/Broken Prophecy/) | Mauvais | À incruster en priorité aux unités de 9 combattants | 
+  | 14 | [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) | Ordre | À incruster en priorité aux unités DPS | 
+  | 15 | [Mur du savoir](/fr/Emblem/Wall of Knowledge/) | Bonté | Convient à toutes les unités | 
+  | 16 | [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) | Neutre | À incruster en priorité aux unités qui infligent Étourdissement | 
+  | 17 | [Feu ancien](/fr/Emblem/Ancient Fire/) | Ordre | Convient à toutes les unités | 
+  | 18 | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/) | Neutre | À incruster en priorité aux unités DPS | 
+  | 19 | [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) | Mauvais | À incruster en priorité aux unités défensives | 
+  | 20 | [Roue du temps](/fr/Emblem/Gear of Time/) | Bonté | À incruster en priorité aux unités défensives | 
+  | 21 | [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) | Neutre | À incruster en priorité aux unités qui infligent Saignement | 
+  | 22 | [Envie](/fr/Emblem/Jealousy/) | Chaos | À incruster en priorité aux unités DPS | 
+  | 23 | [Secret éternel](/fr/Emblem/Everlasting Secret/) | Ordre | Convient à toutes les unités | 
+  | 24 | [Ange gardien](/fr/Emblem/Guardian Angel/) | Bonté | À incruster en priorité aux unités DPS | 
+  | 25 | [Calamité du roi](/fr/Emblem/King's Calamity/) | Mauvais | À incruster en priorité aux unités qui infligent Brûlure | 
+  | 26 | [Noyau du réseau global](/fr/Emblem/Core of the Global Network/) | Neutre | Convient à toutes les unités | 
+  | 27 | [Colère](/fr/Emblem/Anger/) | Chaos | Convient à toutes les unités | 
+  | 28 | [Ailes de Griffon](/fr/Emblem/Griffin Wings/) | Ordre | À incruster en priorité aux unités DPS | 
+  | 29 | [Témoin](/fr/Emblem/Witness/) | Bonté | À incruster en priorité aux unités DPS | 
 
 ## Règles
 

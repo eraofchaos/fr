@@ -2,7 +2,7 @@
 title: "Emblème sacré - Culpabilité de Tarnum"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Era of Chaos Culpabilité de Tarnum. Culpabilité de Tarnum. Era of Chaos Emblème sacré Culpabilité de Tarnum. Era of Chaos Neutre Culpabilité de Tarnum"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: fr
 ref: "Tarnum's Culpability.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Culpabilité de Tarnum
 
- **Type:** [Neutre](/Emblem/Type Neutral/)
+ **Type:** [Neutre](/fr/Emblem/Type Neutral/)
 
-  [Ordre](/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Culpabilité de Tarnum](/Emblem/Tarnum's Culpability/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +15 %, DÉF des Emblèmes sacrés +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 4 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +37,5, DÉF des Emblèmes sacrés +37,5</span> | 
-  | [Culpabilité de Tarnum](/Emblem/Tarnum's Culpability/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +1,5, DÉF des Emblèmes sacrés +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 1 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +4 %, DÉF des Emblèmes sacrés +4</span> | 
-  | [Culpabilité de Tarnum](/Emblem/Tarnum's Culpability/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +4,5, DÉF des Emblèmes sacrés +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 2 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +11,5, DÉF des Emblèmes sacrés +11,5</span> | 
-  | [Culpabilité de Tarnum](/Emblem/Tarnum's Culpability/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +9 %, DÉF des Emblèmes sacrés +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 3 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +22,5, DÉF des Emblèmes sacrés +22,5</span> | 
+  | [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +15 %, DÉF des Emblèmes sacrés +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 4 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +37,5, DÉF des Emblèmes sacrés +37,5</span> | 
+  | [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +1,5, DÉF des Emblèmes sacrés +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 1 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +4 %, DÉF des Emblèmes sacrés +4</span> | 
+  | [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +4,5, DÉF des Emblèmes sacrés +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 2 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +11,5, DÉF des Emblèmes sacrés +11,5</span> | 
+  | [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +9 %, DÉF des Emblèmes sacrés +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la résistance aux dégâts des unités déployées de 3 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +22,5, DÉF des Emblèmes sacrés +22,5</span> | 
 
   |         Description            | 
   |:-------------------------------|

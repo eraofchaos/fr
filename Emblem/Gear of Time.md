@@ -2,7 +2,7 @@
 title: "Emblème sacré - Roue du temps"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Roue du temps. Roue du temps. Era of Chaos Emblème sacré Roue du temps. Era of Chaos Bonté Roue du temps"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: fr
 ref: "Gear of Time.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Roue du temps
 
- **Type:** [Bonté](/Emblem/Type Goodness/)
+ **Type:** [Bonté](/fr/Emblem/Type Goodness/)
 
-  [Ordre](/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Roue du temps](/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +15 %, DÉF des Emblèmes sacrés +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2,5 % tous les 5 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +37,5, DÉF des Emblèmes sacrés +37,5</span> | 
-  | [Roue du temps](/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +9 %, DÉF des Emblèmes sacrés +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2 % tous les 7 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +22,5, DÉF des Emblèmes sacrés +22,5</span> | 
-  | [Roue du temps](/Emblem/Gear of Time/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +4,5, DÉF des Emblèmes sacrés +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2 % tous les 10 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +11,5, DÉF des Emblèmes sacrés +11,5</span> | 
-  | [Roue du temps](/Emblem/Gear of Time/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +1,5, DÉF des Emblèmes sacrés +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 1 % tous les 10 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +4 %, DÉF des Emblèmes sacrés +4</span> | 
+  | [Roue du temps](/fr/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +15 %, DÉF des Emblèmes sacrés +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2,5 % tous les 5 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +37,5, DÉF des Emblèmes sacrés +37,5</span> | 
+  | [Roue du temps](/fr/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +9 %, DÉF des Emblèmes sacrés +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2 % tous les 7 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +22,5, DÉF des Emblèmes sacrés +22,5</span> | 
+  | [Roue du temps](/fr/Emblem/Gear of Time/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +4,5, DÉF des Emblèmes sacrés +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2 % tous les 10 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +11,5, DÉF des Emblèmes sacrés +11,5</span> | 
+  | [Roue du temps](/fr/Emblem/Gear of Time/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +1,5, DÉF des Emblèmes sacrés +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 1 % tous les 10 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +4 %, DÉF des Emblèmes sacrés +4</span> | 
 
   |         Description            | 
   |:-------------------------------|

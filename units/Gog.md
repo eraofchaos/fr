@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Gog"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Mur de flammes : inflige des dégâts aux troupes ennemies sur son chemin.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe brûlant](/equipment/Orbe brûlant/) | **ATQ** | **DÉF** | 
-  | [Cor ardent](/equipment/Cor ardent/) | **PV** | **DÉF** | 
-  | [Queue enflammée](/equipment/Queue enflammée/) | **ATQ** | **DÉF** | 
-  | [Bracelets brûlants](/equipment/Bracelets brûlants/) | **PV** | **DÉF** | 
+  | [Orbe brûlant](/fr/equipment/Orbe brûlant/) | **ATQ** | **DÉF** | 
+  | [Cor ardent](/fr/equipment/Cor ardent/) | **PV** | **DÉF** | 
+  | [Queue enflammée](/fr/equipment/Queue enflammée/) | **ATQ** | **DÉF** | 
+  | [Bracelets brûlants](/fr/equipment/Bracelets brûlants/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Gog Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Gog Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Infos combinaison
 
@@ -159,9 +159,10 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **R**  (R)
 
 ### Bonus de héros
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

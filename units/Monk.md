@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Moine"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Humain
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Faveur divine : soigne l'unité qui a le moins de PV.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe de divinité](/equipment/Orbe de divinité/) | **ATQ** | **DÉF** | 
-  | [Chapeau mystique](/equipment/Chapeau mystique/) | **PV** | **DÉF** | 
-  | [Rune du rituel](/equipment/Rune du rituel/) | **ATQ** | **DÉF** | 
-  | [Armure légère standard](/equipment/Armure légère standard/) | **PV** | **DÉF** | 
+  | [Orbe de divinité](/fr/equipment/Orbe de divinité/) | **ATQ** | **DÉF** | 
+  | [Chapeau mystique](/fr/equipment/Chapeau mystique/) | **PV** | **DÉF** | 
+  | [Rune du rituel](/fr/equipment/Rune du rituel/) | **ATQ** | **DÉF** | 
+  | [Armure légère standard](/fr/equipment/Armure légère standard/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Monk Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -89,8 +89,8 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -154,19 +154,14 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Château**  (Groupement - Château)
-* **Lanceur de sorts**  (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
-* Attaque
-* PV
-* Guérison
-* Résistance magique
+* ?!? 
 
 
 ## Awaking
@@ -185,26 +180,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Zélote dans les niveaux 13-2 et 13-4 du souterrain.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Déployez un Moine et remportez </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> combats dans l'arène.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Inquisition de la Sainte Lumière
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Bénédiction des courageux&gt; :</span><span style="color: #645252;font-size:18px"> Exalte toutes les unités alliées dans une large zone pendant 10 secondes toutes les 30 secondes. Au début du combat, le Moine augmente également les dégâts critiques et les soins reçus de 20 % pour toutes les unités alliées pendant 60 secondes. Pendant les 60 premières secondes du combat, chaque unité de Moine infligera aux unités de l'Hadès ennemies des dégâts équivalents à 10 % de son ATQ toutes les 2 secondes.</span>
-
-### 2nd Skill (or 1st): Bénédiction de la Sainte Lumière
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Bénédiction des courageux&gt; :</span><span style="color: #645252;font-size:18px"> Exalte toutes les unités alliées dans une large zone pendant 10 secondes toutes les 30 secondes. Lorsque le Moine est présent sur le champ de bataille, les dégâts critiques et les soins reçus augmentent de 20 % pendant 120 secondes pour toutes les unités alliées. Pendant les 60 premières secondes du combat, chaque unité de Moine permettra aux unités du Château alliées de récupérer des PV équivalents à 10 % de leur ATQ toutes les 2 secondes.</span>
-
-### 3rd Skill (or 4th): Bénédiction flamboyante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Méditation&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est exalté, les coups critiques de toutes les unités alliées augmentent de 200 points. Cet effet dure jusqu'à la fin du combat, mais ne peut pas être cumulé. Le mana des Héros augmente également de 10. Le temps de recharge est de 3 secondes.</span>
-
-### 4th Skill (or 3rd): Grâce majestueuse
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Méditation&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est exalté, les coups critiques de toutes les unités alliées augmentent de 200 points. Cet effet dure jusqu'à la fin du combat, mais ne peut pas être cumulé. La régénération de mana des Héros augmente également de 0,5. Le temps de recharge est de 3 secondes. Le bonus de régénération de mana peut être déclenché jusqu'à 4 fois.</span>
-
-### 5th Skill (or 6th): Jugement sage
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Récupération&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est présent sur le champ de bataille, les soins reçus augmentent de 20 % pour toutes les unités alliées. Lorsque le sort Faveur divine est jeté, il lance également une attaque en 3 étapes sur l'unité ennemie qui a le moins de PV, infligeant ainsi des dégâts équivalents à 150 % de son ATQ.</span>
-
-### 6th Skill (or 5th): Psaume de messe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Récupération&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est présent sur le champ de bataille, les soins reçus augmentent de 20 % pour toutes les unités alliées. Lorsque le sort Faveur divine est jeté, il soigne également l'unité alliée qui a le moins de PV en 3 étapes, lui restituant des PV équivalents à 150 % de son ATQ.</span>
 
 ## Technical info
  **runart:** 0

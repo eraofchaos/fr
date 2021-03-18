@@ -3,7 +3,7 @@ title: "Servante des Abîmes"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage."
 unitID: 505
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Servante des Abîmes"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Cercle de feu : soigne continuellement des unités alliées sur son chemin.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fouet infernal](/equipment/Fouet infernal/) | **ATQ** | **DÉF** | 
-  | [Armure légère ensorcelée](/equipment/Armure légère ensorcelée/) | **PV** | **DÉF** | 
-  | [Corne ensorcelée](/equipment/Corne ensorcelée/) | **ATQ** | **DÉF** | 
-  | [Épaulières ensorcelées](/equipment/Épaulières ensorcelées/) | **PV** | **DÉF** | 
+  | [Fouet infernal](/fr/equipment/Fouet infernal/) | **ATQ** | **DÉF** | 
+  | [Armure légère ensorcelée](/fr/equipment/Armure légère ensorcelée/) | **PV** | **DÉF** | 
+  | [Corne ensorcelée](/fr/equipment/Corne ensorcelée/) | **ATQ** | **DÉF** | 
+  | [Épaulières ensorcelées](/fr/equipment/Épaulières ensorcelées/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée](/Exclusive/Pit Fiend Sword/) 
+ **Name:** [Épée](/fr/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Offensive**  (Groupement - Offensive)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Spadassin"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Spadassin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Humain
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Protection divine : réduit les dégâts reçus.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Épée de l'Empire](/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
-  | [Heaume d'officier](/equipment/Heaume d'officier/) | **PV** | **DÉF** | 
-  | [Bouclier de l'Empire](/equipment/Bouclier de l'Empire/) | **ATQ** | **DÉF** | 
-  | [Épaulières de l'Empire](/equipment/Épaulières de l'Empire/) | **PV** | **DÉF** | 
+  | [Épée de l'Empire](/fr/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
+  | [Heaume d'officier](/fr/equipment/Heaume d'officier/) | **PV** | **DÉF** | 
+  | [Bouclier de l'Empire](/fr/equipment/Bouclier de l'Empire/) | **ATQ** | **DÉF** | 
+  | [Épaulières de l'Empire](/fr/equipment/Épaulières de l'Empire/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Swordsman Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Swordsman Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
-* [Avarice](/Emblem/Greed/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
 
 ## Infos combinaison
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Château**  (Groupement - Château)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Catherine](/heroes/Catherine/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Catherine](/fr/heroes/Catherine/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

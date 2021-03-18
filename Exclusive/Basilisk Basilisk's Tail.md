@@ -2,18 +2,18 @@
 title: "Exclusif - Queue de Basilic"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Queue de Basilic. Queue de Basilic. Era of Chaos Exclusif Queue de Basilic. Basilic Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Basilisk Queue de Basilic.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Queue de Basilic** 
 
- **Exclusif for Unit:** [Basilic](/units/Basilisk/) 
+ **Exclusif for Unit:** [Basilic](/fr/units/Basilisk/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | Lorsqu'une attaque touche une unité cible, a 8 % de chance d'infliger en plus des dégâts équivalents à 100 % de son ATQ et de pétrifier la cible pendant 3 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les PV et la résistance aux dégâts d'unité du Basilic de 20 %. |

@@ -2,18 +2,18 @@
 title: "Exclusif - Sabre des limbes"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Sabre des limbes. Sabre des limbes. Era of Chaos Exclusif Sabre des limbes. Chevalier noir Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Black Knight Sabre des limbes.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Sabre des limbes** 
 
- **Exclusif for Unit:** [Chevalier noir](/units/Black Knight/) 
+ **Exclusif for Unit:** [Chevalier noir](/fr/units/Black Knight/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,14 +27,14 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | Le Chevalier noir réduit la DÉF des unités ennemies de 30 % dans une large zone. Sa pénétration augmente de 500 lorsqu'il affronte des unités victimes de <Démotivation>. |
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts du Chevalier noir augmente de 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Les dégâts du Chevalier noir augmentent de 25 %. |
   | **3x** <i class="fas fa-star"/> | ? | Le Chevalier noir charge directement au début du combat. Pendant ce temps, il est immunisé contre tout type de dégâts. Il apparaît devant les unités ennemies placées à la fin de la ligne en 6 secondes. S'il n'y a pas de cible adéquate, il attaque une unité aléatoire située sur la ligne arrière et lui inflige une Frappe fatale. (Aucun effet d'éveil. Ne fonctionne qu'une seule fois par combat.) |
-  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
-  | **5x** <i class="fas fa-star"/> | ? | Le drain de vie du Chevalier noir augmente de 20 %. Il reçoit un bonus de 20 % de drain de vie pendant 5 secondes après un coup critique. |
+  | **4x** <i class="fas fa-star"/> | ? | Les coups critiques du Chevalier noir augmentent de 50 et sa résistance magique de 20 % lorsqu'il réalise un coup critique. L'effet dure 5 secondes, et peut se cumuler jusqu'à 10 fois. |
+  | **5x** <i class="fas fa-star"/> | ? | Le drain de vie du Chevalier noir augmente de 20 %, puis de 20 % supplémentaires après un coup critique. L'effet dure 5 secondes. |
   | **6x** <i class="fas fa-star"/> | ? | <Renaissance du roi> : Invoque un Chevalier noir toutes les 20 secondes. Un Chevalier noir peut être invoqué une fois que la cible a été tuée. Dès qu'il apparaît, les coups critiques de l'unité augmentent de 100 et sa pénétration de 50. |
 
 

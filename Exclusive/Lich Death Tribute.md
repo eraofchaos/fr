@@ -2,18 +2,18 @@
 title: "Exclusif - Hommage mortel"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Hommage mortel. Hommage mortel. Era of Chaos Exclusif Hommage mortel. Liche Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Lich Hommage mortel.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Hommage mortel** 
 
- **Exclusif for Unit:** [Liche](/units/Lich/) 
+ **Exclusif for Unit:** [Liche](/fr/units/Lich/) 
 
  **Item to Rang supérieur:** -
 
@@ -21,13 +21,13 @@ classes: wide
 
  **Type:** À distance
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | <Sacrifice spirituel de Dragon> : Un Dragon squelette est invoqué deux fois pendant 20 secondes après 5 et 45 secondes de combat. L'ATQ et les PV du Dragon squelette dépendent du niveau de l'unité. Il dispose des capacités <Effroi> et <Pénétration>. Lorsqu'il est présent sur le champ de bataille, il augmente les dégâts et la résistance aux dégâts de toutes les unités alliées de la Nécropole de 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | La résistance aux dégâts de la Liche augmente de 20 %. |

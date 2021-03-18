@@ -3,30 +3,27 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Trolls sont très intelligents et utilisent de lourds rochers comme armes. On les retrouve souvent en première ligne des batailles pour asséner aux ennemis les coups les plus violents."
 unitID: 409
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Troll"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Description:** Les Trolls sont très intelligents et utilisent de lourds rochers comme armes. On les retrouve souvent en première ligne des batailles pour asséner aux ennemis les coups les plus violents.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Attaque d'une cible unique. Dégâts d'explosion.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Rocher enchaîné](/equipment/Rocher enchaîné/) | **ATQ** | **DÉF** | 
-  | [Puissance des Seigneurs](/equipment/Puissance des Seigneurs/) | **PV** | **DÉF** | 
-  | [Armure de brèche](/equipment/Armure de brèche/) | **ATQ** | **DÉF** | 
-  | [Bottes de la garnison](/equipment/Bottes de la garnison/) | **PV** | **DÉF** | 
+  | [Rocher enchaîné](/fr/equipment/Rocher enchaîné/) | **ATQ** | **DÉF** | 
+  | [Puissance des Seigneurs](/fr/equipment/Puissance des Seigneurs/) | **PV** | **DÉF** | 
+  | [Armure de brèche](/fr/equipment/Armure de brèche/) | **ATQ** | **DÉF** | 
+  | [Bottes de la garnison](/fr/equipment/Bottes de la garnison/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Infos combinaison
 
@@ -125,19 +122,19 @@ toc: true
     let str8 = "LEVEL*10+120"
     let str5 = "LEVEL*2+8"
     let str18 = "(LEVEL*0.3+1)"
-    let str6 = "LEVEL*0,3+1,2"
+    let str6 = "LEVEL*0.3+1.2"
     let str19 = "LEVEL*1+15"
-    let str3 = "LEVEL*0,5+2,5"
+    let str3 = "LEVEL*0.5+2.5"
     let str4 = "LEVEL*5+25"
     let str1 = "LEVEL*5+120"
-    let str2 = "LEVEL*0,2+1"
+    let str2 = "LEVEL*0.2+1"
     let str12 = "LEVEL*1+15"
     let str13 = "LEVEL*3+5"
     let str10 = "LEVEL*5+25"
     let str11 = "LEVEL*2+10"
     let str16 = "(LEVEL*0.3+0.5)"
     let str17 = "(LEVEL*300+1200)"
-    let str9 = "LEVEL*0,2+1"
+    let str9 = "LEVEL*0.2+1"
     let str14 = "LEVEL*2+10"
     let str15 = "LEVEL*0.3+1.5"
     let res="ERR";
@@ -176,11 +173,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **À distance**  (Groupement - À distance)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

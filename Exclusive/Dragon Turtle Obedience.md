@@ -2,18 +2,18 @@
 title: "Exclusif - Obéissance"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Era of Chaos Obéissance. Obéissance. Era of Chaos Exclusif Obéissance. Tortue dragon Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Dragon Turtle Obéissance.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Obéissance** 
 
- **Exclusif for Unit:** [Tortue dragon](/units/Dragon Turtle/) 
+ **Exclusif for Unit:** [Tortue dragon](/fr/units/Dragon Turtle/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | <Coquille de protection> : La Tortue dragon lance <Coquille de protection> toutes les 20 secondes. Pendant les 6 secondes suivantes, le renvoi de dégâts et la résistance aux dégâts d'unité de la Tortue Dragon augmentent de 20 %, et lorsqu'elle est attaquée par des unités de mêlée ennemies, leur vitesse d'attaque et leurs dégâts d'unité diminuent de 20 %. Inflige également Découragement. Si la cible subit Saignement, sa DÉF diminue également de 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts de la Tortue dragon de 20 %. Lorsque des Héros alliés lancent des sorts d'eau, la Tortue reçoit une bulle égale à 20 % de ses PV max pendant 10 secondes. Le temps de recharge est de 7 secondes. |

@@ -3,7 +3,7 @@ title: "Gobelin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
 unitID: 401
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Gobelin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Orque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Tempête guerrière : inflige des dégâts à 3 unités ennemies à proximité.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Gourdin à pointes](/equipment/Gourdin à pointes/) | **ATQ** | **DÉF** | 
-  | [Ceinture de cuir](/equipment/Ceinture de cuir/) | **PV** | **DÉF** | 
-  | [Collier d'os](/equipment/Collier d'os/) | **ATQ** | **DÉF** | 
-  | [Épaulières en cuir](/equipment/Épaulières en cuir/) | **PV** | **DÉF** | 
+  | [Gourdin à pointes](/fr/equipment/Gourdin à pointes/) | **ATQ** | **DÉF** | 
+  | [Ceinture de cuir](/fr/equipment/Ceinture de cuir/) | **PV** | **DÉF** | 
+  | [Collier d'os](/fr/equipment/Collier d'os/) | **ATQ** | **DÉF** | 
+  | [Épaulières en cuir](/fr/equipment/Épaulières en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée](/Exclusive/Goblin Sword/) 
+ **Name:** [Épée](/fr/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Infos combinaison
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **Offensive**  (Groupement - Offensive)
+* **R**  (R)
 
 ### Bonus de héros
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Ange"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Ange"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Ange
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Condamnation : inflige des dégâts colossaux à 3 unités ennemies et les étourdit.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Épée de l'Empire](/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
-  | [Armure de combat légère](/equipment/Armure de combat légère/) | **PV** | **DÉF** | 
-  | [Gantelets légers](/equipment/Gantelets légers/) | **ATQ** | **DÉF** | 
-  | [Épaulières de légèreté](/equipment/Épaulières de légèreté/) | **PV** | **DÉF** | 
+  | [Épée de l'Empire](/fr/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
+  | [Armure de combat légère](/fr/equipment/Armure de combat légère/) | **PV** | **DÉF** | 
+  | [Gantelets légers](/fr/equipment/Gantelets légers/) | **ATQ** | **DÉF** | 
+  | [Épaulières de légèreté](/fr/equipment/Épaulières de légèreté/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Durandel](/Exclusive/Angel Durandel/) 
+ **Name:** [Durandel](/fr/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
@@ -89,8 +89,8 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Prophète vert](/Emblem/Green Prophet/) (Bonté)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Prophète vert](/fr/Emblem/Green Prophet/) (Bonté)
 
 ## Infos combinaison
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Château**  (Groupement - Château)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Basilic"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Basilic"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Bête
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Contrôle les tanks. Pétrifie.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Aile de Basilic](/equipment/Aile de Basilic/) | **ATQ** | **DÉF** | 
-  | [Écaille adamantine](/equipment/Écaille adamantine/) | **PV** | **DÉF** | 
-  | [Griffe empoisonnée](/equipment/Griffe empoisonnée/) | **ATQ** | **DÉF** | 
-  | [Croc de pétrification](/equipment/Croc de pétrification/) | **PV** | **DÉF** | 
+  | [Aile de Basilic](/fr/equipment/Aile de Basilic/) | **ATQ** | **DÉF** | 
+  | [Écaille adamantine](/fr/equipment/Écaille adamantine/) | **PV** | **DÉF** | 
+  | [Griffe empoisonnée](/fr/equipment/Griffe empoisonnée/) | **ATQ** | **DÉF** | 
+  | [Croc de pétrification](/fr/equipment/Croc de pétrification/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Queue de Basilic](/Exclusive/Basilisk Basilisk's Tail/) 
+ **Name:** [Queue de Basilic](/fr/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

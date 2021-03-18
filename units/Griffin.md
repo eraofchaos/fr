@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Griffon"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Bête
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Plongeon : inflige des dégâts à 3 unités ennemies.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes dentelées](/equipment/Griffes dentelées/) | **ATQ** | **DÉF** | 
-  | [Plaque de célérité](/equipment/Plaque de célérité/) | **PV** | **DÉF** | 
-  | [Plume d'Archgriffon](/equipment/Plume d'Archgriffon/) | **ATQ** | **DÉF** | 
-  | [Armoiries de l'Empire](/equipment/Armoiries de l'Empire/) | **PV** | **DÉF** | 
+  | [Griffes dentelées](/fr/equipment/Griffes dentelées/) | **ATQ** | **DÉF** | 
+  | [Plaque de célérité](/fr/equipment/Plaque de célérité/) | **PV** | **DÉF** | 
+  | [Plume d'Archgriffon](/fr/equipment/Plume d'Archgriffon/) | **ATQ** | **DÉF** | 
+  | [Armoiries de l'Empire](/fr/equipment/Armoiries de l'Empire/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Griffin Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Témoin](/Emblem/Witness/) (Bonté)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Témoin](/fr/Emblem/Witness/) (Bonté)
 
 ## Infos combinaison
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Château**  (Groupement - Château)
 * **Assaut**  (Groupement - Assaut)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -175,40 +176,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Griffon sanctifié
 
- **Awaking Description:** null
+ **Awaking Description:** Les Griffons dressés par la famille Edric servent désormais de gardiens à Erathia. De jour comme de nuit, ils arpentent le ciel au-dessus du château. Les envahisseurs assez imprudents pour s'approcher du château sont mis en lambeaux par les griffes acérées des Griffons.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Déployez un Griffon et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Château pour réussir le niveau Impitoyable ou un niveau supérieur de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ressources pendant une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Griffon sanctifié dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Déployez un Griffon et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Château pour remporter 3 combats dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Turbulences
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Contre-attaque en piqué&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la vitesse d'attaque de l'unité cible de 40 % pendant 5 secondes.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): Embuscade en piqué
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Contre-attaque en piqué&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la vitesse d'attaque de 40 % pendant 5 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): Seigneur sanctifié
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tour de commandement&gt; :</span><span style="color: #645252;font-size:18px"> Le Griffon libère toute la puissance des aigles. Au début de la bataille, augmente les dégâts des unités volantes alliées de 40 % pendant 20 secondes.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Gardien sanctifié
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tour de commandement&gt; :</span><span style="color: #645252;font-size:18px"> Le Griffon libère toute la puissance des lions. Au début de la bataille, augmente la résistance aux dégâts des unités de mêlée alliées de 40 % pendant 20 secondes.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Soutien aérien
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Archange&gt; :</span><span style="color: #645252;font-size:18px"> La DÉF du Griffon augmente de 5 % pour chaque unité volante alliée déployée sur le champ de bataille.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Impact de Trembleterre
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Archange&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les dégâts du Griffon de 50 % face à des unités au sol.</span>
 
 ## Technical info
  **runart:** 1

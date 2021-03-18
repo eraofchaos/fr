@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Guêpe serpent"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Bête
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Short description:** Affaiblit et contrôle la ligne arrière.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Aile de monstre](/equipment/Aile de monstre/) | **ATQ** | **DÉF** | 
-  | [Mâchoire fatale](/equipment/Mâchoire fatale/) | **PV** | **DÉF** | 
-  | [Pointe morne](/equipment/Pointe morne/) | **ATQ** | **DÉF** | 
-  | [Croc toxique](/equipment/Croc toxique/) | **PV** | **DÉF** | 
+  | [Aile de monstre](/fr/equipment/Aile de monstre/) | **ATQ** | **DÉF** | 
+  | [Mâchoire fatale](/fr/equipment/Mâchoire fatale/) | **PV** | **DÉF** | 
+  | [Pointe morne](/fr/equipment/Pointe morne/) | **ATQ** | **DÉF** | 
+  | [Croc toxique](/fr/equipment/Croc toxique/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Serpent Fly Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Serpent Fly Arcane Chant/) 
 
  **Is Open:** + 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Infos combinaison
 
@@ -172,11 +172,12 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Korbac](/heroes/Korbac/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/fr/heroes/Korbac/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -2,18 +2,18 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Élémentaire de mer Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Sea Elemental Mélopée des arcanes.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Mélopée des arcanes** 
 
- **Exclusif for Unit:** [Élémentaire de mer](/units/Sea Elemental/) 
+ **Exclusif for Unit:** [Élémentaire de mer](/fr/units/Sea Elemental/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | <Raz-de-marée> : Peut être lancé une fois toutes les 20 secondes. Invoque des vagues sous une unité ennemie aléatoire, infligeant une quantité de dégâts égale à 200 % de son ATQ à toutes les unités ennemies dans une zone réduite. |
   | **1x** <i class="fas fa-star"/> | ? | En début de combat, toutes vos unités bénéficient d'une <bulle> égale à 10 % de leurs PV max. |

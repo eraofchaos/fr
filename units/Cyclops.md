@@ -3,7 +3,7 @@ title: "Cyclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Cyclope"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Barbare
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Pierre de feu : inflige de très lourds dégâts à toutes les troupes ennemies sur son chemin.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Rocher](/equipment/Rocher/) | **ATQ** | **DÉF** | 
-  | [Chaînes de gladiateur](/equipment/Chaînes de gladiateur/) | **PV** | **DÉF** | 
-  | [Bracelets à pointes](/equipment/Bracelets à pointes/) | **ATQ** | **DÉF** | 
-  | [Pantalon en cuir](/equipment/Pantalon en cuir/) | **PV** | **DÉF** | 
+  | [Rocher](/fr/equipment/Rocher/) | **ATQ** | **DÉF** | 
+  | [Chaînes de gladiateur](/fr/equipment/Chaînes de gladiateur/) | **PV** | **DÉF** | 
+  | [Bracelets à pointes](/fr/equipment/Bracelets à pointes/) | **ATQ** | **DÉF** | 
+  | [Pantalon en cuir](/fr/equipment/Pantalon en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Cyclops Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Cyclops Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Infos combinaison
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Yog](/heroes/Yog/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/fr/heroes/Yog/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

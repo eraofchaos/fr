@@ -2,18 +2,18 @@
 title: "Exclusif - Annihilation"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Annihilation. Annihilation. Era of Chaos Exclusif Annihilation. Dragon rouge Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Red Dragon Annihilation.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Annihilation** 
 
- **Exclusif for Unit:** [Dragon rouge](/units/Red Dragon/) 
+ **Exclusif for Unit:** [Dragon rouge](/fr/units/Red Dragon/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | <Âme de Dragon> : Le Dragon rouge condense 1 âme de Dragon dans son corps toutes les 15 secondes, dans la limite de 4 âmes. Chaque âme de Dragon augmente les dégâts d'unité du Dragon rouge et sa résistance aux dégâts de 10 %. Lorsque le Dragon rouge dispose d'une âme de Dragon, il lance <Flamme infernale>, infligeant des dégâts équivalents à 150 % de son ATQ à l'unité cible, ainsi que des dégâts supplémentaires équivalents à 20 % de ses PV max aux unités victimes de Brûlure. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la DÉF et la pénétration du Dragon rouge de 50 à chaque fois qu'une unité du souterrain est déployée. |

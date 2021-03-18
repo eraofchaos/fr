@@ -3,7 +3,7 @@ title: "Élémentaire de l'esprit"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Élémentaire de l'esprit"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Tir d'énergie. Brûle.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Noyau de l'étoile polaire](/equipment/Noyau de l'étoile polaire/) | **ATQ** | **DÉF** | 
-  | [Étoile céleste](/equipment/Étoile céleste/) | **PV** | **DÉF** | 
-  | [Couronne de l'esprit stellaire](/equipment/Couronne de l'esprit stellaire/) | **ATQ** | **DÉF** | 
-  | [Brassard de puissance](/equipment/Brassard de puissance/) | **PV** | **DÉF** | 
+  | [Noyau de l'étoile polaire](/fr/equipment/Noyau de l'étoile polaire/) | **ATQ** | **DÉF** | 
+  | [Étoile céleste](/fr/equipment/Étoile céleste/) | **PV** | **DÉF** | 
+  | [Couronne de l'esprit stellaire](/fr/equipment/Couronne de l'esprit stellaire/) | **ATQ** | **DÉF** | 
+  | [Brassard de puissance](/fr/equipment/Brassard de puissance/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Noyau spirituel](/Exclusive/Psychic Elemental Spirit Core/) 
+ **Name:** [Noyau spirituel](/fr/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Prophète vert](/Emblem/Green Prophet/) (Bonté)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Prophète vert](/fr/Emblem/Green Prophet/) (Bonté)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -153,11 +153,12 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Monere](/heroes/Monere/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Monere](/fr/heroes/Monere/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/fr/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

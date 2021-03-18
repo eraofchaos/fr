@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Revyaratan"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Pirate
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Kraken des profondeurs. Ne peut pas ressusciter.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Crocs acérés](/equipment/Crocs acérés/) | **ATQ** | **DÉF** | 
-  | [Nageoire glaciale](/equipment/Nageoire glaciale/) | **PV** | **DÉF** | 
-  | [Queue de monstre marin](/equipment/Queue de monstre marin/) | **ATQ** | **DÉF** | 
-  | [Tentacules de la tentation](/equipment/Tentacules de la tentation/) | **PV** | **DÉF** | 
+  | [Crocs acérés](/fr/equipment/Crocs acérés/) | **ATQ** | **DÉF** | 
+  | [Nageoire glaciale](/fr/equipment/Nageoire glaciale/) | **PV** | **DÉF** | 
+  | [Queue de monstre marin](/fr/equipment/Queue de monstre marin/) | **ATQ** | **DÉF** | 
+  | [Tentacules de la tentation](/fr/equipment/Tentacules de la tentation/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Marées obscures](/Exclusive/Revyaratan Gloom Tides/) 
+ **Name:** [Marées obscures](/fr/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Souffle du Roi Dragon](/Emblem/Dragon King's Breath/) (Mauvais)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) (Mauvais)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -165,10 +165,11 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Offensive**  (Groupement - Offensive)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Adjudicatrice"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Humain
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Aura de soutien. Portée étendue.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bâton de théocratie](/equipment/Bâton de théocratie/) | **ATQ** | **DÉF** | 
-  | [Capuche céleste bénie](/equipment/Capuche céleste bénie/) | **PV** | **DÉF** | 
-  | [Cape légère](/equipment/Cape légère/) | **ATQ** | **DÉF** | 
-  | [Brassard divin](/equipment/Brassard divin/) | **PV** | **DÉF** | 
+  | [Bâton de théocratie](/fr/equipment/Bâton de théocratie/) | **ATQ** | **DÉF** | 
+  | [Capuche céleste bénie](/fr/equipment/Capuche céleste bénie/) | **PV** | **DÉF** | 
+  | [Cape légère](/fr/equipment/Cape légère/) | **ATQ** | **DÉF** | 
+  | [Brassard divin](/fr/equipment/Brassard divin/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [](/Exclusive/Judicator /) 
+ **Name:** [](/fr/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Château**  (Groupement - Château)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

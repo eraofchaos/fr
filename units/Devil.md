@@ -3,7 +3,7 @@ title: "Diable"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Diable"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Mort douloureuse : inflige de très lourds dégâts à vos ennemis et les étourdit.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Faux du diable](/equipment/Faux du diable/) | **ATQ** | **DÉF** | 
-  | [Pentagramme en fusion](/equipment/Pentagramme en fusion/) | **PV** | **DÉF** | 
-  | [Gantelets de lave en fusion](/equipment/Gantelets de lave en fusion/) | **ATQ** | **DÉF** | 
-  | [Épaulières de lave en fusion](/equipment/Épaulières de lave en fusion/) | **PV** | **DÉF** | 
+  | [Faux du diable](/fr/equipment/Faux du diable/) | **ATQ** | **DÉF** | 
+  | [Pentagramme en fusion](/fr/equipment/Pentagramme en fusion/) | **PV** | **DÉF** | 
+  | [Gantelets de lave en fusion](/fr/equipment/Gantelets de lave en fusion/) | **ATQ** | **DÉF** | 
+  | [Épaulières de lave en fusion](/fr/equipment/Épaulières de lave en fusion/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Faux du diable](/Exclusive/Devil Devil Scythe/) 
+ **Name:** [Faux du diable](/fr/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Infos combinaison
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

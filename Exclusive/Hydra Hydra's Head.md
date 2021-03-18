@@ -2,18 +2,18 @@
 title: "Exclusif - Tête d'Hydre"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Tête d'Hydre. Tête d'Hydre. Era of Chaos Exclusif Tête d'Hydre. Hydre Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Hydra Tête d'Hydre.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Tête d'Hydre** 
 
- **Exclusif for Unit:** [Hydre](/units/Hydra/) 
+ **Exclusif for Unit:** [Hydre](/fr/units/Hydra/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | <Gloutonnerie> : Mord l'ennemi 1 fois toutes les secondes, attaquant 5 fois au total et infligeant des dégâts équivalents à 50 % de son ATQ à chaque fois. Diminue la ténacité de l'ennemi de 50 et augmente les dégâts infligés par ses propres coups critiques de 4 %. L'effet peut se cumuler jusqu'à 5 fois et dure 3 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité et l'ATQ de l'Hydre de 20 %. |

@@ -3,7 +3,7 @@ title: "Serpent de Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Serpent de Regna"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Piétinement des abysses : contrôle les effets de zone, décourage l'ennemi et réduit ses coups critiques.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Trident](/equipment/Trident/) | **ATQ** | **DÉF** | 
-  | [Corne infernale](/equipment/Corne infernale/) | **PV** | **DÉF** | 
-  | [Griffes de sirène](/equipment/Griffes de sirène/) | **ATQ** | **DÉF** | 
-  | [Nageoire bleu foncé](/equipment/Nageoire bleu foncé/) | **PV** | **DÉF** | 
+  | [Trident](/fr/equipment/Trident/) | **ATQ** | **DÉF** | 
+  | [Corne infernale](/fr/equipment/Corne infernale/) | **PV** | **DÉF** | 
+  | [Griffes de sirène](/fr/equipment/Griffes de sirène/) | **ATQ** | **DÉF** | 
+  | [Nageoire bleu foncé](/fr/equipment/Nageoire bleu foncé/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Marées diurnes](/Exclusive/Regnan Serpent Day Tides/) 
+ **Name:** [Marées diurnes](/fr/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
 
 ## Infos combinaison
 
@@ -170,10 +170,11 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

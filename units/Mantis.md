@@ -3,7 +3,7 @@ title: "Mante religieuse"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ses gigantesques lames, tranchantes comme des rasoirs, témoignent de sa fierté de créature légendaire. Les elfes de Vori ont conféré à la Mante religieuse une vitalité de fer inébranlable."
 unitID: 209
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Mante religieuse"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** Ses gigantesques lames, tranchantes comme des rasoirs, témoignent de sa fierté de créature légendaire. Les elfes de Vori ont conféré à la Mante religieuse une vitalité de fer inébranlable.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Licorne
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Portée de découpe rapide étendue.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_2091](/fr/equipment/UnknownEquipment_2091/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_2092](/fr/equipment/UnknownEquipment_2092/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_2093](/fr/equipment/UnknownEquipment_2093/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_2094](/fr/equipment/UnknownEquipment_2094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Prophète vert](/Emblem/Green Prophet/) (Bonté)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Prophète vert](/fr/Emblem/Green Prophet/) (Bonté)
 
 ## Infos combinaison
 
@@ -166,10 +166,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **Offensive**  (Groupement - Offensive)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

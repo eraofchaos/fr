@@ -3,7 +3,7 @@ title: "Béhémoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis."
 unitID: 407
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Béhémoth"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Licorne
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Rugissement : réduit considérablement l'attaque de l'ennemi et l'étourdit.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes féroces](/equipment/Griffes féroces/) | **ATQ** | **DÉF** | 
-  | [Peau de fer](/equipment/Peau de fer/) | **PV** | **DÉF** | 
-  | [Crocs féroces](/equipment/Crocs féroces/) | **ATQ** | **DÉF** | 
-  | [Fourrure épaisse](/equipment/Fourrure épaisse/) | **PV** | **DÉF** | 
+  | [Griffes féroces](/fr/equipment/Griffes féroces/) | **ATQ** | **DÉF** | 
+  | [Peau de fer](/fr/equipment/Peau de fer/) | **PV** | **DÉF** | 
+  | [Crocs féroces](/fr/equipment/Crocs féroces/) | **ATQ** | **DÉF** | 
+  | [Fourrure épaisse](/fr/equipment/Fourrure épaisse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Esprit sanguinaire](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Name:** [Esprit sanguinaire](/fr/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **Défense**  (Groupement - Défense)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

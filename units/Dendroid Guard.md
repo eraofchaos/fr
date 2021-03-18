@@ -3,7 +3,7 @@ title: "Garde sylvanien"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Garde sylvanien"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Fiélon
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Engourdissement : Réduit la vitesse d'attaque de l'ennemi et le ralentit.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Branche de vitalité](/equipment/Branche de vitalité/) | **ATQ** | **DÉF** | 
-  | [Couronne lourde](/equipment/Couronne lourde/) | **PV** | **DÉF** | 
-  | [Rune impérissable](/equipment/Rune impérissable/) | **ATQ** | **DÉF** | 
-  | [Armure de liane](/equipment/Armure de liane/) | **PV** | **DÉF** | 
+  | [Branche de vitalité](/fr/equipment/Branche de vitalité/) | **ATQ** | **DÉF** | 
+  | [Couronne lourde](/fr/equipment/Couronne lourde/) | **PV** | **DÉF** | 
+  | [Rune impérissable](/fr/equipment/Rune impérissable/) | **ATQ** | **DÉF** | 
+  | [Armure de liane](/fr/equipment/Armure de liane/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Dendroid Guard Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Dendroid Guard Iris Shield/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Avarice](/Emblem/Greed/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
 
 ## Infos combinaison
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Ryland](/heroes/Ryland/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ryland](/fr/heroes/Ryland/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Cauchemar"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Soutien. Dégâts initiaux importants.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pupille de cauchemar](/equipment/Pupille de cauchemar/) | **ATQ** | **DÉF** | 
-  | [Feu de l'abysse](/equipment/Feu de l'abysse/) | **PV** | **DÉF** | 
-  | [Fer à cheval cendré](/equipment/Fer à cheval cendré/) | **ATQ** | **DÉF** | 
-  | [Crin de feu](/equipment/Crin de feu/) | **PV** | **DÉF** | 
+  | [Pupille de cauchemar](/fr/equipment/Pupille de cauchemar/) | **ATQ** | **DÉF** | 
+  | [Feu de l'abysse](/fr/equipment/Feu de l'abysse/) | **PV** | **DÉF** | 
+  | [Fer à cheval cendré](/fr/equipment/Fer à cheval cendré/) | **ATQ** | **DÉF** | 
+  | [Crin de feu](/fr/equipment/Crin de feu/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [](/Exclusive/Nightmare /) 
+ **Name:** [](/fr/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -167,40 +168,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Roi Cauchemar
 
  **Awaking Description:** Émergeant du royaume des rêves, sillonnant la lave pour rejoindre le monde des vivants, son corps enveloppé d'une aura terrifiante. Son souffle ardent laisse derrière lui une traînée de cendre, et son sang n'est que magma en fusion. Lorsqu'il attaque, même le plus brave des guerriers prend peur et devient incapable de brandir son épée sous l'effet du tremblement de ses mains.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Déployez un Cauchemar et au moins </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> unités de l'Hadès pour éliminer 1 000 Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Roi Cauchemar dans les niveaux 17-2 et 17-4 du souterrain.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Déployez un Cauchemar et remportez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> combats dans l'arène.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Linceul cauchemardesque
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;En plein cauchemar&gt; :</span><span style="color: #645252;font-size:18px"> Se déclenche une fois toutes les 15 secondes. Jette une malédiction dans un certain périmètre autour de l'unité ennemie qui a le moins de PV. La malédiction inflige Sommeil aux ennemis touchés pendant 3 secondes (ils ne peuvent plus se déplacer ni attaquer), réduit leur résistance aux dégâts de 30 % et leur inflige Brûlure pendant 5 secondes (l'effet Brûlure ne peut pas être dissipé).</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Véritable cauchemar
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;En plein cauchemar&gt; :</span><span style="color: #645252;font-size:18px"> Se déclenche une fois toutes les 15 secondes. Cette compétence jette une malédiction qui inflige Sommeil à toutes les unités ennemies pendant 5 secondes (elles ne peuvent plus se déplacer ni attaquer), réduit leur DÉF de 15 % et leur inflige Brûlure pendant 5 secondes (l'effet Brûlure ne peut pas être dissipé).</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Dévoreur de rêves
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Attrape-rêves&gt; :</span><span style="color: #645252;font-size:18px"> Chaque attaque augmente la résistance aux dégâts des unités de l'Hadès alliées de 1 % supplémentaire. L'effet peut se cumuler jusqu'à 10 fois, dure 10 secondes et ne peut pas être dissipé. Chaque coup critique infligé par le Cauchemar augmente sa vitesse d'attaque et celle des unités de l'Hadès de 1 %. L'effet peut se cumuler jusqu'à 20 fois, dure 10 secondes et ne peut pas être dissipé.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Rêve lucide
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Attrape-rêves&gt; :</span><span style="color: #645252;font-size:18px"> Chaque attaque diminue la résistance aux dégâts des ennemis de 2 % supplémentaires. L'effet peut se cumuler jusqu'à 20 fois, dure 10 secondes et ne peut pas être dissipé. Chaque coup critique infligé par le Cauchemar augmente sa vitesse d'attaque et celle des unités de l'Hadès de 1 %. L'effet peut se cumuler jusqu'à 20 fois, dure 10 secondes et ne peut pas être dissipé.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Héraut
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Présage&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la DÉF de 10 % pour chaque unité de l'Hadès déployée. Lorsqu'une unité meurt au combat, le temps de recharge des compétences ultimes des Héros alliés a 50 % de chances d'être réduit de 2 secondes.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Mauvais présage
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Présage&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la DÉF de 10 % pour chaque unité de l'Hadès déployée. Lorsqu'une unité meurt au combat, l'unité alliée qui a le moins de PV récupère une quantité de PV égale à 20 % de ses PV max.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Revenante"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Revenante"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/fr/units/Faction Necropolis/)
 
  **Race:** Humain
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Cri effroyable : inflige Silence aux troupes ennemies sur son chemin.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes spectrales](/equipment/Griffes spectrales/) | **ATQ** | **DÉF** | 
-  | [Armure légère du requiem](/equipment/Armure légère du requiem/) | **PV** | **DÉF** | 
-  | [Âme maudite](/equipment/Âme maudite/) | **ATQ** | **DÉF** | 
-  | [Robe du requiem](/equipment/Robe du requiem/) | **PV** | **DÉF** | 
+  | [Griffes spectrales](/fr/equipment/Griffes spectrales/) | **ATQ** | **DÉF** | 
+  | [Armure légère du requiem](/fr/equipment/Armure légère du requiem/) | **PV** | **DÉF** | 
+  | [Âme maudite](/fr/equipment/Âme maudite/) | **ATQ** | **DÉF** | 
+  | [Robe du requiem](/fr/equipment/Robe du requiem/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Wight Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Wight Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Prophète vert](/Emblem/Green Prophet/) (Bonté)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Prophète vert](/fr/Emblem/Green Prophet/) (Bonté)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Nécropole**  (Groupement - Nécropole)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Sandro](/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (humain)](/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

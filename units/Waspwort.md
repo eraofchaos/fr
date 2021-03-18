@@ -3,7 +3,7 @@ title: "Guêpier"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
 unitID: 808
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Guêpier"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Bête
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** DPS et contrôle.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Branche fleurie rigide](/equipment/Branche fleurie rigide/) | **ATQ** | **DÉF** | 
-  | [Épine toxique](/equipment/Épine toxique/) | **PV** | **DÉF** | 
-  | [Seigneur des fleurs](/equipment/Seigneur des fleurs/) | **ATQ** | **DÉF** | 
-  | [Abeille assassine](/equipment/Abeille assassine/) | **PV** | **DÉF** | 
+  | [Branche fleurie rigide](/fr/equipment/Branche fleurie rigide/) | **ATQ** | **DÉF** | 
+  | [Épine toxique](/fr/equipment/Épine toxique/) | **PV** | **DÉF** | 
+  | [Seigneur des fleurs](/fr/equipment/Seigneur des fleurs/) | **ATQ** | **DÉF** | 
+  | [Abeille assassine](/fr/equipment/Abeille assassine/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Feuille de Guêpier](/Exclusive/Waspwort Waspwort Leaf/) 
+ **Name:** [Feuille de Guêpier](/fr/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Trépassé"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/fr/units/Faction Necropolis/)
 
  **Race:** Non-Morts
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Détonation : lorsque l'unité meurt, inflige des dégâts à la troupe ennemie la plus proche.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machette maculée de sang](/equipment/Machette maculée de sang/) | **ATQ** | **DÉF** | 
-  | [Collier en os](/equipment/Collier en os/) | **PV** | **DÉF** | 
-  | [Bracelet en acier raffiné](/equipment/Bracelet en acier raffiné/) | **ATQ** | **DÉF** | 
-  | [Pantalon de putréfaction](/equipment/Pantalon de putréfaction/) | **PV** | **DÉF** | 
+  | [Machette maculée de sang](/fr/equipment/Machette maculée de sang/) | **ATQ** | **DÉF** | 
+  | [Collier en os](/fr/equipment/Collier en os/) | **PV** | **DÉF** | 
+  | [Bracelet en acier raffiné](/fr/equipment/Bracelet en acier raffiné/) | **ATQ** | **DÉF** | 
+  | [Pantalon de putréfaction](/fr/equipment/Pantalon de putréfaction/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Walking Dead Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Walking Dead Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Nécropole**  (Groupement - Nécropole)
 * **Défense**  (Groupement - Défense)
+* **R**  (R)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (humain)](/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

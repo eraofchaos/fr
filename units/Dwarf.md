@@ -3,7 +3,7 @@ title: "Nain"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Nain"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Forêt
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Hurlement du Nain : augmente les PV max de votre unité au début du combat.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Marteau puissant](/equipment/Marteau puissant/) | **ATQ** | **DÉF** | 
-  | [Heaume cornu](/equipment/Heaume cornu/) | **PV** | **DÉF** | 
-  | [Gantelets de l'âtre-flamme](/equipment/Gantelets de l'âtre-flamme/) | **ATQ** | **DÉF** | 
-  | [Épaulières de l'âtre-flamme](/equipment/Épaulières de l'âtre-flamme/) | **PV** | **DÉF** | 
+  | [Marteau puissant](/fr/equipment/Marteau puissant/) | **ATQ** | **DÉF** | 
+  | [Heaume cornu](/fr/equipment/Heaume cornu/) | **PV** | **DÉF** | 
+  | [Gantelets de l'âtre-flamme](/fr/equipment/Gantelets de l'âtre-flamme/) | **ATQ** | **DÉF** | 
+  | [Épaulières de l'âtre-flamme](/fr/equipment/Épaulières de l'âtre-flamme/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Dwarf Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Ange gardien](/Emblem/Guardian Angel/) (Bonté)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -164,10 +164,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

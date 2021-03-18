@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Pirates de Regna"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Pirate
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Short description:** Dégâts massifs qui augmentent le courage.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machette renforcée](/equipment/Machette renforcée/) | **ATQ** | **DÉF** | 
-  | [Chemise de marin](/equipment/Chemise de marin/) | **PV** | **DÉF** | 
-  | [Bandeau du juste](/equipment/Bandeau du juste/) | **ATQ** | **DÉF** | 
-  | [Pantalon de marin](/equipment/Pantalon de marin/) | **PV** | **DÉF** | 
+  | [Machette renforcée](/fr/equipment/Machette renforcée/) | **ATQ** | **DÉF** | 
+  | [Chemise de marin](/fr/equipment/Chemise de marin/) | **PV** | **DÉF** | 
+  | [Bandeau du juste](/fr/equipment/Bandeau du juste/) | **ATQ** | **DÉF** | 
+  | [Pantalon de marin](/fr/equipment/Pantalon de marin/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée](/Exclusive/Regnan Pirates Sword/) 
+ **Name:** [Épée](/fr/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Souffle du Roi Dragon](/Emblem/Dragon King's Breath/) (Mauvais)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) (Mauvais)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Offensive**  (Groupement - Offensive)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [PeterLee](/heroes/Peter Lee/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [PeterLee](/fr/heroes/Peter Lee/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

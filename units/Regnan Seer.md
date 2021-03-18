@@ -3,7 +3,7 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Oracle de Regna"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Chef de la Crique. Puissant contrôle.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sceptre divin de l'âme de l'océan](/equipment/Sceptre divin de l'âme de l'océan/) | **ATQ** | **DÉF** | 
-  | [Collier de l'âme de Poséidon](/equipment/Collier de l'âme de Poséidon/) | **PV** | **DÉF** | 
-  | [Bandeau rayonnant](/equipment/Bandeau rayonnant/) | **ATQ** | **DÉF** | 
-  | [Bracelet noble](/equipment/Bracelet noble/) | **PV** | **DÉF** | 
+  | [Sceptre divin de l'âme de l'océan](/fr/equipment/Sceptre divin de l'âme de l'océan/) | **ATQ** | **DÉF** | 
+  | [Collier de l'âme de Poséidon](/fr/equipment/Collier de l'âme de Poséidon/) | **PV** | **DÉF** | 
+  | [Bandeau rayonnant](/fr/equipment/Bandeau rayonnant/) | **ATQ** | **DÉF** | 
+  | [Bracelet noble](/fr/equipment/Bracelet noble/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [](/Exclusive/Regnan Seer /) 
+ **Name:** [](/fr/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -163,10 +163,11 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Sirène"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Soins de groupe. Bonus puissants.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orgue aquatique](/equipment/Orgue aquatique/) | **ATQ** | **DÉF** | 
-  | [Boucles d'oreille de sirène](/equipment/Boucles d'oreille de sirène/) | **PV** | **DÉF** | 
-  | [Queue de poisson flexible](/equipment/Queue de poisson flexible/) | **ATQ** | **DÉF** | 
-  | [Protection de l'océan](/equipment/Protection de l'océan/) | **PV** | **DÉF** | 
+  | [Orgue aquatique](/fr/equipment/Orgue aquatique/) | **ATQ** | **DÉF** | 
+  | [Boucles d'oreille de sirène](/fr/equipment/Boucles d'oreille de sirène/) | **PV** | **DÉF** | 
+  | [Queue de poisson flexible](/fr/equipment/Queue de poisson flexible/) | **ATQ** | **DÉF** | 
+  | [Protection de l'océan](/fr/equipment/Protection de l'océan/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Marées nocturnes](/Exclusive/Mermaid Night Tides/) 
+ **Name:** [Marées nocturnes](/fr/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Culpabilité de Tarnum](/Emblem/Tarnum's Culpability/) (Neutre)
-* [Droits des successeurs](/Emblem/Successors' Legal Principles/) (Neutre)
+* [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/) (Neutre)
+* [Droits des successeurs](/fr/Emblem/Successors' Legal Principles/) (Neutre)
 
 ## Infos combinaison
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

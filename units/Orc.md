@@ -3,7 +3,7 @@ title: "Orque"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Orque"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Orque
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Exécution : inflige des dégâts supplémentaires aux ennemis qui ont moins de 30 % de PV.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache de lancer](/equipment/Hache de lancer/) | **ATQ** | **DÉF** | 
-  | [Ceinture de restriction](/equipment/Ceinture de restriction/) | **PV** | **DÉF** | 
-  | [Épaulières de fer](/equipment/Épaulières de fer/) | **ATQ** | **DÉF** | 
-  | [Épaulières sanguinaires](/equipment/Épaulières sanguinaires/) | **PV** | **DÉF** | 
+  | [Hache de lancer](/fr/equipment/Hache de lancer/) | **ATQ** | **DÉF** | 
+  | [Ceinture de restriction](/fr/equipment/Ceinture de restriction/) | **PV** | **DÉF** | 
+  | [Épaulières de fer](/fr/equipment/Épaulières de fer/) | **ATQ** | **DÉF** | 
+  | [Épaulières sanguinaires](/fr/equipment/Épaulières sanguinaires/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Orc Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

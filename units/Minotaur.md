@@ -3,7 +3,7 @@ title: "Minotaure"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare."
 unitID: 705
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Minotaure"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Troupes du Donjon
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Tourbillon : inflige des dégâts de zone et diminue la vitesse d'ATQ.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache de Gorgone](/equipment/Hache de Gorgone/) | **ATQ** | **DÉF** | 
-  | [Épaulières de Gorgone](/equipment/Épaulières de Gorgone/) | **PV** | **DÉF** | 
-  | [Bandeaux de Gorgone](/equipment/Bandeaux de Gorgone/) | **ATQ** | **DÉF** | 
-  | [Ceinture de Gorgone](/equipment/Ceinture de Gorgone/) | **PV** | **DÉF** | 
+  | [Hache de Gorgone](/fr/equipment/Hache de Gorgone/) | **ATQ** | **DÉF** | 
+  | [Épaulières de Gorgone](/fr/equipment/Épaulières de Gorgone/) | **PV** | **DÉF** | 
+  | [Bandeaux de Gorgone](/fr/equipment/Bandeaux de Gorgone/) | **ATQ** | **DÉF** | 
+  | [Ceinture de Gorgone](/fr/equipment/Ceinture de Gorgone/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Minotaur Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Minotaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

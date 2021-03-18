@@ -3,7 +3,7 @@ title: "Golem dragon"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Golem dragon"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Dragon
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Défense ultime.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffe en alliage](/equipment/Griffe en alliage/) | **ATQ** | **DÉF** | 
-  | [Tête de dragon de titane](/equipment/Tête de dragon de titane/) | **PV** | **DÉF** | 
-  | [Manche de contrôle principal](/equipment/Manche de contrôle principal/) | **ATQ** | **DÉF** | 
-  | [Armure en alliage](/equipment/Armure en alliage/) | **PV** | **DÉF** | 
+  | [Griffe en alliage](/fr/equipment/Griffe en alliage/) | **ATQ** | **DÉF** | 
+  | [Tête de dragon de titane](/fr/equipment/Tête de dragon de titane/) | **PV** | **DÉF** | 
+  | [Manche de contrôle principal](/fr/equipment/Manche de contrôle principal/) | **ATQ** | **DÉF** | 
+  | [Armure en alliage](/fr/equipment/Armure en alliage/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
-* [Avarice](/Emblem/Greed/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Défense**  (Groupement - Défense)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Gargouille"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat."
 unitID: 602
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Gargouille"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Forme de pierre : augmente l'ATQ et la vitesse d'ATQ.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cor en pierre](/equipment/Cor en pierre/) | **ATQ** | **DÉF** | 
-  | [Ailes de pierre](/equipment/Ailes de pierre/) | **PV** | **DÉF** | 
-  | [Griffes en pierre tranchantes](/equipment/Griffes en pierre tranchantes/) | **ATQ** | **DÉF** | 
-  | [Queue enchantée](/equipment/Queue enchantée/) | **PV** | **DÉF** | 
+  | [Cor en pierre](/fr/equipment/Cor en pierre/) | **ATQ** | **DÉF** | 
+  | [Ailes de pierre](/fr/equipment/Ailes de pierre/) | **PV** | **DÉF** | 
+  | [Griffes en pierre tranchantes](/fr/equipment/Griffes en pierre tranchantes/) | **ATQ** | **DÉF** | 
+  | [Queue enchantée](/fr/equipment/Queue enchantée/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée](/Exclusive/Stone Gargoyle Sword/) 
+ **Name:** [Épée](/fr/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Offensive**  (Groupement - Offensive)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

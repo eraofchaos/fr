@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Élémentaire de mer"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Short description:** Contrôle de Lenteur.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Larmes éternelles](/equipment/Larmes éternelles/) | **ATQ** | **DÉF** | 
-  | [Noyau d'Élémentaire d'eau](/equipment/Noyau d'Élémentaire d'eau/) | **PV** | **DÉF** | 
-  | [Flux ondulants](/equipment/Flux ondulants/) | **ATQ** | **DÉF** | 
-  | [Balafre tourbillonnante](/equipment/Balafre tourbillonnante/) | **PV** | **DÉF** | 
+  | [Larmes éternelles](/fr/equipment/Larmes éternelles/) | **ATQ** | **DÉF** | 
+  | [Noyau d'Élémentaire d'eau](/fr/equipment/Noyau d'Élémentaire d'eau/) | **PV** | **DÉF** | 
+  | [Flux ondulants](/fr/equipment/Flux ondulants/) | **ATQ** | **DÉF** | 
+  | [Balafre tourbillonnante](/fr/equipment/Balafre tourbillonnante/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Sea Elemental Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **R**  (R)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

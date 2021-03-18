@@ -3,7 +3,7 @@ title: "Effrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Effrit"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Esprit maléfique
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Boule de feu : inflige des dégâts colossaux aux ennemis et les brûle.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe enflammé](/equipment/Orbe enflammé/) | **ATQ** | **DÉF** | 
-  | [Armure légère enflammée](/equipment/Armure légère enflammée/) | **PV** | **DÉF** | 
-  | [Bracelets enflammés](/equipment/Bracelets enflammés/) | **ATQ** | **DÉF** | 
-  | [Épaulières enflammées](/equipment/Épaulières enflammées/) | **PV** | **DÉF** | 
+  | [Orbe enflammé](/fr/equipment/Orbe enflammé/) | **ATQ** | **DÉF** | 
+  | [Armure légère enflammée](/fr/equipment/Armure légère enflammée/) | **PV** | **DÉF** | 
+  | [Bracelets enflammés](/fr/equipment/Bracelets enflammés/) | **ATQ** | **DÉF** | 
+  | [Épaulières enflammées](/fr/equipment/Épaulières enflammées/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Efreeti Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Efreeti Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Infos combinaison
 
@@ -162,10 +162,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Rashka](/heroes/Rashka/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Rashka](/fr/heroes/Rashka/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Berserker"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Orque
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Tempête guerrière : inflige des dégâts à 3 unités ennemies à proximité.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache en obsidienne](/equipment/Hache en obsidienne/) | **ATQ** | **DÉF** | 
-  | [Collier d'os](/equipment/Collier d'os/) | **PV** | **DÉF** | 
-  | [Heaume en os de bêtes](/equipment/Heaume en os de bêtes/) | **ATQ** | **DÉF** | 
-  | [Bandeau en cuir](/equipment/Bandeau en cuir/) | **PV** | **DÉF** | 
+  | [Hache en obsidienne](/fr/equipment/Hache en obsidienne/) | **ATQ** | **DÉF** | 
+  | [Collier d'os](/fr/equipment/Collier d'os/) | **PV** | **DÉF** | 
+  | [Heaume en os de bêtes](/fr/equipment/Heaume en os de bêtes/) | **ATQ** | **DÉF** | 
+  | [Bandeau en cuir](/fr/equipment/Bandeau en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Hache de Berserker](/Exclusive/Berserker Berserker's Axe/) 
+ **Name:** [Hache de Berserker](/fr/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Infos combinaison
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

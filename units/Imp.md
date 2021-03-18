@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Diablotin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Impulsion : donne une chance à l'unité de ressusciter avec tous ses PV.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes sinistres](/equipment/Griffes sinistres/) | **ATQ** | **DÉF** | 
-  | [Katar sinistre](/equipment/Katar sinistre/) | **PV** | **DÉF** | 
-  | [Ailes sinistres](/equipment/Ailes sinistres/) | **ATQ** | **DÉF** | 
-  | [Armure légère sinistre](/equipment/Armure légère sinistre/) | **PV** | **DÉF** | 
+  | [Griffes sinistres](/fr/equipment/Griffes sinistres/) | **ATQ** | **DÉF** | 
+  | [Katar sinistre](/fr/equipment/Katar sinistre/) | **PV** | **DÉF** | 
+  | [Ailes sinistres](/fr/equipment/Ailes sinistres/) | **ATQ** | **DÉF** | 
+  | [Armure légère sinistre](/fr/equipment/Armure légère sinistre/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Imp Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/Emblem/Guardian Angel/) (Bonté)
-* [Colère](/Emblem/Anger/) (Chaos)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
+* **R**  (R)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

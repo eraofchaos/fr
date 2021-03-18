@@ -3,7 +3,7 @@ title: "Sorcière maléfique"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons."
 unitID: 709
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Sorcière maléfique"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Troupes du Donjon
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Renvoie les sorts. Bonus de domaine.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_7091](/fr/equipment/UnknownEquipment_7091/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_7092](/fr/equipment/UnknownEquipment_7092/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_7093](/fr/equipment/UnknownEquipment_7093/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_7094](/fr/equipment/UnknownEquipment_7094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Assaut**  (Groupement - Assaut)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

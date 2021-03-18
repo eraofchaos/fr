@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Djinn"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Cadeau d'énergie : convertit l'ATQ en soins.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lampe en or mystique](/equipment/Lampe en or mystique/) | **ATQ** | **DÉF** | 
-  | [Bibelot mystérieux en cristal](/equipment/Bibelot mystérieux en cristal/) | **PV** | **DÉF** | 
-  | [Bracelet en cuivre rouge](/equipment/Bracelet en cuivre rouge/) | **ATQ** | **DÉF** | 
-  | [Armure enchantée](/equipment/Armure enchantée/) | **PV** | **DÉF** | 
+  | [Lampe en or mystique](/fr/equipment/Lampe en or mystique/) | **ATQ** | **DÉF** | 
+  | [Bibelot mystérieux en cristal](/fr/equipment/Bibelot mystérieux en cristal/) | **PV** | **DÉF** | 
+  | [Bracelet en cuivre rouge](/fr/equipment/Bracelet en cuivre rouge/) | **ATQ** | **DÉF** | 
+  | [Armure enchantée](/fr/equipment/Armure enchantée/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Lyre](/Exclusive/Genie Lyra/) 
+ **Name:** [Lyre](/fr/Exclusive/Genie Lyra/) 
 
  **Is Open:** - 
 
@@ -87,8 +87,8 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

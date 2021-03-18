@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Guerriers spartiates"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Armée neutre](/units/Faction Neutral Army/)
+ **Faction :** [Armée neutre](/fr/units/Faction Neutral Army/)
 
  **Race:** Guilde des Assassins
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Le bouclier étourdit les ennemis. La mort renforce les alliés.
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Casque spartiate](/equipment/Casque spartiate/) | **ATQ** | **DÉF** | 
-  | [Bouclier en acier](/equipment/Bouclier en acier/) | **PV** | **DÉF** | 
-  | [Lance perçante](/equipment/Lance perçante/) | **ATQ** | **DÉF** | 
-  | [Bande molletière](/equipment/Bande molletière/) | **PV** | **DÉF** | 
+  | [Casque spartiate](/fr/equipment/Casque spartiate/) | **ATQ** | **DÉF** | 
+  | [Bouclier en acier](/fr/equipment/Bouclier en acier/) | **PV** | **DÉF** | 
+  | [Lance perçante](/fr/equipment/Lance perçante/) | **ATQ** | **DÉF** | 
+  | [Bande molletière](/fr/equipment/Bande molletière/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -148,10 +148,11 @@ toc: true
 
 * **Unité (Neutre)**  (Groupement - Neutre)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Kassandra](/heroes/Kassandra/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kassandra](/fr/heroes/Kassandra/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

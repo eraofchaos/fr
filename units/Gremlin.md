@@ -3,7 +3,7 @@ title: "Lutin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Lutin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Boule de fer magique : augmente considérablement l'ATQ et la vitesse d'ATQ.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fléau foudroyant](/equipment/Fléau foudroyant/) | **ATQ** | **DÉF** | 
-  | [Capuchon enchanté](/equipment/Capuchon enchanté/) | **PV** | **DÉF** | 
-  | [Gants enchantés](/equipment/Gants enchantés/) | **ATQ** | **DÉF** | 
-  | [Cape pare-vent](/equipment/Cape pare-vent/) | **PV** | **DÉF** | 
+  | [Fléau foudroyant](/fr/equipment/Fléau foudroyant/) | **ATQ** | **DÉF** | 
+  | [Capuchon enchanté](/fr/equipment/Capuchon enchanté/) | **PV** | **DÉF** | 
+  | [Gants enchantés](/fr/equipment/Gants enchantés/) | **ATQ** | **DÉF** | 
+  | [Cape pare-vent](/fr/equipment/Cape pare-vent/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Gremlin Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **À distance**  (Groupement - À distance)
+* **R**  (R)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

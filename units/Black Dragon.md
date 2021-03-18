@@ -3,7 +3,7 @@ title: "Dragon noir"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Dragon noir"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Dragon
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Souffle du Dragon : attaque les ennemis dans une large zone et les brûle.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes de dragon magique](/equipment/Griffes de dragon magique/) | **ATQ** | **DÉF** | 
-  | [Feu dévastateur](/equipment/Feu dévastateur/) | **PV** | **DÉF** | 
-  | [Ailes couvre-ciel](/equipment/Ailes couvre-ciel/) | **ATQ** | **DÉF** | 
-  | [Écailles en fer](/equipment/Écailles en fer/) | **PV** | **DÉF** | 
+  | [Griffes de dragon magique](/fr/equipment/Griffes de dragon magique/) | **ATQ** | **DÉF** | 
+  | [Feu dévastateur](/fr/equipment/Feu dévastateur/) | **PV** | **DÉF** | 
+  | [Ailes couvre-ciel](/fr/equipment/Ailes couvre-ciel/) | **ATQ** | **DÉF** | 
+  | [Écailles en fer](/fr/equipment/Écailles en fer/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Écaille de Dragon noir](/Exclusive/Black Dragon Black Dragon's Scale/) 
+ **Name:** [Écaille de Dragon noir](/fr/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Défense**  (Groupement - Défense)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

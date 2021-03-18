@@ -2,18 +2,18 @@
 title: "Exclusif - Durandel"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durandel. Durandel. Era of Chaos Exclusif Durandel. Ange Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Angel Durandel.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Durandel** 
 
- **Exclusif for Unit:** [Ange](/units/Angel/) 
+ **Exclusif for Unit:** [Ange](/fr/units/Angel/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | <Représailles> : Inflige des dégâts équivalents à 100 % de son ATQ à l'unité cible ainsi qu'à une unité de première ligne au hasard, et leur inflige Représailles pendant 10 secondes. Le temps de recharge est de 17 secondes. Si l'unité cible subit déjà les effets de Représailles, inflige des dégâts équivalents à 150c% de sa propre ATQ et diminue sa DÉF de 20 % pendant 5 secondes, tout en annulant l'effet Représailles de la cible. L'effet est doublé lorsqu'il est utilisé sur les unités de l'Hadès. Le temps de recharge est de 10 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Les unités alliées adjacentes dans une zone réduite reçoivent la bénédiction de l'Ange, ce qui augmente leurs dégâts de 20 % et supprime les limites de portée des unités du Château. |

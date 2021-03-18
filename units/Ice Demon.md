@@ -3,30 +3,27 @@ title: "Démone de glace"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos La Démone de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales."
 unitID: 908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Démone de glace"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Description:** La Démone de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Contrôle un Arbalétrier. Octroie des bonus aux alliés.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Glace ancestrale](/equipment/Glace ancestrale/) | **ATQ** | **DÉF** | 
-  | [Toucher glacial](/equipment/Toucher glacial/) | **PV** | **DÉF** | 
-  | [Heaume gelé](/equipment/Heaume gelé/) | **ATQ** | **DÉF** | 
-  | [Trône de glace](/equipment/Trône de glace/) | **PV** | **DÉF** | 
+  | [Glace ancestrale](/fr/equipment/Glace ancestrale/) | **ATQ** | **DÉF** | 
+  | [Toucher glacial](/fr/equipment/Toucher glacial/) | **PV** | **DÉF** | 
+  | [Heaume gelé](/fr/equipment/Heaume gelé/) | **ATQ** | **DÉF** | 
+  | [Trône de glace](/fr/equipment/Trône de glace/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -176,10 +173,11 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **À distance**  (Groupement - À distance)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/fr/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

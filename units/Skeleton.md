@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Squelette"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/fr/units/Faction Necropolis/)
 
  **Race:** Non-Morts
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Bouclier d'os : augmente la résistance aux dégâts d'une unité lorsque sa santé est inférieure à 50 %.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cimeterre profane](/equipment/Cimeterre profane/) | **ATQ** | **DÉF** | 
-  | [Heaume rouillé](/equipment/Heaume rouillé/) | **PV** | **DÉF** | 
-  | [Bouclier profane](/equipment/Bouclier profane/) | **ATQ** | **DÉF** | 
-  | [Épaulières rouillées](/equipment/Épaulières rouillées/) | **PV** | **DÉF** | 
+  | [Cimeterre profane](/fr/equipment/Cimeterre profane/) | **ATQ** | **DÉF** | 
+  | [Heaume rouillé](/fr/equipment/Heaume rouillé/) | **PV** | **DÉF** | 
+  | [Bouclier profane](/fr/equipment/Bouclier profane/) | **ATQ** | **DÉF** | 
+  | [Épaulières rouillées](/fr/equipment/Épaulières rouillées/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Skeleton Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Avarice](/Emblem/Greed/) (Chaos)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Nécropole**  (Groupement - Nécropole)
 * **Défense**  (Groupement - Défense)
+* **R**  (R)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Vidomina](/heroes/Vidomina/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (humain)](/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/fr/heroes/Vidomina/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

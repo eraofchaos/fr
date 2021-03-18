@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Démon"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Frappe brûlante : inflige des dégâts colossaux aux troupes ennemies.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corne ardente](/equipment/Corne ardente/) | **ATQ** | **DÉF** | 
-  | [Pendentif en acier](/equipment/Pendentif en acier/) | **PV** | **DÉF** | 
-  | [Griffes brûlantes](/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
-  | [Bracelets à pointes](/equipment/Bracelets à pointes/) | **PV** | **DÉF** | 
+  | [Corne ardente](/fr/equipment/Corne ardente/) | **ATQ** | **DÉF** | 
+  | [Pendentif en acier](/fr/equipment/Pendentif en acier/) | **PV** | **DÉF** | 
+  | [Griffes brûlantes](/fr/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
+  | [Bracelets à pointes](/fr/equipment/Bracelets à pointes/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Demon Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Avarice](/Emblem/Greed/) (Chaos)
-* [Luxure](/Emblem/Lust/) (Chaos)
-* [Signe inquiétant](/Emblem/Ominous Sign/) (Mauvais)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
+* [Signe inquiétant](/fr/Emblem/Ominous Sign/) (Mauvais)
 
 ## Infos combinaison
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -172,40 +173,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Garde de l'Hadès
 
- **Awaking Description:** null
+ **Awaking Description:** S'il fallait désigner la personne la plus impartiale de ce monde, il s'agirait probablement du sanguinaire Garde de l'Hadès recouvert d'acier. Démons ou esprits, sages ou voleurs, toutes les âmes choisies et envoyées à la Porte de Cerbère par le Garde de l'Hadès n'ont d'autre choix que de plonger dans les flammes.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Déployez un Démon et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités de l'Hadès pour réussir </span><span style="color: #1ca216;font-size:18px"></span><span style="color: #876741;font-size:18px">le niveau Impitoyable ou un niveau supérieur de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> pièces d'équipement lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Garde de l'Hadès dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Déployez un Démon et remportez </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Impact bouillant
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Frappe bouillante&gt; :</span><span style="color: #645252;font-size:18px"> Réduit les coups critiques des unités ennemies dans le périmètre de la cible de 200 points supplémentaires. Si la cible est victime de Silence, sa vitesse d'attaque est également réduite de 15 %. Dure 7 secondes.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): Martelage bouillant
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Frappe bouillante&gt; :</span><span style="color: #645252;font-size:18px"> Réduit les coups critiques des unités ennemies dans le périmètre de la cible de 200 points supplémentaires. Si la cible est victime de Brûlure, sa vitesse d'attaque est également réduite de 15 %. Dure 7 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): Incandescence
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chaleur&gt; :</span><span style="color: #645252;font-size:18px"> Les Gardes de l'Hadès récupèrent également une quantité de PV égale à 50 % de leur ATQ.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Magma
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chaleur&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les effets de récupération de 50 %.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Séide démoniaque
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Séide de l'Hadès&gt; :</span><span style="color: #645252;font-size:18px"> La ténacité du Démon augmente de 80 chaque fois qu'il esquive. L'effet peut se cumuler jusqu'à 5 fois et dure toute la bataille.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Séide cornu
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Séide de l'Hadès&gt; :</span><span style="color: #645252;font-size:18px"> La ténacité du Démon augmente de 300.</span>
 
 ## Technical info
  **runart:** 1

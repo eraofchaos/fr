@@ -3,7 +3,7 @@ title: "Oiseau de feu"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Oiseau de feu"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Licorne
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Souffle de feu : inflige des dégâts aux troupes ennemies sur son chemin.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bec des flammes furieuses](/equipment/Bec des flammes furieuses/) | **ATQ** | **DÉF** | 
-  | [Rune de résurrection](/equipment/Rune de résurrection/) | **PV** | **DÉF** | 
-  | [Griffes des flammes furieuses](/equipment/Griffes des flammes furieuses/) | **ATQ** | **DÉF** | 
-  | [Ailes arc-en-ciel](/equipment/Ailes arc-en-ciel/) | **PV** | **DÉF** | 
+  | [Bec des flammes furieuses](/fr/equipment/Bec des flammes furieuses/) | **ATQ** | **DÉF** | 
+  | [Rune de résurrection](/fr/equipment/Rune de résurrection/) | **PV** | **DÉF** | 
+  | [Griffes des flammes furieuses](/fr/equipment/Griffes des flammes furieuses/) | **ATQ** | **DÉF** | 
+  | [Ailes arc-en-ciel](/fr/equipment/Ailes arc-en-ciel/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Flamme éternelle](/Exclusive/Firebird Eternal Flame/) 
+ **Name:** [Flamme éternelle](/fr/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Infos combinaison
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Luna](/heroes/Luna/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Luna](/fr/heroes/Luna/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

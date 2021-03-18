@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Aéronef magique"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Confère des bonus de DPS en ligne arrière.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Système de décollage](/equipment/Système de décollage/) | **ATQ** | **DÉF** | 
-  | [Système de contrôle](/equipment/Système de contrôle/) | **PV** | **DÉF** | 
-  | [Tour de contrôle principale](/equipment/Tour de contrôle principale/) | **ATQ** | **DÉF** | 
-  | [Quai d'observation](/equipment/Quai d'observation/) | **PV** | **DÉF** | 
+  | [Système de décollage](/fr/equipment/Système de décollage/) | **ATQ** | **DÉF** | 
+  | [Système de contrôle](/fr/equipment/Système de contrôle/) | **PV** | **DÉF** | 
+  | [Tour de contrôle principale](/fr/equipment/Tour de contrôle principale/) | **ATQ** | **DÉF** | 
+  | [Quai d'observation](/fr/equipment/Quai d'observation/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Étoile polaire](/Exclusive/Magic Airship Polaris/) 
+ **Name:** [Étoile polaire](/fr/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

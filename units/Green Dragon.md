@@ -3,7 +3,7 @@ title: "Dragon vert"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Dragon vert"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Dragon
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Renfort céleste : inflige des dégâts colossaux à 3 troupes ennemies sur la ligne arrière.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corne venimeuse](/equipment/Corne venimeuse/) | **ATQ** | **DÉF** | 
-  | [Armure Dragon](/equipment/Armure Dragon/) | **PV** | **DÉF** | 
-  | [Griffes de putréfaction](/equipment/Griffes de putréfaction/) | **ATQ** | **DÉF** | 
-  | [Sang de dragon empoisonné](/equipment/Sang de dragon empoisonné/) | **PV** | **DÉF** | 
+  | [Corne venimeuse](/fr/equipment/Corne venimeuse/) | **ATQ** | **DÉF** | 
+  | [Armure Dragon](/fr/equipment/Armure Dragon/) | **PV** | **DÉF** | 
+  | [Griffes de putréfaction](/fr/equipment/Griffes de putréfaction/) | **ATQ** | **DÉF** | 
+  | [Sang de dragon empoisonné](/fr/equipment/Sang de dragon empoisonné/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Aile de dragon resplendissante](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Name:** [Aile de dragon resplendissante](/fr/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

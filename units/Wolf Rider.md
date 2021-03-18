@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Chevaucheur de loup"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Orque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Bête de compagnie : invoque des loups au combat lorsque l'unité meurt.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sabre acéré](/equipment/Sabre acéré/) | **ATQ** | **DÉF** | 
-  | [Ceinture de puissance](/equipment/Ceinture de puissance/) | **PV** | **DÉF** | 
-  | [Bracelet du loup](/equipment/Bracelet du loup/) | **ATQ** | **DÉF** | 
-  | [Épaulières de langue-loup](/equipment/Épaulières de langue-loup/) | **PV** | **DÉF** | 
+  | [Sabre acéré](/fr/equipment/Sabre acéré/) | **ATQ** | **DÉF** | 
+  | [Ceinture de puissance](/fr/equipment/Ceinture de puissance/) | **PV** | **DÉF** | 
+  | [Bracelet du loup](/fr/equipment/Bracelet du loup/) | **ATQ** | **DÉF** | 
+  | [Épaulières de langue-loup](/fr/equipment/Épaulières de langue-loup/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Wolf Rider Knight Pike/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -163,11 +163,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **Assaut**  (Groupement - Assaut)
+* **R**  (R)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

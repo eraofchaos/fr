@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Archimage"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Pénétration de sort : augmente sans cesse les dégâts infligés aux unités isolées.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Grand bâton mystique](/equipment/Grand bâton mystique/) | **ATQ** | **DÉF** | 
-  | [Couronne magique en cristal](/equipment/Couronne magique en cristal/) | **PV** | **DÉF** | 
-  | [Orbe mystique de mana](/equipment/Orbe mystique de mana/) | **ATQ** | **DÉF** | 
-  | [Manteau des mages](/equipment/Manteau des mages/) | **PV** | **DÉF** | 
+  | [Grand bâton mystique](/fr/equipment/Grand bâton mystique/) | **ATQ** | **DÉF** | 
+  | [Couronne magique en cristal](/fr/equipment/Couronne magique en cristal/) | **PV** | **DÉF** | 
+  | [Orbe mystique de mana](/fr/equipment/Orbe mystique de mana/) | **ATQ** | **DÉF** | 
+  | [Manteau des mages](/fr/equipment/Manteau des mages/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Arch Mage Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Arch Mage Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -112,7 +112,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Le Mage invoque une tornade qui emporte une unité ennemie aléatoire située sur la ligne arrière, ce qui l'empêche d'attaquer ou d'utiliser des compétences, et il augmente la résistance aux dégâts de son unité de 100 %. De plus, la tornade inflige <span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée. La tornade et Statique durent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes (la ligne arrière indique l'endroit où se trouve l'unité ennemie au bout de chaque ligne).</span><span style="color: black">
 
 ### Compétence normale 2 : Perte d'énergie
- **Description:** <span style="color: #645252;font-size:20px">Quand un Mage est sur le champ de bataille, la vitesse de récupération du sort du Héros augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Héros allié lance un sort d'air, le Mage lui rend 2 points de mana.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand des Mages sont sur le champ de bataille, la vitesse de récupération magique du Héros ennemi augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Héros allié lance un sort d'air, le Mage lui rend 2 points de mana.</span><span style="color: black">
 
 ### Compétence normale 3 : Champ magique
  **Description:** <span style="color: #645252;font-size:20px">Quand le combat commence, le Mage augmente les dégâts de toutes les unités alliées sur son chemin de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double pour les Lanceurs de sorts.</span><span style="color: black">
@@ -156,10 +156,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

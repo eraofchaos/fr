@@ -3,7 +3,7 @@ title: "Œil maléfique"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Œil maléfique"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Esprit maléfique
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Contrôle mental : immobilise les ennemis et leur fait perdre progressivement des PV.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Œil du blasphème](/equipment/Œil du blasphème/) | **ATQ** | **DÉF** | 
-  | [Pupille de la mort](/equipment/Pupille de la mort/) | **PV** | **DÉF** | 
-  | [Défense démoniaque](/equipment/Défense démoniaque/) | **ATQ** | **DÉF** | 
-  | [Tentacules de l'abîme](/equipment/Tentacules de l'abîme/) | **PV** | **DÉF** | 
+  | [Œil du blasphème](/fr/equipment/Œil du blasphème/) | **ATQ** | **DÉF** | 
+  | [Pupille de la mort](/fr/equipment/Pupille de la mort/) | **PV** | **DÉF** | 
+  | [Défense démoniaque](/fr/equipment/Défense démoniaque/) | **ATQ** | **DÉF** | 
+  | [Tentacules de l'abîme](/fr/equipment/Tentacules de l'abîme/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Regard ténébreux](/Exclusive/Beholder Dark Gaze/) 
+ **Name:** [Regard ténébreux](/fr/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -149,11 +149,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

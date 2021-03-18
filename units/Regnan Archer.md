@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Arbalétrière de Regna"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Pirate
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Coups critiques et pouvoir pénétrant.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arbalète de l'océan](/equipment/Arbalète de l'océan/) | **ATQ** | **DÉF** | 
-  | [Chapeau de prestige](/equipment/Chapeau de prestige/) | **PV** | **DÉF** | 
-  | [Flèche en acier](/equipment/Flèche en acier/) | **ATQ** | **DÉF** | 
-  | [Vêtements du chasseur](/equipment/Vêtements du chasseur/) | **PV** | **DÉF** | 
+  | [Arbalète de l'océan](/fr/equipment/Arbalète de l'océan/) | **ATQ** | **DÉF** | 
+  | [Chapeau de prestige](/fr/equipment/Chapeau de prestige/) | **PV** | **DÉF** | 
+  | [Flèche en acier](/fr/equipment/Flèche en acier/) | **ATQ** | **DÉF** | 
+  | [Vêtements du chasseur](/fr/equipment/Vêtements du chasseur/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Miracle](/Exclusive/Regnan Archer Miracle/) 
+ **Name:** [Miracle](/fr/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **À distance**  (Groupement - À distance)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [PeterLee](/heroes/Peter Lee/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [PeterLee](/fr/heroes/Peter Lee/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

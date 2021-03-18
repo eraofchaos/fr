@@ -3,7 +3,7 @@ title: "Lancier"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Lancier"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Humain
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Nuée de lances : inflige des dégâts aux unités ennemies et les étourdit.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lance de l'azur](/equipment/Lance de l'azur/) | **ATQ** | **DÉF** | 
-  | [Heaume blindé](/equipment/Heaume blindé/) | **PV** | **DÉF** | 
-  | [Bouclier sentinelle](/equipment/Bouclier sentinelle/) | **ATQ** | **DÉF** | 
-  | [Épaulière blindée](/equipment/Épaulière blindée/) | **PV** | **DÉF** | 
+  | [Lance de l'azur](/fr/equipment/Lance de l'azur/) | **ATQ** | **DÉF** | 
+  | [Heaume blindé](/fr/equipment/Heaume blindé/) | **PV** | **DÉF** | 
+  | [Bouclier sentinelle](/fr/equipment/Bouclier sentinelle/) | **ATQ** | **DÉF** | 
+  | [Épaulière blindée](/fr/equipment/Épaulière blindée/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée](/Exclusive/Pikeman Sword/) 
+ **Name:** [Épée](/fr/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/Emblem/Guardian Angel/) (Bonté)
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Château**  (Groupement - Château)
 * **Offensive**  (Groupement - Offensive)
+* **R**  (R)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

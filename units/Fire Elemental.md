@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Short description:** Brûle les ennemis et provoque de grosses explosions.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Noyau de feu](/equipment/Noyau de feu/) | **ATQ** | **DÉF** | 
-  | [Bouclier bouillonnant](/equipment/Bouclier bouillonnant/) | **PV** | **DÉF** | 
-  | [Œil maléfique de saphir](/equipment/Œil maléfique de saphir/) | **ATQ** | **DÉF** | 
-  | [Griffe tranchante bleu marine](/equipment/Griffe tranchante bleu marine/) | **PV** | **DÉF** | 
+  | [Noyau de feu](/fr/equipment/Noyau de feu/) | **ATQ** | **DÉF** | 
+  | [Bouclier bouillonnant](/fr/equipment/Bouclier bouillonnant/) | **PV** | **DÉF** | 
+  | [Œil maléfique de saphir](/fr/equipment/Œil maléfique de saphir/) | **ATQ** | **DÉF** | 
+  | [Griffe tranchante bleu marine](/fr/equipment/Griffe tranchante bleu marine/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Énergie de feu](/Exclusive/Fire Elemental Fire Energy/) 
+ **Name:** [Énergie de feu](/fr/Exclusive/Fire Elemental Fire Energy/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Infos combinaison
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **Offensive**  (Groupement - Offensive)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Fiur](/heroes/Fiur/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/fr/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Fiur](/fr/heroes/Fiur/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

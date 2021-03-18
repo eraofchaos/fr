@@ -3,7 +3,7 @@ title: "Elfe sylvaine"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches."
 unitID: 203
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Elfe sylvaine"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Forêt
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Pluie de flèches : augmente votre vitesse d'attaque de 500 % pendant une courte durée.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arc long sylvain](/equipment/Arc long sylvain/) | **ATQ** | **DÉF** | 
-  | [Bandeau des vertes-feuilles](/equipment/Bandeau des vertes-feuilles/) | **PV** | **DÉF** | 
-  | [Flèches de jade](/equipment/Flèches de jade/) | **ATQ** | **DÉF** | 
-  | [Robe courte des vertes-feuilles](/equipment/Robe courte des vertes-feuilles/) | **PV** | **DÉF** | 
+  | [Arc long sylvain](/fr/equipment/Arc long sylvain/) | **ATQ** | **DÉF** | 
+  | [Bandeau des vertes-feuilles](/fr/equipment/Bandeau des vertes-feuilles/) | **PV** | **DÉF** | 
+  | [Flèches de jade](/fr/equipment/Flèches de jade/) | **ATQ** | **DÉF** | 
+  | [Robe courte des vertes-feuilles](/fr/equipment/Robe courte des vertes-feuilles/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Wood Elf Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Infos combinaison
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

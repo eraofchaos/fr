@@ -2,18 +2,18 @@
 title: "Exclusif - Épée Naga"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Épée Naga. Épée Naga. Era of Chaos Exclusif Épée Naga. Naga Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Naga Épée Naga.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Épée Naga** 
 
- **Exclusif for Unit:** [Naga](/units/Naga/) 
+ **Exclusif for Unit:** [Naga](/fr/units/Naga/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,15 +27,15 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Réveil  | ? | <Volonté inébranlable> : Lorsqu'une Naga est affectée par \"Lenteur\", \"Pétrification\" ou \"Silence\", elle est immunisée contre les effets de la plupart des formes de contrôle et d'affaiblissement (Gel, Silence, Lenteur, Pétrification, Étourdissement, Démotivation, Découragement et <Arrêt du temps>) et sa résistance aux dégâts augmente de 20 % pendant 5 secondes. Le temps de recharge est de 15 secondes (après avoir équipé un Emblème sacré). |
   | **1x** <i class="fas fa-star"/> | ? | La durée d'Étourdissement, Pétrification, Lenteur, Gel, Démotivation et Silence diminue de 50 %. |
   | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ et les dégâts de la Naga de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |
+  | **3x** <i class="fas fa-star"/> | ? | <Escrime> : La première fois que ses PV passent sous la barre des 25 %, la Naga fait montre de ses talents d'<Escrime> et augmente la pénétration de toutes les unités alliées de 20 par seconde et le drain de vie de 2 % dans une large zone. L'effet peut se cumuler jusqu'à 10 fois et reste actif même si la Naga est abattue. |
   | **4x** <i class="fas fa-star"/> | ? | Augmente le drain de vie et la résistance aux dégâts de la Naga de 20 %. |
   | **5x** <i class="fas fa-star"/> | ? | Immunise la Naga contre Étourdissement. |
-  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Causes damage equal to 200% of its ATK to all hostile units standing in the same row as the target every 20s, while decreasing the enemies' DEF and unit's damage reduction by 30%, and increasing 1000 Crit Hit and 20% Life drain for herself over the next 5 seconds |
+  | **6x** <i class="fas fa-star"/> | ? | <Rayon de la Naga> : Inflige une quantité de dégâts égale à 200 % de son ATQ aux unités ennemies se trouvant sur la même ligne que la cible toutes les 15 secondes et diminue la DÉF et la résistance aux dégâts des ennemis de 30 %, tout en augmentant les coups critiques de la Naga de 1 000 et le drain de vie 20 % pendant 5 secondes. |
 
 
 ## Améliorer

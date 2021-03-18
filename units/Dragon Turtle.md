@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Tortue dragon"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Les Profondeurs
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Tank. Régénère des PV.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dents tranchantes de Tortue dragon](/equipment/Dents tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
-  | [Carapace de tortue à pointes](/equipment/Carapace de tortue à pointes/) | **PV** | **DÉF** | 
-  | [Griffes tranchantes de Tortue dragon](/equipment/Griffes tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
-  | [Queue de Tortue dragon](/equipment/Queue de Tortue dragon/) | **PV** | **DÉF** | 
+  | [Dents tranchantes de Tortue dragon](/fr/equipment/Dents tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
+  | [Carapace de tortue à pointes](/fr/equipment/Carapace de tortue à pointes/) | **PV** | **DÉF** | 
+  | [Griffes tranchantes de Tortue dragon](/fr/equipment/Griffes tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
+  | [Queue de Tortue dragon](/fr/equipment/Queue de Tortue dragon/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Obéissance](/Exclusive/Dragon Turtle Obedience/) 
+ **Name:** [Obéissance](/fr/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Avarice](/Emblem/Greed/) (Chaos)
-* [Noyau du réseau global](/Emblem/Core of the Global Network/) (Neutre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
+* [Noyau du réseau global](/fr/Emblem/Core of the Global Network/) (Neutre)
 
 ## Infos combinaison
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Défense**  (Groupement - Défense)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

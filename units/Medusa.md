@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Méduse"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Esprit maléfique
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Regard pétrifiant : pétrifie les ennemis et réduit leur résistance aux dégâts.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arc long de massacre](/equipment/Arc long de massacre/) | **ATQ** | **DÉF** | 
-  | [Coiffe de serpent entortillé](/equipment/Coiffe de serpent entortillé/) | **PV** | **DÉF** | 
-  | [Couronne de la reine](/equipment/Couronne de la reine/) | **ATQ** | **DÉF** | 
-  | [Armure de l'abîme](/equipment/Armure de l'abîme/) | **PV** | **DÉF** | 
+  | [Arc long de massacre](/fr/equipment/Arc long de massacre/) | **ATQ** | **DÉF** | 
+  | [Coiffe de serpent entortillé](/fr/equipment/Coiffe de serpent entortillé/) | **PV** | **DÉF** | 
+  | [Couronne de la reine](/fr/equipment/Couronne de la reine/) | **ATQ** | **DÉF** | 
+  | [Armure de l'abîme](/fr/equipment/Armure de l'abîme/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc de la Méduse](/Exclusive/Medusa Medusa's Bow/) 
+ **Name:** [Arc de la Méduse](/fr/Exclusive/Medusa Medusa's Bow/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Infos combinaison
 
@@ -153,12 +153,13 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sephinroth](/heroes/Sephinroth/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sephinroth](/fr/heroes/Sephinroth/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

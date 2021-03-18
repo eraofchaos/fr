@@ -3,7 +3,7 @@ title: "Centaure"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Centaure"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Forêt
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Choc guerrier : inflige des dégâts aux unités les plus proches et les ralentit.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hache sauvage](/equipment/Hache sauvage/) | **ATQ** | **DÉF** | 
-  | [Heaume sauvage](/equipment/Heaume sauvage/) | **PV** | **DÉF** | 
-  | [Gantelets sauvages](/equipment/Gantelets sauvages/) | **ATQ** | **DÉF** | 
-  | [Épaulières sauvages](/equipment/Épaulières sauvages/) | **PV** | **DÉF** | 
+  | [Hache sauvage](/fr/equipment/Hache sauvage/) | **ATQ** | **DÉF** | 
+  | [Heaume sauvage](/fr/equipment/Heaume sauvage/) | **PV** | **DÉF** | 
+  | [Gantelets sauvages](/fr/equipment/Gantelets sauvages/) | **ATQ** | **DÉF** | 
+  | [Épaulières sauvages](/fr/equipment/Épaulières sauvages/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Centaur Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Centaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
 
 ## Infos combinaison
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **Défense**  (Groupement - Défense)
+* **R**  (R)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

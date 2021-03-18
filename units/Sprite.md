@@ -3,7 +3,7 @@ title: "Fée"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
 unitID: 901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Fée"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Short description:** Inflige Silence. Sort initial amélioré.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Couronne parfumée](/equipment/Couronne parfumée/) | **ATQ** | **DÉF** | 
-  | [Toge de lunétoile](/equipment/Toge de lunétoile/) | **PV** | **DÉF** | 
-  | [Ailes de papillon phosphoreux](/equipment/Ailes de papillon phosphoreux/) | **ATQ** | **DÉF** | 
-  | [Bracelet en émeraude](/equipment/Bracelet en émeraude/) | **PV** | **DÉF** | 
+  | [Couronne parfumée](/fr/equipment/Couronne parfumée/) | **ATQ** | **DÉF** | 
+  | [Toge de lunétoile](/fr/equipment/Toge de lunétoile/) | **PV** | **DÉF** | 
+  | [Ailes de papillon phosphoreux](/fr/equipment/Ailes de papillon phosphoreux/) | **ATQ** | **DÉF** | 
+  | [Bracelet en émeraude](/fr/equipment/Bracelet en émeraude/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Sprite Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Sprite Knight Pike/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -153,10 +153,11 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **Assaut**  (Groupement - Assaut)
+* **R**  (R)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/fr/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Harpie"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Troupes du Donjon
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Griffe tranchante de la Harpie : peut infliger des dégâts à plusieurs ennemis.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dague perce-cœur](/equipment/Dague perce-cœur/) | **ATQ** | **DÉF** | 
-  | [Armure mystique](/equipment/Armure mystique/) | **PV** | **DÉF** | 
-  | [Griffe assassine](/equipment/Griffe assassine/) | **ATQ** | **DÉF** | 
-  | [Épaulière de l'enchanteresse](/equipment/Épaulière de l'enchanteresse/) | **PV** | **DÉF** | 
+  | [Dague perce-cœur](/fr/equipment/Dague perce-cœur/) | **ATQ** | **DÉF** | 
+  | [Armure mystique](/fr/equipment/Armure mystique/) | **PV** | **DÉF** | 
+  | [Griffe assassine](/fr/equipment/Griffe assassine/) | **ATQ** | **DÉF** | 
+  | [Épaulière de l'enchanteresse](/fr/equipment/Épaulière de l'enchanteresse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Harpy Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/Emblem/Guardian Angel/) (Bonté)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Infos combinaison
 
@@ -151,11 +151,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Assaut**  (Groupement - Assaut)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

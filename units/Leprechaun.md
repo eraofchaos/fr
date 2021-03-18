@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !"
 unitID: 909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Farfadet"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Licorne
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Esquive et bloque. Octroie des bonus de contre-attaque.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Desbénédictionschanceuses](/equipment/Desbénédictionschanceuses/) | **ATQ** | **DÉF** | 
-  | [Sourcedupouvoir](/equipment/Sourcedupouvoir/) | **PV** | **DÉF** | 
-  | [Gardiendelavie](/equipment/Gardiendelavie/) | **ATQ** | **DÉF** | 
-  | [Lalégèretéduvent](/equipment/Lalégèretéduvent/) | **PV** | **DÉF** | 
+  | [Heureuses bénédictions](/fr/equipment/Heureuses bénédictions/) | **ATQ** | **DÉF** | 
+  | [Source de pouvoir](/fr/equipment/Source de pouvoir/) | **PV** | **DÉF** | 
+  | [Gardien de la vie](/fr/equipment/Gardien de la vie/) | **ATQ** | **DÉF** | 
+  | [La légèreté du vent](/fr/equipment/La légèreté du vent/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Ronces](/Exclusive/Leprechaun Thorns/) 
+ **Name:** [Ronces](/fr/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -174,10 +174,11 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **Défense**  (Groupement - Défense)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/fr/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -196,21 +197,21 @@ toc: true
  **Awaking Description:** La légende raconte qu'un gigantesque Arbre du monde demeure sur le Plan du Conflux. C'est un arbre ancien et mystérieux, qui suscite à la fois la curiosité et la peur chez les aventuriers. Pourquoi ? Parce qu'un groupe de gardiens féroces s'est installé tout près de l'Arbre du monde, et toutes les créatures qui osent s'approcher sont immédiatement éliminées. D'innombrables jeunes aventuriers intrépides se sont lancés à la poursuite de l'arbre qu'ils admiraient tant, mais aucun n'est jamais revenu.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Déployez un Farfadet et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Conflux pour réussir le niveau Impitoyable </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> ou un niveau supérieur de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monstres lors d'une aventure de guilde.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Héros de Maître Farfadet dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Déployez un Farfadet et remportez </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Coup dévastateur
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Brûlure, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Brûlure, sa DÉF sera également réduite de 2 %. L'affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
 ### 2nd Skill (or 1st): Coup immédiat
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Gel, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Gel, sa DÉF sera également réduite de 2 %. L'affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
 ### 3rd Skill (or 4th): Chiffre porte-bonheur
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Bonne fortune&gt; :</span><span style="color: #645252;font-size:18px"> L'effet de la compétence du Farfadet peut se cumuler de 5 à 12 fois.</span>

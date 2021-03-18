@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Momie"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/fr/units/Faction Necropolis/)
 
  **Race:** Non-Morts
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Malédiction putride : réduit grandement l'efficacité des soins ennemis.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Toucher immortel](/equipment/Toucher immortel/) | **ATQ** | **DÉF** | 
-  | [Bandage antique](/equipment/Bandage antique/) | **PV** | **DÉF** | 
-  | [Pupille du défunt](/equipment/Pupille du défunt/) | **ATQ** | **DÉF** | 
-  | [Souffle de la mort](/equipment/Souffle de la mort/) | **PV** | **DÉF** | 
+  | [Toucher immortel](/fr/equipment/Toucher immortel/) | **ATQ** | **DÉF** | 
+  | [Bandage antique](/fr/equipment/Bandage antique/) | **PV** | **DÉF** | 
+  | [Pupille du défunt](/fr/equipment/Pupille du défunt/) | **ATQ** | **DÉF** | 
+  | [Souffle de la mort](/fr/equipment/Souffle de la mort/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bandage](/Exclusive/Mummy Gauze/) 
+ **Name:** [Bandage](/fr/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Nécropole**  (Groupement - Nécropole)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (humain)](/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

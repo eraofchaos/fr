@@ -3,7 +3,7 @@ title: "Rock"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Rocks apparaissent souvent lors des nuits d'orage. Ils volent aux côtés du tonnerre et des éclairs. Beaucoup les considèrent comme des messagers des dieux."
 unitID: 405
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Rock"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Rocks apparaissent souvent lors des nuits d'orage. Ils volent aux côtés du tonnerre et des éclairs. Beaucoup les considèrent comme des messagers des dieux.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Bastion](/units/Faction Stronghold/)
+ **Faction :** [Bastion](/fr/units/Faction Stronghold/)
 
  **Race:** Licorne
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Tonnerre : inflige de très lourds dégâts à toutes les troupes ennemies sur son chemin.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bec du tonnerre](/equipment/Bec du tonnerre/) | **ATQ** | **DÉF** | 
-  | [Ailes foudroyantes](/equipment/Ailes foudroyantes/) | **PV** | **DÉF** | 
-  | [Griffes éclairs](/equipment/Griffes éclairs/) | **ATQ** | **DÉF** | 
-  | [Armure foudroyante](/equipment/Armure foudroyante/) | **PV** | **DÉF** | 
+  | [Bec du tonnerre](/fr/equipment/Bec du tonnerre/) | **ATQ** | **DÉF** | 
+  | [Ailes foudroyantes](/fr/equipment/Ailes foudroyantes/) | **PV** | **DÉF** | 
+  | [Griffes éclairs](/fr/equipment/Griffes éclairs/) | **ATQ** | **DÉF** | 
+  | [Armure foudroyante](/fr/equipment/Armure foudroyante/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Roc Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Roc Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Bastion**  (Groupement - Bastion)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Shiva](/heroes/Shiva/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Shiva](/fr/heroes/Shiva/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

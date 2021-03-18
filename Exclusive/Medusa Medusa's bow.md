@@ -2,18 +2,18 @@
 title: "Exclusif - Arc de la Méduse"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arc de la Méduse. Arc de la Méduse. Era of Chaos Exclusif Arc de la Méduse. Méduse Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Medusa Arc de la Méduse.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Arc de la Méduse** 
 
- **Exclusif for Unit:** [Méduse](/units/Medusa/) 
+ **Exclusif for Unit:** [Méduse](/fr/units/Medusa/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | La Méduse a 50 % de chance de lancer <Serpent venimeux> sur une unité aléatoire à chaque fois qu'elle attaque. L'effet dure pendant tout le combat, et peut se cumuler jusqu'à 10 fois. Lorsque la Méduse attaque une unité ayant accumulé <Serpent venimeux> 10 fois, ses dégâts augmentent de 30 %. <Serpent venimeux> : inflige une quantité de dégâts égale à 5 % de l'ATQ de la Méduse chaque seconde. |
   | **1x** <i class="fas fa-star"/> | ? | Les coups critiques de la Méduse augmentent de 300. |

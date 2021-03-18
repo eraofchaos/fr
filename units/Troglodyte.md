@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Troglodyte"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Troupes du Donjon
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Nuée de lances : inflige des dégâts de zone et étourdit.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lance en os de l'éventreur](/equipment/Lance en os de l'éventreur/) | **ATQ** | **DÉF** | 
-  | [Crâne de l'hôte](/equipment/Crâne de l'hôte/) | **PV** | **DÉF** | 
-  | [Poignard brise-os](/equipment/Poignard brise-os/) | **ATQ** | **DÉF** | 
-  | [Sang fortement acide](/equipment/Sang fortement acide/) | **PV** | **DÉF** | 
+  | [Lance en os de l'éventreur](/fr/equipment/Lance en os de l'éventreur/) | **ATQ** | **DÉF** | 
+  | [Crâne de l'hôte](/fr/equipment/Crâne de l'hôte/) | **PV** | **DÉF** | 
+  | [Poignard brise-os](/fr/equipment/Poignard brise-os/) | **ATQ** | **DÉF** | 
+  | [Sang fortement acide](/fr/equipment/Sang fortement acide/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée](/Exclusive/Troglodyte Sword/) 
+ **Name:** [Épée](/fr/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -154,11 +154,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Offensive**  (Groupement - Offensive)
+* **R**  (R)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

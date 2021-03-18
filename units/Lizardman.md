@@ -3,7 +3,7 @@ title: "Homme-lézard"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Homme-lézard"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Short description:** DPS élevés.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Aile à piques](/equipment/Aile à piques/) | **ATQ** | **DÉF** | 
-  | [Bracelets du guerrier](/equipment/Bracelets du guerrier/) | **PV** | **DÉF** | 
-  | [Scapula du guerrier](/equipment/Scapula du guerrier/) | **ATQ** | **DÉF** | 
-  | [Arc long de chasse](/equipment/Arc long de chasse/) | **PV** | **DÉF** | 
+  | [Aile à piques](/fr/equipment/Aile à piques/) | **ATQ** | **DÉF** | 
+  | [Bracelets du guerrier](/fr/equipment/Bracelets du guerrier/) | **PV** | **DÉF** | 
+  | [Scapula du guerrier](/fr/equipment/Scapula du guerrier/) | **ATQ** | **DÉF** | 
+  | [Arc long de chasse](/fr/equipment/Arc long de chasse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Lizardman Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Lizardman Long Bow/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Wystan](/heroes/Wystan/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Wystan](/fr/heroes/Wystan/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

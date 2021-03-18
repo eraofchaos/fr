@@ -3,7 +3,7 @@ title: "Chien de l'Enfer"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage."
 unitID: 503
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Chien de l'Enfer"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Bête
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Carnage : transforme chaque coup en coup critique pendant une courte durée.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dents brûlantes](/equipment/Dents brûlantes/) | **ATQ** | **DÉF** | 
-  | [Armure infernale](/equipment/Armure infernale/) | **PV** | **DÉF** | 
-  | [Griffes brûlantes](/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
-  | [Crinière enflammée](/equipment/Crinière enflammée/) | **PV** | **DÉF** | 
+  | [Dents brûlantes](/fr/equipment/Dents brûlantes/) | **ATQ** | **DÉF** | 
+  | [Armure infernale](/fr/equipment/Armure infernale/) | **PV** | **DÉF** | 
+  | [Griffes brûlantes](/fr/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
+  | [Crinière enflammée](/fr/equipment/Crinière enflammée/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Hell Hound Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Prophétie brisée](/Emblem/Broken Prophecy/) (Mauvais)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Infos combinaison
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Assaut**  (Groupement - Assaut)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

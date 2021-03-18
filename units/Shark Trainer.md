@@ -3,7 +3,7 @@ title: "Dompteur de requins"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues."
 unitID: 9909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Dompteur de requins"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Crique](/units/Faction Cove/)
+ **Faction :** [Crique](/fr/units/Faction Cove/)
 
  **Race:** Pirate
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Invoque un requin pour mettre en morceaux et réduire en poussière.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cimeterre en acier](/equipment/Cimeterre en acier/) | **ATQ** | **DÉF** | 
-  | [Sangle de protection](/equipment/Sangle de protection/) | **PV** | **DÉF** | 
-  | [Gants de protection](/equipment/Gants de protection/) | **ATQ** | **DÉF** | 
-  | [Rênes de requins](/equipment/Rênes de requins/) | **PV** | **DÉF** | 
+  | [Cimeterre en acier](/fr/equipment/Cimeterre en acier/) | **ATQ** | **DÉF** | 
+  | [Sangle de protection](/fr/equipment/Sangle de protection/) | **PV** | **DÉF** | 
+  | [Gants de protection](/fr/equipment/Gants de protection/) | **ATQ** | **DÉF** | 
+  | [Rênes de requins](/fr/equipment/Rênes de requins/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Brise-vagues](/Exclusive/Shark Trainer Break Waves/) 
+ **Name:** [Brise-vagues](/fr/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
 
 ## Infos combinaison
 
@@ -197,10 +197,11 @@ toc: true
 
 * **Crique**  (Groupement - Crique)
 * **Assaut**  (Groupement - Assaut)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

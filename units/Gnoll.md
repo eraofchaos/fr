@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
 unitID: 801
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Gnoll"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Short description:** DPS de mêlée. Étourdit.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machette de loup-garou](/equipment/Machette de loup-garou/) | **ATQ** | **DÉF** | 
-  | [Bouclier carré de loup-garou](/equipment/Bouclier carré de loup-garou/) | **PV** | **DÉF** | 
-  | [Chaînes de loup-garou](/equipment/Chaînes de loup-garou/) | **ATQ** | **DÉF** | 
-  | [Gantelets de loup-garou](/equipment/Gantelets de loup-garou/) | **PV** | **DÉF** | 
+  | [Machette de loup-garou](/fr/equipment/Machette de loup-garou/) | **ATQ** | **DÉF** | 
+  | [Bouclier carré de loup-garou](/fr/equipment/Bouclier carré de loup-garou/) | **PV** | **DÉF** | 
+  | [Chaînes de loup-garou](/fr/equipment/Chaînes de loup-garou/) | **ATQ** | **DÉF** | 
+  | [Gantelets de loup-garou](/fr/equipment/Gantelets de loup-garou/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée](/Exclusive/Gnoll Sword/) 
+ **Name:** [Épée](/fr/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **Offensive**  (Groupement - Offensive)
+* **R**  (R)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -194,7 +195,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup enchaîné&gt; :</span><span style="color: #645252;font-size:18px"> Inflige des dégâts supplémentaires équivalents à 400 % de sa propre ATQ à l'unité cible.</span>
 
 ### 2nd Skill (or 1st): Martelage enchaîné
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup enchaîné&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la durée de l'effet d'Étourdissement de la compétence de 5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup enchaîné&gt; :</span><span style="color: #645252;font-size:18px"> La durée de l'effet d'Étourdissement de la compétence passe à 5 secondes.</span>
 
 ### 3rd Skill (or 4th): Appel de la nature
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Sauvagerie primitive&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la pénétration de 100. Cet effet est doublé contre les ennemis victimes d'Étourdissement.</span>

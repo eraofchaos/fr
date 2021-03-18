@@ -3,7 +3,7 @@ title: "Grand Arbalétrier"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis."
 unitID: 102
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Grand Arbalétrier"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Humain
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/fr/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Flèche explosive : inflige des dégâts conséquents aux unités ennemies.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arbalète légère](/equipment/Arbalète légère/) | **ATQ** | **DÉF** | 
-  | [Chapeau d'acier](/equipment/Chapeau d'acier/) | **PV** | **DÉF** | 
-  | [Flèches perçantes](/equipment/Flèches perçantes/) | **ATQ** | **DÉF** | 
-  | [Gantelets en cuir](/equipment/Gantelets en cuir/) | **PV** | **DÉF** | 
+  | [Arbalète légère](/fr/equipment/Arbalète légère/) | **ATQ** | **DÉF** | 
+  | [Chapeau d'acier](/fr/equipment/Chapeau d'acier/) | **PV** | **DÉF** | 
+  | [Flèches perçantes](/fr/equipment/Flèches perçantes/) | **ATQ** | **DÉF** | 
+  | [Gantelets en cuir](/fr/equipment/Gantelets en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Marksman Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Témoin](/Emblem/Witness/) (Bonté)
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Témoin](/fr/Emblem/Witness/) (Bonté)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
 
 ## Infos combinaison
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Château**  (Groupement - Château)
 * **À distance**  (Groupement - À distance)
+* **R**  (R)
 
 ### Bonus de héros
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

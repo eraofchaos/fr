@@ -3,7 +3,7 @@ title: "Golem de fer"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
 unitID: 603
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Golem de fer"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Résonance métallique : active un bouclier protecteur pour les unités alliées.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Gantelets en fer](/equipment/Gantelets en fer/) | **ATQ** | **DÉF** | 
-  | [Épaulières à pointes](/equipment/Épaulières à pointes/) | **PV** | **DÉF** | 
-  | [Cœur d'arcane](/equipment/Cœur d'arcane/) | **ATQ** | **DÉF** | 
-  | [Plastron en fer renforcé](/equipment/Plastron en fer renforcé/) | **PV** | **DÉF** | 
+  | [Gantelets en fer](/fr/equipment/Gantelets en fer/) | **ATQ** | **DÉF** | 
+  | [Épaulières à pointes](/fr/equipment/Épaulières à pointes/) | **PV** | **DÉF** | 
+  | [Cœur d'arcane](/fr/equipment/Cœur d'arcane/) | **ATQ** | **DÉF** | 
+  | [Plastron en fer renforcé](/fr/equipment/Plastron en fer renforcé/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/Exclusive/Iron Golem Iris Shield/) 
+ **Name:** [Bouclier iris](/fr/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Défense**  (Groupement - Défense)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

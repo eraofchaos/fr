@@ -2,18 +2,18 @@
 title: "Exclusif - Faux du diable"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Faux du diable. Faux du diable. Era of Chaos Exclusif Faux du diable. Diable Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Devil Faux du diable.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Faux du diable** 
 
- **Exclusif for Unit:** [Diable](/units/Devil/) 
+ **Exclusif for Unit:** [Diable](/fr/units/Devil/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | Le Diable ressuscite à son point d'apparition 6 secondes après sa première mort. Il augmente alors de 10 % les dégâts critiques, la vitesse d'ATQ et la résistance aux dégâts de toutes les unités alliées pendant 20 secondes. L'effet double pour les unités de l'Hadès. Le Diable ressuscité déchaîne <Vengeance> sur sa cible. <Vengeance> inflige une quantité de dégâts égale à 200 % de l'ATQ et \"fragilise\" la cible. Cette compétence ne peut se déclencher qu'une fois toutes les 45 secondes. <Fragilité> dure 5 secondes et ne peut pas être dissipée. Réduit la résistance aux dégâts et la DÉF de l'unité \"fragilisée\" de 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Le Diable applique une <Marque de l'Hadès> à une unité ennemie aléatoire toutes les 9 secondes. Chaque marque ajoutée diminue la résistance aux dégâts de la cible de 7 %, jusqu'à 3 fois. Lorsque la cible a 3 marques, elles seront retirées, infligeant 300 % de dégâts. La marque est active pendant tout le combat et ne peut pas être dissipée. |

@@ -3,7 +3,7 @@ title: "Pégase"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Pégase"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Forêt
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Protection de vitalité : confère un bouclier vital à votre unité la plus proche.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Chakram épineux](/equipment/Chakram épineux/) | **ATQ** | **DÉF** | 
-  | [Bandeau verdoyant](/equipment/Bandeau verdoyant/) | **PV** | **DÉF** | 
-  | [Gantelets des roses](/equipment/Gantelets des roses/) | **ATQ** | **DÉF** | 
-  | [Armure miraculeuse](/equipment/Armure miraculeuse/) | **PV** | **DÉF** | 
+  | [Chakram épineux](/fr/equipment/Chakram épineux/) | **ATQ** | **DÉF** | 
+  | [Bandeau verdoyant](/fr/equipment/Bandeau verdoyant/) | **PV** | **DÉF** | 
+  | [Gantelets des roses](/fr/equipment/Gantelets des roses/) | **ATQ** | **DÉF** | 
+  | [Armure miraculeuse](/fr/equipment/Armure miraculeuse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Pegasus Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Clé en pierre](/Emblem/Stone Key to the Gates/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

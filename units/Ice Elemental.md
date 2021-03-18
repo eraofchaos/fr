@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Short description:** Aura et mur de glace.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cristal de glace creux](/equipment/Cristal de glace creux/) | **ATQ** | **DÉF** | 
-  | [Coiffe raz-de-marée](/equipment/Coiffe raz-de-marée/) | **PV** | **DÉF** | 
-  | [Marque de l'océan](/equipment/Marque de l'océan/) | **ATQ** | **DÉF** | 
-  | [Étoffe de la sirène](/equipment/Étoffe de la sirène/) | **PV** | **DÉF** | 
+  | [Cristal de glace creux](/fr/equipment/Cristal de glace creux/) | **ATQ** | **DÉF** | 
+  | [Coiffe raz-de-marée](/fr/equipment/Coiffe raz-de-marée/) | **PV** | **DÉF** | 
+  | [Marque de l'océan](/fr/equipment/Marque de l'océan/) | **ATQ** | **DÉF** | 
+  | [Étoffe de la sirène](/fr/equipment/Étoffe de la sirène/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/Exclusive/Ice Elemental Arcane Chant/) 
+ **Name:** [Mélopée des arcanes](/fr/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Jeton d'Aksoe](/Emblem/Aksoe Token/) (Neutre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/fr/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

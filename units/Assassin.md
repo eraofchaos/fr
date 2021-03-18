@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Assassin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Armée neutre](/units/Faction Neutral Army/)
+ **Faction :** [Armée neutre](/fr/units/Faction Neutral Army/)
 
  **Race:** Guilde des Assassins
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Inflige des dégâts d'assassinat et affaiblit les soins.
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Capuche d'assassin](/equipment/Capuche d'assassin/) | **ATQ** | **DÉF** | 
-  | [Lame secrète](/equipment/Lame secrète/) | **PV** | **DÉF** | 
-  | [Ceinture d'assassin](/equipment/Ceinture d'assassin/) | **ATQ** | **DÉF** | 
-  | [Bottes en cuir](/equipment/Bottes en cuir/) | **PV** | **DÉF** | 
+  | [Capuche d'assassin](/fr/equipment/Capuche d'assassin/) | **ATQ** | **DÉF** | 
+  | [Lame secrète](/fr/equipment/Lame secrète/) | **PV** | **DÉF** | 
+  | [Ceinture d'assassin](/fr/equipment/Ceinture d'assassin/) | **ATQ** | **DÉF** | 
+  | [Bottes en cuir](/fr/equipment/Bottes en cuir/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/Emblem/Guardian Angel/) (Bonté)
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -150,10 +150,11 @@ toc: true
 
 * **Unité (Neutre)**  (Groupement - Neutre)
 * **Assaut**  (Groupement - Assaut)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Ezio](/heroes/Ezio/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ezio](/fr/heroes/Ezio/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

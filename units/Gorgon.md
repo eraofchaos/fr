@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Gorgone"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Bête
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Attaque et endurance élevées. Puissant contrôle.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuir adamantin](/equipment/Cuir adamantin/) | **ATQ** | **DÉF** | 
-  | [Armure dorsale barbare](/equipment/Armure dorsale barbare/) | **PV** | **DÉF** | 
-  | [Corne de bœuf mortelle](/equipment/Corne de bœuf mortelle/) | **ATQ** | **DÉF** | 
-  | [Sabot de bœuf magique](/equipment/Sabot de bœuf magique/) | **PV** | **DÉF** | 
+  | [Cuir adamantin](/fr/equipment/Cuir adamantin/) | **ATQ** | **DÉF** | 
+  | [Armure dorsale barbare](/fr/equipment/Armure dorsale barbare/) | **PV** | **DÉF** | 
+  | [Corne de bœuf mortelle](/fr/equipment/Corne de bœuf mortelle/) | **ATQ** | **DÉF** | 
+  | [Sabot de bœuf magique](/fr/equipment/Sabot de bœuf magique/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Corne de Gorgone](/Exclusive/Gorgon Gorgon's Horn/) 
+ **Name:** [Corne de Gorgone](/fr/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -169,10 +169,11 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **Défense**  (Groupement - Défense)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

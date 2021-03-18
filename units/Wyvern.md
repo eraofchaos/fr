@@ -3,7 +3,7 @@ title: "Wivern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Wivern"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Bête
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Attaques de mêlée puissantes. Toxique.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffes de dragon](/equipment/Griffes de dragon/) | **ATQ** | **DÉF** | 
-  | [Croc de la peste](/equipment/Croc de la peste/) | **PV** | **DÉF** | 
-  | [Piques dorsaux de Diablotin](/equipment/Piques dorsaux de Diablotin/) | **ATQ** | **DÉF** | 
-  | [Ailes de dragon](/equipment/Ailes de dragon/) | **PV** | **DÉF** | 
+  | [Griffes de dragon](/fr/equipment/Griffes de dragon/) | **ATQ** | **DÉF** | 
+  | [Croc de la peste](/fr/equipment/Croc de la peste/) | **PV** | **DÉF** | 
+  | [Piques dorsaux de Diablotin](/fr/equipment/Piques dorsaux de Diablotin/) | **ATQ** | **DÉF** | 
+  | [Ailes de dragon](/fr/equipment/Ailes de dragon/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Queue de Wivern](/Exclusive/Wyvern Wyvern's Tail/) 
+ **Name:** [Queue de Wivern](/fr/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **Offensive**  (Groupement - Offensive)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

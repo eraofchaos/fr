@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
 unitID: 108
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Paladin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Humain
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Renforts du courageux : invoque l'aide offensive d'un Garde du sanctuaire.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Épée du jugement](/equipment/Épée du jugement/) | **ATQ** | **DÉF** | 
-  | [Heaume du serment](/equipment/Heaume du serment/) | **PV** | **DÉF** | 
-  | [Épaulières de fer](/equipment/Épaulières de fer/) | **ATQ** | **DÉF** | 
-  | [Bracelets forgés](/equipment/Bracelets forgés/) | **PV** | **DÉF** | 
+  | [Épée du jugement](/fr/equipment/Épée du jugement/) | **ATQ** | **DÉF** | 
+  | [Heaume du serment](/fr/equipment/Heaume du serment/) | **PV** | **DÉF** | 
+  | [Épaulières de fer](/fr/equipment/Épaulières de fer/) | **ATQ** | **DÉF** | 
+  | [Bracelets forgés](/fr/equipment/Bracelets forgés/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [](/Exclusive/Paladin /) 
+ **Name:** [](/fr/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/Emblem/Queen's Blessing/) (Ordre)
-* [Roue du temps](/Emblem/Gear of Time/) (Bonté)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -153,10 +153,11 @@ toc: true
 
 * **Château**  (Groupement - Château)
 * **Défense**  (Groupement - Défense)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -168,7 +169,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Paladin suprême
 

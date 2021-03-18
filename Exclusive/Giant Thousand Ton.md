@@ -2,18 +2,18 @@
 title: "Exclusif - Mille tonnes"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Mille tonnes. Mille tonnes. Era of Chaos Exclusif Mille tonnes. Géant Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Giant Mille tonnes.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Mille tonnes** 
 
- **Exclusif for Unit:** [Géant](/units/Giant/) 
+ **Exclusif for Unit:** [Géant](/fr/units/Giant/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | Un Géant invoque un nuage orageux au-dessus d'une unité aléatoire pendant 10 secondes. L'orage frappera une unité au hasard toutes les 0,5 seconde, chaque frappe infligeant des dégâts équivalents à 40 % de son ATQ. Si la même unité est frappée deux fois de suite en l'espace de 4 secondes, cette unité est affligée de Paralysie pendant 5 secondes. Si la même unité est frappée quatre fois de suite, elle se voit infliger Fragilisation pendant 2 secondes. Le temps de recharge est de 15 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Le Géant augmente ses dégâts d'unité de 10 %. Lorsqu'il est présent sur le champ de bataille, il augmente également les dégâts des unités de Lanceurs de sorts alliées de 10 %. |

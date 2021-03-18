@@ -3,7 +3,7 @@ title: "Dragon squelette"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Dragon squelette"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/fr/units/Faction Necropolis/)
 
  **Race:** Dragon
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Effroi : réduit de façon drastique la défense ennemie et inflige Démotivation.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pointe en os](/equipment/Pointe en os/) | **ATQ** | **DÉF** | 
-  | [Crâne draconique](/equipment/Crâne draconique/) | **PV** | **DÉF** | 
-  | [Griffes perçantes](/equipment/Griffes perçantes/) | **ATQ** | **DÉF** | 
-  | [Gemme spirituelle](/equipment/Gemme spirituelle/) | **PV** | **DÉF** | 
+  | [Pointe en os](/fr/equipment/Pointe en os/) | **ATQ** | **DÉF** | 
+  | [Crâne draconique](/fr/equipment/Crâne draconique/) | **PV** | **DÉF** | 
+  | [Griffes perçantes](/fr/equipment/Griffes perçantes/) | **ATQ** | **DÉF** | 
+  | [Gemme spirituelle](/fr/equipment/Gemme spirituelle/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Os de dragon immortel](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Name:** [Os de dragon immortel](/fr/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Nécropole**  (Groupement - Nécropole)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Vidomina](/heroes/Vidomina/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (humain)](/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/fr/heroes/Vidomina/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

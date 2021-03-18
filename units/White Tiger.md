@@ -3,7 +3,7 @@ title: "Tigre blanc"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Tigre blanc déchaîne sa compétence Esprit du Tigre blanc pour percer les points faibles des défenses ennemies. Il active ses pouvoirs de pestilence pour retourner la situation en sa faveur sur le champ de bataille."
 unitID: 809
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Tigre blanc"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** Le Tigre blanc déchaîne sa compétence Esprit du Tigre blanc pour percer les points faibles des défenses ennemies. Il active ses pouvoirs de pestilence pour retourner la situation en sa faveur sur le champ de bataille.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Forteresse](/units/Faction Fortress/)
+ **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
  **Race:** Licorne
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Position :** Le Tigre blanc déchaîne sa compétence Esprit du Tigre blanc pour percer les points faibles des défenses ennemies. Il active ses pouvoirs de pestilence pour retourner la situation en sa faveur sur le champ de bataille.
 
@@ -66,19 +66,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_8091](/fr/equipment/UnknownEquipment_8091/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_8092](/fr/equipment/UnknownEquipment_8092/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_8093](/fr/equipment/UnknownEquipment_8093/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_8094](/fr/equipment/UnknownEquipment_8094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Droits des successeurs](/Emblem/Successors' Legal Principles/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
-* [Luxure](/Emblem/Lust/) (Chaos)
+* [Droits des successeurs](/fr/Emblem/Successors' Legal Principles/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Infos combinaison
 
@@ -168,10 +168,11 @@ toc: true
 
 * **Forteresse**  (Groupement - Forteresse)
 * **Assaut**  (Groupement - Assaut)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

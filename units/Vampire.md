@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Vampire"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/fr/units/Faction Necropolis/)
 
  **Race:** Esprit maléfique
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Drain de vie : draine la santé d'une unité ennemie pour restaurer la vôtre.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ceinture sanguinaire](/equipment/Ceinture sanguinaire/) | **ATQ** | **DÉF** | 
-  | [Armure légère sanguinaire](/equipment/Armure légère sanguinaire/) | **PV** | **DÉF** | 
-  | [Épaulières des ombres](/equipment/Épaulières des ombres/) | **ATQ** | **DÉF** | 
-  | [Manteau des ombres](/equipment/Manteau des ombres/) | **PV** | **DÉF** | 
+  | [Ceinture sanguinaire](/fr/equipment/Ceinture sanguinaire/) | **ATQ** | **DÉF** | 
+  | [Armure légère sanguinaire](/fr/equipment/Armure légère sanguinaire/) | **PV** | **DÉF** | 
+  | [Épaulières des ombres](/fr/equipment/Épaulières des ombres/) | **ATQ** | **DÉF** | 
+  | [Manteau des ombres](/fr/equipment/Manteau des ombres/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Vampire Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Nécropole**  (Groupement - Nécropole)
 * **Assaut**  (Groupement - Assaut)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (humain)](/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

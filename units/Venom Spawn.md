@@ -3,7 +3,7 @@ title: "Progéniture venimeuse"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces démons sont nés des flammes et des ombres des tréfonds de l'enfer. La légende raconte que ce sont les effroyables cauchemars qui calcinent les champs de bataille de leurs flammes karmiques du péché."
 unitID: 509
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Progéniture venimeuse"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** Ces démons sont nés des flammes et des ombres des tréfonds de l'enfer. La légende raconte que ce sont les effroyables cauchemars qui calcinent les champs de bataille de leurs flammes karmiques du péché.
 
- **Classe:** [Défense](/units/Unit Class Defense/)
+ **Classe:** [Défense](/fr/units/Unit Class Defense/)
 
  **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
- **Faction :** [Hadès](/units/Faction Inferno/)
+ **Faction :** [Hadès](/fr/units/Faction Inferno/)
 
  **Race:** Démoniaque
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_5091](/fr/equipment/UnknownEquipment_5091/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_5092](/fr/equipment/UnknownEquipment_5092/) | **PV** | **DÉF** | 
+  | [UnknownEquipment_5093](/fr/equipment/UnknownEquipment_5093/) | **ATQ** | **DÉF** | 
+  | [UnknownEquipment_5094](/fr/equipment/UnknownEquipment_5094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
-* [Avarice](/Emblem/Greed/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
 
 ## Infos combinaison
 
@@ -218,10 +218,11 @@ toc: true
 
 * **Hadès**  (Groupement - Hadès)
 * **Défense**  (Groupement - Défense)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Mephala](/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

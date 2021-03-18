@@ -3,7 +3,7 @@ title: "Géant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
 unitID: 607
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Géant"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Dieu de la guerre : inflige des dégâts à toutes portées.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Éclair](/equipment/Éclair/) | **ATQ** | **DÉF** | 
-  | [Épaulières en or pur](/equipment/Épaulières en or pur/) | **PV** | **DÉF** | 
-  | [Heaume spirituel](/equipment/Heaume spirituel/) | **ATQ** | **DÉF** | 
-  | [Plastron éclair](/equipment/Plastron éclair/) | **PV** | **DÉF** | 
+  | [Éclair](/fr/equipment/Éclair/) | **ATQ** | **DÉF** | 
+  | [Épaulières en or pur](/fr/equipment/Épaulières en or pur/) | **PV** | **DÉF** | 
+  | [Heaume spirituel](/fr/equipment/Heaume spirituel/) | **ATQ** | **DÉF** | 
+  | [Plastron éclair](/fr/equipment/Plastron éclair/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Mille tonnes](/Exclusive/Giant Thousand Ton/) 
+ **Name:** [Mille tonnes](/fr/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

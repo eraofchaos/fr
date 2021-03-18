@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Licorne"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Licorne
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Unit description:** Cécité : diminue la précision d'une ligne ennemie.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Grande corne en cristal](/equipment/Grande corne en cristal/) | **ATQ** | **DÉF** | 
-  | [Pierres du rêveur](/equipment/Pierres du rêveur/) | **PV** | **DÉF** | 
-  | [Sabots en cristal](/equipment/Sabots en cristal/) | **ATQ** | **DÉF** | 
-  | [Crinière brumeuse](/equipment/Crinière brumeuse/) | **PV** | **DÉF** | 
+  | [Grande corne en cristal](/fr/equipment/Grande corne en cristal/) | **ATQ** | **DÉF** | 
+  | [Pierres du rêveur](/fr/equipment/Pierres du rêveur/) | **PV** | **DÉF** | 
+  | [Sabots en cristal](/fr/equipment/Sabots en cristal/) | **ATQ** | **DÉF** | 
+  | [Crinière brumeuse](/fr/equipment/Crinière brumeuse/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Unicorn Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Signe inquiétant](/Emblem/Ominous Sign/) (Mauvais)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Signe inquiétant](/fr/Emblem/Ominous Sign/) (Mauvais)
 
 ## Infos combinaison
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **Assaut**  (Groupement - Assaut)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

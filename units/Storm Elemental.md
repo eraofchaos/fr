@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique.
 
- **Classe:** [À distance](/units/Unit Class Ranged/)
+ **Classe:** [À distance](/fr/units/Unit Class Ranged/)
 
  **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
- **Faction :** [Conflux](/units/Faction Conflux/)
+ **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
  **Race:** Maître des bêtes
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
  **Short description:** Peut marquer un ennemi pour infliger de lourds dégâts.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Boule électrique vacillante](/equipment/Boule électrique vacillante/) | **ATQ** | **DÉF** | 
-  | [Noyau du tonnerre](/equipment/Noyau du tonnerre/) | **PV** | **DÉF** | 
-  | [Griffe magique](/equipment/Griffe magique/) | **ATQ** | **DÉF** | 
-  | [Œil maléfique de foudre](/equipment/Œil maléfique de foudre/) | **PV** | **DÉF** | 
+  | [Boule électrique vacillante](/fr/equipment/Boule électrique vacillante/) | **ATQ** | **DÉF** | 
+  | [Noyau du tonnerre](/fr/equipment/Noyau du tonnerre/) | **PV** | **DÉF** | 
+  | [Griffe magique](/fr/equipment/Griffe magique/) | **ATQ** | **DÉF** | 
+  | [Œil maléfique de foudre](/fr/equipment/Œil maléfique de foudre/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Arc long](/Exclusive/Storm Elemental Long Bow/) 
+ **Name:** [Arc long](/fr/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Conflux**  (Groupement - Conflux)
 * **À distance**  (Groupement - À distance)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Gelu](/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/fr/heroes/Ciele/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

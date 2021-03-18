@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Cavalier"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Château](/units/Faction Castle/)
+ **Faction :** [Château](/fr/units/Faction Castle/)
 
  **Race:** Humain
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
  **Unit description:** Joute : inflige des dégâts conséquents et étourdit l'ennemi si elle est utilisée comme première attaque.
 
@@ -73,14 +73,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lance de Cavalier](/equipment/Lance de Cavalier/) | **ATQ** | **DÉF** | 
-  | [Visière de défense](/equipment/Visière de défense/) | **PV** | **DÉF** | 
-  | [Bouclier de protection](/equipment/Bouclier de protection/) | **ATQ** | **DÉF** | 
-  | [Épaulière de Paladin](/equipment/Épaulière de Paladin/) | **PV** | **DÉF** | 
+  | [Lance de Cavalier](/fr/equipment/Lance de Cavalier/) | **ATQ** | **DÉF** | 
+  | [Visière de défense](/fr/equipment/Visière de défense/) | **PV** | **DÉF** | 
+  | [Bouclier de protection](/fr/equipment/Bouclier de protection/) | **ATQ** | **DÉF** | 
+  | [Épaulière de Paladin](/fr/equipment/Épaulière de Paladin/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Pic du Chevalier](/fr/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
@@ -91,9 +91,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/Emblem/Guardian Angel/) (Bonté)
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Orgueil](/Emblem/Arrogance/) (Chaos)
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Infos combinaison
 
@@ -160,19 +160,14 @@ toc: true
 ## Pertinence
 ### Connexion de groupement
 
-* **Château**  (Groupement - Château)
-* **Assaut**  (Groupement - Assaut)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
-* Attaque
-* PV
-* dégâts d'unité
-* réduction des dégâts d'unité
+* ?!? 
 
 
 ## Awaking
@@ -191,26 +186,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Chevalier légendaire dans les niveaux 16-2 et 16-4 du Souterrain.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Cavalier et remportez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> combats de Duel de champions sous le commandement de Mullich.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Compétences de survie
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Capacités de Chevalier&gt; : </span><span style="color: #645252;font-size:18px">Augmente les PV et la résistance magique de 30 %.</span>
-
-### 2nd Skill (or 1st): Compétences de guerre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Capacités de Chevalier&gt; : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ et la résistance magique de 30 % supplémentaires.</span>
-
-### 3rd Skill (or 4th): Ruée légère
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Percée rapide&gt; : </span><span style="color: #645252;font-size:18px">S'active chaque fois qu'une cible est abattue (à l'exception des monstres invoqués).</span>
-
-### 4th Skill (or 3rd): Charge lourde
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Percée rapide&gt; : </span><span style="color: #645252;font-size:18px">S'active chaque fois qu'une cible est abattue (à l'exception des monstres invoqués).</span>
-
-### 5th Skill (or 6th): Fanatisme
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance de chevalier&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'unité de 20 % supplémentaires. L'effet double en cas d'&lt;Exaltation&gt;.</span>
-
-### 6th Skill (or 5th): Nerfs d'acier
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance de chevalier&gt; : </span><span style="color: #645252;font-size:18px">Garantit un coup critique lorsque l'effet \"Exaltation\" est activé au combat. L'effet dure 10 secondes.</span>
 
 ## Technical info
  **runart:** 1

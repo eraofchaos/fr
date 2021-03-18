@@ -2,18 +2,18 @@
 title: "Exclusif - Marées diurnes"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Marées diurnes. Marées diurnes. Era of Chaos Exclusif Marées diurnes. Serpent de Regna Exclusif."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Regnan Serpent Marées diurnes.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Marées diurnes** 
 
- **Exclusif for Unit:** [Serpent de Regna](/units/Regnan Serpent/) 
+ **Exclusif for Unit:** [Serpent de Regna](/fr/units/Regnan Serpent/) 
 
  **Item to Rang supérieur:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rang supérieur
 
-  |     Stars    |  Required to Up | Effet exclusif |
+  |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
   |  Réveil  | ? | <Torrent infini> : Le Serpent de Regna agite son trident et invoque la puissance des marées pour balayer l'ennemi, infligeant des dégâts équivalents à 100 % de son ATQ aux unités ennemies dans une large zone en face de lui et diminuant leur vitesse d'attaque de 20 % et les dégâts critiques de 40 %. Diminue la ténacité et l'esquive des unités ennemies affligées de Lenteur de 200 pendant 6 secondes. Le temps de recharge est de 20 secondes. |
   | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts du Serpent de Regna de 20 %, puis de 20 % supplémentaires lorsqu'il subit des attaques à distance. |

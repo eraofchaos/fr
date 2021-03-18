@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Champion des ténèbres"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Description:** C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Nécropole](/units/Faction Necropolis/)
+ **Faction :** [Nécropole](/fr/units/Faction Necropolis/)
 
  **Race:** Non-Morts
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/units/Unit Rank Commander/)
+ **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Exécute. Invincibilité dans son propre domaine.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Faucille du silence](/equipment/Faucille du silence/) | **ATQ** | **DÉF** | 
-  | [Heaume lourd de l'avant-vie](/equipment/Heaume lourd de l'avant-vie/) | **PV** | **DÉF** | 
-  | [Feu infernal du salut](/equipment/Feu infernal du salut/) | **ATQ** | **DÉF** | 
-  | [Scapula de l'Hadès](/equipment/Scapula de l'Hadès/) | **PV** | **DÉF** | 
+  | [Faucille du silence](/fr/equipment/Faucille du silence/) | **ATQ** | **DÉF** | 
+  | [Heaume lourd de l'avant-vie](/fr/equipment/Heaume lourd de l'avant-vie/) | **PV** | **DÉF** | 
+  | [Feu infernal du salut](/fr/equipment/Feu infernal du salut/) | **ATQ** | **DÉF** | 
+  | [Scapula de l'Hadès](/fr/equipment/Scapula de l'Hadès/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Héritage des Ironfist](/Emblem/Ironfist's Legacy/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Nécropole**  (Groupement - Nécropole)
 * **Offensive**  (Groupement - Offensive)
+* **Commandant**  (Commandant)
 
 ### Bonus de héros
-* [Vidomina](/heroes/Vidomina/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (humain)](/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/fr/heroes/Vidomina/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

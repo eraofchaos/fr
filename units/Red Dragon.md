@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Dragon rouge"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Dragon
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** Seigneur dragon au rugissement assourdissant.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corne du feu écarlate](/equipment/Corne du feu écarlate/) | **ATQ** | **DÉF** | 
-  | [Ailes antiques](/equipment/Ailes antiques/) | **PV** | **DÉF** | 
-  | [Griffes brûlantes](/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
-  | [Queue de dragon fougueux](/equipment/Queue de dragon fougueux/) | **PV** | **DÉF** | 
+  | [Corne du feu écarlate](/fr/equipment/Corne du feu écarlate/) | **ATQ** | **DÉF** | 
+  | [Ailes antiques](/fr/equipment/Ailes antiques/) | **PV** | **DÉF** | 
+  | [Griffes brûlantes](/fr/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
+  | [Queue de dragon fougueux](/fr/equipment/Queue de dragon fougueux/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Annihilation](/Exclusive/Red Dragon Annihilation/) 
+ **Name:** [Annihilation](/fr/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Le jugement des pères](/Emblem/The Judgment of Fathers/) (Neutre)
-* [Calamité du roi](/Emblem/King's Calamity/) (Mauvais)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

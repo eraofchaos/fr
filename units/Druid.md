@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Druidesse"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt.
 
- **Classe:** [Lanceur de sorts](/units/Unit Class Caster/)
+ **Classe:** [Lanceur de sorts](/fr/units/Unit Class Caster/)
 
  **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
- **Faction :** [Rempart](/units/Faction Rampart/)
+ **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
  **Race:** Forêt
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Chromosphère sylvestre : immunise les unités situées dans son cercle magique contre les dégâts magiques.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Couronne de quiétude](/equipment/Couronne de quiétude/) | **ATQ** | **DÉF** | 
-  | [Bâton ancien](/equipment/Bâton ancien/) | **PV** | **DÉF** | 
-  | [Robe de la rage tempétueuse](/equipment/Robe de la rage tempétueuse/) | **ATQ** | **DÉF** | 
-  | [Bottes hautes forestières](/equipment/Bottes hautes forestières/) | **PV** | **DÉF** | 
+  | [Couronne de quiétude](/fr/equipment/Couronne de quiétude/) | **ATQ** | **DÉF** | 
+  | [Bâton ancien](/fr/equipment/Bâton ancien/) | **PV** | **DÉF** | 
+  | [Robe de la rage tempétueuse](/fr/equipment/Robe de la rage tempétueuse/) | **ATQ** | **DÉF** | 
+  | [Bottes hautes forestières](/fr/equipment/Bottes hautes forestières/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Bâton de renouveau](/Exclusive/Druid Staff of Regrowth/) 
+ **Name:** [Bâton de renouveau](/fr/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
-* [Avarice](/Emblem/Greed/) (Chaos)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
 
 ## Infos combinaison
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Rempart**  (Groupement - Rempart)
 * **Lanceur de sorts**  (Groupement - Lanceur de sorts)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Dracon](/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

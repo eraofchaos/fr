@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Naga"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente.
 
- **Classe:** [Offensive](/units/Unit Class Offense/)
+ **Classe:** [Offensive](/fr/units/Unit Class Offense/)
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Tour](/units/Faction Tower/)
+ **Faction :** [Tour](/fr/units/Faction Tower/)
 
  **Race:** Humain
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/fr/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Unit description:** Danse tranchante : inflige des dégâts de zone et diminue la DÉF.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lame transperçante](/equipment/Lame transperçante/) | **ATQ** | **DÉF** | 
-  | [Épaulières marines](/equipment/Épaulières marines/) | **PV** | **DÉF** | 
-  | [Coiffe du dieu serpent](/equipment/Coiffe du dieu serpent/) | **ATQ** | **DÉF** | 
-  | [Plaque de hanche solide et flexible](/equipment/Plaque de hanche solide et flexible/) | **PV** | **DÉF** | 
+  | [Lame transperçante](/fr/equipment/Lame transperçante/) | **ATQ** | **DÉF** | 
+  | [Épaulières marines](/fr/equipment/Épaulières marines/) | **PV** | **DÉF** | 
+  | [Coiffe du dieu serpent](/fr/equipment/Coiffe du dieu serpent/) | **ATQ** | **DÉF** | 
+  | [Plaque de hanche solide et flexible](/fr/equipment/Plaque de hanche solide et flexible/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Épée Naga](/Exclusive/Naga Naga Sword/) 
+ **Name:** [Épée Naga](/fr/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/Emblem/Griffin Wings/) (Ordre)
-* [Prophète vert](/Emblem/Green Prophet/) (Bonté)
-* [Envie](/Emblem/Jealousy/) (Chaos)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Prophète vert](/fr/Emblem/Green Prophet/) (Bonté)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Infos combinaison
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Tour**  (Groupement - Tour)
 * **Offensive**  (Groupement - Offensive)
+* **SSR**  (SSR)
 
 ### Bonus de héros
-* [Kendal](/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

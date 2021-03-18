@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Manticore"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Description:** Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie.
 
- **Classe:** [Assaut](/units/Unit Class Charging/)
+ **Classe:** [Assaut](/fr/units/Unit Class Charging/)
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Donjon](/units/Faction Dungeon/)
+ **Faction :** [Donjon](/fr/units/Faction Dungeon/)
 
  **Race:** Troupes du Donjon
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/fr/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
  **Short description:** DPS et endurance élevés.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Griffe de l'abîme](/equipment/Griffe de l'abîme/) | **ATQ** | **DÉF** | 
-  | [Croc empoisonné mortel](/equipment/Croc empoisonné mortel/) | **PV** | **DÉF** | 
-  | [Queue toxique](/equipment/Queue toxique/) | **ATQ** | **DÉF** | 
-  | [Ailes de Manticore](/equipment/Ailes de Manticore/) | **PV** | **DÉF** | 
+  | [Griffe de l'abîme](/fr/equipment/Griffe de l'abîme/) | **ATQ** | **DÉF** | 
+  | [Croc empoisonné mortel](/fr/equipment/Croc empoisonné mortel/) | **PV** | **DÉF** | 
+  | [Queue toxique](/fr/equipment/Queue toxique/) | **ATQ** | **DÉF** | 
+  | [Ailes de Manticore](/fr/equipment/Ailes de Manticore/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
- **Name:** [Queue de scorpion](/Exclusive/Manticore Scorpion Tail/) 
+ **Name:** [Queue de scorpion](/fr/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/Emblem/Ancient Fire/) (Ordre)
-* [Secret éternel](/Emblem/Everlasting Secret/) (Ordre)
-* [Colère](/Emblem/Anger/) (Chaos)
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison
 
@@ -148,11 +148,12 @@ toc: true
 
 * **Donjon**  (Groupement - Donjon)
 * **Assaut**  (Groupement - Assaut)
+* **SR**  (SR)
 
 ### Bonus de héros
-* [Mullich](/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (dragon)](/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/fr/heroes/Mullich/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

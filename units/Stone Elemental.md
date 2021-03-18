@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Élémentaire de pierre](/fr/Items/unt_266/)
+
  **Short description:** Crachat mortel. Étourdit.
 
  **Position :** Étourdit tout le monde à portée. Lance Crachat mortel. Possède une résistance élevée.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Noyau d'énergie](/fr/Exclusive/Stone Elemental Energy Core/) 
+ **Nom:** [Noyau d'énergie](/fr/Exclusive/Stone Elemental Energy Core/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Noyau d'énergie](/fr/Items/con_999/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Noyau d'énergie](/fr/Items/con_667/)
 
 
 ## Emblèmes sacrés recommandés
@@ -172,9 +174,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

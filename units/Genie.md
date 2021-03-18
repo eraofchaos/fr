@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Djinn](/fr/Items/unt_239/)
+
  **Unit description:** Cadeau d'énergie : convertit l'ATQ en soins.
 
  **Short description:** Bonus et soins puissants.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Lyre](/fr/Exclusive/Genie Lyra/) 
+ **Nom:** [Lyre](/fr/Exclusive/Genie Lyra/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Lyre](/fr/Items/con_986/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Lyre](/fr/Items/con_654/)
 
 
 ## Emblèmes sacrés recommandés
@@ -174,9 +176,11 @@ toc: true
 * Guérison
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Génie

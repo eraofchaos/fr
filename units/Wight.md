@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Revenante](/fr/Items/unt_210/)
+
  **Unit description:** Cri effroyable : inflige Silence aux troupes ennemies sur son chemin.
 
  **Short description:** Silence de masse. Évite les attaques. Régénère la magie.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Wight Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Wight Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Spectre

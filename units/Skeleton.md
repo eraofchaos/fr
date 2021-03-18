@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Squelette](/fr/Items/unt_208/)
+
  **Unit description:** Bouclier d'os : augmente la résistance aux dégâts d'une unité lorsque sa santé est inférieure à 50 %.
 
  **Short description:** Renvoi des dégâts. Immunité contre les effets de Saignement.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Skeleton Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Défense
 * Résistance magique
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Guerrier squelette

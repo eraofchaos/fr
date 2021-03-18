@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Bouclier iris** 
+### Détails
+ **Nom: Bouclier iris** 
 
  **Exclusif for Unit:** [Démon](/fr/units/Demon/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | Au début du combat, l'esquive du Démon augmente de 1 000 pendant 30 secondes. À chaque esquive, sa résistance aux dégâts augmente de 1 % de manière permanente, dans la limite de 30 %. |
-  | **1x** <i class="fas fa-star"/> | ? | Au début du combat, la ténacité du Démon augmente de 500 pendant 30 secondes. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente les PV du Démon de 20 % et sa résistance aux dégâts de 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Augmente la DÉF du Démon de 10 %. Elle augmente de 100 % pendant 10 secondes lorsqu'il perd plus de la moitié de ses PV pour la première fois. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente la DÉF du démon de 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Les attaques du Démon réduisent l'esquive de la cible de 1 000 pendant 5 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | Lorsque le Démon est sur le champ de bataille, l'esquive de toutes les unités ennemies diminue de 500. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | Au début du combat, l'esquive du Démon augmente de 1 000 pendant 30 secondes. À chaque esquive, sa résistance aux dégâts augmente de 1 % de manière permanente, dans la limite de 30 %. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | Au début du combat, la ténacité du Démon augmente de 500 pendant 30 secondes. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente les PV du Démon de 20 % et sa résistance aux dégâts de 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la DÉF du Démon de 10 %. Elle augmente de 100 % pendant 10 secondes lorsqu'il perd plus de la moitié de ses PV pour la première fois. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la DÉF du démon de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Les attaques du Démon réduisent l'esquive de la cible de 1 000 pendant 5 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | Lorsque le Démon est sur le champ de bataille, l'esquive de toutes les unités ennemies diminue de 500. |
 
 
 ## Améliorer

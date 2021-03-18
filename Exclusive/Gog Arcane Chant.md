@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Mélopée des arcanes** 
+### Détails
+ **Nom: Mélopée des arcanes** 
 
  **Exclusif for Unit:** [Gog](/fr/units/Gog/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Étincelle brûlante> : la Gog inflige des dégâts équivalents à 400 % de son ATQ à l'unité cible toutes les 15 secondes et lui inflige Saignement pendant 7 secondes. Si l'unité cible est déjà victime de Saignement, sa DÉF est réduite de 15 % pendant 7 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque de la Gog de 15 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente le drain de vie de la Gog de 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Vague de chaleur> : Lorsqu'un Héros allié lance des sorts de feu, la Gog inflige des dégâts équivalents à 50 % de son ATQ toutes les secondes aux unités situées dans une large zone devant lui, et leur inflige Brûlure pendant 5 secondes. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente sa propre DÉF de 4 % pour chaque unité de l'Hadès présente sur le champ de bataille. |
-  | **5x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de la Gog de 15 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Symphonie infernale> : Au début de la bataille, la Gog augmente de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts alliées, tout en diminuant de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts ennemies pendant 60 secondes. |
+  |  Réveil  | **100x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Étincelle brûlante> : la Gog inflige des dégâts équivalents à 400 % de son ATQ à l'unité cible toutes les 15 secondes et lui inflige Saignement pendant 7 secondes. Si l'unité cible est déjà victime de Saignement, sa DÉF est réduite de 15 % pendant 7 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente la vitesse d'attaque de la Gog de 15 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente le drain de vie de la Gog de 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Vague de chaleur> : Lorsqu'un Héros allié lance des sorts de feu, la Gog inflige des dégâts équivalents à 50 % de son ATQ toutes les secondes aux unités situées dans une large zone devant lui, et leur inflige Brûlure pendant 5 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente sa propre DÉF de 4 % pour chaque unité de l'Hadès présente sur le champ de bataille. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente les dégâts d'unité de la Gog de 15 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Symphonie infernale> : Au début de la bataille, la Gog augmente de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts alliées, tout en diminuant de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts ennemies pendant 60 secondes. |
 
 
 ## Améliorer

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Paladin](/fr/Items/unt_197/)
+
  **Unit description:** Renforts du courageux : invoque l'aide offensive d'un Garde du sanctuaire.
 
  **Short description:** Fait appel à des unités qui offrent une protection.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [](/fr/Exclusive/Paladin /) 
+ **Nom:** [](/fr/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Intrépide](/fr/Items/con_974/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Intrépide](/fr/Items/con_642/)
 
 
 ## Emblèmes sacrés recommandés
@@ -166,9 +168,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Paladin suprême

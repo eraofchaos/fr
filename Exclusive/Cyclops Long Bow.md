@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arc long** 
+### Détails
+ **Nom: Arc long** 
 
  **Exclusif for Unit:** [Cyclope](/fr/units/Cyclops/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Lancer de rocher> : Lance des rochers qui infligent aux ennemis dans la zone visée une quantité de dégâts égale à 200 % des PV max. Cet effet peut être déclenché une fois toutes les 15 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Vous permet d'utiliser <Lancer de rocher> une fois lorsque le Cyclope lance sa première attaque. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'ATQ et les dégâts du Cyclope de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Lorsque ses PV passent en dessous de 30 % pour la première fois, le Cyclope déchaîne Trembleterre une fois, ce qui augmente sa vitesse d'ATQ de 25 % de façon permanente. |
-  | **4x** <i class="fas fa-star"/> | ? | La DÉF et la résistance aux dégâts du Cyclope augmentent de 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | L'attaque du Cyclope réduit les coups critiques de sa cible de 500. |
-  | **6x** <i class="fas fa-star"/> | ? | <Mauvais œil> : Au début du combat, la vitesse d'ATQ de toutes les unités ennemies diminue de 10 % pendant 20 secondes. |
+  |  Réveil  | **100x** [Jeton Arc long](/fr/Items/con_914/) | <Lancer de rocher> : Lance des rochers qui infligent aux ennemis dans la zone visée une quantité de dégâts égale à 200 % des PV max. Cet effet peut être déclenché une fois toutes les 15 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc long](/fr/Items/con_914/) | Vous permet d'utiliser <Lancer de rocher> une fois lorsque le Cyclope lance sa première attaque. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc long](/fr/Items/con_914/) | Augmente la vitesse d'ATQ et les dégâts du Cyclope de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc long](/fr/Items/con_914/) | Lorsque ses PV passent en dessous de 30 % pour la première fois, le Cyclope déchaîne Trembleterre une fois, ce qui augmente sa vitesse d'ATQ de 25 % de façon permanente. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Arc long](/fr/Items/con_914/) | La DÉF et la résistance aux dégâts du Cyclope augmentent de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Arc long](/fr/Items/con_914/) | L'attaque du Cyclope réduit les coups critiques de sa cible de 500. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Arc long](/fr/Items/con_914/) | <Mauvais œil> : Au début du combat, la vitesse d'ATQ de toutes les unités ennemies diminue de 10 % pendant 20 secondes. |
 
 
 ## Améliorer

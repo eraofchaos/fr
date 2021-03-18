@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Cyclope](/fr/Items/unt_222/)
+
  **Unit description:** Pierre de feu : inflige de très lourds dégâts à toutes les troupes ennemies sur son chemin.
 
  **Short description:** Attaquant à distance avec capacité d'entraver l'ennemi.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc long](/fr/Exclusive/Cyclops Long Bow/) 
+ **Nom:** [Arc long](/fr/Exclusive/Cyclops Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -179,9 +181,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Roi Cyclope

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Momie](/fr/Items/unt_215/)
+
  **Unit description:** Malédiction putride : réduit grandement l'efficacité des soins ennemis.
 
  **Short description:** Maladie réduit les PV et les soins.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bandage](/fr/Exclusive/Mummy Gauze/) 
+ **Nom:** [Bandage](/fr/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bandage](/fr/Items/con_981/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Bandage](/fr/Items/con_649/)
 
 
 ## Emblèmes sacrés recommandés
@@ -171,9 +173,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Roi Momie

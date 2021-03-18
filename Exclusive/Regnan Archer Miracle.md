@@ -10,8 +10,8 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Miracle** 
+### Détails
+ **Nom: Miracle** 
 
  **Exclusif for Unit:** [Arbalétrière de Regna](/fr/units/Regnan Archer/) 
 

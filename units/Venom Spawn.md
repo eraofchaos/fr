@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Tool_3509](/fr/Items/unt_234/)
+
  **Short description:** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
 
  **Position :** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
@@ -231,9 +233,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Diablotin](/fr/units/Imp/) | [Bouclier iris](/fr/Exclusive/Imp Iris Shield/) | - | Assaut | - | - |
-  | 2  | [Gog](/fr/units/Gog/) | [Mélopée des arcanes](/fr/Exclusive/Gog Arcane Chant/) | - | Assaut | - | - |
-  | 3  | [Chien de l'Enfer](/fr/units/Hell Hound/) | [Pic du Chevalier](/fr/Exclusive/Hell Hound Knight Pike/) | - | Assaut | - | - |
-  | 4  | [Démon](/fr/units/Demon/) | [Bouclier iris](/fr/Exclusive/Demon Iris Shield/) | + | Assaut | - | - |
-  | 5  | [Servante des Abîmes](/fr/units/Pit Fiend/) | [Épée](/fr/Exclusive/Pit Fiend Sword/) | - | Assaut | - | - |
-  | 6  | [Effrit](/fr/units/Efreeti/) | [Mélopée des arcanes](/fr/Exclusive/Efreeti Arcane Chant/) | - | Assaut | - | - |
-  | 7  | [Diable](/fr/units/Devil/) | [Faux du diable](/fr/Exclusive/Devil Devil Scythe/) | - | Soutien | - | - |
-  | 8  | [Cauchemar](/fr/units/Nightmare/) | [](/fr/Exclusive/Nightmare /) | - | À distance | - | - |
+  | 1  | [Diablotin](/fr/units/Imp/) | [Bouclier iris](/fr/Exclusive/Imp Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/fr/Items/con_913/) | - |
+  | 2  | [Gog](/fr/units/Gog/) | [Mélopée des arcanes](/fr/Exclusive/Gog Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/fr/Items/con_915/) | - |
+  | 3  | [Chien de l'Enfer](/fr/units/Hell Hound/) | [Pic du Chevalier](/fr/Exclusive/Hell Hound Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/fr/Items/con_916/) | - |
+  | 4  | [Démon](/fr/units/Demon/) | [Bouclier iris](/fr/Exclusive/Demon Iris Shield/) | + | Assaut | [Jeton Bouclier iris](/fr/Items/con_913/) | - |
+  | 5  | [Servante des Abîmes](/fr/units/Pit Fiend/) | [Épée](/fr/Exclusive/Pit Fiend Sword/) | - | Assaut | [Jeton Épée](/fr/Items/con_912/) | - |
+  | 6  | [Effrit](/fr/units/Efreeti/) | [Mélopée des arcanes](/fr/Exclusive/Efreeti Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/fr/Items/con_915/) | - |
+  | 7  | [Diable](/fr/units/Devil/) | [Faux du diable](/fr/Exclusive/Devil Devil Scythe/) | - | Soutien | [Jeton Faux du diable](/fr/Items/con_984/) | [Peau spéciale Faux du diable](/fr/Items/con_652/) |
+  | 8  | [Cauchemar](/fr/units/Nightmare/) | [](/fr/Exclusive/Nightmare /) | - | À distance | [Jeton Œil de Cauchemar](/fr/Items/con_985/) | [Tool_250809](/fr/Items/con_653/) |
   | 9  | [Progéniture venimeuse](/fr/units/Venom Spawn/) | - | - | - | none | none |

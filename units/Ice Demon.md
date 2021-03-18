@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Démone de glace](/fr/Items/unt_269/)
+
  **Short description:** Contrôle un Arbalétrier. Octroie des bonus aux alliés.
 
  **Position :** Contrôle un Arbalétrier. Octroie des bonus aux alliés.
@@ -186,9 +188,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

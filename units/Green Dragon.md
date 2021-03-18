@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Dragon vert](/fr/Items/unt_205/)
+
  **Unit description:** Renfort céleste : inflige des dégâts colossaux à 3 troupes ennemies sur la ligne arrière.
 
  **Short description:** Dégâts d'eau, résistance à l'eau.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Aile de dragon resplendissante](/fr/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Nom:** [Aile de dragon resplendissante](/fr/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Aile de dragon resplendissante](/fr/Items/con_644/)
 
 
 ## Emblèmes sacrés recommandés
@@ -173,9 +175,11 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Dragon d'or

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Farfadet](/fr/Items/unt_270/)
+
  **Short description:** Esquive et bloque. Octroie des bonus de contre-attaque.
 
  **Position :** Un expert en blocage bénéficiant d'une défense collective et de boucliers élémentaires.
@@ -74,7 +76,7 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Ronces](/fr/Exclusive/Leprechaun Thorns/) 
+ **Nom:** [Ronces](/fr/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
@@ -187,9 +189,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Maître Farfadet

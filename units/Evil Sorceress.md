@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Tool_3709](/fr/Items/unt_252/)
+
  **Short description:** Renvoie les sorts. Bonus de domaine.
 
  **Position :** Renvoie les sorts. Bonus de domaine.
@@ -176,9 +178,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

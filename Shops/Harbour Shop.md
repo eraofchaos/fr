@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 **Info** You can find this Shop under **Cove Attack** -> **Store** 
 {: .notice--danger}
 
-  |  Nr  |      Name      |         Price        |   Maximum available      |
+  |  Nr  |      Nom      |         Price        |   Maximum available      |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1 |  **12x** Ferveur(Un objet servant à défier des boss pendant l'événement Attaque de la Crique.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** Catherine - Ailes du Triomphe(Permet d'obtenir le skin Ailes du Triomphe de Catherine) |  **2500x** Shekel  | **1** |

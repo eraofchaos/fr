@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Troglodyte](/fr/Items/unt_244/)
+
  **Unit description:** Nuée de lances : inflige des dégâts de zone et étourdit.
 
  **Short description:** Polyvalent. Inflige Saignement.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée](/fr/Exclusive/Troglodyte Sword/) 
+ **Nom:** [Épée](/fr/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -168,9 +170,11 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Troglodyte des ténèbres

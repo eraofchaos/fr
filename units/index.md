@@ -18,7 +18,7 @@ classes: wide
 
   by Stars: [<i class="fas fa-star"/>](/fr/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/){: .btn .btn--warning} 
 
-  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr |         Nom        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | [Adjudicatrice](/fr/units/Judicator/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 2 | [Ange](/fr/units/Angel/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archange  |

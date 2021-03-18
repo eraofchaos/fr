@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arc de la Méduse** 
+### Détails
+ **Nom: Arc de la Méduse** 
 
  **Exclusif for Unit:** [Méduse](/fr/units/Medusa/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc de la Méduse](/fr/Items/con_991/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Arc de la Méduse](/fr/Items/con_659/)
 
  **Type:** À distance
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | La Méduse a 50 % de chance de lancer <Serpent venimeux> sur une unité aléatoire à chaque fois qu'elle attaque. L'effet dure pendant tout le combat, et peut se cumuler jusqu'à 10 fois. Lorsque la Méduse attaque une unité ayant accumulé <Serpent venimeux> 10 fois, ses dégâts augmentent de 30 %. <Serpent venimeux> : inflige une quantité de dégâts égale à 5 % de l'ATQ de la Méduse chaque seconde. |
-  | **1x** <i class="fas fa-star"/> | ? | Les coups critiques de la Méduse augmentent de 300. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'ATQ et l'attaque de la Méduse de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Résorption> : La Méduse lance une compétence toutes les 10 secondes pour supprimer les affaiblissements dont elle souffre. |
-  | **4x** <i class="fas fa-star"/> | ? | Les dégâts de la Méduse augmentent de 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Le Méduse obtient un drain de vie de 10 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Gorge scellée> : Lorsqu'elle attaque, la Méduse a 3 % de chance d'infliger une quantité de dégâts équivalente à 200 % de son ATQ à sa cible, de réduire sa DÉF de 20 %, sa vitesse d'ATQ de 10 % et son esquive de 500. L'effet dure 5 secondes. |
+  |  Réveil  | **100x** [Jeton Arc de la Méduse](/fr/Items/con_991/) | La Méduse a 50 % de chance de lancer <Serpent venimeux> sur une unité aléatoire à chaque fois qu'elle attaque. L'effet dure pendant tout le combat, et peut se cumuler jusqu'à 10 fois. Lorsque la Méduse attaque une unité ayant accumulé <Serpent venimeux> 10 fois, ses dégâts augmentent de 30 %. <Serpent venimeux> : inflige une quantité de dégâts égale à 5 % de l'ATQ de la Méduse chaque seconde. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc de la Méduse](/fr/Items/con_991/) | Les coups critiques de la Méduse augmentent de 300. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc de la Méduse](/fr/Items/con_991/) | Augmente la vitesse d'ATQ et l'attaque de la Méduse de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc de la Méduse](/fr/Items/con_991/) | <Résorption> : La Méduse lance une compétence toutes les 10 secondes pour supprimer les affaiblissements dont elle souffre. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Arc de la Méduse](/fr/Items/con_991/) | Les dégâts de la Méduse augmentent de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Arc de la Méduse](/fr/Items/con_991/) | Le Méduse obtient un drain de vie de 10 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Arc de la Méduse](/fr/Items/con_991/) | <Gorge scellée> : Lorsqu'elle attaque, la Méduse a 3 % de chance d'infliger une quantité de dégâts équivalente à 200 % de son ATQ à sa cible, de réduire sa DÉF de 20 %, sa vitesse d'ATQ de 10 % et son esquive de 500. L'effet dure 5 secondes. |
 
 
 ## Améliorer

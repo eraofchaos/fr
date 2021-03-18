@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Élémentaire de tempête](/fr/Items/unt_263/)
+
  **Short description:** Peut marquer un ennemi pour infliger de lourds dégâts.
 
  **Position :** Inflige statique, des dégâts supplémentaires, et des attaques multiples sur une cible unique.
@@ -73,11 +75,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc long](/fr/Exclusive/Storm Elemental Long Bow/) 
+ **Nom:** [Arc long](/fr/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Orage

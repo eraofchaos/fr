@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Diable](/fr/Items/unt_232/)
+
  **Unit description:** Mort douloureuse : inflige de très lourds dégâts à vos ennemis et les étourdit.
 
  **Short description:** Inflige d'énormes dégâts. Aura de dégâts.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Faux du diable](/fr/Exclusive/Devil Devil Scythe/) 
+ **Nom:** [Faux du diable](/fr/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Faux du diable](/fr/Items/con_984/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Faux du diable](/fr/Items/con_652/)
 
 
 ## Emblèmes sacrés recommandés
@@ -173,9 +175,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Archidiable

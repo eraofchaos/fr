@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Chevalier noir](/fr/Items/unt_213/)
+
  **Unit description:** Frappe fatale : inflige des dégâts colossaux et inflige Démotivation.
 
  **Short description:** Inflige de lourds dégâts. Décapitation améliorée.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Sabre des limbes](/fr/Exclusive/Black Knight Nether Sabre/) 
+ **Nom:** [Sabre des limbes](/fr/Exclusive/Black Knight Nether Sabre/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Sabre des limbes](/fr/Items/con_979/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Sabre des limbes](/fr/Items/con_647/)
 
 
 ## Emblèmes sacrés recommandés
@@ -176,9 +178,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Chevalier de l'Effroi

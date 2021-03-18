@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Berserker](/fr/Items/unt_224/)
+
  **Unit description:** Tempête guerrière : inflige des dégâts à 3 unités ennemies à proximité.
 
  **Short description:** Efficace contre les unités isolées. Bonus lors de la mort.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Hache de Berserker](/fr/Exclusive/Berserker Berserker's Axe/) 
+ **Nom:** [Hache de Berserker](/fr/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Hache de Berserker](/fr/Items/con_983/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Hache de Berserker](/fr/Items/con_651/)
 
 
 ## Emblèmes sacrés recommandés
@@ -179,9 +181,11 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Hurleur macabre

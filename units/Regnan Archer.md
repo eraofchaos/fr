@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Arbalétrière de Regna](/fr/Items/unt_274/)
+
  **Short description:** Coups critiques et pouvoir pénétrant.
 
  **Position :** Coups critiques et pénétration. Sème la destruction.
@@ -72,7 +74,7 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Miracle](/fr/Exclusive/Regnan Archer Miracle/) 
+ **Nom:** [Miracle](/fr/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
@@ -175,9 +177,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

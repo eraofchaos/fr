@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Dragon noir](/fr/Items/unt_250/)
+
  **Unit description:** Souffle du Dragon : attaque les ennemis dans une large zone et les brûle.
 
  **Short description:** Attaque et défense magiques équilibrées.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Écaille de Dragon noir](/fr/Exclusive/Black Dragon Black Dragon's Scale/) 
+ **Nom:** [Écaille de Dragon noir](/fr/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Écaille de Dragon noir](/fr/Items/con_993/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Écaille de Dragon noir](/fr/Items/con_661/)
 
 
 ## Emblèmes sacrés recommandés
@@ -170,9 +172,11 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Roi Dragon noir

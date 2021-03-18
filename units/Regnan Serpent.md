@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Serpent de Regna](/fr/Items/unt_276/)
+
  **Unit description:** Piétinement des abysses : contrôle les effets de zone, décourage l'ennemi et réduit ses coups critiques.
 
  **Short description:** Puissant tank. Garde des profondeurs.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Marées diurnes](/fr/Exclusive/Regnan Serpent Day Tides/) 
+ **Nom:** [Marées diurnes](/fr/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Marées diurnes](/fr/Items/con_1003/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Marées diurnes](/fr/Items/con_671/)
 
 
 ## Emblèmes sacrés recommandés
@@ -183,9 +185,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** 

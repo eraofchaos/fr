@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Nain](/fr/Items/unt_200/)
+
  **Unit description:** Hurlement du Nain : augmente les PV max de votre unité au début du combat.
 
  **Short description:** Augmente grandement la santé. Bouclier magique.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Dwarf Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -177,9 +179,11 @@ toc: true
 * Défense
 * Résistance magique
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

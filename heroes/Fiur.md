@@ -3,13 +3,13 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Encore jeune et inexpérimenté pour un Élémentaire, Fiur possède néanmoins un talent sans égal. Il devrait certainement devenir l'un des plus puissants Héros de sa caste."
 heroID: 60704
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Fiur"
 toc: true
 ---
  **Description:** Encore jeune et inexpérimenté pour un Élémentaire, Fiur possède néanmoins un talent sans égal. Il devrait certainement devenir l'un des plus puissants Héros de sa caste.
-## Details
+## Détails
  **Profession:** Marcheur
 
  **Race:** Conflux

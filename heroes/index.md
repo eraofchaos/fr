@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  | Nr |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     |
+  | Nr |    Nom    |  Race   |  Proffesion   |  Rate  |    Specialty     |
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaïde](/fr/heroes/Adelaide/) | Château | Clercs | R+ |  Anneau de givre  |
   | 2 | [Astral](/fr/heroes/Astral/) | Tour | Magicien | SSR |  Amplification magique  |

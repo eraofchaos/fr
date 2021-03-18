@@ -3,13 +3,13 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. En tant que reine d'Erathia, Catherine est contrainte de faire la guerre pour préserver le royaume fondé par son père. Elle luttera jusqu'à l'ultime épreuve de la lame d'Armageddon."
 heroID: 60102
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Catherine"
 toc: true
 ---
  **Description:** En tant que reine d'Erathia, Catherine est contrainte de faire la guerre pour préserver le royaume fondé par son père. Elle luttera jusqu'à l'ultime épreuve de la lame d'Armageddon.
-## Details
+## Détails
  **Profession:** Chevalier
 
  **Race:** Château

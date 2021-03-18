@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Revyaratan](/fr/Items/unt_280/)
+
  **Short description:** Kraken des profondeurs. Ne peut pas ressusciter.
 
  **Position :** Inflige constamment de très lourds dégâts. Décourage les ennemis et dévore les corps pour potentiellement restaurer ses PV.
@@ -74,7 +76,7 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Marées obscures](/fr/Exclusive/Revyaratan Gloom Tides/) 
+ **Nom:** [Marées obscures](/fr/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
@@ -178,9 +180,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Monstre marin ancestral

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Béhémoth](/fr/Items/unt_223/)
+
  **Unit description:** Rugissement : réduit considérablement l'attaque de l'ennemi et l'étourdit.
 
  **Short description:** Absorbe la vie à la mort des ennemis.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Esprit sanguinaire](/fr/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Nom:** [Esprit sanguinaire](/fr/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Esprit sanguinaire](/fr/Items/con_982/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Esprit sanguinaire](/fr/Items/con_650/)
 
 
 ## Emblèmes sacrés recommandés
@@ -176,9 +178,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Béhémoth royal

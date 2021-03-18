@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Tool_3209](/fr/Items/unt_207/)
+
  **Short description:** Portée de découpe rapide étendue.
 
  **Position :** Portée de découpe rapide étendue.
@@ -179,9 +181,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

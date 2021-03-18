@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Tortue dragon](/fr/Items/unt_278/)
+
  **Short description:** Tank. Régénère des PV.
 
  **Position :** Puissant défenseur. Restaure des PV à sa mort.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Obéissance](/fr/Exclusive/Dragon Turtle Obedience/) 
+ **Nom:** [Obéissance](/fr/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton d'Obéissance](/fr/Items/con_1005/)
 
- **Skin:** -
+ **Skin:** [Skin spécial d'obéissance](/fr/Items/con_673/)
 
 
 ## Emblèmes sacrés recommandés
@@ -165,9 +167,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Tortue dragon primaire

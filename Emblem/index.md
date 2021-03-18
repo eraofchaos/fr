@@ -2,7 +2,7 @@
 title: "Emblème sacré"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Les Emblèmes sacrés augmentent considérablement la puissance des unités qui les équipent. Plusieurs combinaisons d'Emblèmes sacrés sont possibles, selon leur qualité et les factions auxquelles ils appartiennent, et elles octroient des caractéristiques supplémentaires exceptionnelles."
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "index.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-## Emblème sacré (by name):
+## Emblème sacré (by Nom):
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Nom            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Signe inquiétant](/fr/Emblem/Ominous Sign/) | Mauvais | Convient à toutes les unités | 
   | 2 | [Droits des successeurs](/fr/Emblem/Successors' Legal Principles/) | Neutre | À incruster en priorité aux unités défensives | 

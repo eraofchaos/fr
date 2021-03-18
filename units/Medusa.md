@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Méduse](/fr/Items/unt_247/)
+
  **Unit description:** Regard pétrifiant : pétrifie les ennemis et réduit leur résistance aux dégâts.
 
  **Short description:** Pétrifie l'ennemi. DPS importants.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc de la Méduse](/fr/Exclusive/Medusa Medusa's Bow/) 
+ **Nom:** [Arc de la Méduse](/fr/Exclusive/Medusa Medusa's Bow/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc de la Méduse](/fr/Items/con_991/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Arc de la Méduse](/fr/Items/con_659/)
 
 
 ## Emblèmes sacrés recommandés
@@ -168,9 +170,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Reine Méduse

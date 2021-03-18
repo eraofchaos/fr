@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Pégase](/fr/Items/unt_202/)
+
  **Unit description:** Protection de vitalité : confère un bouclier vital à votre unité la plus proche.
 
  **Short description:** Protège et inflige Saignement.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc long](/fr/Exclusive/Pegasus Long Bow/) 
+ **Nom:** [Arc long](/fr/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -174,9 +176,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Pégase d'argent

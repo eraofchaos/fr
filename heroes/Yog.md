@@ -3,13 +3,13 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog a étudié auprès des Mages de Bracada pendant de longues années, mais il a toujours préféré la stratégie militaire au langage des runes. Repéré par le duc Krewlod, il est devenu un général exceptionnel de l'armée barbare."
 heroID: 60604
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Yog"
 toc: true
 ---
  **Description:** Yog a étudié auprès des Mages de Bracada pendant de longues années, mais il a toujours préféré la stratégie militaire au langage des runes. Repéré par le duc Krewlod, il est devenu un général exceptionnel de l'armée barbare.
-## Details
+## Détails
  **Profession:** Barbare
 
  **Race:** Bastion

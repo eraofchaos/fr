@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Géant ](/fr/Items/unt_241/)
+
  **Unit description:** Dieu de la guerre : inflige des dégâts à toutes portées.
 
  **Short description:** Un dieu du combat. Rien ne lui résiste !
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mille tonnes](/fr/Exclusive/Giant Thousand Ton/) 
+ **Nom:** [Mille tonnes](/fr/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mille tonnes](/fr/Items/con_988/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Mille tonnes](/fr/Items/con_656/)
 
 
 ## Emblèmes sacrés recommandés
@@ -167,9 +169,11 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Titan

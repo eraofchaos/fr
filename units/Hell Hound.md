@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Chien de l'Enfer](/fr/Items/unt_228/)
+
  **Unit description:** Carnage : transforme chaque coup en coup critique pendant une courte durée.
 
  **Short description:** Puissants coups critiques. Inflige Saignement.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/fr/Exclusive/Hell Hound Knight Pike/) 
+ **Nom:** [Pic du Chevalier](/fr/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

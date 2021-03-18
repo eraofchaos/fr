@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Naga](/fr/Items/unt_240/)
+
  **Unit description:** Danse tranchante : inflige des dégâts de zone et diminue la DÉF.
 
  **Short description:** Sème la terreur. Taux de dégâts conséquent.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée Naga](/fr/Exclusive/Naga Naga Sword/) 
+ **Nom:** [Épée Naga](/fr/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée Naga](/fr/Items/con_987/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Épée Naga](/fr/Items/con_655/)
 
 
 ## Emblèmes sacrés recommandés
@@ -173,9 +175,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Reine Naga

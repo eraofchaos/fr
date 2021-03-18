@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Pirates de Regna](/fr/Items/unt_273/)
+
  **Short description:** Dégâts massifs qui augmentent le courage.
 
  **Position :** Fait un carnage en début de combat. DPS élevés. Réduit la DÉF des ennemis.
@@ -75,11 +77,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée](/fr/Exclusive/Regnan Pirates Sword/) 
+ **Nom:** [Épée](/fr/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Roi des pirates

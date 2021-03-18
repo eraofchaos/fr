@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Bouclier iris** 
+### Détails
+ **Nom: Bouclier iris** 
 
  **Exclusif for Unit:** [Golem de fer](/fr/units/Iron Golem/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Module d'amélioration> : Le Golem de fer active le mode d'amélioration caché en lui, ce qui augmente sa DÉF de 10 %, sa résistance aux dégâts d'unité de 10 % et sa vitesse d'attaque de 30 % pendant 10 secondes. Le temps de recharge est de 20 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Golem de fer de 20 % et sa DÉF de 15 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente la ténacité du Golem de fer de 300. Lorsque <Module d'amélioration> se lance, le bonus de ténacité est doublé. |
-  | **3x** <i class="fas fa-star"/> | ? | <Poing électromagnétique> : Lorsque le Golem de fer attaque, il a 10 % de chance de lancer <Poing électromagnétique> une fois, ce qui inflige des dégâts équivalents à 200 % de son ATQ et diminue les dégâts d'unité de la cible et sa résistance aux dégâts de 10 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 4 fois. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente les PV du Golem de fer de 8 % et sa DÉF de 4 % à chaque fois qu'une unité de la Tour est déployée. |
-  | **5x** <i class="fas fa-star"/> | ? | Lorsque <Poing électromagnétique> se déclenche, le Golem de fer diminue de 50 % la vitesse d'attaque des unités ennemies dans une petite zone adjacente pendant 2 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | <Surcharge> : Lorsque <Module d'amélioration> se déclenche, a 50 % de chance de recevoir le double de bonus ainsi qu'un bouclier égal à 15 % de ses PV max pendant 10 secondes. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Module d'amélioration> : Le Golem de fer active le mode d'amélioration caché en lui, ce qui augmente sa DÉF de 10 %, sa résistance aux dégâts d'unité de 10 % et sa vitesse d'attaque de 30 % pendant 10 secondes. Le temps de recharge est de 20 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente les PV du Golem de fer de 20 % et sa DÉF de 15 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la ténacité du Golem de fer de 300. Lorsque <Module d'amélioration> se lance, le bonus de ténacité est doublé. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Poing électromagnétique> : Lorsque le Golem de fer attaque, il a 10 % de chance de lancer <Poing électromagnétique> une fois, ce qui inflige des dégâts équivalents à 200 % de son ATQ et diminue les dégâts d'unité de la cible et sa résistance aux dégâts de 10 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 4 fois. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente les PV du Golem de fer de 8 % et sa DÉF de 4 % à chaque fois qu'une unité de la Tour est déployée. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Lorsque <Poing électromagnétique> se déclenche, le Golem de fer diminue de 50 % la vitesse d'attaque des unités ennemies dans une petite zone adjacente pendant 2 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Surcharge> : Lorsque <Module d'amélioration> se déclenche, a 50 % de chance de recevoir le double de bonus ainsi qu'un bouclier égal à 15 % de ses PV max pendant 10 secondes. |
 
 
 ## Améliorer

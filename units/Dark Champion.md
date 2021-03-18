@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Champion des ténèbres](/fr/Items/unt_216/)
+
  **Short description:** Exécute. Invincibilité dans son propre domaine.
 
  **Position :** Diminue le moral des ennemis. Inflige des dégâts importants et tue instantanément les unités. Rend les alliés du domaine invincibles.
@@ -173,9 +175,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

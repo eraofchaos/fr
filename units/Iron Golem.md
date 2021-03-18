@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Golem de fer](/fr/Items/unt_237/)
+
  **Unit description:** Résonance métallique : active un bouclier protecteur pour les unités alliées.
 
  **Short description:** Résistance à la magie élevée.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Iron Golem Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * réduction des dégâts d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Golem d'or

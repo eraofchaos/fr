@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Queue de Wivern** 
+### Détails
+ **Nom: Queue de Wivern** 
 
  **Exclusif for Unit:** [Wivern](/fr/units/Wyvern/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Queue de Wivern](/fr/Items/con_996/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Queue de Wivern](/fr/Items/con_664/)
 
  **Type:** À distance
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Âme meurtrie> : À chaque fois qu'une Wivern meurt, les dégâts et la résistance aux dégâts des unités de la Forteresse alliées augmentent de 1 %. L'effet peut se cumuler jusqu'à 15 fois et dure toute la bataille. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque de la Wivern de 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de la Wivern de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Cœur meurtri> : Chaque fois qu'une Wivern entre en combat, elle augmente la pénétration de toutes les unités de la Forteresse alliées de 20 ainsi que leurs dégâts critiques de 2 %. L'effet peut se cumuler jusqu'à 15 fois et dure toute la bataille. Les unités de Wivern invoquent 1 Wivern toutes les 15 secondes. Les Wiverns invoquées disposent des compétences <Âme meurtrie> et >Cœur meurtri>. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité de la Wivern de 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Augmente la DÉF de la Wivern de 20 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Sang meurtri> : Les attaques normales de la Wivern infligent Sang toxique aux unités cibles pendant 30 secondes. Au début de la bataille, l'effet Sang toxique s'applique une fois à toutes les unités ennemies. Lorsqu'une unité de la Forteresse tue une unité ennemie affligée de Sang toxique, 1 Wivern est invoquée. Les Wyverns invoquées disposent des compétences <Âme meurtrie> et <Cœur meurtri>. |
+  |  Réveil  | **100x** [Jeton Queue de Wivern](/fr/Items/con_996/) | <Âme meurtrie> : À chaque fois qu'une Wivern meurt, les dégâts et la résistance aux dégâts des unités de la Forteresse alliées augmentent de 1 %. L'effet peut se cumuler jusqu'à 15 fois et dure toute la bataille. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Queue de Wivern](/fr/Items/con_996/) | Augmente la vitesse d'attaque de la Wivern de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Queue de Wivern](/fr/Items/con_996/) | Augmente les dégâts d'unité de la Wivern de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Queue de Wivern](/fr/Items/con_996/) | <Cœur meurtri> : Chaque fois qu'une Wivern entre en combat, elle augmente la pénétration de toutes les unités de la Forteresse alliées de 20 ainsi que leurs dégâts critiques de 2 %. L'effet peut se cumuler jusqu'à 15 fois et dure toute la bataille. Les unités de Wivern invoquent 1 Wivern toutes les 15 secondes. Les Wiverns invoquées disposent des compétences <Âme meurtrie> et >Cœur meurtri>. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Queue de Wivern](/fr/Items/con_996/) | Augmente la résistance aux dégâts d'unité de la Wivern de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Queue de Wivern](/fr/Items/con_996/) | Augmente la DÉF de la Wivern de 20 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Queue de Wivern](/fr/Items/con_996/) | <Sang meurtri> : Les attaques normales de la Wivern infligent Sang toxique aux unités cibles pendant 30 secondes. Au début de la bataille, l'effet Sang toxique s'applique une fois à toutes les unités ennemies. Lorsqu'une unité de la Forteresse tue une unité ennemie affligée de Sang toxique, 1 Wivern est invoquée. Les Wyverns invoquées disposent des compétences <Âme meurtrie> et <Cœur meurtri>. |
 
 
 ## Améliorer

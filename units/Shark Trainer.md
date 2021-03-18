@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Dompteur de requins](/fr/Items/unt_281/)
+
  **Short description:** Invoque un requin pour mettre en morceaux et réduire en poussière.
 
  **Position :** Invoquez de puissants requins qui deviennent de plus en plus puissants au fil de la bataille, et capables de mettre en pièces leurs adversaires.
@@ -75,7 +77,7 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Brise-vagues](/fr/Exclusive/Shark Trainer Break Waves/) 
+ **Nom:** [Brise-vagues](/fr/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
@@ -210,9 +212,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Chevaucheur de requins

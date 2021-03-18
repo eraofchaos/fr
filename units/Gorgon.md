@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Gorgone](/fr/Items/unt_257/)
+
  **Short description:** Attaque et endurance élevées. Puissant contrôle.
 
  **Position :** Tank puissant. Peut tuer instantanément les ennemis.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Corne de Gorgone](/fr/Exclusive/Gorgon Gorgon's Horn/) 
+ **Nom:** [Corne de Gorgone](/fr/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Corne de Gorgone](/fr/Items/con_995/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Corne de Gorgone](/fr/Items/con_663/)
 
 
 ## Emblèmes sacrés recommandés
@@ -182,9 +184,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Grande Gorgone

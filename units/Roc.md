@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Rock](/fr/Items/unt_221/)
+
  **Unit description:** Tonnerre : inflige de très lourds dégâts à toutes les troupes ennemies sur son chemin.
 
  **Short description:** Inflige des dégâts d'Air de masse. Inflige toujours des coups critiques.
@@ -79,11 +81,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Roc Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Roc Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Rock foudroyant

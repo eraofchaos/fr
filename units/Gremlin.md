@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Lutin](/fr/Items/unt_235/)
+
  **Unit description:** Boule de fer magique : augmente considérablement l'ATQ et la vitesse d'ATQ.
 
  **Short description:** Magie et dégâts améliorés.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc long](/fr/Exclusive/Gremlin Long Bow/) 
+ **Nom:** [Arc long](/fr/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

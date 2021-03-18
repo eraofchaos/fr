@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Ange](/fr/Items/unt_196/)
+
  **Unit description:** Condamnation : inflige des dégâts colossaux à 3 unités ennemies et les étourdit.
 
  **Short description:** Son aura de guérison soigne les alliés.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Durandel](/fr/Exclusive/Angel Durandel/) 
+ **Nom:** [Durandel](/fr/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Durandel](/fr/Items/con_973/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Durandel](/fr/Items/con_641/)
 
 
 ## Emblèmes sacrés recommandés
@@ -169,9 +171,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Archange

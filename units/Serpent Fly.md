@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Guêpe serpent](/fr/Items/unt_255/)
+
  **Short description:** Affaiblit et contrôle la ligne arrière.
 
  **Position :** Lanceur de sort efficace pour contrôler. Réduit les DPS ennemis.
@@ -75,11 +77,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Serpent Fly Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Serpent Fly Arcane Chant/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -186,9 +188,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** 

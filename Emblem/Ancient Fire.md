@@ -2,20 +2,20 @@
 title: "Emblème sacré - Feu ancien"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Feu ancien. Feu ancien. Era of Chaos Emblème sacré Feu ancien. Era of Chaos Ordre Feu ancien"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Ancient Fire.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Feu ancien
+ **Nom:** Feu ancien
 
  **Type:** [Ordre](/fr/Emblem/Type Order/)
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Feu ancien](/fr/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +6, PV +3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des unités au sol, les dégâts augmentent de 4 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +16, PV +7 %</span> | 
   | [Feu ancien](/fr/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +2, PV +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des unités au sol, les dégâts augmentent de 2 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +6, PV +2 %</span> | 

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Adjudicatrice](/fr/Items/unt_198/)
+
  **Short description:** Aura de soutien. Portée étendue.
 
  **Position :** Aura de groupe qui sert à restaurer les PV. L'aura protège contre les dégâts. Le sol sacré renforce vos alliés.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [](/fr/Exclusive/Judicator /) 
+ **Nom:** [](/fr/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Étendard spirituel Radiance sainte](/fr/Items/con_975/)
 
- **Skin:** -
+ **Skin:** [Tool_210909](/fr/Items/con_643/)
 
 
 ## Emblèmes sacrés recommandés
@@ -171,9 +173,11 @@ toc: true
 * Guérison
 * dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Harpie](/fr/Items/unt_245/)
+
  **Unit description:** Griffe tranchante de la Harpie : peut infliger des dégâts à plusieurs ennemis.
 
  **Short description:** Soutien. Capable d'entraver l'ennemi.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/fr/Exclusive/Harpy Knight Pike/) 
+ **Nom:** [Pic du Chevalier](/fr/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -165,9 +167,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** 

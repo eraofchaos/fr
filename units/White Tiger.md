@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Tool_3809](/fr/Items/unt_261/)
+
  **Position :** Le Tigre blanc déchaîne sa compétence Esprit du Tigre blanc pour percer les points faibles des défenses ennemies. Il active ses pouvoirs de pestilence pour retourner la situation en sa faveur sur le champ de bataille.
 
 ## Stats de base
@@ -181,9 +183,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

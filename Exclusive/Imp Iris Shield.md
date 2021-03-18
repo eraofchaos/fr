@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Bouclier iris** 
+### Détails
+ **Nom: Bouclier iris** 
 
  **Exclusif for Unit:** [Diablotin](/fr/units/Imp/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Langue de feu> : Le Diablotin inflige des dégâts équivalents à 300 % de son ATQ ainsi que Brûlure pendant 6 secondes. Le temps de recharge est de 20 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente la résistance magique du Diablotin de 25 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente la DÉF du Diablotin de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Armure vaillante> : Lorsque les PV du Diablotin tombent à 60 % et 30 % pour la première fois, il reçoit un bouclier égal à 20 % de ses PV max et sa ténacité augmente de 150 pendant 20 secondes. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente les PV du Diablotin de 20 % et sa ténacité de 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Diablotin de 2 % et sa ténacité de 30 à chaque fois qu'une unité de l'Hadès est déployée. |
-  | **6x** <i class="fas fa-star"/> | ? | <Forme flexible> : À chaque esquive du Diablotin, a 25 % de chance de récupérer une quantité de PV égale à 3 % de ses PV max et d'augmenter l'ATQ de 5 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 250 %. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Langue de feu> : Le Diablotin inflige des dégâts équivalents à 300 % de son ATQ ainsi que Brûlure pendant 6 secondes. Le temps de recharge est de 20 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la résistance magique du Diablotin de 25 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la DÉF du Diablotin de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Armure vaillante> : Lorsque les PV du Diablotin tombent à 60 % et 30 % pour la première fois, il reçoit un bouclier égal à 20 % de ses PV max et sa ténacité augmente de 150 pendant 20 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente les PV du Diablotin de 20 % et sa ténacité de 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la résistance aux dégâts d'unité du Diablotin de 2 % et sa ténacité de 30 à chaque fois qu'une unité de l'Hadès est déployée. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Forme flexible> : À chaque esquive du Diablotin, a 25 % de chance de récupérer une quantité de PV égale à 3 % de ses PV max et d'augmenter l'ATQ de 5 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 250 %. |
 
 
 ## Améliorer

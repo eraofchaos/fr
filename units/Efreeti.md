@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Effrit](/fr/Items/unt_231/)
+
  **Unit description:** Boule de feu : inflige des dégâts colossaux aux ennemis et les brûle.
 
  **Short description:** Le bouclier renvoie les dégâts. Inflige des brûlures.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Efreeti Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Efreeti Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -175,9 +177,11 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Sultan Effrit

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Élémentaire de mer](/fr/Items/unt_275/)
+
  **Short description:** Contrôle de Lenteur.
 
  **Position :** Puissant contrôle de combat. Affaiblit constamment les ennemis.
@@ -76,11 +78,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Sea Elemental Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -170,9 +172,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Élémentaire des marées

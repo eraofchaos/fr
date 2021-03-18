@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Centaure](/fr/Items/unt_199/)
+
  **Unit description:** Choc guerrier : inflige des dégâts aux unités les plus proches et les ralentit.
 
  **Short description:** Inflige Lenteur et Saignement. Bouclier résistant.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Centaur Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Centaur Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Capitaine Centaure

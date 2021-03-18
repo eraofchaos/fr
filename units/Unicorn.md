@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Licorne](/fr/Items/unt_204/)
+
  **Unit description:** Cécité : diminue la précision d'une ligne ennemie.
 
  **Short description:** Inflige <Cécité>. Son bouclier et son esquive se renforcent au fil du temps.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/fr/Exclusive/Unicorn Knight Pike/) 
+ **Nom:** [Pic du Chevalier](/fr/Exclusive/Unicorn Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -168,9 +170,11 @@ toc: true
 * Esquive d'unité
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Licorne de guerre

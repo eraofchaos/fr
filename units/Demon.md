@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Démon](/fr/Items/unt_229/)
+
  **Unit description:** Frappe brûlante : inflige des dégâts colossaux aux troupes ennemies.
 
  **Short description:** Bouclier d'évitement. Restaure la santé.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Demon Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -170,9 +172,11 @@ toc: true
 * Défense
 * Esquive d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Garde de l'Hadès

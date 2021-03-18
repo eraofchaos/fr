@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Orque](/fr/Items/unt_219/)
+
  **Unit description:** Exécution : inflige des dégâts supplémentaires aux ennemis qui ont moins de 30 % de PV.
 
  **Short description:** Inflige Saignement. Efficace contre les ennemis avec peu de santé.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc long](/fr/Exclusive/Orc Long Bow/) 
+ **Nom:** [Arc long](/fr/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -176,9 +178,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Commandant Orque

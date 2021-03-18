@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Moine](/fr/Items/unt_194/)
+
  **Unit description:** Faveur divine : soigne l'unité qui a le moins de PV.
 
  **Short description:** Soins très efficaces et bonus puissants.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -163,9 +165,11 @@ toc: true
 
 * ?!? 
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Zélote

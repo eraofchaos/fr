@@ -3,13 +3,13 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka utilise la peur pour mener ses troupes à la victoire. Jusqu'ici, sa stratégie s'est révélée très efficace."
 heroID: 60802
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Rashka"
 toc: true
 ---
  **Description:** Rashka utilise la peur pour mener ses troupes à la victoire. Jusqu'ici, sa stratégie s'est révélée très efficace.
-## Details
+## Détails
  **Profession:** Démoniaque
 
  **Race:** Hadès

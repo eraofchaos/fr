@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Troll](/fr/Items/unt_225/)
+
  **Short description:** Attaque d'une cible unique. Dégâts d'explosion.
 
  **Position :** Attaque d'une cible unique. Dégâts d'explosion.
@@ -187,9 +189,11 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

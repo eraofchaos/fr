@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Guêpier](/fr/Items/unt_260/)
+
  **Short description:** DPS et contrôle.
 
  **Position :** Unité de DPS efficace pour contrôler. Invoque des unités pour détruire les ennemis.
@@ -72,7 +74,7 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Feuille de Guêpier](/fr/Exclusive/Waspwort Waspwort Leaf/) 
+ **Nom:** [Feuille de Guêpier](/fr/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
@@ -172,9 +174,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

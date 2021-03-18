@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Gargouille](/fr/Items/unt_236/)
+
  **Unit description:** Forme de pierre : augmente l'ATQ et la vitesse d'ATQ.
 
  **Short description:** ATQ élevée. Résistance à la magie. Effet de pénétration.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée](/fr/Exclusive/Stone Gargoyle Sword/) 
+ **Nom:** [Épée](/fr/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -174,9 +176,11 @@ toc: true
 * Esquive d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** 

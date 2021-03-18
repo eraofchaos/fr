@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Manticore](/fr/Items/unt_249/)
+
  **Short description:** DPS et endurance élevés.
 
  **Position :** Soutien d'assaut. Augmente les DPS alliés et affaiblit les défenses ennemies.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Queue de scorpion](/fr/Exclusive/Manticore Scorpion Tail/) 
+ **Nom:** [Queue de scorpion](/fr/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Queue de scorpion](/fr/Items/con_992/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Queue de scorpion](/fr/Items/con_660/)
 
 
 ## Emblèmes sacrés recommandés
@@ -162,9 +164,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Scorpicore

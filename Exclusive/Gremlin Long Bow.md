@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arc long** 
+### Détails
+ **Nom: Arc long** 
 
  **Exclusif for Unit:** [Lutin](/fr/units/Gremlin/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Bombe magique> : Lance un orbe de fer magique sur l'unité cible, infligeant des dégâts équivalents à 200 % de son ATQ aux unités ennemies adjacentes lorsque cet orbe de fer explose. Le temps de recharge est de 15 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Lutin de 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | <Éveil magique> : Augmente la résistance magique du Lutin de 6 % et sa résistance aux dégâts d'unité de 3 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 10 fois. |
-  | **3x** <i class="fas fa-star"/> | ? | <Bombe magique> : Inflige des dégâts supplémentaires équivalents à 100 % de son ATQ et inflige Étourdissement aux unités ennemies pendant 2 secondes. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente de 20 % l'ATQ du Lutin. Inflige des dégâts supplémentaires équivalents à 25 % de son ATQ aux unités étourdies. |
-  | **5x** <i class="fas fa-star"/> | ? | Le Lutin psalmodie au début de la bataille, ce qui augmente ses coups critiques de 500 et les dégâts de ses coups critiques de 100 % pendant 20 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | <Art impie> : À chaque fois qu'un Lutin meurt, <Bombe magique> est lancée et inflige Étourdissement aux unités ennemies adjacentes pendant 2 secondes. |
+  |  Réveil  | **100x** [Jeton Arc long](/fr/Items/con_914/) | <Bombe magique> : Lance un orbe de fer magique sur l'unité cible, infligeant des dégâts équivalents à 200 % de son ATQ aux unités ennemies adjacentes lorsque cet orbe de fer explose. Le temps de recharge est de 15 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc long](/fr/Items/con_914/) | Augmente les dégâts d'unité du Lutin de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc long](/fr/Items/con_914/) | <Éveil magique> : Augmente la résistance magique du Lutin de 6 % et sa résistance aux dégâts d'unité de 3 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 10 fois. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc long](/fr/Items/con_914/) | <Bombe magique> : Inflige des dégâts supplémentaires équivalents à 100 % de son ATQ et inflige Étourdissement aux unités ennemies pendant 2 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Arc long](/fr/Items/con_914/) | Augmente de 20 % l'ATQ du Lutin. Inflige des dégâts supplémentaires équivalents à 25 % de son ATQ aux unités étourdies. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Arc long](/fr/Items/con_914/) | Le Lutin psalmodie au début de la bataille, ce qui augmente ses coups critiques de 500 et les dégâts de ses coups critiques de 100 % pendant 20 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Arc long](/fr/Items/con_914/) | <Art impie> : À chaque fois qu'un Lutin meurt, <Bombe magique> est lancée et inflige Étourdissement aux unités ennemies adjacentes pendant 2 secondes. |
 
 
 ## Améliorer

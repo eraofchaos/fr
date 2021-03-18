@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Élémentaire de feu](/fr/Items/unt_265/)
+
  **Short description:** Brûle les ennemis et provoque de grosses explosions.
 
  **Position :** Inflige Brûlure. Explose le champ de bataille entier. Se renforce en tuant des ennemis.
@@ -73,13 +75,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Énergie de feu](/fr/Exclusive/Fire Elemental Fire Energy/) 
+ **Nom:** [Énergie de feu](/fr/Exclusive/Fire Elemental Fire Energy/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Énergie de feu](/fr/Items/con_998/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Énergie de feu](/fr/Items/con_666/)
 
 
 ## Emblèmes sacrés recommandés
@@ -170,9 +172,11 @@ toc: true
 * Vitesse d'attaque
 * Esquive d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Élémentaire d'énergie

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Sirène](/fr/Items/unt_277/)
+
  **Short description:** Soins de groupe. Bonus puissants.
 
  **Position :** Puissant guérisseur. Donne d'excellents bonus en début de combat.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Marées nocturnes](/fr/Exclusive/Mermaid Night Tides/) 
+ **Nom:** [Marées nocturnes](/fr/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Marées nocturnes](/fr/Items/con_1004/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Marées nocturnes](/fr/Items/con_672/)
 
 
 ## Emblèmes sacrés recommandés
@@ -168,9 +170,11 @@ toc: true
 * Vitesse d'attaque
 * Guérison
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

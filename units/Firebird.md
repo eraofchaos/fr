@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Oiseau de feu](/fr/Items/unt_268/)
+
  **Unit description:** Souffle de feu : inflige des dégâts aux troupes ennemies sur son chemin.
 
  **Short description:** Inflige des dégâts de feu à distance. Résurrection en cas de mort.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Flamme éternelle](/fr/Exclusive/Firebird Eternal Flame/) 
+ **Nom:** [Flamme éternelle](/fr/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Flamme éternelle](/fr/Items/con_1001/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Flamme éternelle](/fr/Items/con_669/)
 
 
 ## Emblèmes sacrés recommandés
@@ -170,9 +172,11 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Phoenix

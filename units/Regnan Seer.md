@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Oracle de Regna](/fr/Items/unt_279/)
+
  **Short description:** Chef de la Crique. Puissant contrôle.
 
  **Position :** L'âme de la faction de la Crique. Provoque de puissantes explosions de zone.
@@ -75,13 +77,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [](/fr/Exclusive/Regnan Seer /) 
+ **Nom:** [](/fr/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/)
 
- **Skin:** -
+ **Skin:** [Tool_2990709](/fr/Items/con_674/)
 
 
 ## Emblèmes sacrés recommandés
@@ -176,9 +178,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Élémentaire des marées

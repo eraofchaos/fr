@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Cauchemar](/fr/Items/unt_233/)
+
  **Short description:** Soutien. Dégâts initiaux importants.
 
  **Position :** Soutient les unités de défense. Améliore la puissance des unités de l'Hadès.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [](/fr/Exclusive/Nightmare /) 
+ **Nom:** [](/fr/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Œil de Cauchemar](/fr/Items/con_985/)
 
- **Skin:** -
+ **Skin:** [Tool_250809](/fr/Items/con_653/)
 
 
 ## Emblèmes sacrés recommandés
@@ -165,9 +167,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Roi Cauchemar

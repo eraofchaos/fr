@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Minotaure](/fr/Items/unt_248/)
+
  **Unit description:** Tourbillon : inflige des dégâts de zone et diminue la vitesse d'ATQ.
 
  **Short description:** Soutien. Sert aussi de tank.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Minotaur Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Minotaur Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Roi Minotaure

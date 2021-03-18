@@ -2,20 +2,20 @@
 title: "Emblème sacré - Témoin"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Témoin. Témoin. Era of Chaos Emblème sacré Témoin. Era of Chaos Bonté Témoin"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Witness.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Témoin
+ **Nom:** Témoin
 
  **Type:** [Bonté](/fr/Emblem/Type Goodness/)
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Témoin](/fr/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +20, PV +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la vitesse d'ATQ des unités déployées de 5 %. Lorsque les unités déployées abattent une cible, leur vitesse d'ATQ augmente de 15 % pendant toute la bataille.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +55, PV +20 %</span> | 
   | [Témoin](/fr/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +13, PV +5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la vitesse d'ATQ des unités déployées de 4 %. Lorsque les unités déployées abattent une cible, leur vitesse d'ATQ augmente de 10 % pendant toute la bataille.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +30, PV +15 %</span> | 

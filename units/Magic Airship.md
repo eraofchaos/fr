@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Aéronef magique](/fr/Items/unt_242/)
+
  **Short description:** Confère des bonus de DPS en ligne arrière.
 
  **Position :** Soutient les Mages. Augmente la vitesse d'ATQ des Lanceurs de sorts et gèle les attaques des ennemis.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Étoile polaire](/fr/Exclusive/Magic Airship Polaris/) 
+ **Nom:** [Étoile polaire](/fr/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Étoile polaire](/fr/Items/con_989/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Étoile polaire](/fr/Items/con_657/)
 
 
 ## Emblèmes sacrés recommandés
@@ -170,9 +172,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

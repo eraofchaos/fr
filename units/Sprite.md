@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Fée](/fr/Items/unt_262/)
+
  **Short description:** Inflige Silence. Sort initial amélioré.
 
  **Position :** Explose en mourant, inflige Silence, augmente le mana de départ des Héros.
@@ -74,11 +76,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/fr/Exclusive/Sprite Knight Pike/) 
+ **Nom:** [Pic du Chevalier](/fr/Exclusive/Sprite Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -166,9 +168,11 @@ toc: true
 * dégâts d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** 

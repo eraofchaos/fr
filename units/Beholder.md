@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Œil maléfique](/fr/Items/unt_246/)
+
  **Unit description:** Contrôle mental : immobilise les ennemis et leur fait perdre progressivement des PV.
 
  **Short description:** Puissante attaque directe d'ouverture. Contrôle mental.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Regard ténébreux](/fr/Exclusive/Beholder Dark Gaze/) 
+ **Nom:** [Regard ténébreux](/fr/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Regard ténébreux](/fr/Items/con_990/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Regard ténébreux](/fr/Items/con_658/)
 
 
 ## Emblèmes sacrés recommandés
@@ -163,9 +165,11 @@ toc: true
 * dégâts d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Œil démoniaque

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Hydre](/fr/Items/unt_259/)
+
  **Short description:** Attaque et endurance élevées. Puissant contrôle.
 
  **Position :** Excellente unité de DPS. Détruit les ennemis avec des attaques ininterrompues.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Tête d'Hydre](/fr/Exclusive/Hydra Hydra's Head/) 
+ **Nom:** [Tête d'Hydre](/fr/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Tête d'Hydre](/fr/Items/con_997/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Noyau d'énergie](/fr/Items/con_665/)
 
 
 ## Emblèmes sacrés recommandés
@@ -167,9 +169,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Pyrohydre

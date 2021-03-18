@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Pic du Chevalier** 
+### Détails
+ **Nom: Pic du Chevalier** 
 
  **Exclusif for Unit:** [Vampire](/fr/units/Vampire/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Frappe écarlate> : Le Vampire se transforme en chauve-souris et se précipite au cœur de la formation ennemie. Pendant ce temps, la vitesse de déplacement du Vampire augmente de 30, et il est immunisé contre Étourdissement, Gel et Lenteur. Le Vampire reprend sa forme humaine après avoir interagi avec une unité ennemie, et sa première attaque leur inflige des dégâts équivalents à 500 % de son ATQ. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Vampire de 20 % et sa DÉF de 10 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente la résistance aux dégâts d'unité du Vampire de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Évangile du Croc sanglant> : Le Vampire inflige des dégâts équivalents à 300 % de son ATQ, ce qui réduit de 20 % la résistance aux dégâts d'unité de sa cible. Si l'unité cible souffre de Démotivation, sa DÉF est réduite de 10 % pendant 5 secondes. Le temps de recharge est de 25 secondes. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Vampire de 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Augmente les coups critiques de 200 et les dégâts critiques de 20 % lorsqu'il attaque des ennemis affligés de Démotivation. |
-  | **6x** <i class="fas fa-star"/> | ? | <Armure ensanglantée> : Les unités de Vampire s'octroient un bouclier égal à 5 % de leurs PV max lorsqu'un Vampire meurt. Chaque fois que cette compétence est déclenchée, leur bouclier augmente de 5 % par rapport à cette valeur de base, dans la limite de 45 % de leurs PV max. Chaque bouclier dure 5 secondes lorsqu'il est déclenché. |
+  |  Réveil  | **100x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Frappe écarlate> : Le Vampire se transforme en chauve-souris et se précipite au cœur de la formation ennemie. Pendant ce temps, la vitesse de déplacement du Vampire augmente de 30, et il est immunisé contre Étourdissement, Gel et Lenteur. Le Vampire reprend sa forme humaine après avoir interagi avec une unité ennemie, et sa première attaque leur inflige des dégâts équivalents à 500 % de son ATQ. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente les PV du Vampire de 20 % et sa DÉF de 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente la résistance aux dégâts d'unité du Vampire de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Évangile du Croc sanglant> : Le Vampire inflige des dégâts équivalents à 300 % de son ATQ, ce qui réduit de 20 % la résistance aux dégâts d'unité de sa cible. Si l'unité cible souffre de Démotivation, sa DÉF est réduite de 10 % pendant 5 secondes. Le temps de recharge est de 25 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente les dégâts d'unité du Vampire de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente les coups critiques de 200 et les dégâts critiques de 20 % lorsqu'il attaque des ennemis affligés de Démotivation. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Armure ensanglantée> : Les unités de Vampire s'octroient un bouclier égal à 5 % de leurs PV max lorsqu'un Vampire meurt. Chaque fois que cette compétence est déclenchée, leur bouclier augmente de 5 % par rapport à cette valeur de base, dans la limite de 45 % de leurs PV max. Chaque bouclier dure 5 secondes lorsqu'il est déclenché. |
 
 
 ## Améliorer

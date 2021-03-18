@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Vampire](/fr/Items/unt_211/)
+
  **Unit description:** Drain de vie : draine la santé d'une unité ennemie pour restaurer la vôtre.
 
  **Short description:** Absorbe la vie. Efficace contre les cibles ayant peu de santé.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/fr/Exclusive/Vampire Knight Pike/) 
+ **Nom:** [Pic du Chevalier](/fr/Exclusive/Vampire Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Seigneur Vampire

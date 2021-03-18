@@ -3,13 +3,13 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Les troupes de Sir Mullich sont connues pour leur vitesse. Elle est le fruit de l'entraînement spécial qu'il leur prodigue. La retenue et la discipline de Mullich sont elles aussi très appréciées."
 heroID: 60101
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Mullich"
 toc: true
 ---
  **Description:** Les troupes de Sir Mullich sont connues pour leur vitesse. Elle est le fruit de l'entraînement spécial qu'il leur prodigue. La retenue et la discipline de Mullich sont elles aussi très appréciées.
-## Details
+## Détails
  **Profession:** Chevalier
 
  **Race:** Château

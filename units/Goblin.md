@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Gobelin](/fr/Items/unt_217/)
+
  **Unit description:** Tempête guerrière : inflige des dégâts à 3 unités ennemies à proximité.
 
  **Short description:** Contre-attaques à distance. Les coups critiques absorbent la santé.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée](/fr/Exclusive/Goblin Sword/) 
+ **Nom:** [Épée](/fr/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Hobgobelin

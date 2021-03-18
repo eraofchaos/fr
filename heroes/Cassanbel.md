@@ -3,13 +3,13 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Bien qu'elle ait perdu son \"père\" à cause des humains, elle continue d'aider ceux qui vivent sur l'eau."
 heroID: 61701
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Cassanbel"
 toc: true
 ---
  **Description:** Bien qu'elle ait perdu son \"père\" à cause des humains, elle continue d'aider ceux qui vivent sur l'eau.
-## Details
+## Détails
  **Profession:** Créatures marines
 
  **Race:** Crique

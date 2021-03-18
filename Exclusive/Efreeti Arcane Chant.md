@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Mélopée des arcanes** 
+### Détails
+ **Nom: Mélopée des arcanes** 
 
  **Exclusif for Unit:** [Effrit](/fr/units/Efreeti/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Flammes de l'oubli> : Lorsque la cible attaquée brûle, une boule de feu extrêmement concentrée est lancée, ce qui inflige des dégâts équivalents à 30 % des PV max aux unités ennemies dans une large zone. Le temps de recharge est de 30 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité de l'Effrit de 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de l'Effrit de 20 % et sa vitesse d'attaque de 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Allégeance> : Lorsqu'une unité ennemie sur le champ de bataille porte une marque de l'Hadès, l'Effrit utilisera immédiatement Flammes infernales pour attaquer l'une des unités marquées, ce qui inflige des dégâts équivalents à 100 % de son ATQ et ajoute une autre marque de l'Hadès. Le temps de recharge est de 15 secondes. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente les dégâts des coups critiques de l'Effrit de 40 %. |
-  | **5x** <i class="fas fa-star"/> | ? | L'Effrit est immunisé contre les dégâts des sorts de feu. |
-  | **6x** <i class="fas fa-star"/> | ? | Lancer <Flammes de l'oubli> inflige Étourdissement pendant 5 secondes et diminue les dégâts d'unité de 40 % pendant 10 secondes. |
+  |  Réveil  | **100x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Flammes de l'oubli> : Lorsque la cible attaquée brûle, une boule de feu extrêmement concentrée est lancée, ce qui inflige des dégâts équivalents à 30 % des PV max aux unités ennemies dans une large zone. Le temps de recharge est de 30 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente les dégâts d'unité de l'Effrit de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente l'ATQ de l'Effrit de 20 % et sa vitesse d'attaque de 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Allégeance> : Lorsqu'une unité ennemie sur le champ de bataille porte une marque de l'Hadès, l'Effrit utilisera immédiatement Flammes infernales pour attaquer l'une des unités marquées, ce qui inflige des dégâts équivalents à 100 % de son ATQ et ajoute une autre marque de l'Hadès. Le temps de recharge est de 15 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente les dégâts des coups critiques de l'Effrit de 40 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | L'Effrit est immunisé contre les dégâts des sorts de feu. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Lancer <Flammes de l'oubli> inflige Étourdissement pendant 5 secondes et diminue les dégâts d'unité de 40 % pendant 10 secondes. |
 
 
 ## Améliorer

@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Épée** 
+### Détails
+ **Nom: Épée** 
 
  **Exclusif for Unit:** [Troglodyte](/fr/units/Troglodyte/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Fente transperçante> : Le Troglodyte inflige des dégâts équivalents à 200 % de son ATQ ainsi que Poison pendant 8 secondes. Si l'unité cible est déjà victime de Poison, alors elle subit Étourdissement pendant 1 seconde. Le temps de recharge est de 20 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente les PV du Troglodyte de 20 % et son esquive de 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente l'ATQ du Troglodyte de 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Odeur du briseur de sorts> : Augmente la DÉF du Troglodyte de 5 % et sa ténacité de 40 pendant 6 secondes. L'effet peut se cumuler jusqu'à 5 fois. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Troglodyte de 15 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Augmente le drain de vie du Troglodyte de 10 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Odeur du briseur de sorts> : Lorsque 3 niveaux d'effets ou plus sont actifs, chaque fois qu'<Odeur du briseur de sorts> se déclenche, <Fente transperçante> se lancera une fois également. |
+  |  Réveil  | **100x** [Jeton Épée](/fr/Items/con_912/) | <Fente transperçante> : Le Troglodyte inflige des dégâts équivalents à 200 % de son ATQ ainsi que Poison pendant 8 secondes. Si l'unité cible est déjà victime de Poison, alors elle subit Étourdissement pendant 1 seconde. Le temps de recharge est de 20 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/fr/Items/con_912/) | Augmente les PV du Troglodyte de 20 % et son esquive de 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/fr/Items/con_912/) | Augmente l'ATQ du Troglodyte de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/fr/Items/con_912/) | <Odeur du briseur de sorts> : Augmente la DÉF du Troglodyte de 5 % et sa ténacité de 40 pendant 6 secondes. L'effet peut se cumuler jusqu'à 5 fois. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/fr/Items/con_912/) | Augmente les dégâts d'unité du Troglodyte de 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/fr/Items/con_912/) | Augmente le drain de vie du Troglodyte de 10 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/fr/Items/con_912/) | <Odeur du briseur de sorts> : Lorsque 3 niveaux d'effets ou plus sont actifs, chaque fois qu'<Odeur du briseur de sorts> se déclenche, <Fente transperçante> se lancera une fois également. |
 
 
 ## Améliorer

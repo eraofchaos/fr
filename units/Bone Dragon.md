@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Dragon squelette](/fr/Items/unt_214/)
+
  **Unit description:** Effroi : réduit de façon drastique la défense ennemie et inflige Démotivation.
 
  **Short description:** Maintient la distance en infligeant des dégâts supplémentaires.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Os de dragon immortel](/fr/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Nom:** [Os de dragon immortel](/fr/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Os de dragon immortel](/fr/Items/con_980/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Os de dragon immortel](/fr/Items/con_648/)
 
 
 ## Emblèmes sacrés recommandés
@@ -172,9 +174,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Dragon fantôme

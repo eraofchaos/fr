@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Guerriers spartiates](/fr/Items/unt_272/)
+
  **Short description:** Le bouclier étourdit les ennemis. La mort renforce les alliés.
 
  **Position :** Le puissant bouclier étourdit les ennemis. La mort d'une unité renforce les alliés.
@@ -161,9 +163,11 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

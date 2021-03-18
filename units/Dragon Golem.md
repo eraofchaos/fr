@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Golem dragon](/fr/Items/unt_243/)
+
  **Short description:** Défense ultime.
 
  **Position :** Protection de groupe en début de combat qui réduit les dégâts subis. La défense ultime et indestructible de la ligne arrière. Contrôle à distance et intimide toutes les unités sur le champ de bataille.
@@ -172,9 +174,11 @@ toc: true
 * réduction des dégâts d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

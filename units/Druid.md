@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Druidesse](/fr/Items/unt_206/)
+
  **Unit description:** Chromosphère sylvestre : immunise les unités situées dans son cercle magique contre les dégâts magiques.
 
  **Short description:** Annule le bouclier. Améliore les coups critiques.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bâton de renouveau](/fr/Exclusive/Druid Staff of Regrowth/) 
+ **Nom:** [Bâton de renouveau](/fr/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bâton de renouveau](/fr/Items/con_977/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Bâton de renouveau](/fr/Items/con_645/)
 
 
 ## Emblèmes sacrés recommandés
@@ -170,9 +172,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Archidruidesse

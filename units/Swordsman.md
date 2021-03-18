@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Spadassin](/fr/Items/unt_193/)
+
  **Unit description:** Protection divine : réduit les dégâts reçus.
 
  **Short description:** Le bouclier absorbe les dégâts. Peut se soigner.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Swordsman Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Swordsman Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Défense
 * Résistance magique
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Croisé

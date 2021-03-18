@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Trépassé](/fr/Items/unt_209/)
+
  **Unit description:** Détonation : lorsque l'unité meurt, inflige des dégâts à la troupe ennemie la plus proche.
 
  **Short description:** Aura de poison. Explose lors de la mort.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Walking Dead Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Walking Dead Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Zombie

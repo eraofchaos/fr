@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Mage](/fr/Items/unt_238/)
+
  **Unit description:** Pénétration de sort : augmente sans cesse les dégâts infligés aux unités isolées.
 
  **Short description:** Unité de magie équipée d'un bouclier d'absorption.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Arch Mage Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Arch Mage Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Archimage

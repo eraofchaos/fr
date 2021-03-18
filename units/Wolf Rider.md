@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Chevaucheur de loup](/fr/Items/unt_218/)
+
  **Unit description:** Bête de compagnie : invoque des loups au combat lorsque l'unité meurt.
 
  **Short description:** Fait appel à un loup dont les coups critiques absorbent la santé.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/fr/Exclusive/Wolf Rider Knight Pike/) 
+ **Nom:** [Pic du Chevalier](/fr/Exclusive/Wolf Rider Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -177,9 +179,11 @@ toc: true
 * dégâts d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Pillard

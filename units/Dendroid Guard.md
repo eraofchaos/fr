@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Garde sylvanien](/fr/Items/unt_203/)
+
  **Unit description:** Engourdissement : Réduit la vitesse d'attaque de l'ennemi et le ralentit.
 
  **Short description:** Protège et inflige Lenteur.
@@ -79,11 +81,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Dendroid Guard Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Dendroid Guard Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Soldat sylvanien

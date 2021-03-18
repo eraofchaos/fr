@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Assassin](/fr/Items/unt_271/)
+
  **Short description:** Inflige des dégâts d'assassinat et affaiblit les soins.
 
  **Position :** Inflige des dégâts d'assassinat, affaiblit les soins, lance des couteaux et réduit les ennemis au silence.
@@ -163,9 +165,11 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

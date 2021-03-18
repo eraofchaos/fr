@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Servante des Abîmes](/fr/Items/unt_230/)
+
  **Unit description:** Cercle de feu : soigne continuellement des unités alliées sur son chemin.
 
  **Short description:** Fait appel à un soigneur démoniaque.
@@ -77,11 +79,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée](/fr/Exclusive/Pit Fiend Sword/) 
+ **Nom:** [Épée](/fr/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Guérison
 * dégâts d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Seigneur des Abîmes

@@ -3,13 +3,13 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandra doit ses compétences de combat exceptionnelles à l'éducation spartiate qu'elle a reçue enfant. Après que les Spartiates l'ont laissée pour morte sur le Mont Taygetos, elle est devenue mercenaire."
 heroID: 62001
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Kassandra"
 toc: true
 ---
  **Description:** Kassandra doit ses compétences de combat exceptionnelles à l'éducation spartiate qu'elle a reçue enfant. Après que les Spartiates l'ont laissée pour morte sur le Mont Taygetos, elle est devenue mercenaire.
-## Details
+## Détails
  **Profession:** 
 
  **Race:** Armée neutre

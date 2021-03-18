@@ -2,20 +2,20 @@
 title: "Emblème sacré - Avarice"
 permalink: /Emblem/Greed/
 excerpt: "Era of Chaos Avarice. Avarice. Era of Chaos Emblème sacré Avarice. Era of Chaos Chaos Avarice"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Greed.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Avarice
+ **Nom:** Avarice
 
  **Type:** [Chaos](/fr/Emblem/Type Chaos/)
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Avarice](/fr/Emblem/Greed/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +0,1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les PV passent en dessous de 35 % pour la première fois, 1 % des PV max sont restaurés chaque seconde pendant 5 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +0,2 %, DÉF des Emblèmes sacrés +6</span> | 
   | [Avarice](/fr/Emblem/Greed/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +1 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les PV passent en dessous de 35 % pour la première fois, 2 % des PV max sont restaurés chaque seconde pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +2 %, DÉF des Emblèmes sacrés +55</span> | 

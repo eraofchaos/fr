@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Elfe sylvaine](/fr/Items/unt_201/)
+
  **Unit description:** Pluie de flèches : augmente votre vitesse d'attaque de 500 % pendant une courte durée.
 
  **Short description:** Tirs rapides. Double frappe.
@@ -79,11 +81,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc long](/fr/Exclusive/Wood Elf Long Bow/) 
+ **Nom:** [Arc long](/fr/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Grand Elfe

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
+ **Unit Soul:** [Élémentaire de glace](/fr/Items/unt_264/)
+
  **Short description:** Aura et mur de glace.
 
  **Position :** Mage de contrôle. Recouvre tout sous la glace. Mur de glace de soutien.
@@ -73,11 +75,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Ice Elemental Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -168,9 +170,11 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Esprit de la neige silencieux

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Basilic](/fr/Items/unt_256/)
+
  **Short description:** Contrôle les tanks. Pétrifie.
 
  **Position :** Tank efficace pour contrôler. Pétrifie toutes les unités à proximité en mourant.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Queue de Basilic](/fr/Exclusive/Basilisk Basilisk's Tail/) 
+ **Nom:** [Queue de Basilic](/fr/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Queue de Basilic](/fr/Items/con_994/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Énergie de feu](/fr/Items/con_662/)
 
 
 ## Emblèmes sacrés recommandés
@@ -170,9 +172,11 @@ toc: true
 * réduction des dégâts d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

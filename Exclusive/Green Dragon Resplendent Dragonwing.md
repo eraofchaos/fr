@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Aile de dragon resplendissante** 
+### Détails
+ **Nom: Aile de dragon resplendissante** 
 
  **Exclusif for Unit:** [Dragon vert](/fr/units/Green Dragon/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Aile de dragon resplendissante](/fr/Items/con_644/)
 
  **Type:** Soutien
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | Les attaques du Dragon vert causeront Saignement, infligeant chez les cibles des dégâts équivalents à 2 % de leurs PV max toutes les 2 secondes pendant 3 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Augmente les dégâts d'unité du Dragon vert de 20 % et ses coups critiques de 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Augmente la vitesse d'attaque du Dragon vert de 30 % lorsqu'il reçoit un bouclier. |
-  | **3x** <i class="fas fa-star"/> | ? | <Garde de cristal> : La peau cristallisée du Dragon vert lui confère une protection, qui bloque les dégâts 5 fois. Après avoir bloqué des dégâts pour la 5e fois, <Garde de cristal> disparaîtra, les unités ennemies adjacentes subiront des dégâts équivalents à 100 % de l'ATQ du Dragon vert et seront cristallisées pendant 3 secondes. Octroie <Garde de cristal> une fois toutes les 20 secondes. |
-  | **4x** <i class="fas fa-star"/> | ? | La pénétration du Dragon vert augmente de 25 pour chaque attaque. L'effet peut se cumuler jusqu'à 20 fois. Les niveaux cumulés seront perdus en cas de changement de cible. |
-  | **5x** <i class="fas fa-star"/> | ? | <Inexorable> : Face à une unité victime de Lenteur, inflige à des dégâts équivalents à 100 % de son ATQ et l'aveugle pendant 5 secondes. Le temps de recharge est de 18 secondes. Si l'unité cible est engourdie, inflige des dégâts équivalents à 100 % de son ATQ et diminue la DÉF de 15 %. Dure 5 secondes. Le temps de recharge est de 18 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | <Épines de diamant> : Condense et déchaîne une grande quantité de cristaux affûtés comme des lames de rasoir, infligeant des dégâts équivalents à 100 % de son ATQ aux unités ennemies dans une large zone devant lui. Les dégâts sont doublés pour les cibles atteintes de Cécité. Le temps de recharge est de 21 secondes. |
+  |  Réveil  | **100x** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/) | Les attaques du Dragon vert causeront Saignement, infligeant chez les cibles des dégâts équivalents à 2 % de leurs PV max toutes les 2 secondes pendant 3 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/) | Augmente les dégâts d'unité du Dragon vert de 20 % et ses coups critiques de 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/) | Augmente la vitesse d'attaque du Dragon vert de 30 % lorsqu'il reçoit un bouclier. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/) | <Garde de cristal> : La peau cristallisée du Dragon vert lui confère une protection, qui bloque les dégâts 5 fois. Après avoir bloqué des dégâts pour la 5e fois, <Garde de cristal> disparaîtra, les unités ennemies adjacentes subiront des dégâts équivalents à 100 % de l'ATQ du Dragon vert et seront cristallisées pendant 3 secondes. Octroie <Garde de cristal> une fois toutes les 20 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/) | La pénétration du Dragon vert augmente de 25 pour chaque attaque. L'effet peut se cumuler jusqu'à 20 fois. Les niveaux cumulés seront perdus en cas de changement de cible. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/) | <Inexorable> : Face à une unité victime de Lenteur, inflige à des dégâts équivalents à 100 % de son ATQ et l'aveugle pendant 5 secondes. Le temps de recharge est de 18 secondes. Si l'unité cible est engourdie, inflige des dégâts équivalents à 100 % de son ATQ et diminue la DÉF de 15 %. Dure 5 secondes. Le temps de recharge est de 18 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/) | <Épines de diamant> : Condense et déchaîne une grande quantité de cristaux affûtés comme des lames de rasoir, infligeant des dégâts équivalents à 100 % de son ATQ aux unités ennemies dans une large zone devant lui. Les dégâts sont doublés pour les cibles atteintes de Cécité. Le temps de recharge est de 21 secondes. |
 
 
 ## Améliorer

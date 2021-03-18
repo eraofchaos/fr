@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Queue de scorpion** 
+### Détails
+ **Nom: Queue de scorpion** 
 
  **Exclusif for Unit:** [Manticore](/fr/units/Manticore/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Queue de scorpion](/fr/Items/con_992/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Queue de scorpion](/fr/Items/con_660/)
 
  **Type:** À distance
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Piqûre de scorpion> : La Manticore lance une attaque en 3 étapes à une cible toutes les 20 secondes, infligeant 100 %, 125 %, et 150 % de dégâts respectivement, ainsi que l'effet \"Scorpion venimeux\". La ténacité et l'esquive de la cible sont également réduites de 200 pendant 5 secondes. |
-  | **1x** <i class="fas fa-star"/> | ? | Les dégâts de la Manticore augmentent de 25 %. |
-  | **2x** <i class="fas fa-star"/> | ? | La résistance aux dégâts de la Manticore augmente de 25 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Les coups critiques de la Manticore augmentent de 300. Chaque attaque normale inflige une quantité de dégâts supplémentaire égale à 50 % de son ATQ lorsqu'elle se bat contre des cibles victimes de Saignement. |
-  | **4x** <i class="fas fa-star"/> | ? | Augmente l'ATQ de la Manticore de 20 %, et sa vitesse d'ATQ de 10 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Le drain de vie de la Manticore augmente de 15 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Éruption de poison> : Lorsque la Manticore frappe une cible \"empoisonnée\", le poison se disperse dans le corps de la cible, réduisant ses soins de 20 % pendant 5 secondes. La Manticore a 50 % de chance d'infliger <Silence> à des unités dans une zone réduite pendant 3 secondes ; 30 % de chance de diminuer la résistance aux dégâts de l'unité de 20 % pendant 5 secondes et 20 % de chance d'infliger une quantité de dégâts égale à 500 % de son ATQ. Ces quatre effets peuvent être appliqués en même temps. Cette compétence peut être déclenchée une fois toutes les 10 secondes. |
+  |  Réveil  | **100x** [Jeton Queue de scorpion](/fr/Items/con_992/) | <Piqûre de scorpion> : La Manticore lance une attaque en 3 étapes à une cible toutes les 20 secondes, infligeant 100 %, 125 %, et 150 % de dégâts respectivement, ainsi que l'effet \"Scorpion venimeux\". La ténacité et l'esquive de la cible sont également réduites de 200 pendant 5 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Queue de scorpion](/fr/Items/con_992/) | Les dégâts de la Manticore augmentent de 25 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Queue de scorpion](/fr/Items/con_992/) | La résistance aux dégâts de la Manticore augmente de 25 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Queue de scorpion](/fr/Items/con_992/) | Les coups critiques de la Manticore augmentent de 300. Chaque attaque normale inflige une quantité de dégâts supplémentaire égale à 50 % de son ATQ lorsqu'elle se bat contre des cibles victimes de Saignement. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Queue de scorpion](/fr/Items/con_992/) | Augmente l'ATQ de la Manticore de 20 %, et sa vitesse d'ATQ de 10 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Queue de scorpion](/fr/Items/con_992/) | Le drain de vie de la Manticore augmente de 15 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Queue de scorpion](/fr/Items/con_992/) | <Éruption de poison> : Lorsque la Manticore frappe une cible \"empoisonnée\", le poison se disperse dans le corps de la cible, réduisant ses soins de 20 % pendant 5 secondes. La Manticore a 50 % de chance d'infliger <Silence> à des unités dans une zone réduite pendant 3 secondes ; 30 % de chance de diminuer la résistance aux dégâts de l'unité de 20 % pendant 5 secondes et 20 % de chance d'infliger une quantité de dégâts égale à 500 % de son ATQ. Ces quatre effets peuvent être appliqués en même temps. Cette compétence peut être déclenchée une fois toutes les 10 secondes. |
 
 
 ## Améliorer

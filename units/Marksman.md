@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Grand Arbalétrier](/fr/Items/unt_191/)
+
  **Unit description:** Flèche explosive : inflige des dégâts conséquents aux unités ennemies.
 
  **Short description:** Frappe à deux reprises. Efficace contre les grandes unités.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Arc long](/fr/Exclusive/Marksman Long Bow/) 
+ **Nom:** [Arc long](/fr/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Maître Arbalétrier

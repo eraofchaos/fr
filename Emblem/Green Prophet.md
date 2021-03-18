@@ -2,20 +2,20 @@
 title: "Emblème sacré - Prophète vert"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Prophète vert. Prophète vert. Era of Chaos Emblème sacré Prophète vert. Era of Chaos Bonté Prophète vert"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Green Prophet.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Prophète vert
+ **Nom:** Prophète vert
 
  **Type:** [Bonté](/fr/Emblem/Type Goodness/)
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Prophète vert](/fr/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +1 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Les unités déployées ont 35 % de chance d'être immunisées contre Pétrification, Étourdissement et Gel.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +2 %, DÉF des Emblèmes sacrés +55</span> | 
   | [Prophète vert](/fr/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +0,5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Les unités déployées ont 25 % de chance d'être immunisées contre Pétrification, Étourdissement et Gel.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +1,5 %, DÉF des Emblèmes sacrés +30</span> | 

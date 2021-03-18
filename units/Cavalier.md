@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Cavalier ](/fr/Items/unt_195/)
+
  **Unit description:** Joute : inflige des dégâts conséquents et étourdit l'ennemi si elle est utilisée comme première attaque.
 
  **Short description:** Dégâts directs initiaux. Charge puissante.
@@ -80,11 +82,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Pic du Chevalier](/fr/Exclusive/Cavalier Knight Pike/) 
+ **Nom:** [Pic du Chevalier](/fr/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 
 * ?!? 
 
+ **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Chevaliers légendaires

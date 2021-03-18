@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Gog](/fr/Items/unt_227/)
+
  **Unit description:** Mur de flammes : inflige des dégâts aux troupes ennemies sur son chemin.
 
  **Short description:** Inflige des dégâts de feu à distance et brûle l'ennemi.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Mélopée des arcanes](/fr/Exclusive/Gog Arcane Chant/) 
+ **Nom:** [Mélopée des arcanes](/fr/Exclusive/Gog Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Magog

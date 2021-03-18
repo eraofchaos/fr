@@ -3,13 +3,13 @@ title: "Sandro (humain)"
 permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Sandro (humain). Sandro (humain). Sandro (humain), apprenti du Mage Eric de Bracada, est un jeune Mage venu d'Enroth par la mer. Il dissimule ses ambitions, au point que même son maître et ses proches ignorent tout de ses intentions."
 heroID: 60503
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Human Sandro"
 toc: true
 ---
  **Description:** Sandro (humain), apprenti du Mage Eric de Bracada, est un jeune Mage venu d'Enroth par la mer. Il dissimule ses ambitions, au point que même son maître et ses proches ignorent tout de ses intentions.
-## Details
+## Détails
  **Profession:** Nécromancien
 
  **Race:** Nécropole

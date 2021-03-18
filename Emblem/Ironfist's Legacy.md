@@ -2,20 +2,20 @@
 title: "Emblème sacré - Héritage des Ironfist"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Héritage des Ironfist. Héritage des Ironfist. Era of Chaos Emblème sacré Héritage des Ironfist. Era of Chaos Ordre Héritage des Ironfist"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Ironfist's Legacy.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Héritage des Ironfist
+ **Nom:** Héritage des Ironfist
 
  **Type:** [Ordre](/fr/Emblem/Type Order/)
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +3 %, DÉF des Emblèmes sacrés +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Réduit les soins reçus par la cible de 18 % pendant 6 secondes. Le temps de recharge est de 10 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +7 %, DÉF des Emblèmes sacrés +16</span> | 
   | [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Réduit les soins reçus par la cible de 10 % pendant 6 secondes. Le temps de recharge est de 10 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +2 %, DÉF des Emblèmes sacrés +6</span> | 

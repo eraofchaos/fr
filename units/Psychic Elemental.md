@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Élémentaire de l'esprit](/fr/Items/unt_267/)
+
  **Short description:** Tir d'énergie. Brûle.
 
  **Position :** Dégâts à distance. Réduit le mana ennemi en mourant. Attaquant de base.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Noyau spirituel](/fr/Exclusive/Psychic Elemental Spirit Core/) 
+ **Nom:** [Noyau spirituel](/fr/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Noyau spirituel](/fr/Items/con_1000/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Noyau spirituel](/fr/Items/con_668/)
 
 
 ## Emblèmes sacrés recommandés
@@ -167,9 +169,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Élémentaire de magie

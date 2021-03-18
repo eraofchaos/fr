@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Wivern](/fr/Items/unt_258/)
+
  **Short description:** Attaques de mêlée puissantes. Toxique.
 
  **Position :** Unité de DPS. Peut répandre la peste de différentes façons.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Queue de Wivern](/fr/Exclusive/Wyvern Wyvern's Tail/) 
+ **Nom:** [Queue de Wivern](/fr/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Queue de Wivern](/fr/Items/con_996/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Queue de Wivern](/fr/Items/con_664/)
 
 
 ## Emblèmes sacrés recommandés
@@ -168,9 +170,11 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** Monarque Wivern

@@ -3,13 +3,13 @@ title: "Seigneur Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Seigneur Haart. Seigneur Haart. Le Seigneur Haart est mort, et il a ressuscité. Aujourd'hui général de l'armée des Non-Morts, il possède des pouvoirs encore plus grands que de son vivant."
 heroID: 60401
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Lord Haart"
 toc: true
 ---
  **Description:** Le Seigneur Haart est mort, et il a ressuscité. Aujourd'hui général de l'armée des Non-Morts, il possède des pouvoirs encore plus grands que de son vivant.
-## Details
+## Détails
  **Profession:** Chevalier de la mort
 
  **Race:** Nécropole

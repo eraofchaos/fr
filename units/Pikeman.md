@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Lancier](/fr/Items/unt_190/)
+
  **Unit description:** Nuée de lances : inflige des dégâts aux unités ennemies et les étourdit.
 
  **Short description:** Attaque et défense équilibrées avec capacité d'entraver l'ennemi.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée](/fr/Exclusive/Pikeman Sword/) 
+ **Nom:** [Épée](/fr/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Hallebardier

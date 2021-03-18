@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Diablotin](/fr/Items/unt_226/)
+
  **Unit description:** Impulsion : donne une chance à l'unité de ressusciter avec tous ses PV.
 
  **Short description:** Possède un bouclier. Peut ressusciter et entraver l'ennemi.
@@ -78,11 +80,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Bouclier iris](/fr/Exclusive/Imp Iris Shield/) 
+ **Nom:** [Bouclier iris](/fr/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Esquive d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Familier

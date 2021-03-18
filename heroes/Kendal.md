@@ -3,13 +3,13 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Un général dévoué à la famille royale d'Erathia. Depuis la mort du Roi Gryphonheart, Morgan Kendal dirige le royaume en attendant le retour de son héritier légitime."
 heroID: 60104
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: fr
 ref: "Kendal"
 toc: true
 ---
  **Description:** Un général dévoué à la famille royale d'Erathia. Depuis la mort du Roi Gryphonheart, Morgan Kendal dirige le royaume en attendant le retour de son héritier légitime.
-## Details
+## Détails
  **Profession:** Chevalier
 
  **Race:** Château

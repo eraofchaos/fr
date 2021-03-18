@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
+ **Unit Soul:** [Gnoll](/fr/Items/unt_253/)
+
  **Short description:** DPS de mêlée. Étourdit.
 
  **Position :** Étourdit les ennemis et inflige de lourds dégâts. Reçoit un bonus d'ATQ en affrontant l'unité à la santé la plus basse.
@@ -76,11 +78,11 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Épée](/fr/Exclusive/Gnoll Sword/) 
+ **Nom:** [Épée](/fr/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * dégâts d'unité
 * Résistance magique
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Guerrier Gnoll

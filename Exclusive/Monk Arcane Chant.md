@@ -10,12 +10,12 @@ classes: wide
 ---
  [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Mélopée des arcanes** 
+### Détails
+ **Nom: Mélopée des arcanes** 
 
  **Exclusif for Unit:** [Moine](/fr/units/Monk/) 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | ? | <Prédication> sera déclenchée toutes les 9 secondes pour restaurer une quantité de PV égale à 125 % de l'ATQ de l'unité alliée ayant le pourcentage de PV le plus bas. |
-  | **1x** <i class="fas fa-star"/> | ? | L'attaque du Moine augmente de 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Dés que <Prédication> est lancée, une unité alliée aléatoire entrera en \"Exaltation\" pendant 10 secondes. |
-  | **3x** <i class="fas fa-star"/> | ? | <Dévotion> : Le Moine dissipe l'affaiblissement d'une unité alliée aléatoire toutes les 10 secondes. |
-  | **4x** <i class="fas fa-star"/> | ? | La résistance aux dégâts du Moine augmente de 25 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Dès que <Prédication> est lancée, la vitesse d'ATQ d'une unité ennemie aléatoire diminue de 10 % pendant 10 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | Dès que <Dévotion> est lancée, l'unité bénéficie d'un bouclier égal à 20 % de ses PV max, et elle génère un bouclier égal à 10 % de ses PV max pour une unité alliée aléatoire. Cet effet ne peut pas être cumulé (les Moines peuvent recevoir deux \"boucliers\"). |
+  |  Réveil  | **100x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Prédication> sera déclenchée toutes les 9 secondes pour restaurer une quantité de PV égale à 125 % de l'ATQ de l'unité alliée ayant le pourcentage de PV le plus bas. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | L'attaque du Moine augmente de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Dés que <Prédication> est lancée, une unité alliée aléatoire entrera en \"Exaltation\" pendant 10 secondes. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Dévotion> : Le Moine dissipe l'affaiblissement d'une unité alliée aléatoire toutes les 10 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | La résistance aux dégâts du Moine augmente de 25 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Dès que <Prédication> est lancée, la vitesse d'ATQ d'une unité ennemie aléatoire diminue de 10 % pendant 10 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Dès que <Dévotion> est lancée, l'unité bénéficie d'un bouclier égal à 20 % de ses PV max, et elle génère un bouclier égal à 10 % de ses PV max pour une unité alliée aléatoire. Cet effet ne peut pas être cumulé (les Moines peuvent recevoir deux \"boucliers\"). |
 
 
 ## Améliorer

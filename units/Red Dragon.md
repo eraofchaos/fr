@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Dragon rouge](/fr/Items/unt_251/)
+
  **Short description:** Seigneur dragon au rugissement assourdissant.
 
  **Position :** Le Dragon rugit, ce qui l'immunise aux prises de contrôle. Le sang du dragon véritable résonne chez les autres membres de son espèce.
@@ -72,7 +74,7 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Annihilation](/fr/Exclusive/Red Dragon Annihilation/) 
+ **Nom:** [Annihilation](/fr/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
@@ -176,9 +178,11 @@ toc: true
 * dégâts d'unité
 * Coup critique d'unité
 
+ **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** NO
 
  **Awaking Name:** null

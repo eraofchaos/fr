@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
+ **Unit Soul:** [Liche](/fr/Items/unt_212/)
+
  **Unit description:** Sacrifice : invoque une horde de Squelettes.
 
  **Short description:** Fait appel à des squelettes. Magie squelettique améliorée.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusif
 
- **Name:** [Hommage mortel](/fr/Exclusive/Lich Death Tribute/) 
+ **Nom:** [Hommage mortel](/fr/Exclusive/Lich Death Tribute/) 
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Hommage mortel](/fr/Items/con_978/)
 
- **Skin:** -
+ **Skin:** [Peau spéciale Hommage mortel](/fr/Items/con_646/)
 
 
 ## Emblèmes sacrés recommandés
@@ -171,9 +173,11 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
+ **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Détails
  **Is it possible right now?** YES
 
  **Awaking Name:** Grande Liche

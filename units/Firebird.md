@@ -3,7 +3,7 @@ title: "Oiseau de feu"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Oiseau de feu"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bec des flammes furieuses](/fr/equipment/Bec des flammes furieuses/) | **ATQ** | **DÉF** | 
-  | [Rune de résurrection](/fr/equipment/Rune de résurrection/) | **PV** | **DÉF** | 
-  | [Griffes des flammes furieuses](/fr/equipment/Griffes des flammes furieuses/) | **ATQ** | **DÉF** | 
-  | [Ailes arc-en-ciel](/fr/equipment/Ailes arc-en-ciel/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bec des flammes furieuses](/images/e/e_9071.png) | [Bec des flammes furieuses](/fr/equipment/Beak of Raging Flame/) | **ATQ** | **DÉF** | 
+  | ![Rune de résurrection](/images/e/e_9072.png) | [Rune de résurrection](/fr/equipment/Rune of Resurrection/) | **PV** | **DÉF** | 
+  | ![Griffes des flammes furieuses](/images/e/e_9073.png) | [Griffes des flammes furieuses](/fr/equipment/Claws of Raging Flame/) | **ATQ** | **DÉF** | 
+  | ![Ailes arc-en-ciel](/images/e/e_9074.png) | [Ailes arc-en-ciel](/fr/equipment/Rainbow Feathered Wings/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

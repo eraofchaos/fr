@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
 unitID: 801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Gnoll"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machette de loup-garou](/fr/equipment/Machette de loup-garou/) | **ATQ** | **DÉF** | 
-  | [Bouclier carré de loup-garou](/fr/equipment/Bouclier carré de loup-garou/) | **PV** | **DÉF** | 
-  | [Chaînes de loup-garou](/fr/equipment/Chaînes de loup-garou/) | **ATQ** | **DÉF** | 
-  | [Gantelets de loup-garou](/fr/equipment/Gantelets de loup-garou/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machette de loup-garou](/images/e/e_8011.png) | [Machette de loup-garou](/fr/equipment/Werewolf's Machete/) | **ATQ** | **DÉF** | 
+  | ![Bouclier carré de loup-garou](/images/e/e_8012.png) | [Bouclier carré de loup-garou](/fr/equipment/Werewolf's Square Shield/) | **PV** | **DÉF** | 
+  | ![Chaînes de loup-garou](/images/e/e_8013.png) | [Chaînes de loup-garou](/fr/equipment/Werewolf's Chain/) | **ATQ** | **DÉF** | 
+  | ![Gantelets de loup-garou](/images/e/e_8014.png) | [Gantelets de loup-garou](/fr/equipment/Werewolf's Gauntlets/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

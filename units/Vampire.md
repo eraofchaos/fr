@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Vampire"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ceinture sanguinaire](/fr/equipment/Ceinture sanguinaire/) | **ATQ** | **DÉF** | 
-  | [Armure légère sanguinaire](/fr/equipment/Armure légère sanguinaire/) | **PV** | **DÉF** | 
-  | [Épaulières des ombres](/fr/equipment/Épaulières des ombres/) | **ATQ** | **DÉF** | 
-  | [Manteau des ombres](/fr/equipment/Manteau des ombres/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ceinture sanguinaire](/images/e/e_3041.png) | [Ceinture sanguinaire](/fr/equipment/Bloodthirsty Belt/) | **ATQ** | **DÉF** | 
+  | ![Armure légère sanguinaire](/images/e/e_3042.png) | [Armure légère sanguinaire](/fr/equipment/Light Armor of Bloodthirst/) | **PV** | **DÉF** | 
+  | ![Épaulières des ombres](/images/e/e_3043.png) | [Épaulières des ombres](/fr/equipment/Shadow Shoulders/) | **ATQ** | **DÉF** | 
+  | ![Manteau des ombres](/images/e/e_3044.png) | [Manteau des ombres](/fr/equipment/Shadow Cloak/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Wivern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Wivern"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffes de dragon](/fr/equipment/Griffes de dragon/) | **ATQ** | **DÉF** | 
-  | [Croc de la peste](/fr/equipment/Croc de la peste/) | **PV** | **DÉF** | 
-  | [Piques dorsaux de Diablotin](/fr/equipment/Piques dorsaux de Diablotin/) | **ATQ** | **DÉF** | 
-  | [Ailes de dragon](/fr/equipment/Ailes de dragon/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffes de dragon](/images/e/e_8061.png) | [Griffes de dragon](/fr/equipment/Dragon Claws/) | **ATQ** | **DÉF** | 
+  | ![Croc de la peste](/images/e/e_8062.png) | [Croc de la peste](/fr/equipment/Plague Fang/) | **PV** | **DÉF** | 
+  | ![Piques dorsaux de Diablotin](/images/e/e_8063.png) | [Piques dorsaux de Diablotin](/fr/equipment/Imp Back-spikes/) | **ATQ** | **DÉF** | 
+  | ![Ailes de dragon](/images/e/e_8064.png) | [Ailes de dragon](/fr/equipment/Dragon Wings/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

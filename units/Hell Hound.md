@@ -3,7 +3,7 @@ title: "Chien de l'Enfer"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage."
 unitID: 503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Chien de l'Enfer"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dents brûlantes](/fr/equipment/Dents brûlantes/) | **ATQ** | **DÉF** | 
-  | [Armure infernale](/fr/equipment/Armure infernale/) | **PV** | **DÉF** | 
-  | [Griffes brûlantes](/fr/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
-  | [Crinière enflammée](/fr/equipment/Crinière enflammée/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dents brûlantes](/images/e/e_5031.png) | [Dents brûlantes](/fr/equipment/Scalding Teeth/) | **ATQ** | **DÉF** | 
+  | ![Armure infernale](/images/e/e_5032.png) | [Armure infernale](/fr/equipment/Hellish Armor/) | **PV** | **DÉF** | 
+  | ![Griffes brûlantes](/images/e/e_5033.png) | [Griffes brûlantes](/fr/equipment/Scalding Claws/) | **ATQ** | **DÉF** | 
+  | ![Crinière enflammée](/images/e/e_5034.png) | [Crinière enflammée](/fr/equipment/Mane of Flame/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

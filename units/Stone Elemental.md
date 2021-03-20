@@ -3,7 +3,7 @@ title: "Élémentaire de pierre"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre."
 unitID: 905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Élémentaire de pierre"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Noyau de magma](/fr/equipment/Noyau de magma/) | **ATQ** | **DÉF** | 
-  | [Magma explosif](/fr/equipment/Magma explosif/) | **PV** | **DÉF** | 
-  | [Pierre du crépuscule](/fr/equipment/Pierre du crépuscule/) | **ATQ** | **DÉF** | 
-  | [Couronne de pierre](/fr/equipment/Couronne de pierre/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Noyau de magma](/images/e/e_9051.png) | [Noyau de magma](/fr/equipment/Core of Magma/) | **ATQ** | **DÉF** | 
+  | ![Magma explosif](/images/e/e_9052.png) | [Magma explosif](/fr/equipment/Exploding Magma/) | **PV** | **DÉF** | 
+  | ![Pierre du crépuscule](/images/e/e_9053.png) | [Pierre du crépuscule](/fr/equipment/Twilight Stone/) | **ATQ** | **DÉF** | 
+  | ![Couronne de pierre](/images/e/e_9054.png) | [Couronne de pierre](/fr/equipment/Crown of Stone/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Gorgone"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuir adamantin](/fr/equipment/Cuir adamantin/) | **ATQ** | **DÉF** | 
-  | [Armure dorsale barbare](/fr/equipment/Armure dorsale barbare/) | **PV** | **DÉF** | 
-  | [Corne de bœuf mortelle](/fr/equipment/Corne de bœuf mortelle/) | **ATQ** | **DÉF** | 
-  | [Sabot de bœuf magique](/fr/equipment/Sabot de bœuf magique/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuir adamantin](/images/e/e_8051.png) | [Cuir adamantin](/fr/equipment/Adamantine Leather/) | **ATQ** | **DÉF** | 
+  | ![Armure dorsale barbare](/images/e/e_8052.png) | [Armure dorsale barbare](/fr/equipment/Barbarian Back Armor/) | **PV** | **DÉF** | 
+  | ![Corne de bœuf mortelle](/images/e/e_8053.png) | [Corne de bœuf mortelle](/fr/equipment/Deadly Ox Horn/) | **ATQ** | **DÉF** | 
+  | ![Sabot de bœuf magique](/images/e/e_8054.png) | [Sabot de bœuf magique](/fr/equipment/Magic Ox Hoof/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

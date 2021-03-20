@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Champion des ténèbres"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Faucille du silence](/fr/equipment/Faucille du silence/) | **ATQ** | **DÉF** | 
-  | [Heaume lourd de l'avant-vie](/fr/equipment/Heaume lourd de l'avant-vie/) | **PV** | **DÉF** | 
-  | [Feu infernal du salut](/fr/equipment/Feu infernal du salut/) | **ATQ** | **DÉF** | 
-  | [Scapula de l'Hadès](/fr/equipment/Scapula de l'Hadès/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Faucille du silence](/images/e/e_3091.png) | [Faucille du silence](/fr/equipment/Sickle of Silence/) | **ATQ** | **DÉF** | 
+  | ![Heaume lourd de l'avant-vie](/images/e/e_3092.png) | [Heaume lourd de l'avant-vie](/fr/equipment/Heavy Helm of Pre-life/) | **PV** | **DÉF** | 
+  | ![Feu infernal du salut](/images/e/e_3093.png) | [Feu infernal du salut](/fr/equipment/Salvation Inferno Fire/) | **ATQ** | **DÉF** | 
+  | ![Scapula de l'Hadès](/images/e/e_3094.png) | [Scapula de l'Hadès](/fr/equipment/Hades' Scapula/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

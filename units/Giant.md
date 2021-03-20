@@ -3,7 +3,7 @@ title: "Géant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
 unitID: 607
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Géant"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Éclair](/fr/equipment/Éclair/) | **ATQ** | **DÉF** | 
-  | [Épaulières en or pur](/fr/equipment/Épaulières en or pur/) | **PV** | **DÉF** | 
-  | [Heaume spirituel](/fr/equipment/Heaume spirituel/) | **ATQ** | **DÉF** | 
-  | [Plastron éclair](/fr/equipment/Plastron éclair/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Éclair](/images/e/e_6071.png) | [Éclair](/fr/equipment/Thunderbolt/) | **ATQ** | **DÉF** | 
+  | ![Épaulières en or pur](/images/e/e_6072.png) | [Épaulières en or pur](/fr/equipment/Pauldrons of Pure Gold/) | **PV** | **DÉF** | 
+  | ![Heaume spirituel](/images/e/e_6073.png) | [Heaume spirituel](/fr/equipment/Thunder Helmet/) | **ATQ** | **DÉF** | 
+  | ![Plastron éclair](/images/e/e_6074.png) | [Plastron éclair](/fr/equipment/Breastplate of Lightning/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

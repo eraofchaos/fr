@@ -3,7 +3,7 @@ title: "Ange"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Ange"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Épée de l'Empire](/fr/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
-  | [Armure de combat légère](/fr/equipment/Armure de combat légère/) | **PV** | **DÉF** | 
-  | [Gantelets légers](/fr/equipment/Gantelets légers/) | **ATQ** | **DÉF** | 
-  | [Épaulières de légèreté](/fr/equipment/Épaulières de légèreté/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Épée de l'Empire](/images/e/e_1071.png) | [Épée de l'Empire](/fr/equipment/Empire's Sword/) | **ATQ** | **DÉF** | 
+  | ![Armure de combat légère](/images/e/e_1072.png) | [Armure de combat légère](/fr/equipment/Light Battle Armor/) | **PV** | **DÉF** | 
+  | ![Gantelets légers](/images/e/e_1073.png) | [Gantelets légers](/fr/equipment/Light Gauntlets/) | **ATQ** | **DÉF** | 
+  | ![Épaulières de légèreté](/images/e/e_1074.png) | [Épaulières de légèreté](/fr/equipment/Pauldrons of Lightness/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

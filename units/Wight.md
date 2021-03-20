@@ -3,7 +3,7 @@ title: "Revenante"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Revenante"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffes spectrales](/fr/equipment/Griffes spectrales/) | **ATQ** | **DÉF** | 
-  | [Armure légère du requiem](/fr/equipment/Armure légère du requiem/) | **PV** | **DÉF** | 
-  | [Âme maudite](/fr/equipment/Âme maudite/) | **ATQ** | **DÉF** | 
-  | [Robe du requiem](/fr/equipment/Robe du requiem/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffes spectrales](/images/e/e_3031.png) | [Griffes spectrales](/fr/equipment/Ghostly Claws/) | **ATQ** | **DÉF** | 
+  | ![Armure légère du requiem](/images/e/e_3032.png) | [Armure légère du requiem](/fr/equipment/Light Armor of Requiem/) | **PV** | **DÉF** | 
+  | ![Âme maudite](/images/e/e_3033.png) | [Âme maudite](/fr/equipment/Cursed Soul/) | **ATQ** | **DÉF** | 
+  | ![Robe du requiem](/images/e/e_3034.png) | [Robe du requiem](/fr/equipment/Dress of Requiem/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -2,7 +2,7 @@
 title: "Infos combinaison for Exaltation"
 permalink: /combination/High Morale/
 excerpt: "Infos combinaison - Exaltation. Units and Heroes Formation."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Exaltation.md"
 toc: false

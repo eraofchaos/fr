@@ -3,7 +3,7 @@ title: "Diable"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Diable"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Faux du diable](/fr/equipment/Faux du diable/) | **ATQ** | **DÉF** | 
-  | [Pentagramme en fusion](/fr/equipment/Pentagramme en fusion/) | **PV** | **DÉF** | 
-  | [Gantelets de lave en fusion](/fr/equipment/Gantelets de lave en fusion/) | **ATQ** | **DÉF** | 
-  | [Épaulières de lave en fusion](/fr/equipment/Épaulières de lave en fusion/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Faux du diable](/images/e/e_5071.png) | [Faux du diable](/fr/equipment/Devil's Scythe/) | **ATQ** | **DÉF** | 
+  | ![Pentagramme en fusion](/images/e/e_5072.png) | [Pentagramme en fusion](/fr/equipment/Molten Pentagram/) | **PV** | **DÉF** | 
+  | ![Gantelets de lave en fusion](/images/e/e_5073.png) | [Gantelets de lave en fusion](/fr/equipment/Gauntlets of Molten Lava/) | **ATQ** | **DÉF** | 
+  | ![Épaulières de lave en fusion](/images/e/e_5074.png) | [Épaulières de lave en fusion](/fr/equipment/Pauldrons of Molten Lava/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

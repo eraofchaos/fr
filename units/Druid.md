@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Druidesse"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Couronne de quiétude](/fr/equipment/Couronne de quiétude/) | **ATQ** | **DÉF** | 
-  | [Bâton ancien](/fr/equipment/Bâton ancien/) | **PV** | **DÉF** | 
-  | [Robe de la rage tempétueuse](/fr/equipment/Robe de la rage tempétueuse/) | **ATQ** | **DÉF** | 
-  | [Bottes hautes forestières](/fr/equipment/Bottes hautes forestières/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Couronne de quiétude](/images/e/e_2081.png) | [Couronne de quiétude](/fr/equipment/Crown of Tranquility/) | **ATQ** | **DÉF** | 
+  | ![Bâton ancien](/images/e/e_2082.png) | [Bâton ancien](/fr/equipment/Elder Staff/) | **PV** | **DÉF** | 
+  | ![Robe de la rage tempétueuse](/images/e/e_2083.png) | [Robe de la rage tempétueuse](/fr/equipment/Robe of Storm Rage/) | **ATQ** | **DÉF** | 
+  | ![Bottes hautes forestières](/images/e/e_2084.png) | [Bottes hautes forestières](/fr/equipment/Thigh Boots of the Forest/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

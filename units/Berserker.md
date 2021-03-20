@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Berserker"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hache en obsidienne](/fr/equipment/Hache en obsidienne/) | **ATQ** | **DÉF** | 
-  | [Collier d'os](/fr/equipment/Collier d'os/) | **PV** | **DÉF** | 
-  | [Heaume en os de bêtes](/fr/equipment/Heaume en os de bêtes/) | **ATQ** | **DÉF** | 
-  | [Bandeau en cuir](/fr/equipment/Bandeau en cuir/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hache en obsidienne](/images/e/e_4081.png) | [Hache en obsidienne](/fr/equipment/Obsidian Battle Axe/) | **ATQ** | **DÉF** | 
+  | ![Collier d'os](/images/e/e_4082.png) | [Collier d'os](/fr/equipment/Necklace of Bone/) | **PV** | **DÉF** | 
+  | ![Heaume en os de bêtes](/images/e/e_4083.png) | [Heaume en os de bêtes](/fr/equipment/Beast-boned Helmet/) | **ATQ** | **DÉF** | 
+  | ![Bandeau en cuir](/images/e/e_4084.png) | [Bandeau en cuir](/fr/equipment/Leather Band/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

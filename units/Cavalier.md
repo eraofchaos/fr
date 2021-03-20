@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Cavalier"
 toc: true
@@ -73,12 +73,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lance de Cavalier](/fr/equipment/Lance de Cavalier/) | **ATQ** | **DÉF** | 
-  | [Visière de défense](/fr/equipment/Visière de défense/) | **PV** | **DÉF** | 
-  | [Bouclier de protection](/fr/equipment/Bouclier de protection/) | **ATQ** | **DÉF** | 
-  | [Épaulière de Paladin](/fr/equipment/Épaulière de Paladin/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lance de Cavalier](/images/e/e_1061.png) | [Lance de Cavalier](/fr/equipment/Cavalier's Lance/) | **ATQ** | **DÉF** | 
+  | ![Visière de défense](/images/e/e_1062.png) | [Visière de défense](/fr/equipment/Visor of Defense/) | **PV** | **DÉF** | 
+  | ![Bouclier de protection](/images/e/e_1063.png) | [Bouclier de protection](/fr/equipment/Shield of Protection/) | **ATQ** | **DÉF** | 
+  | ![Épaulière de Paladin](/images/e/e_1064.png) | [Épaulière de Paladin](/fr/equipment/Paladin's Pauldron/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

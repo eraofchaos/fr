@@ -3,7 +3,7 @@ title: "Nain"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Nain"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Marteau puissant](/fr/equipment/Marteau puissant/) | **ATQ** | **DÉF** | 
-  | [Heaume cornu](/fr/equipment/Heaume cornu/) | **PV** | **DÉF** | 
-  | [Gantelets de l'âtre-flamme](/fr/equipment/Gantelets de l'âtre-flamme/) | **ATQ** | **DÉF** | 
-  | [Épaulières de l'âtre-flamme](/fr/equipment/Épaulières de l'âtre-flamme/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Marteau puissant](/images/e/e_2021.png) | [Marteau puissant](/fr/equipment/Strong Hammer/) | **ATQ** | **DÉF** | 
+  | ![Heaume cornu](/images/e/e_2022.png) | [Heaume cornu](/fr/equipment/Horned Helmet/) | **PV** | **DÉF** | 
+  | ![Gantelets de l'âtre-flamme](/images/e/e_2023.png) | [Gantelets de l'âtre-flamme](/fr/equipment/Gauntlets of Hearth Fire/) | **ATQ** | **DÉF** | 
+  | ![Épaulières de l'âtre-flamme](/images/e/e_2024.png) | [Épaulières de l'âtre-flamme](/fr/equipment/Pauldrons of Hearth Fire/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

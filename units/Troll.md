@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Trolls sont très intelligents et utilisent de lourds rochers comme armes. On les retrouve souvent en première ligne des batailles pour asséner aux ennemis les coups les plus violents."
 unitID: 409
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Troll"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Rocher enchaîné](/fr/equipment/Rocher enchaîné/) | **ATQ** | **DÉF** | 
-  | [Puissance des Seigneurs](/fr/equipment/Puissance des Seigneurs/) | **PV** | **DÉF** | 
-  | [Armure de brèche](/fr/equipment/Armure de brèche/) | **ATQ** | **DÉF** | 
-  | [Bottes de la garnison](/fr/equipment/Bottes de la garnison/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Rocher enchaîné](/images/e/e_4091.png) | [Rocher enchaîné](/fr/equipment/Chained Boulder/) | **ATQ** | **DÉF** | 
+  | ![Puissance des Seigneurs](/images/e/e_4092.png) | [Puissance des Seigneurs](/fr/equipment/Might of Lords/) | **PV** | **DÉF** | 
+  | ![Armure de brèche](/images/e/e_4093.png) | [Armure de brèche](/fr/equipment/Breach Armor/) | **ATQ** | **DÉF** | 
+  | ![Bottes de la garnison](/images/e/e_4094.png) | [Bottes de la garnison](/fr/equipment/Garrison Boots/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

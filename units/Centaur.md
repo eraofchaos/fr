@@ -3,7 +3,7 @@ title: "Centaure"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Centaure"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hache sauvage](/fr/equipment/Hache sauvage/) | **ATQ** | **DÉF** | 
-  | [Heaume sauvage](/fr/equipment/Heaume sauvage/) | **PV** | **DÉF** | 
-  | [Gantelets sauvages](/fr/equipment/Gantelets sauvages/) | **ATQ** | **DÉF** | 
-  | [Épaulières sauvages](/fr/equipment/Épaulières sauvages/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hache sauvage](/images/e/e_2011.png) | [Hache sauvage](/fr/equipment/Battleaxe of the Wild/) | **ATQ** | **DÉF** | 
+  | ![Heaume sauvage](/images/e/e_2012.png) | [Heaume sauvage](/fr/equipment/Helm of the Wild/) | **PV** | **DÉF** | 
+  | ![Gantelets sauvages](/images/e/e_2013.png) | [Gantelets sauvages](/fr/equipment/Gauntlets of the Wild/) | **ATQ** | **DÉF** | 
+  | ![Épaulières sauvages](/images/e/e_2014.png) | [Épaulières sauvages](/fr/equipment/Pauldrons of Wild/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Minotaure"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare."
 unitID: 705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Minotaure"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hache de Gorgone](/fr/equipment/Hache de Gorgone/) | **ATQ** | **DÉF** | 
-  | [Épaulières de Gorgone](/fr/equipment/Épaulières de Gorgone/) | **PV** | **DÉF** | 
-  | [Bandeaux de Gorgone](/fr/equipment/Bandeaux de Gorgone/) | **ATQ** | **DÉF** | 
-  | [Ceinture de Gorgone](/fr/equipment/Ceinture de Gorgone/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hache de Gorgone](/images/e/e_7051.png) | [Hache de Gorgone](/fr/equipment/Gorgon Battle Axe/) | **ATQ** | **DÉF** | 
+  | ![Épaulières de Gorgone](/images/e/e_7052.png) | [Épaulières de Gorgone](/fr/equipment/Gorgon Shoulder-guards/) | **PV** | **DÉF** | 
+  | ![Bandeaux de Gorgone](/images/e/e_7053.png) | [Bandeaux de Gorgone](/fr/equipment/Gorgon Bands/) | **ATQ** | **DÉF** | 
+  | ![Ceinture de Gorgone](/images/e/e_7054.png) | [Ceinture de Gorgone](/fr/equipment/Gorgon Belt/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

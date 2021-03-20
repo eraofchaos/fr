@@ -3,7 +3,7 @@ title: "Servante des Abîmes"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage."
 unitID: 505
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Servante des Abîmes"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Fouet infernal](/fr/equipment/Fouet infernal/) | **ATQ** | **DÉF** | 
-  | [Armure légère ensorcelée](/fr/equipment/Armure légère ensorcelée/) | **PV** | **DÉF** | 
-  | [Corne ensorcelée](/fr/equipment/Corne ensorcelée/) | **ATQ** | **DÉF** | 
-  | [Épaulières ensorcelées](/fr/equipment/Épaulières ensorcelées/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Fouet infernal](/images/e/e_5051.png) | [Fouet infernal](/fr/equipment/Hellish Whip/) | **ATQ** | **DÉF** | 
+  | ![Armure légère ensorcelée](/images/e/e_5052.png) | [Armure légère ensorcelée](/fr/equipment/Charmed Light Armor/) | **PV** | **DÉF** | 
+  | ![Corne ensorcelée](/images/e/e_5053.png) | [Corne ensorcelée](/fr/equipment/Charmed Horn/) | **ATQ** | **DÉF** | 
+  | ![Épaulières ensorcelées](/images/e/e_5054.png) | [Épaulières ensorcelées](/fr/equipment/Charming Pauldrons/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Chevalier noir"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Chevalier noir"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Épée maudite](/fr/equipment/Épée maudite/) | **ATQ** | **DÉF** | 
-  | [Visière des morts](/fr/equipment/Visière des morts/) | **PV** | **DÉF** | 
-  | [Bracelet des cauchemars](/fr/equipment/Bracelet des cauchemars/) | **ATQ** | **DÉF** | 
-  | [Épaulières des cauchemars](/fr/equipment/Épaulières des cauchemars/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Épée maudite](/images/e/e_3061.png) | [Épée maudite](/fr/equipment/Cursed Sword/) | **ATQ** | **DÉF** | 
+  | ![Visière des morts](/images/e/e_3062.png) | [Visière des morts](/fr/equipment/Visor of the Dead/) | **PV** | **DÉF** | 
+  | ![Bracelet des cauchemars](/images/e/e_3063.png) | [Bracelet des cauchemars](/fr/equipment/Bracer of Nightmares/) | **ATQ** | **DÉF** | 
+  | ![Épaulières des cauchemars](/images/e/e_3064.png) | [Épaulières des cauchemars](/fr/equipment/Nightmare Pauldrons/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

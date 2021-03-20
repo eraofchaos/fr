@@ -3,7 +3,7 @@ title: "Orque"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Orque"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hache de lancer](/fr/equipment/Hache de lancer/) | **ATQ** | **DÉF** | 
-  | [Ceinture de restriction](/fr/equipment/Ceinture de restriction/) | **PV** | **DÉF** | 
-  | [Épaulières de fer](/fr/equipment/Épaulières de fer/) | **ATQ** | **DÉF** | 
-  | [Épaulières sanguinaires](/fr/equipment/Épaulières sanguinaires/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hache de lancer](/images/e/e_4031.png) | [Hache de lancer](/fr/equipment/Throwing Axe/) | **ATQ** | **DÉF** | 
+  | ![Ceinture de restriction](/images/e/e_4032.png) | [Ceinture de restriction](/fr/equipment/Belt of Constraint/) | **PV** | **DÉF** | 
+  | ![Épaulières de fer](/images/e/e_4033.png) | [Épaulières de fer](/fr/equipment/Iron Pauldrons/) | **ATQ** | **DÉF** | 
+  | ![Épaulières sanguinaires](/images/e/e_4034.png) | [Épaulières sanguinaires](/fr/equipment/Bloodthirsty Pauldrons/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

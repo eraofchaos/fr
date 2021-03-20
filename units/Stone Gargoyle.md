@@ -3,7 +3,7 @@ title: "Gargouille"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat."
 unitID: 602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Gargouille"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cor en pierre](/fr/equipment/Cor en pierre/) | **ATQ** | **DÉF** | 
-  | [Ailes de pierre](/fr/equipment/Ailes de pierre/) | **PV** | **DÉF** | 
-  | [Griffes en pierre tranchantes](/fr/equipment/Griffes en pierre tranchantes/) | **ATQ** | **DÉF** | 
-  | [Queue enchantée](/fr/equipment/Queue enchantée/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cor en pierre](/images/e/e_6021.png) | [Cor en pierre](/fr/equipment/Stone Horn/) | **ATQ** | **DÉF** | 
+  | ![Ailes de pierre](/images/e/e_6022.png) | [Ailes de pierre](/fr/equipment/Stone Wings/) | **PV** | **DÉF** | 
+  | ![Griffes en pierre tranchantes](/images/e/e_6023.png) | [Griffes en pierre tranchantes](/fr/equipment/Sharp Rock Claws/) | **ATQ** | **DÉF** | 
+  | ![Queue enchantée](/images/e/e_6024.png) | [Queue enchantée](/fr/equipment/Enchanted Tail/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

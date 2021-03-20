@@ -3,7 +3,7 @@ title: "Rock"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Rocks apparaissent souvent lors des nuits d'orage. Ils volent aux côtés du tonnerre et des éclairs. Beaucoup les considèrent comme des messagers des dieux."
 unitID: 405
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Rock"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bec du tonnerre](/fr/equipment/Bec du tonnerre/) | **ATQ** | **DÉF** | 
-  | [Ailes foudroyantes](/fr/equipment/Ailes foudroyantes/) | **PV** | **DÉF** | 
-  | [Griffes éclairs](/fr/equipment/Griffes éclairs/) | **ATQ** | **DÉF** | 
-  | [Armure foudroyante](/fr/equipment/Armure foudroyante/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bec du tonnerre](/images/e/e_4051.png) | [Bec du tonnerre](/fr/equipment/Beak of Thunder/) | **ATQ** | **DÉF** | 
+  | ![Ailes foudroyantes](/images/e/e_4052.png) | [Ailes foudroyantes](/fr/equipment/Wings of a Thunderbolt/) | **PV** | **DÉF** | 
+  | ![Griffes éclairs](/images/e/e_4053.png) | [Griffes éclairs](/fr/equipment/Claws of Lightning/) | **ATQ** | **DÉF** | 
+  | ![Armure foudroyante](/images/e/e_4054.png) | [Armure foudroyante](/fr/equipment/Lightning's armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

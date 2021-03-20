@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Noyau de feu](/fr/equipment/Noyau de feu/) | **ATQ** | **DÉF** | 
-  | [Bouclier bouillonnant](/fr/equipment/Bouclier bouillonnant/) | **PV** | **DÉF** | 
-  | [Œil maléfique de saphir](/fr/equipment/Œil maléfique de saphir/) | **ATQ** | **DÉF** | 
-  | [Griffe tranchante bleu marine](/fr/equipment/Griffe tranchante bleu marine/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Noyau de feu](/images/e/e_9041.png) | [Noyau de feu](/fr/equipment/Core of Fire/) | **ATQ** | **DÉF** | 
+  | ![Bouclier bouillonnant](/images/e/e_9042.png) | [Bouclier bouillonnant](/fr/equipment/Boiling Shield/) | **PV** | **DÉF** | 
+  | ![Œil maléfique de saphir](/images/e/e_9043.png) | [Œil maléfique de saphir](/fr/equipment/Beholder of Sapphire/) | **ATQ** | **DÉF** | 
+  | ![Griffe tranchante bleu marine](/images/e/e_9044.png) | [Griffe tranchante bleu marine](/fr/equipment/Navy Blue Sharp Claw/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

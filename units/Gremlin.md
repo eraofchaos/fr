@@ -3,7 +3,7 @@ title: "Lutin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Lutin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Fléau foudroyant](/fr/equipment/Fléau foudroyant/) | **ATQ** | **DÉF** | 
-  | [Capuchon enchanté](/fr/equipment/Capuchon enchanté/) | **PV** | **DÉF** | 
-  | [Gants enchantés](/fr/equipment/Gants enchantés/) | **ATQ** | **DÉF** | 
-  | [Cape pare-vent](/fr/equipment/Cape pare-vent/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Fléau foudroyant](/images/e/e_6011.png) | [Fléau foudroyant](/fr/equipment/Lightning's Flail/) | **ATQ** | **DÉF** | 
+  | ![Capuchon enchanté](/images/e/e_6012.png) | [Capuchon enchanté](/fr/equipment/Enchanted Hood/) | **PV** | **DÉF** | 
+  | ![Gants enchantés](/images/e/e_6013.png) | [Gants enchantés](/fr/equipment/Enchanted Gloves/) | **ATQ** | **DÉF** | 
+  | ![Cape pare-vent](/images/e/e_6014.png) | [Cape pare-vent](/fr/equipment/Windproof Cloak/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

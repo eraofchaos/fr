@@ -3,7 +3,7 @@ title: "Démone de glace"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos La Démone de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales."
 unitID: 908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Démone de glace"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Glace ancestrale](/fr/equipment/Glace ancestrale/) | **ATQ** | **DÉF** | 
-  | [Toucher glacial](/fr/equipment/Toucher glacial/) | **PV** | **DÉF** | 
-  | [Heaume gelé](/fr/equipment/Heaume gelé/) | **ATQ** | **DÉF** | 
-  | [Trône de glace](/fr/equipment/Trône de glace/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Glace ancestrale](/images/e/e_9081.png) | [Glace ancestrale](/fr/equipment/Ancient Ice/) | **ATQ** | **DÉF** | 
+  | ![Toucher glacial](/images/e/e_9082.png) | [Toucher glacial](/fr/equipment/Frost Touch/) | **PV** | **DÉF** | 
+  | ![Heaume gelé](/images/e/e_9083.png) | [Heaume gelé](/fr/equipment/Frigid Helm/) | **ATQ** | **DÉF** | 
+  | ![Trône de glace](/images/e/e_9084.png) | [Trône de glace](/fr/equipment/Throne of Ice/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

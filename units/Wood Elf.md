@@ -3,7 +3,7 @@ title: "Elfe sylvaine"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches."
 unitID: 203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Elfe sylvaine"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arc long sylvain](/fr/equipment/Arc long sylvain/) | **ATQ** | **DÉF** | 
-  | [Bandeau des vertes-feuilles](/fr/equipment/Bandeau des vertes-feuilles/) | **PV** | **DÉF** | 
-  | [Flèches de jade](/fr/equipment/Flèches de jade/) | **ATQ** | **DÉF** | 
-  | [Robe courte des vertes-feuilles](/fr/equipment/Robe courte des vertes-feuilles/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arc long sylvain](/images/e/e_2031.png) | [Arc long sylvain](/fr/equipment/Sylvan Longbow/) | **ATQ** | **DÉF** | 
+  | ![Bandeau des vertes-feuilles](/images/e/e_2032.png) | [Bandeau des vertes-feuilles](/fr/equipment/Circlet of Verdurous Leaves/) | **PV** | **DÉF** | 
+  | ![Flèches de jade](/images/e/e_2033.png) | [Flèches de jade](/fr/equipment/Arrows of Jade/) | **ATQ** | **DÉF** | 
+  | ![Robe courte des vertes-feuilles](/images/e/e_2034.png) | [Robe courte des vertes-feuilles](/fr/equipment/Short Robe of Verdurous Leaves/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Archimage"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Grand bâton mystique](/fr/equipment/Grand bâton mystique/) | **ATQ** | **DÉF** | 
-  | [Couronne magique en cristal](/fr/equipment/Couronne magique en cristal/) | **PV** | **DÉF** | 
-  | [Orbe mystique de mana](/fr/equipment/Orbe mystique de mana/) | **ATQ** | **DÉF** | 
-  | [Manteau des mages](/fr/equipment/Manteau des mages/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Grand bâton mystique](/images/e/e_6041.png) | [Grand bâton mystique](/fr/equipment/Long Staff of Mystic Power/) | **ATQ** | **DÉF** | 
+  | ![Couronne magique en cristal](/images/e/e_6042.png) | [Couronne magique en cristal](/fr/equipment/Crystal Crown of Magic/) | **PV** | **DÉF** | 
+  | ![Orbe mystique de mana](/images/e/e_6043.png) | [Orbe mystique de mana](/fr/equipment/Mystic Orb of Mana/) | **ATQ** | **DÉF** | 
+  | ![Manteau des mages](/images/e/e_6044.png) | [Manteau des mages](/fr/equipment/Mantle of the Magi/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

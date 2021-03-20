@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !"
 unitID: 909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Farfadet"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Heureuses bénédictions](/fr/equipment/Heureuses bénédictions/) | **ATQ** | **DÉF** | 
-  | [Source de pouvoir](/fr/equipment/Source de pouvoir/) | **PV** | **DÉF** | 
-  | [Gardien de la vie](/fr/equipment/Gardien de la vie/) | **ATQ** | **DÉF** | 
-  | [La légèreté du vent](/fr/equipment/La légèreté du vent/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Heureuses bénédictions](/images/e/e_9091.png) | [Heureuses bénédictions](/fr/equipment/Lucky Blessings/) | **ATQ** | **DÉF** | 
+  | ![Source de pouvoir](/images/e/e_9092.png) | [Source de pouvoir](/fr/equipment/Source of Power/) | **PV** | **DÉF** | 
+  | ![Gardien de la vie](/images/e/e_9093.png) | [Gardien de la vie](/fr/equipment/Life Guardian/) | **ATQ** | **DÉF** | 
+  | ![La légèreté du vent](/images/e/e_9094.png) | [La légèreté du vent](/fr/equipment/The Lightness of the Wind/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

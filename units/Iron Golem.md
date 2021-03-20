@@ -3,7 +3,7 @@ title: "Golem de fer"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
 unitID: 603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Golem de fer"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Gantelets en fer](/fr/equipment/Gantelets en fer/) | **ATQ** | **DÉF** | 
-  | [Épaulières à pointes](/fr/equipment/Épaulières à pointes/) | **PV** | **DÉF** | 
-  | [Cœur d'arcane](/fr/equipment/Cœur d'arcane/) | **ATQ** | **DÉF** | 
-  | [Plastron en fer renforcé](/fr/equipment/Plastron en fer renforcé/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Gantelets en fer](/images/e/e_6031.png) | [Gantelets en fer](/fr/equipment/Iron Gauntlets/) | **ATQ** | **DÉF** | 
+  | ![Épaulières à pointes](/images/e/e_6032.png) | [Épaulières à pointes](/fr/equipment/Spiked Pauldrons/) | **PV** | **DÉF** | 
+  | ![Cœur d'arcane](/images/e/e_6033.png) | [Cœur d'arcane](/fr/equipment/Arcane Heart/) | **ATQ** | **DÉF** | 
+  | ![Plastron en fer renforcé](/images/e/e_6034.png) | [Plastron en fer renforcé](/fr/equipment/Hardened Iron Chest Armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

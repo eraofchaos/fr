@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Aéronef magique"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Système de décollage](/fr/equipment/Système de décollage/) | **ATQ** | **DÉF** | 
-  | [Système de contrôle](/fr/equipment/Système de contrôle/) | **PV** | **DÉF** | 
-  | [Tour de contrôle principale](/fr/equipment/Tour de contrôle principale/) | **ATQ** | **DÉF** | 
-  | [Quai d'observation](/fr/equipment/Quai d'observation/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Système de décollage](/images/e/e_6081.png) | [Système de décollage](/fr/equipment/Lift-off System/) | **ATQ** | **DÉF** | 
+  | ![Système de contrôle](/images/e/e_6082.png) | [Système de contrôle](/fr/equipment/Control System/) | **PV** | **DÉF** | 
+  | ![Tour de contrôle principale](/images/e/e_6083.png) | [Tour de contrôle principale](/fr/equipment/Main Control Tower/) | **ATQ** | **DÉF** | 
+  | ![Quai d'observation](/images/e/e_6084.png) | [Quai d'observation](/fr/equipment/Observation Deck/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

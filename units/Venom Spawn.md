@@ -3,7 +3,7 @@ title: "Progéniture venimeuse"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces démons sont nés des flammes et des ombres des tréfonds de l'enfer. La légende raconte que ce sont les effroyables cauchemars qui calcinent les champs de bataille de leurs flammes karmiques du péché."
 unitID: 509
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Progéniture venimeuse"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/fr/equipment/UnknownEquipment_5091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_5092](/fr/equipment/UnknownEquipment_5092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_5093](/fr/equipment/UnknownEquipment_5093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_5094](/fr/equipment/UnknownEquipment_5094/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/fr/equipment/UnknownEquipment_5091/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/fr/equipment/UnknownEquipment_5092/) | **PV** | **DÉF** | 
+  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/fr/equipment/UnknownEquipment_5093/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/fr/equipment/UnknownEquipment_5094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

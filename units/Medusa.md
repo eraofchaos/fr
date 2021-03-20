@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Méduse"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arc long de massacre](/fr/equipment/Arc long de massacre/) | **ATQ** | **DÉF** | 
-  | [Coiffe de serpent entortillé](/fr/equipment/Coiffe de serpent entortillé/) | **PV** | **DÉF** | 
-  | [Couronne de la reine](/fr/equipment/Couronne de la reine/) | **ATQ** | **DÉF** | 
-  | [Armure de l'abîme](/fr/equipment/Armure de l'abîme/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arc long de massacre](/images/e/e_7041.png) | [Arc long de massacre](/fr/equipment/Slaughter Longbow/) | **ATQ** | **DÉF** | 
+  | ![Coiffe de serpent entortillé](/images/e/e_7042.png) | [Coiffe de serpent entortillé](/fr/equipment/Writhing Snake Hair/) | **PV** | **DÉF** | 
+  | ![Couronne de la reine](/images/e/e_7043.png) | [Couronne de la reine](/fr/equipment/Queen's Crown/) | **ATQ** | **DÉF** | 
+  | ![Armure de l'abîme](/images/e/e_7044.png) | [Armure de l'abîme](/fr/equipment/Abyss Armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

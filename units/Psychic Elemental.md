@@ -3,7 +3,7 @@ title: "Élémentaire de l'esprit"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Élémentaire de l'esprit"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Noyau de l'étoile polaire](/fr/equipment/Noyau de l'étoile polaire/) | **ATQ** | **DÉF** | 
-  | [Étoile céleste](/fr/equipment/Étoile céleste/) | **PV** | **DÉF** | 
-  | [Couronne de l'esprit stellaire](/fr/equipment/Couronne de l'esprit stellaire/) | **ATQ** | **DÉF** | 
-  | [Brassard de puissance](/fr/equipment/Brassard de puissance/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Noyau de l'étoile polaire](/images/e/e_9061.png) | [Noyau de l'étoile polaire](/fr/equipment/Core of the Pole Star/) | **ATQ** | **DÉF** | 
+  | ![Étoile céleste](/images/e/e_9062.png) | [Étoile céleste](/fr/equipment/Heavenly Star/) | **PV** | **DÉF** | 
+  | ![Couronne de l'esprit stellaire](/images/e/e_9063.png) | [Couronne de l'esprit stellaire](/fr/equipment/Star Spirit Crown/) | **ATQ** | **DÉF** | 
+  | ![Brassard de puissance](/images/e/e_9064.png) | [Brassard de puissance](/fr/equipment/Mighty Vambrace/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

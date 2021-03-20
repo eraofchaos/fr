@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Élémentaire de mer"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Larmes éternelles](/fr/equipment/Larmes éternelles/) | **ATQ** | **DÉF** | 
-  | [Noyau d'Élémentaire d'eau](/fr/equipment/Noyau d'Élémentaire d'eau/) | **PV** | **DÉF** | 
-  | [Flux ondulants](/fr/equipment/Flux ondulants/) | **ATQ** | **DÉF** | 
-  | [Balafre tourbillonnante](/fr/equipment/Balafre tourbillonnante/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Larmes éternelles](/images/e/e_99031.png) | [Larmes éternelles](/fr/equipment/Eternal Tear/) | **ATQ** | **DÉF** | 
+  | ![Noyau d'Élémentaire d'eau](/images/e/e_99032.png) | [Noyau d'Élémentaire d'eau](/fr/equipment/Core of Water Elemental/) | **PV** | **DÉF** | 
+  | ![Flux ondulants](/images/e/e_99033.png) | [Flux ondulants](/fr/equipment/Wavy Flow/) | **ATQ** | **DÉF** | 
+  | ![Balafre tourbillonnante](/images/e/e_99034.png) | [Balafre tourbillonnante](/fr/equipment/Vortex Scar/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

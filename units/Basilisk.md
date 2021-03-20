@@ -3,7 +3,7 @@ title: "Basilic"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Basilic"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Aile de Basilic](/fr/equipment/Aile de Basilic/) | **ATQ** | **DÉF** | 
-  | [Écaille adamantine](/fr/equipment/Écaille adamantine/) | **PV** | **DÉF** | 
-  | [Griffe empoisonnée](/fr/equipment/Griffe empoisonnée/) | **ATQ** | **DÉF** | 
-  | [Croc de pétrification](/fr/equipment/Croc de pétrification/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Aile de Basilic](/images/e/e_8041.png) | [Aile de Basilic](/fr/equipment/Basilisk's Neck Umbrella/) | **ATQ** | **DÉF** | 
+  | ![Écaille adamantine](/images/e/e_8042.png) | [Écaille adamantine](/fr/equipment/Adamantine Scale/) | **PV** | **DÉF** | 
+  | ![Griffe empoisonnée](/images/e/e_8043.png) | [Griffe empoisonnée](/fr/equipment/Poisoned Claw/) | **ATQ** | **DÉF** | 
+  | ![Croc de pétrification](/images/e/e_8044.png) | [Croc de pétrification](/fr/equipment/Petrification Fang/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

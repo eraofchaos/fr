@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Sirène"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orgue aquatique](/fr/equipment/Orgue aquatique/) | **ATQ** | **DÉF** | 
-  | [Boucles d'oreille de sirène](/fr/equipment/Boucles d'oreille de sirène/) | **PV** | **DÉF** | 
-  | [Queue de poisson flexible](/fr/equipment/Queue de poisson flexible/) | **ATQ** | **DÉF** | 
-  | [Protection de l'océan](/fr/equipment/Protection de l'océan/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orgue aquatique](/images/e/e_99051.png) | [Orgue aquatique](/fr/equipment/Sea Organ/) | **ATQ** | **DÉF** | 
+  | ![Boucles d'oreille de sirène](/images/e/e_99052.png) | [Boucles d'oreille de sirène](/fr/equipment/Merman Earrings/) | **PV** | **DÉF** | 
+  | ![Queue de poisson flexible](/images/e/e_99053.png) | [Queue de poisson flexible](/fr/equipment/Flexible Fishtail/) | **ATQ** | **DÉF** | 
+  | ![Protection de l'océan](/images/e/e_99054.png) | [Protection de l'océan](/fr/equipment/Ocean's Protection/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

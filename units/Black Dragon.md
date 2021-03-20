@@ -3,7 +3,7 @@ title: "Dragon noir"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Dragon noir"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffes de dragon magique](/fr/equipment/Griffes de dragon magique/) | **ATQ** | **DÉF** | 
-  | [Feu dévastateur](/fr/equipment/Feu dévastateur/) | **PV** | **DÉF** | 
-  | [Ailes couvre-ciel](/fr/equipment/Ailes couvre-ciel/) | **ATQ** | **DÉF** | 
-  | [Écailles en fer](/fr/equipment/Écailles en fer/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffes de dragon magique](/images/e/e_7071.png) | [Griffes de dragon magique](/fr/equipment/Magic Dragon Claws/) | **ATQ** | **DÉF** | 
+  | ![Feu dévastateur](/images/e/e_7072.png) | [Feu dévastateur](/fr/equipment/Devastative Fire/) | **PV** | **DÉF** | 
+  | ![Ailes couvre-ciel](/images/e/e_7073.png) | [Ailes couvre-ciel](/fr/equipment/Sky-blocking Wings/) | **ATQ** | **DÉF** | 
+  | ![Écailles en fer](/images/e/e_7074.png) | [Écailles en fer](/fr/equipment/Ironclad Scale/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

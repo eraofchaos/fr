@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Cauchemar"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pupille de cauchemar](/fr/equipment/Pupille de cauchemar/) | **ATQ** | **DÉF** | 
-  | [Feu de l'abysse](/fr/equipment/Feu de l'abysse/) | **PV** | **DÉF** | 
-  | [Fer à cheval cendré](/fr/equipment/Fer à cheval cendré/) | **ATQ** | **DÉF** | 
-  | [Crin de feu](/fr/equipment/Crin de feu/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pupille de cauchemar](/images/e/e_5081.png) | [Pupille de cauchemar](/fr/equipment/Nightmare Pupil/) | **ATQ** | **DÉF** | 
+  | ![Feu de l'abysse](/images/e/e_5082.png) | [Feu de l'abysse](/fr/equipment/Fire in the Abyss/) | **PV** | **DÉF** | 
+  | ![Fer à cheval cendré](/images/e/e_5083.png) | [Fer à cheval cendré](/fr/equipment/Ash Horseshoe/) | **ATQ** | **DÉF** | 
+  | ![Crin de feu](/images/e/e_5084.png) | [Crin de feu](/fr/equipment/Horsehair of Fire/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

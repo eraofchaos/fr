@@ -3,7 +3,7 @@ title: "Pégase"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Pégase"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Chakram épineux](/fr/equipment/Chakram épineux/) | **ATQ** | **DÉF** | 
-  | [Bandeau verdoyant](/fr/equipment/Bandeau verdoyant/) | **PV** | **DÉF** | 
-  | [Gantelets des roses](/fr/equipment/Gantelets des roses/) | **ATQ** | **DÉF** | 
-  | [Armure miraculeuse](/fr/equipment/Armure miraculeuse/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Chakram épineux](/images/e/e_2041.png) | [Chakram épineux](/fr/equipment/Thorn's Chakram/) | **ATQ** | **DÉF** | 
+  | ![Bandeau verdoyant](/images/e/e_2042.png) | [Bandeau verdoyant](/fr/equipment/Evergreen Circlet/) | **PV** | **DÉF** | 
+  | ![Gantelets des roses](/images/e/e_2043.png) | [Gantelets des roses](/fr/equipment/Gauntlets of Roses/) | **ATQ** | **DÉF** | 
+  | ![Armure miraculeuse](/images/e/e_2044.png) | [Armure miraculeuse](/fr/equipment/Armor of Wonder/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

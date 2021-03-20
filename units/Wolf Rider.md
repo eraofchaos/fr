@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Chevaucheur de loup"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sabre acéré](/fr/equipment/Sabre acéré/) | **ATQ** | **DÉF** | 
-  | [Ceinture de puissance](/fr/equipment/Ceinture de puissance/) | **PV** | **DÉF** | 
-  | [Bracelet du loup](/fr/equipment/Bracelet du loup/) | **ATQ** | **DÉF** | 
-  | [Épaulières de langue-loup](/fr/equipment/Épaulières de langue-loup/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sabre acéré](/images/e/e_4021.png) | [Sabre acéré](/fr/equipment/Razor-bladed Sabre/) | **ATQ** | **DÉF** | 
+  | ![Ceinture de puissance](/images/e/e_4022.png) | [Ceinture de puissance](/fr/equipment/Mighty Belt/) | **PV** | **DÉF** | 
+  | ![Bracelet du loup](/images/e/e_4023.png) | [Bracelet du loup](/fr/equipment/Bracer of the Wolf/) | **ATQ** | **DÉF** | 
+  | ![Épaulières de langue-loup](/images/e/e_4024.png) | [Épaulières de langue-loup](/fr/equipment/Pauldrons of Wolf-tongue/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

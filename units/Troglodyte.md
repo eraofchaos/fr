@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Troglodyte"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lance en os de l'éventreur](/fr/equipment/Lance en os de l'éventreur/) | **ATQ** | **DÉF** | 
-  | [Crâne de l'hôte](/fr/equipment/Crâne de l'hôte/) | **PV** | **DÉF** | 
-  | [Poignard brise-os](/fr/equipment/Poignard brise-os/) | **ATQ** | **DÉF** | 
-  | [Sang fortement acide](/fr/equipment/Sang fortement acide/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lance en os de l'éventreur](/images/e/e_7011.png) | [Lance en os de l'éventreur](/fr/equipment/Ripper's Bone Spear/) | **ATQ** | **DÉF** | 
+  | ![Crâne de l'hôte](/images/e/e_7012.png) | [Crâne de l'hôte](/fr/equipment/Host Cranium/) | **PV** | **DÉF** | 
+  | ![Poignard brise-os](/images/e/e_7013.png) | [Poignard brise-os](/fr/equipment/Spine-breaking Stab/) | **ATQ** | **DÉF** | 
+  | ![Sang fortement acide](/images/e/e_7014.png) | [Sang fortement acide](/fr/equipment/Blood of Strong Acid/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Spadassin"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Spadassin"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Épée de l'Empire](/fr/equipment/Épée de l'Empire/) | **ATQ** | **DÉF** | 
-  | [Heaume d'officier](/fr/equipment/Heaume d'officier/) | **PV** | **DÉF** | 
-  | [Bouclier de l'Empire](/fr/equipment/Bouclier de l'Empire/) | **ATQ** | **DÉF** | 
-  | [Épaulières de l'Empire](/fr/equipment/Épaulières de l'Empire/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Épée de l'Empire](/images/e/e_1041.png) | [Épée de l'Empire](/fr/equipment/Empire's Sword/) | **ATQ** | **DÉF** | 
+  | ![Heaume d'officier](/images/e/e_1042.png) | [Heaume d'officier](/fr/equipment/Officer's Helmet/) | **PV** | **DÉF** | 
+  | ![Bouclier de l'Empire](/images/e/e_1043.png) | [Bouclier de l'Empire](/fr/equipment/Empire's Shield/) | **ATQ** | **DÉF** | 
+  | ![Épaulières de l'Empire](/images/e/e_1044.png) | [Épaulières de l'Empire](/fr/equipment/Empire's Pauldrons/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

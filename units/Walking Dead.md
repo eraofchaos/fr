@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Trépassé"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machette maculée de sang](/fr/equipment/Machette maculée de sang/) | **ATQ** | **DÉF** | 
-  | [Collier en os](/fr/equipment/Collier en os/) | **PV** | **DÉF** | 
-  | [Bracelet en acier raffiné](/fr/equipment/Bracelet en acier raffiné/) | **ATQ** | **DÉF** | 
-  | [Pantalon de putréfaction](/fr/equipment/Pantalon de putréfaction/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machette maculée de sang](/images/e/e_3021.png) | [Machette maculée de sang](/fr/equipment/Bloodstained Machete/) | **ATQ** | **DÉF** | 
+  | ![Collier en os](/images/e/e_3022.png) | [Collier en os](/fr/equipment/Bone Necklet/) | **PV** | **DÉF** | 
+  | ![Bracelet en acier raffiné](/images/e/e_3023.png) | [Bracelet en acier raffiné](/fr/equipment/Refined Steel Bracer/) | **ATQ** | **DÉF** | 
+  | ![Pantalon de putréfaction](/images/e/e_3024.png) | [Pantalon de putréfaction](/fr/equipment/Trousers of Decay/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

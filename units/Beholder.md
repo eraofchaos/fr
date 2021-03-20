@@ -3,7 +3,7 @@ title: "Œil maléfique"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Œil maléfique"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Œil du blasphème](/fr/equipment/Œil du blasphème/) | **ATQ** | **DÉF** | 
-  | [Pupille de la mort](/fr/equipment/Pupille de la mort/) | **PV** | **DÉF** | 
-  | [Défense démoniaque](/fr/equipment/Défense démoniaque/) | **ATQ** | **DÉF** | 
-  | [Tentacules de l'abîme](/fr/equipment/Tentacules de l'abîme/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Œil du blasphème](/images/e/e_7031.png) | [Œil du blasphème](/fr/equipment/Eye of Blasphemy/) | **ATQ** | **DÉF** | 
+  | ![Pupille de la mort](/images/e/e_7032.png) | [Pupille de la mort](/fr/equipment/Pupil of Death/) | **PV** | **DÉF** | 
+  | ![Défense démoniaque](/images/e/e_7033.png) | [Défense démoniaque](/fr/equipment/Evil Tusk/) | **ATQ** | **DÉF** | 
+  | ![Tentacules de l'abîme](/images/e/e_7034.png) | [Tentacules de l'abîme](/fr/equipment/Tentacles from the Abyss/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

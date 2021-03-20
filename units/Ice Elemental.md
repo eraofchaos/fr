@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cristal de glace creux](/fr/equipment/Cristal de glace creux/) | **ATQ** | **DÉF** | 
-  | [Coiffe raz-de-marée](/fr/equipment/Coiffe raz-de-marée/) | **PV** | **DÉF** | 
-  | [Marque de l'océan](/fr/equipment/Marque de l'océan/) | **ATQ** | **DÉF** | 
-  | [Étoffe de la sirène](/fr/equipment/Étoffe de la sirène/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cristal de glace creux](/images/e/e_9031.png) | [Cristal de glace creux](/fr/equipment/Deep Ice Crystal/) | **ATQ** | **DÉF** | 
+  | ![Coiffe raz-de-marée](/images/e/e_9032.png) | [Coiffe raz-de-marée](/fr/equipment/Tidal Headdress/) | **PV** | **DÉF** | 
+  | ![Marque de l'océan](/images/e/e_9033.png) | [Marque de l'océan](/fr/equipment/Mark of the Ocean/) | **ATQ** | **DÉF** | 
+  | ![Étoffe de la sirène](/images/e/e_9034.png) | [Étoffe de la sirène](/fr/equipment/Cloth of the Mermaid/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

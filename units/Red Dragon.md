@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Dragon rouge"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corne du feu écarlate](/fr/equipment/Corne du feu écarlate/) | **ATQ** | **DÉF** | 
-  | [Ailes antiques](/fr/equipment/Ailes antiques/) | **PV** | **DÉF** | 
-  | [Griffes brûlantes](/fr/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
-  | [Queue de dragon fougueux](/fr/equipment/Queue de dragon fougueux/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corne du feu écarlate](/images/e/e_7081.png) | [Corne du feu écarlate](/fr/equipment/Horn of Red Fire/) | **ATQ** | **DÉF** | 
+  | ![Ailes antiques](/images/e/e_7082.png) | [Ailes antiques](/fr/equipment/Ancient Wings/) | **PV** | **DÉF** | 
+  | ![Griffes brûlantes](/images/e/e_7083.png) | [Griffes brûlantes](/fr/equipment/Scalding Claws/) | **ATQ** | **DÉF** | 
+  | ![Queue de dragon fougueux](/images/e/e_7084.png) | [Queue de dragon fougueux](/fr/equipment/Vehement Dragon Tail/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Naga"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lame transperçante](/fr/equipment/Lame transperçante/) | **ATQ** | **DÉF** | 
-  | [Épaulières marines](/fr/equipment/Épaulières marines/) | **PV** | **DÉF** | 
-  | [Coiffe du dieu serpent](/fr/equipment/Coiffe du dieu serpent/) | **ATQ** | **DÉF** | 
-  | [Plaque de hanche solide et flexible](/fr/equipment/Plaque de hanche solide et flexible/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lame transperçante](/images/e/e_6061.png) | [Lame transperçante](/fr/equipment/Everflowing Blade/) | **ATQ** | **DÉF** | 
+  | ![Épaulières marines](/images/e/e_6062.png) | [Épaulières marines](/fr/equipment/Seafaring Pauldrons/) | **PV** | **DÉF** | 
+  | ![Coiffe du dieu serpent](/images/e/e_6063.png) | [Coiffe du dieu serpent](/fr/equipment/Headdress of the Serpent God/) | **ATQ** | **DÉF** | 
+  | ![Plaque de hanche solide et flexible](/images/e/e_6064.png) | [Plaque de hanche solide et flexible](/fr/equipment/Strong and Flexible Waistplate/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

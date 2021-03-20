@@ -3,7 +3,7 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Oracle de Regna"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sceptre divin de l'âme de l'océan](/fr/equipment/Sceptre divin de l'âme de l'océan/) | **ATQ** | **DÉF** | 
-  | [Collier de l'âme de Poséidon](/fr/equipment/Collier de l'âme de Poséidon/) | **PV** | **DÉF** | 
-  | [Bandeau rayonnant](/fr/equipment/Bandeau rayonnant/) | **ATQ** | **DÉF** | 
-  | [Bracelet noble](/fr/equipment/Bracelet noble/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sceptre divin de l'âme de l'océan](/images/e/e_99071.png) | [Sceptre divin de l'âme de l'océan](/fr/equipment/Divine Scepter of the Ocean's Soul/) | **ATQ** | **DÉF** | 
+  | ![Collier de l'âme de Poséidon](/images/e/e_99072.png) | [Collier de l'âme de Poséidon](/fr/equipment/Poseidon's Soul Necklace/) | **PV** | **DÉF** | 
+  | ![Bandeau rayonnant](/images/e/e_99073.png) | [Bandeau rayonnant](/fr/equipment/Radiance Headband/) | **ATQ** | **DÉF** | 
+  | ![Bracelet noble](/images/e/e_99074.png) | [Bracelet noble](/fr/equipment/Noble Bracelet/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

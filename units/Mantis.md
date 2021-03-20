@@ -3,7 +3,7 @@ title: "Mante religieuse"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ses gigantesques lames, tranchantes comme des rasoirs, témoignent de sa fierté de créature légendaire. Les elfes de Vori ont conféré à la Mante religieuse une vitalité de fer inébranlable."
 unitID: 209
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Mante religieuse"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/fr/equipment/UnknownEquipment_2091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_2092](/fr/equipment/UnknownEquipment_2092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_2093](/fr/equipment/UnknownEquipment_2093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_2094](/fr/equipment/UnknownEquipment_2094/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_2091](/images/e/e_2091.png) | [UnknownEquipment_2091](/fr/equipment/UnknownEquipment_2091/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_2092](/images/e/e_2092.png) | [UnknownEquipment_2092](/fr/equipment/UnknownEquipment_2092/) | **PV** | **DÉF** | 
+  | ![UnknownEquipment_2093](/images/e/e_2093.png) | [UnknownEquipment_2093](/fr/equipment/UnknownEquipment_2093/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_2094](/images/e/e_2094.png) | [UnknownEquipment_2094](/fr/equipment/UnknownEquipment_2094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

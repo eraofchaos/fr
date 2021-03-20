@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Démon"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corne ardente](/fr/equipment/Corne ardente/) | **ATQ** | **DÉF** | 
-  | [Pendentif en acier](/fr/equipment/Pendentif en acier/) | **PV** | **DÉF** | 
-  | [Griffes brûlantes](/fr/equipment/Griffes brûlantes/) | **ATQ** | **DÉF** | 
-  | [Bracelets à pointes](/fr/equipment/Bracelets à pointes/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corne ardente](/images/e/e_5041.png) | [Corne ardente](/fr/equipment/Horn of Scorching/) | **ATQ** | **DÉF** | 
+  | ![Pendentif en acier](/images/e/e_5042.png) | [Pendentif en acier](/fr/equipment/Steel Necklet/) | **PV** | **DÉF** | 
+  | ![Griffes brûlantes](/images/e/e_5043.png) | [Griffes brûlantes](/fr/equipment/Scalding Claws/) | **ATQ** | **DÉF** | 
+  | ![Bracelets à pointes](/images/e/e_5044.png) | [Bracelets à pointes](/fr/equipment/Spiked Bracers/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

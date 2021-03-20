@@ -3,7 +3,7 @@ title: "Serpent de Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Serpent de Regna"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Trident](/fr/equipment/Trident/) | **ATQ** | **DÉF** | 
-  | [Corne infernale](/fr/equipment/Corne infernale/) | **PV** | **DÉF** | 
-  | [Griffes de sirène](/fr/equipment/Griffes de sirène/) | **ATQ** | **DÉF** | 
-  | [Nageoire bleu foncé](/fr/equipment/Nageoire bleu foncé/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Trident](/images/e/e_99041.png) | [Trident](/fr/equipment/Trident/) | **ATQ** | **DÉF** | 
+  | ![Corne infernale](/images/e/e_99042.png) | [Corne infernale](/fr/equipment/Shell Horn/) | **PV** | **DÉF** | 
+  | ![Griffes de sirène](/images/e/e_99043.png) | [Griffes de sirène](/fr/equipment/Mermaid Claws/) | **ATQ** | **DÉF** | 
+  | ![Nageoire bleu foncé](/images/e/e_99044.png) | [Nageoire bleu foncé](/fr/equipment/Mazarine Fin/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

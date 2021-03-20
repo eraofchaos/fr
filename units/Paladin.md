@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
 unitID: 108
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Paladin"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Épée du jugement](/fr/equipment/Épée du jugement/) | **ATQ** | **DÉF** | 
-  | [Heaume du serment](/fr/equipment/Heaume du serment/) | **PV** | **DÉF** | 
-  | [Épaulières de fer](/fr/equipment/Épaulières de fer/) | **ATQ** | **DÉF** | 
-  | [Bracelets forgés](/fr/equipment/Bracelets forgés/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Épée du jugement](/images/e/e_1081.png) | [Épée du jugement](/fr/equipment/Judgment Sword/) | **ATQ** | **DÉF** | 
+  | ![Heaume du serment](/images/e/e_1082.png) | [Heaume du serment](/fr/equipment/Vow Helmet/) | **PV** | **DÉF** | 
+  | ![Épaulières de fer](/images/e/e_1083.png) | [Épaulières de fer](/fr/equipment/Iron Pauldrons/) | **ATQ** | **DÉF** | 
+  | ![Bracelets forgés](/images/e/e_1084.png) | [Bracelets forgés](/fr/equipment/Forged Bracers/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

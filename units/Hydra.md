@@ -3,7 +3,7 @@ title: "Hydre"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Hydre"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Queue de dragon de la peste](/fr/equipment/Queue de dragon de la peste/) | **ATQ** | **DÉF** | 
-  | [Boucles d'oreille du dirigeant](/fr/equipment/Boucles d'oreille du dirigeant/) | **PV** | **DÉF** | 
-  | [Griffe du dragon de la peste](/fr/equipment/Griffe du dragon de la peste/) | **ATQ** | **DÉF** | 
-  | [Piques dorsaux acérés](/fr/equipment/Piques dorsaux acérés/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Queue de dragon de la peste](/images/e/e_8071.png) | [Queue de dragon de la peste](/fr/equipment/Plague Dragon Tail/) | **ATQ** | **DÉF** | 
+  | ![Boucles d'oreille du dirigeant](/images/e/e_8072.png) | [Boucles d'oreille du dirigeant](/fr/equipment/Ruler's Earrings/) | **PV** | **DÉF** | 
+  | ![Griffe du dragon de la peste](/images/e/e_8073.png) | [Griffe du dragon de la peste](/fr/equipment/Plague Dragon Claw/) | **ATQ** | **DÉF** | 
+  | ![Piques dorsaux acérés](/images/e/e_8074.png) | [Piques dorsaux acérés](/fr/equipment/Sharp Back-spikes/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

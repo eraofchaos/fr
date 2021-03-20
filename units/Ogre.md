@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Ogre"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bâton bélier](/fr/equipment/Bâton bélier/) | **ATQ** | **DÉF** | 
-  | [Ceinture du rituel](/fr/equipment/Ceinture du rituel/) | **PV** | **DÉF** | 
-  | [Talisman tribal](/fr/equipment/Talisman tribal/) | **ATQ** | **DÉF** | 
-  | [Épaulières du rituel](/fr/equipment/Épaulières du rituel/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bâton bélier](/images/e/e_4041.png) | [Bâton bélier](/fr/equipment/Rams-head Staff/) | **ATQ** | **DÉF** | 
+  | ![Ceinture du rituel](/images/e/e_4042.png) | [Ceinture du rituel](/fr/equipment/Belt of Ritual/) | **PV** | **DÉF** | 
+  | ![Talisman tribal](/images/e/e_4043.png) | [Talisman tribal](/fr/equipment/Tribal Talisman/) | **ATQ** | **DÉF** | 
+  | ![Épaulières du rituel](/images/e/e_4044.png) | [Épaulières du rituel](/fr/equipment/Pauldrons of Ritual/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

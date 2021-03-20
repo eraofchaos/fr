@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Licorne"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Grande corne en cristal](/fr/equipment/Grande corne en cristal/) | **ATQ** | **DÉF** | 
-  | [Pierres du rêveur](/fr/equipment/Pierres du rêveur/) | **PV** | **DÉF** | 
-  | [Sabots en cristal](/fr/equipment/Sabots en cristal/) | **ATQ** | **DÉF** | 
-  | [Crinière brumeuse](/fr/equipment/Crinière brumeuse/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Grande corne en cristal](/images/e/e_2061.png) | [Grande corne en cristal](/fr/equipment/Crystal Longhorn/) | **ATQ** | **DÉF** | 
+  | ![Pierres du rêveur](/images/e/e_2062.png) | [Pierres du rêveur](/fr/equipment/Dreamer's Stones/) | **PV** | **DÉF** | 
+  | ![Sabots en cristal](/images/e/e_2063.png) | [Sabots en cristal](/fr/equipment/Crystal Hooves/) | **ATQ** | **DÉF** | 
+  | ![Crinière brumeuse](/images/e/e_2064.png) | [Crinière brumeuse](/fr/equipment/Misty Mane/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

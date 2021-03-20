@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Assassin"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Capuche d'assassin](/fr/equipment/Capuche d'assassin/) | **ATQ** | **DÉF** | 
-  | [Lame secrète](/fr/equipment/Lame secrète/) | **PV** | **DÉF** | 
-  | [Ceinture d'assassin](/fr/equipment/Ceinture d'assassin/) | **ATQ** | **DÉF** | 
-  | [Bottes en cuir](/fr/equipment/Bottes en cuir/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Capuche d'assassin](/fr/equipment/Assassin's Hood/) | **ATQ** | **DÉF** | 
+  |  | [Lame secrète](/fr/equipment/Hidden Blade/) | **PV** | **DÉF** | 
+  |  | [Ceinture d'assassin](/fr/equipment/Assassin's Belt/) | **ATQ** | **DÉF** | 
+  |  | [Bottes en cuir](/fr/equipment/Leather Boots/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

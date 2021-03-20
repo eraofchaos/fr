@@ -2,7 +2,7 @@
 title: "Exclusif - Ronces"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Ronces. Ronces. Era of Chaos Exclusif Ronces. Farfadet Exclusif."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Leprechaun Ronces.md"
 toc: false

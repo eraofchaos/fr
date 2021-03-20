@@ -3,7 +3,7 @@ title: "Lancier"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Lancier"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lance de l'azur](/fr/equipment/Lance de l'azur/) | **ATQ** | **DÉF** | 
-  | [Heaume blindé](/fr/equipment/Heaume blindé/) | **PV** | **DÉF** | 
-  | [Bouclier sentinelle](/fr/equipment/Bouclier sentinelle/) | **ATQ** | **DÉF** | 
-  | [Épaulière blindée](/fr/equipment/Épaulière blindée/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lance de l'azur](/images/e/e_1011.png) | [Lance de l'azur](/fr/equipment/Azure Lance/) | **ATQ** | **DÉF** | 
+  | ![Heaume blindé](/images/e/e_1012.png) | [Heaume blindé](/fr/equipment/Plate Helmet/) | **PV** | **DÉF** | 
+  | ![Bouclier sentinelle](/images/e/e_1013.png) | [Bouclier sentinelle](/fr/equipment/Sentinel's Shield/) | **ATQ** | **DÉF** | 
+  | ![Épaulière blindée](/images/e/e_1014.png) | [Épaulière blindée](/fr/equipment/Plated Shoulderpads/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

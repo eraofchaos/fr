@@ -3,7 +3,7 @@ title: "Golem dragon"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Golem dragon"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffe en alliage](/fr/equipment/Griffe en alliage/) | **ATQ** | **DÉF** | 
-  | [Tête de dragon de titane](/fr/equipment/Tête de dragon de titane/) | **PV** | **DÉF** | 
-  | [Manche de contrôle principal](/fr/equipment/Manche de contrôle principal/) | **ATQ** | **DÉF** | 
-  | [Armure en alliage](/fr/equipment/Armure en alliage/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffe en alliage](/images/e/e_6091.png) | [Griffe en alliage](/fr/equipment/Alloy Claw/) | **ATQ** | **DÉF** | 
+  | ![Tête de dragon de titane](/images/e/e_6092.png) | [Tête de dragon de titane](/fr/equipment/Titanium Dragon Head/) | **PV** | **DÉF** | 
+  | ![Manche de contrôle principal](/images/e/e_6093.png) | [Manche de contrôle principal](/fr/equipment/Main Control Stick/) | **ATQ** | **DÉF** | 
+  | ![Armure en alliage](/images/e/e_6094.png) | [Armure en alliage](/fr/equipment/Alloy Armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

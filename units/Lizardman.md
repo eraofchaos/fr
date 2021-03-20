@@ -3,7 +3,7 @@ title: "Homme-lézard"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Homme-lézard"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Aile à piques](/fr/equipment/Aile à piques/) | **ATQ** | **DÉF** | 
-  | [Bracelets du guerrier](/fr/equipment/Bracelets du guerrier/) | **PV** | **DÉF** | 
-  | [Scapula du guerrier](/fr/equipment/Scapula du guerrier/) | **ATQ** | **DÉF** | 
-  | [Arc long de chasse](/fr/equipment/Arc long de chasse/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Aile à piques](/images/e/e_8021.png) | [Aile à piques](/fr/equipment/Spiked Neck Umbrella/) | **ATQ** | **DÉF** | 
+  | ![Bracelets du guerrier](/images/e/e_8022.png) | [Bracelets du guerrier](/fr/equipment/Warrior's Bracers/) | **PV** | **DÉF** | 
+  | ![Scapula du guerrier](/images/e/e_8023.png) | [Scapula du guerrier](/fr/equipment/Warrior's Scapula/) | **ATQ** | **DÉF** | 
+  | ![Arc long de chasse](/images/e/e_8024.png) | [Arc long de chasse](/fr/equipment/Hunting Longbow/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

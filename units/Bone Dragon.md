@@ -3,7 +3,7 @@ title: "Dragon squelette"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Dragon squelette"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pointe en os](/fr/equipment/Pointe en os/) | **ATQ** | **DÉF** | 
-  | [Crâne draconique](/fr/equipment/Crâne draconique/) | **PV** | **DÉF** | 
-  | [Griffes perçantes](/fr/equipment/Griffes perçantes/) | **ATQ** | **DÉF** | 
-  | [Gemme spirituelle](/fr/equipment/Gemme spirituelle/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pointe en os](/images/e/e_3071.png) | [Pointe en os](/fr/equipment/Bone Spike/) | **ATQ** | **DÉF** | 
+  | ![Crâne draconique](/images/e/e_3072.png) | [Crâne draconique](/fr/equipment/Draconic Skull/) | **PV** | **DÉF** | 
+  | ![Griffes perçantes](/images/e/e_3073.png) | [Griffes perçantes](/fr/equipment/Piercing Claws/) | **ATQ** | **DÉF** | 
+  | ![Gemme spirituelle](/images/e/e_3074.png) | [Gemme spirituelle](/fr/equipment/Soul Gem/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

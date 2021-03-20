@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Moine"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orbe de divinité](/fr/equipment/Orbe de divinité/) | **ATQ** | **DÉF** | 
-  | [Chapeau mystique](/fr/equipment/Chapeau mystique/) | **PV** | **DÉF** | 
-  | [Rune du rituel](/fr/equipment/Rune du rituel/) | **ATQ** | **DÉF** | 
-  | [Armure légère standard](/fr/equipment/Armure légère standard/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orbe de divinité](/images/e/e_1051.png) | [Orbe de divinité](/fr/equipment/Orb of Divinity/) | **ATQ** | **DÉF** | 
+  | ![Chapeau mystique](/images/e/e_1052.png) | [Chapeau mystique](/fr/equipment/Mystic's Cap/) | **PV** | **DÉF** | 
+  | ![Rune du rituel](/images/e/e_1053.png) | [Rune du rituel](/fr/equipment/Rune of Ritual/) | **ATQ** | **DÉF** | 
+  | ![Armure légère standard](/images/e/e_1054.png) | [Armure légère standard](/fr/equipment/Basic Light Armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

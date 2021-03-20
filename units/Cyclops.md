@@ -3,7 +3,7 @@ title: "Cyclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Cyclope"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Rocher](/fr/equipment/Rocher/) | **ATQ** | **DÉF** | 
-  | [Chaînes de gladiateur](/fr/equipment/Chaînes de gladiateur/) | **PV** | **DÉF** | 
-  | [Bracelets à pointes](/fr/equipment/Bracelets à pointes/) | **ATQ** | **DÉF** | 
-  | [Pantalon en cuir](/fr/equipment/Pantalon en cuir/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Rocher](/images/e/e_4061.png) | [Rocher](/fr/equipment/Boulder/) | **ATQ** | **DÉF** | 
+  | ![Chaînes de gladiateur](/images/e/e_4062.png) | [Chaînes de gladiateur](/fr/equipment/Shackles of War/) | **PV** | **DÉF** | 
+  | ![Bracelets à pointes](/images/e/e_4063.png) | [Bracelets à pointes](/fr/equipment/Spiked Bracers/) | **ATQ** | **DÉF** | 
+  | ![Pantalon en cuir](/images/e/e_4064.png) | [Pantalon en cuir](/fr/equipment/Leather Trousers/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Boule électrique vacillante](/fr/equipment/Boule électrique vacillante/) | **ATQ** | **DÉF** | 
-  | [Noyau du tonnerre](/fr/equipment/Noyau du tonnerre/) | **PV** | **DÉF** | 
-  | [Griffe magique](/fr/equipment/Griffe magique/) | **ATQ** | **DÉF** | 
-  | [Œil maléfique de foudre](/fr/equipment/Œil maléfique de foudre/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Boule électrique vacillante](/images/e/e_9021.png) | [Boule électrique vacillante](/fr/equipment/Flickering Lightning Ball/) | **ATQ** | **DÉF** | 
+  | ![Noyau du tonnerre](/images/e/e_9022.png) | [Noyau du tonnerre](/fr/equipment/Thunder Core/) | **PV** | **DÉF** | 
+  | ![Griffe magique](/images/e/e_9023.png) | [Griffe magique](/fr/equipment/Magic Claw/) | **ATQ** | **DÉF** | 
+  | ![Œil maléfique de foudre](/images/e/e_9024.png) | [Œil maléfique de foudre](/fr/equipment/Beholder of Lightning/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

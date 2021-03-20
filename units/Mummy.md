@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Momie"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Toucher immortel](/fr/equipment/Toucher immortel/) | **ATQ** | **DÉF** | 
-  | [Bandage antique](/fr/equipment/Bandage antique/) | **PV** | **DÉF** | 
-  | [Pupille du défunt](/fr/equipment/Pupille du défunt/) | **ATQ** | **DÉF** | 
-  | [Souffle de la mort](/fr/equipment/Souffle de la mort/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Toucher immortel](/images/e/e_3081.png) | [Toucher immortel](/fr/equipment/Immortal Touch/) | **ATQ** | **DÉF** | 
+  | ![Bandage antique](/images/e/e_3082.png) | [Bandage antique](/fr/equipment/Ancient Bandage/) | **PV** | **DÉF** | 
+  | ![Pupille du défunt](/images/e/e_3083.png) | [Pupille du défunt](/fr/equipment/Pupil of the Departed/) | **ATQ** | **DÉF** | 
+  | ![Souffle de la mort](/images/e/e_3084.png) | [Souffle de la mort](/fr/equipment/Breath of Death/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

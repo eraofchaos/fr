@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Revyaratan"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Crocs acérés](/fr/equipment/Crocs acérés/) | **ATQ** | **DÉF** | 
-  | [Nageoire glaciale](/fr/equipment/Nageoire glaciale/) | **PV** | **DÉF** | 
-  | [Queue de monstre marin](/fr/equipment/Queue de monstre marin/) | **ATQ** | **DÉF** | 
-  | [Tentacules de la tentation](/fr/equipment/Tentacules de la tentation/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Crocs acérés](/images/e/e_99081.png) | [Crocs acérés](/fr/equipment/Sharp Fangs/) | **ATQ** | **DÉF** | 
+  | ![Nageoire glaciale](/images/e/e_99082.png) | [Nageoire glaciale](/fr/equipment/Ice-cold Fin/) | **PV** | **DÉF** | 
+  | ![Queue de monstre marin](/images/e/e_99083.png) | [Queue de monstre marin](/fr/equipment/Sea Monster Tail/) | **ATQ** | **DÉF** | 
+  | ![Tentacules de la tentation](/images/e/e_99084.png) | [Tentacules de la tentation](/fr/equipment/Tentacles of Temptation/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

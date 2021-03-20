@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Tortue dragon"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dents tranchantes de Tortue dragon](/fr/equipment/Dents tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
-  | [Carapace de tortue à pointes](/fr/equipment/Carapace de tortue à pointes/) | **PV** | **DÉF** | 
-  | [Griffes tranchantes de Tortue dragon](/fr/equipment/Griffes tranchantes de Tortue dragon/) | **ATQ** | **DÉF** | 
-  | [Queue de Tortue dragon](/fr/equipment/Queue de Tortue dragon/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dents tranchantes de Tortue dragon](/images/e/e_99061.png) | [Dents tranchantes de Tortue dragon](/fr/equipment/Dragon Turtle's Sharp Teeth/) | **ATQ** | **DÉF** | 
+  | ![Carapace de tortue à pointes](/images/e/e_99062.png) | [Carapace de tortue à pointes](/fr/equipment/Spiked Tortoise Shell/) | **PV** | **DÉF** | 
+  | ![Griffes tranchantes de Tortue dragon](/images/e/e_99063.png) | [Griffes tranchantes de Tortue dragon](/fr/equipment/Dragon Turtle's Sharp Claw/) | **ATQ** | **DÉF** | 
+  | ![Queue de Tortue dragon](/images/e/e_99064.png) | [Queue de Tortue dragon](/fr/equipment/Dragon Turtle's Tail/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

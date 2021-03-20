@@ -3,7 +3,7 @@ title: "Effrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Effrit"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orbe enflammé](/fr/equipment/Orbe enflammé/) | **ATQ** | **DÉF** | 
-  | [Armure légère enflammée](/fr/equipment/Armure légère enflammée/) | **PV** | **DÉF** | 
-  | [Bracelets enflammés](/fr/equipment/Bracelets enflammés/) | **ATQ** | **DÉF** | 
-  | [Épaulières enflammées](/fr/equipment/Épaulières enflammées/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orbe enflammé](/images/e/e_5061.png) | [Orbe enflammé](/fr/equipment/Orb of Flame/) | **ATQ** | **DÉF** | 
+  | ![Armure légère enflammée](/images/e/e_5062.png) | [Armure légère enflammée](/fr/equipment/Light Armor of Flame/) | **PV** | **DÉF** | 
+  | ![Bracelets enflammés](/images/e/e_5063.png) | [Bracelets enflammés](/fr/equipment/Bracers of Flame/) | **ATQ** | **DÉF** | 
+  | ![Épaulières enflammées](/images/e/e_5064.png) | [Épaulières enflammées](/fr/equipment/Pauldrons of Flame/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

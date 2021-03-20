@@ -3,7 +3,7 @@ title: "Tigre blanc"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Tigre blanc déchaîne sa compétence Esprit du Tigre blanc pour percer les points faibles des défenses ennemies. Il active ses pouvoirs de pestilence pour retourner la situation en sa faveur sur le champ de bataille."
 unitID: 809
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Tigre blanc"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/fr/equipment/UnknownEquipment_8091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_8092](/fr/equipment/UnknownEquipment_8092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_8093](/fr/equipment/UnknownEquipment_8093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_8094](/fr/equipment/UnknownEquipment_8094/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_8091](/images/e/e_8091.png) | [UnknownEquipment_8091](/fr/equipment/UnknownEquipment_8091/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_8092](/images/e/e_8092.png) | [UnknownEquipment_8092](/fr/equipment/UnknownEquipment_8092/) | **PV** | **DÉF** | 
+  | ![UnknownEquipment_8093](/images/e/e_8093.png) | [UnknownEquipment_8093](/fr/equipment/UnknownEquipment_8093/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_8094](/images/e/e_8094.png) | [UnknownEquipment_8094](/fr/equipment/UnknownEquipment_8094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

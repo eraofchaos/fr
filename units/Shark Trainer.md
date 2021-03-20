@@ -3,7 +3,7 @@ title: "Dompteur de requins"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues."
 unitID: 9909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Dompteur de requins"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cimeterre en acier](/fr/equipment/Cimeterre en acier/) | **ATQ** | **DÉF** | 
-  | [Sangle de protection](/fr/equipment/Sangle de protection/) | **PV** | **DÉF** | 
-  | [Gants de protection](/fr/equipment/Gants de protection/) | **ATQ** | **DÉF** | 
-  | [Rênes de requins](/fr/equipment/Rênes de requins/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cimeterre en acier](/images/e/e_99091.png) | [Cimeterre en acier](/fr/equipment/Steel Scimitar/) | **ATQ** | **DÉF** | 
+  | ![Sangle de protection](/images/e/e_99093.png) | [Sangle de protection](/fr/equipment/Protective Strap/) | **PV** | **DÉF** | 
+  | ![Gants de protection](/images/e/e_99092.png) | [Gants de protection](/fr/equipment/Protective Gloves/) | **ATQ** | **DÉF** | 
+  | ![Rênes de requins](/images/e/e_99094.png) | [Rênes de requins](/fr/equipment/Shark Reins/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

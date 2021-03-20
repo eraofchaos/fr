@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Pirates de Regna"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machette renforcée](/fr/equipment/Machette renforcée/) | **ATQ** | **DÉF** | 
-  | [Chemise de marin](/fr/equipment/Chemise de marin/) | **PV** | **DÉF** | 
-  | [Bandeau du juste](/fr/equipment/Bandeau du juste/) | **ATQ** | **DÉF** | 
-  | [Pantalon de marin](/fr/equipment/Pantalon de marin/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machette renforcée](/images/e/e_99011.png) | [Machette renforcée](/fr/equipment/Toughened Machete/) | **ATQ** | **DÉF** | 
+  | ![Chemise de marin](/images/e/e_99012.png) | [Chemise de marin](/fr/equipment/Sailor's Shirt/) | **PV** | **DÉF** | 
+  | ![Bandeau du juste](/images/e/e_99013.png) | [Bandeau du juste](/fr/equipment/Righteous Headband/) | **ATQ** | **DÉF** | 
+  | ![Pantalon de marin](/images/e/e_99014.png) | [Pantalon de marin](/fr/equipment/Sailor's Pants/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

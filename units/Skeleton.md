@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Squelette"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cimeterre profane](/fr/equipment/Cimeterre profane/) | **ATQ** | **DÉF** | 
-  | [Heaume rouillé](/fr/equipment/Heaume rouillé/) | **PV** | **DÉF** | 
-  | [Bouclier profane](/fr/equipment/Bouclier profane/) | **ATQ** | **DÉF** | 
-  | [Épaulières rouillées](/fr/equipment/Épaulières rouillées/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cimeterre profane](/images/e/e_3011.png) | [Cimeterre profane](/fr/equipment/Unholy Scimitar/) | **ATQ** | **DÉF** | 
+  | ![Heaume rouillé](/images/e/e_3012.png) | [Heaume rouillé](/fr/equipment/Rusted Helmet/) | **PV** | **DÉF** | 
+  | ![Bouclier profane](/images/e/e_3013.png) | [Bouclier profane](/fr/equipment/Unholy Shield/) | **ATQ** | **DÉF** | 
+  | ![Épaulières rouillées](/images/e/e_3014.png) | [Épaulières rouillées](/fr/equipment/Rusted Pauldrons/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

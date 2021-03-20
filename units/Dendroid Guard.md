@@ -3,7 +3,7 @@ title: "Garde sylvanien"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Garde sylvanien"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Branche de vitalité](/fr/equipment/Branche de vitalité/) | **ATQ** | **DÉF** | 
-  | [Couronne lourde](/fr/equipment/Couronne lourde/) | **PV** | **DÉF** | 
-  | [Rune impérissable](/fr/equipment/Rune impérissable/) | **ATQ** | **DÉF** | 
-  | [Armure de liane](/fr/equipment/Armure de liane/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Branche de vitalité](/images/e/e_2051.png) | [Branche de vitalité](/fr/equipment/Branch of Vitality/) | **ATQ** | **DÉF** | 
+  | ![Couronne lourde](/images/e/e_2052.png) | [Couronne lourde](/fr/equipment/Bountiful's Crown/) | **PV** | **DÉF** | 
+  | ![Rune impérissable](/images/e/e_2053.png) | [Rune impérissable](/fr/equipment/Evergreen Rune/) | **ATQ** | **DÉF** | 
+  | ![Armure de liane](/images/e/e_2054.png) | [Armure de liane](/fr/equipment/Vine's Armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

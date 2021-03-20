@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Djinn"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lampe en or mystique](/fr/equipment/Lampe en or mystique/) | **ATQ** | **DÉF** | 
-  | [Bibelot mystérieux en cristal](/fr/equipment/Bibelot mystérieux en cristal/) | **PV** | **DÉF** | 
-  | [Bracelet en cuivre rouge](/fr/equipment/Bracelet en cuivre rouge/) | **ATQ** | **DÉF** | 
-  | [Armure enchantée](/fr/equipment/Armure enchantée/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lampe en or mystique](/images/e/e_6051.png) | [Lampe en or mystique](/fr/equipment/Mystic Gold Lamp/) | **ATQ** | **DÉF** | 
+  | ![Bibelot mystérieux en cristal](/images/e/e_6052.png) | [Bibelot mystérieux en cristal](/fr/equipment/Strange Crystal Ornament/) | **PV** | **DÉF** | 
+  | ![Bracelet en cuivre rouge](/images/e/e_6053.png) | [Bracelet en cuivre rouge](/fr/equipment/Red Copper Bracer/) | **ATQ** | **DÉF** | 
+  | ![Armure enchantée](/images/e/e_6054.png) | [Armure enchantée](/fr/equipment/Enchanted Armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -2,7 +2,7 @@
 title: "Infos combinaison for Peste"
 permalink: /combination/Plague/
 excerpt: "Infos combinaison - Peste. Units and Heroes Formation."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Peste.md"
 toc: false

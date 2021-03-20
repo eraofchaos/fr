@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Liche"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bâton des limbes](/fr/equipment/Bâton des limbes/) | **ATQ** | **DÉF** | 
-  | [Couronne noire](/fr/equipment/Couronne noire/) | **PV** | **DÉF** | 
-  | [Ceinture spirituelle](/fr/equipment/Ceinture spirituelle/) | **ATQ** | **DÉF** | 
-  | [Armure légère des limbes](/fr/equipment/Armure légère des limbes/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bâton des limbes](/images/e/e_3051.png) | [Bâton des limbes](/fr/equipment/Nether Staff/) | **ATQ** | **DÉF** | 
+  | ![Couronne noire](/images/e/e_3052.png) | [Couronne noire](/fr/equipment/Carrion Crown/) | **PV** | **DÉF** | 
+  | ![Ceinture spirituelle](/images/e/e_3053.png) | [Ceinture spirituelle](/fr/equipment/Soul Belt/) | **ATQ** | **DÉF** | 
+  | ![Armure légère des limbes](/images/e/e_3054.png) | [Armure légère des limbes](/fr/equipment/Light Armor of the Netherworld/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

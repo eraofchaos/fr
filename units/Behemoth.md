@@ -3,7 +3,7 @@ title: "Béhémoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis."
 unitID: 407
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Béhémoth"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffes féroces](/fr/equipment/Griffes féroces/) | **ATQ** | **DÉF** | 
-  | [Peau de fer](/fr/equipment/Peau de fer/) | **PV** | **DÉF** | 
-  | [Crocs féroces](/fr/equipment/Crocs féroces/) | **ATQ** | **DÉF** | 
-  | [Fourrure épaisse](/fr/equipment/Fourrure épaisse/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffes féroces](/images/e/e_4071.png) | [Griffes féroces](/fr/equipment/Ferocious Claws/) | **ATQ** | **DÉF** | 
+  | ![Peau de fer](/images/e/e_4072.png) | [Peau de fer](/fr/equipment/Ironclad Skin/) | **PV** | **DÉF** | 
+  | ![Crocs féroces](/images/e/e_4073.png) | [Crocs féroces](/fr/equipment/Ferocious Fangs/) | **ATQ** | **DÉF** | 
+  | ![Fourrure épaisse](/images/e/e_4074.png) | [Fourrure épaisse](/fr/equipment/Thick Fur Hide/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

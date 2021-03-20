@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Harpie"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dague perce-cœur](/fr/equipment/Dague perce-cœur/) | **ATQ** | **DÉF** | 
-  | [Armure mystique](/fr/equipment/Armure mystique/) | **PV** | **DÉF** | 
-  | [Griffe assassine](/fr/equipment/Griffe assassine/) | **ATQ** | **DÉF** | 
-  | [Épaulière de l'enchanteresse](/fr/equipment/Épaulière de l'enchanteresse/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dague perce-cœur](/images/e/e_7021.png) | [Dague perce-cœur](/fr/equipment/Heart Stab Dagger/) | **ATQ** | **DÉF** | 
+  | ![Armure mystique](/images/e/e_7022.png) | [Armure mystique](/fr/equipment/Mystic Armor/) | **PV** | **DÉF** | 
+  | ![Griffe assassine](/images/e/e_7023.png) | [Griffe assassine](/fr/equipment/Claw Killer/) | **ATQ** | **DÉF** | 
+  | ![Épaulière de l'enchanteresse](/images/e/e_7024.png) | [Épaulière de l'enchanteresse](/fr/equipment/Enchantress' Shoulder-guards/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

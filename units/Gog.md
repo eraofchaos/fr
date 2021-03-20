@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Gog"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orbe brûlant](/fr/equipment/Orbe brûlant/) | **ATQ** | **DÉF** | 
-  | [Cor ardent](/fr/equipment/Cor ardent/) | **PV** | **DÉF** | 
-  | [Queue enflammée](/fr/equipment/Queue enflammée/) | **ATQ** | **DÉF** | 
-  | [Bracelets brûlants](/fr/equipment/Bracelets brûlants/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orbe brûlant](/images/e/e_5021.png) | [Orbe brûlant](/fr/equipment/Scalding Orb/) | **ATQ** | **DÉF** | 
+  | ![Cor ardent](/images/e/e_5022.png) | [Cor ardent](/fr/equipment/Fiery Horn/) | **PV** | **DÉF** | 
+  | ![Queue enflammée](/images/e/e_5023.png) | [Queue enflammée](/fr/equipment/Tail of Flame/) | **ATQ** | **DÉF** | 
+  | ![Bracelets brûlants](/images/e/e_5024.png) | [Bracelets brûlants](/fr/equipment/Scalding Bracers/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

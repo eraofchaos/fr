@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Guerriers spartiates"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Casque spartiate](/fr/equipment/Casque spartiate/) | **ATQ** | **DÉF** | 
-  | [Bouclier en acier](/fr/equipment/Bouclier en acier/) | **PV** | **DÉF** | 
-  | [Lance perçante](/fr/equipment/Lance perçante/) | **ATQ** | **DÉF** | 
-  | [Bande molletière](/fr/equipment/Bande molletière/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Casque spartiate](/fr/equipment/Spartan Helmet/) | **ATQ** | **DÉF** | 
+  |  | [Bouclier en acier](/fr/equipment/Steel Shield/) | **PV** | **DÉF** | 
+  |  | [Lance perçante](/fr/equipment/Piercing Spear/) | **ATQ** | **DÉF** | 
+  |  | [Bande molletière](/fr/equipment/Footwraps/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

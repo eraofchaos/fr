@@ -3,7 +3,7 @@ title: "Grand Arbalétrier"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis."
 unitID: 102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Grand Arbalétrier"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arbalète légère](/fr/equipment/Arbalète légère/) | **ATQ** | **DÉF** | 
-  | [Chapeau d'acier](/fr/equipment/Chapeau d'acier/) | **PV** | **DÉF** | 
-  | [Flèches perçantes](/fr/equipment/Flèches perçantes/) | **ATQ** | **DÉF** | 
-  | [Gantelets en cuir](/fr/equipment/Gantelets en cuir/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arbalète légère](/images/e/e_1021.png) | [Arbalète légère](/fr/equipment/Light Crossbow/) | **ATQ** | **DÉF** | 
+  | ![Chapeau d'acier](/images/e/e_1022.png) | [Chapeau d'acier](/fr/equipment/Steel Cap/) | **PV** | **DÉF** | 
+  | ![Flèches perçantes](/images/e/e_1023.png) | [Flèches perçantes](/fr/equipment/Piercing Bolts/) | **ATQ** | **DÉF** | 
+  | ![Gantelets en cuir](/images/e/e_1024.png) | [Gantelets en cuir](/fr/equipment/Leather Gauntlets/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

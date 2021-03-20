@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Arbalétrière de Regna"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arbalète de l'océan](/fr/equipment/Arbalète de l'océan/) | **ATQ** | **DÉF** | 
-  | [Chapeau de prestige](/fr/equipment/Chapeau de prestige/) | **PV** | **DÉF** | 
-  | [Flèche en acier](/fr/equipment/Flèche en acier/) | **ATQ** | **DÉF** | 
-  | [Vêtements du chasseur](/fr/equipment/Vêtements du chasseur/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arbalète de l'océan](/images/e/e_99021.png) | [Arbalète de l'océan](/fr/equipment/Ocean's Arbalest/) | **ATQ** | **DÉF** | 
+  | ![Chapeau de prestige](/images/e/e_99022.png) | [Chapeau de prestige](/fr/equipment/Cap of Prestige/) | **PV** | **DÉF** | 
+  | ![Flèche en acier](/images/e/e_99023.png) | [Flèche en acier](/fr/equipment/Steel Arrow/) | **ATQ** | **DÉF** | 
+  | ![Vêtements du chasseur](/images/e/e_99024.png) | [Vêtements du chasseur](/fr/equipment/Hunter's Clothing/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

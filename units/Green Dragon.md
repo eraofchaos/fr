@@ -3,7 +3,7 @@ title: "Dragon vert"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Dragon vert"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corne venimeuse](/fr/equipment/Corne venimeuse/) | **ATQ** | **DÉF** | 
-  | [Armure Dragon](/fr/equipment/Armure Dragon/) | **PV** | **DÉF** | 
-  | [Griffes de putréfaction](/fr/equipment/Griffes de putréfaction/) | **ATQ** | **DÉF** | 
-  | [Sang de dragon empoisonné](/fr/equipment/Sang de dragon empoisonné/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corne venimeuse](/images/e/e_2071.png) | [Corne venimeuse](/fr/equipment/Venomous Horn/) | **ATQ** | **DÉF** | 
+  | ![Armure Dragon](/images/e/e_2072.png) | [Armure Dragon](/fr/equipment/Dragon Scale Armor/) | **PV** | **DÉF** | 
+  | ![Griffes de putréfaction](/images/e/e_2073.png) | [Griffes de putréfaction](/fr/equipment/Claws of Decay/) | **ATQ** | **DÉF** | 
+  | ![Sang de dragon empoisonné](/images/e/e_2074.png) | [Sang de dragon empoisonné](/fr/equipment/Venomous Dragon Blood/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

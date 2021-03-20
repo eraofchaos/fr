@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Guêpe serpent"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Aile de monstre](/fr/equipment/Aile de monstre/) | **ATQ** | **DÉF** | 
-  | [Mâchoire fatale](/fr/equipment/Mâchoire fatale/) | **PV** | **DÉF** | 
-  | [Pointe morne](/fr/equipment/Pointe morne/) | **ATQ** | **DÉF** | 
-  | [Croc toxique](/fr/equipment/Croc toxique/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Aile de monstre](/images/e/e_8031.png) | [Aile de monstre](/fr/equipment/Fiend's Neck Umbrella/) | **ATQ** | **DÉF** | 
+  | ![Mâchoire fatale](/images/e/e_8032.png) | [Mâchoire fatale](/fr/equipment/Fatal Jaw Weapon/) | **PV** | **DÉF** | 
+  | ![Pointe morne](/images/e/e_8033.png) | [Pointe morne](/fr/equipment/Bleak Barb/) | **ATQ** | **DÉF** | 
+  | ![Croc toxique](/images/e/e_8034.png) | [Croc toxique](/fr/equipment/Toxic Fang/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

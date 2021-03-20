@@ -2,7 +2,7 @@
 title: "Exclusif - Bâton de renouveau"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Bâton de renouveau. Bâton de renouveau. Era of Chaos Exclusif Bâton de renouveau. Druidesse Exclusif."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Druid Bâton de renouveau.md"
 toc: false

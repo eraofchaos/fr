@@ -3,7 +3,7 @@ title: "Sorcière maléfique"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons."
 unitID: 709
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Sorcière maléfique"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/fr/equipment/UnknownEquipment_7091/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_7092](/fr/equipment/UnknownEquipment_7092/) | **PV** | **DÉF** | 
-  | [UnknownEquipment_7093](/fr/equipment/UnknownEquipment_7093/) | **ATQ** | **DÉF** | 
-  | [UnknownEquipment_7094](/fr/equipment/UnknownEquipment_7094/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/fr/equipment/UnknownEquipment_7091/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/fr/equipment/UnknownEquipment_7092/) | **PV** | **DÉF** | 
+  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/fr/equipment/UnknownEquipment_7093/) | **ATQ** | **DÉF** | 
+  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/fr/equipment/UnknownEquipment_7094/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Adjudicatrice"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bâton de théocratie](/fr/equipment/Bâton de théocratie/) | **ATQ** | **DÉF** | 
-  | [Capuche céleste bénie](/fr/equipment/Capuche céleste bénie/) | **PV** | **DÉF** | 
-  | [Cape légère](/fr/equipment/Cape légère/) | **ATQ** | **DÉF** | 
-  | [Brassard divin](/fr/equipment/Brassard divin/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bâton de théocratie](/images/e/e_1091.png) | [Bâton de théocratie](/fr/equipment/Staff of Theocracy/) | **ATQ** | **DÉF** | 
+  | ![Capuche céleste bénie](/images/e/e_1092.png) | [Capuche céleste bénie](/fr/equipment/Celestial Hood of Bliss/) | **PV** | **DÉF** | 
+  | ![Cape légère](/images/e/e_1093.png) | [Cape légère](/fr/equipment/Light Cape/) | **ATQ** | **DÉF** | 
+  | ![Brassard divin](/images/e/e_1094.png) | [Brassard divin](/fr/equipment/Divine Vambrace/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

@@ -3,7 +3,7 @@ title: "Gobelin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
 unitID: 401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Gobelin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Gourdin à pointes](/fr/equipment/Gourdin à pointes/) | **ATQ** | **DÉF** | 
-  | [Ceinture de cuir](/fr/equipment/Ceinture de cuir/) | **PV** | **DÉF** | 
-  | [Collier d'os](/fr/equipment/Collier d'os/) | **ATQ** | **DÉF** | 
-  | [Épaulières en cuir](/fr/equipment/Épaulières en cuir/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Gourdin à pointes](/images/e/e_4011.png) | [Gourdin à pointes](/fr/equipment/Spiked Club/) | **ATQ** | **DÉF** | 
+  | ![Ceinture de cuir](/images/e/e_4012.png) | [Ceinture de cuir](/fr/equipment/Leather Belt/) | **PV** | **DÉF** | 
+  | ![Collier d'os](/images/e/e_4013.png) | [Collier d'os](/fr/equipment/Necklace of Bone/) | **ATQ** | **DÉF** | 
+  | ![Épaulières en cuir](/images/e/e_4014.png) | [Épaulières en cuir](/fr/equipment/Leather Pauldrons/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

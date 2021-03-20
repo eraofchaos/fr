@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Griffon"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffes dentelées](/fr/equipment/Griffes dentelées/) | **ATQ** | **DÉF** | 
-  | [Plaque de célérité](/fr/equipment/Plaque de célérité/) | **PV** | **DÉF** | 
-  | [Plume d'Archgriffon](/fr/equipment/Plume d'Archgriffon/) | **ATQ** | **DÉF** | 
-  | [Armoiries de l'Empire](/fr/equipment/Armoiries de l'Empire/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffes dentelées](/images/e/e_1031.png) | [Griffes dentelées](/fr/equipment/Serrated Claws/) | **ATQ** | **DÉF** | 
+  | ![Plaque de célérité](/images/e/e_1032.png) | [Plaque de célérité](/fr/equipment/Headplate of Speed/) | **PV** | **DÉF** | 
+  | ![Plume d'Archgriffon](/images/e/e_1033.png) | [Plume d'Archgriffon](/fr/equipment/Archgriffin Feather/) | **ATQ** | **DÉF** | 
+  | ![Armoiries de l'Empire](/images/e/e_1034.png) | [Armoiries de l'Empire](/fr/equipment/Empire's Crest/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

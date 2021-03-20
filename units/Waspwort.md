@@ -3,7 +3,7 @@ title: "Guêpier"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
 unitID: 808
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Guêpier"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Branche fleurie rigide](/fr/equipment/Branche fleurie rigide/) | **ATQ** | **DÉF** | 
-  | [Épine toxique](/fr/equipment/Épine toxique/) | **PV** | **DÉF** | 
-  | [Seigneur des fleurs](/fr/equipment/Seigneur des fleurs/) | **ATQ** | **DÉF** | 
-  | [Abeille assassine](/fr/equipment/Abeille assassine/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Branche fleurie rigide](/images/e/e_8081.png) | [Branche fleurie rigide](/fr/equipment/Strong Flowering Branch/) | **ATQ** | **DÉF** | 
+  | ![Épine toxique](/images/e/e_8082.png) | [Épine toxique](/fr/equipment/Toxic Thorn/) | **PV** | **DÉF** | 
+  | ![Seigneur des fleurs](/images/e/e_8083.png) | [Seigneur des fleurs](/fr/equipment/Flower Overlord/) | **ATQ** | **DÉF** | 
+  | ![Abeille assassine](/images/e/e_8084.png) | [Abeille assassine](/fr/equipment/Killer Bee/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

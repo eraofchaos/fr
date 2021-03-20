@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Manticore"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffe de l'abîme](/fr/equipment/Griffe de l'abîme/) | **ATQ** | **DÉF** | 
-  | [Croc empoisonné mortel](/fr/equipment/Croc empoisonné mortel/) | **PV** | **DÉF** | 
-  | [Queue toxique](/fr/equipment/Queue toxique/) | **ATQ** | **DÉF** | 
-  | [Ailes de Manticore](/fr/equipment/Ailes de Manticore/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffe de l'abîme](/images/e/e_7061.png) | [Griffe de l'abîme](/fr/equipment/Abyss Claw/) | **ATQ** | **DÉF** | 
+  | ![Croc empoisonné mortel](/images/e/e_7062.png) | [Croc empoisonné mortel](/fr/equipment/Fatal Poison Fang/) | **PV** | **DÉF** | 
+  | ![Queue toxique](/images/e/e_7063.png) | [Queue toxique](/fr/equipment/Toxic Tail/) | **ATQ** | **DÉF** | 
+  | ![Ailes de Manticore](/images/e/e_7064.png) | [Ailes de Manticore](/fr/equipment/Manticore Wings/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

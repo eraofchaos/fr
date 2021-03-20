@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: fr
 ref: "Diablotin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Équipement
 
-  |  Équipement  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Griffes sinistres](/fr/equipment/Griffes sinistres/) | **ATQ** | **DÉF** | 
-  | [Katar sinistre](/fr/equipment/Katar sinistre/) | **PV** | **DÉF** | 
-  | [Ailes sinistres](/fr/equipment/Ailes sinistres/) | **ATQ** | **DÉF** | 
-  | [Armure légère sinistre](/fr/equipment/Armure légère sinistre/) | **PV** | **DÉF** | 
+  | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Griffes sinistres](/images/e/e_5011.png) | [Griffes sinistres](/fr/equipment/Sinister Claws/) | **ATQ** | **DÉF** | 
+  | ![Katar sinistre](/images/e/e_5012.png) | [Katar sinistre](/fr/equipment/Sinister Katar/) | **PV** | **DÉF** | 
+  | ![Ailes sinistres](/images/e/e_5013.png) | [Ailes sinistres](/fr/equipment/Sinister Wings/) | **ATQ** | **DÉF** | 
+  | ![Armure légère sinistre](/images/e/e_5014.png) | [Armure légère sinistre](/fr/equipment/Sinister Light Armor/) | **PV** | **DÉF** | 
 
 ## Exclusif
 

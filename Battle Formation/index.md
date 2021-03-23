@@ -2,7 +2,7 @@
 title: "Formation de combat "
 permalink: /Battle Formation/
 excerpt: "Formation de combat.Chaque faction est unique en termes de potentiel et d'énergie. Activez la formation de combat exclusive pour déchainer votre pouvoir latent."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: fr
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
 ## Formation de combat by Faction : 
 
-  [Château](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rempart](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastion](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nécropole](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Hadès](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tour](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Donjon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Forteresse](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Crique](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+  [Château](/fr/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rempart](/fr/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastion](/fr/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nécropole](/fr/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Hadès](/fr/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tour](/fr/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Donjon](/fr/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Forteresse](/fr/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/fr/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Crique](/fr/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
 ## Règles
 

@@ -2,13 +2,13 @@
 title: "Formation de combat Château"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "Formation de combat Château"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: fr
 ref: "BattleFormationFactionCastle"
 toc: false
 classes: wide
 ---
- [Château](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rempart](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastion](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nécropole](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Hadès](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tour](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Donjon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Forteresse](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Crique](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+ [Château](/fr/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rempart](/fr/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastion](/fr/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nécropole](/fr/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Hadès](/fr/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tour](/fr/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Donjon](/fr/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Forteresse](/fr/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/fr/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Crique](/fr/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
   **Fraction:** [Château](/units/Faction Castle)
 
@@ -32,43 +32,43 @@ classes: wide
 
 ## Formation de combat Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **10** x [Lancier](/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **10** x [Lancier](/fr/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Castle - A Strike Hit | Précision + **6**  | 150 |  **10** x [Lancier](/units/Pikeman) |
+  | 3 | Castle - A Strike Hit | Précision + **6**  | 150 |  **10** x [Lancier](/fr/units/Pikeman) |
   | 4 | Castle - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Castle - Ingeniousness | Esquive + **6**  | 150 |  **10** x [Lancier](/units/Pikeman) |
+  | 5 | Castle - Ingeniousness | Esquive + **6**  | 150 |  **10** x [Lancier](/fr/units/Pikeman) |
   | 6 | Castle - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Castle - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **10** x [Grand Arbalétrier](/units/Marksman) |
+  | 7 | Castle - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **10** x [Grand Arbalétrier](/fr/units/Marksman) |
   | 8 | Castle - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Castle - Rocklike Skin | Ténacité + **6**  | 150 |  **10** x [Grand Arbalétrier](/units/Marksman) |
+  | 9 | Castle - Rocklike Skin | Ténacité + **6**  | 150 |  **10** x [Grand Arbalétrier](/fr/units/Marksman) |
   | 10 | Castle - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Castle - Blaster | Coup critique + **5**  | 150 |  **10** x [Grand Arbalétrier](/units/Marksman) |
+  | 11 | Castle - Blaster | Coup critique + **5**  | 150 |  **10** x [Grand Arbalétrier](/fr/units/Marksman) |
   | 12 | Castle - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
 
 ## Formation de combat Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **10** x [Lancier](/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **10** x [Lancier](/fr/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Castle - A Strike Hit | Précision + **6**  | 160 |  **10** x [Spadassin](/units/Swordsman) |
+  | 4 | Castle - A Strike Hit | Précision + **6**  | 160 |  **10** x [Spadassin](/fr/units/Swordsman) |
   | 5 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Castle - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Moine](/units/Monk) |
+  | 7 | Castle - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Moine](/fr/units/Monk) |
   | 8 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Castle - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Castle - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Spadassin](/units/Swordsman) |
+  | 10 | Castle - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Spadassin](/fr/units/Swordsman) |
   | 11 | Castle - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Castle - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Moine](/units/Monk) |
+  | 13 | Castle - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Moine](/fr/units/Monk) |
   | 14 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Castle - Blaster | Coup critique + **5**  | 160 |  **10** x [Grand Arbalétrier](/units/Marksman) |
+  | 16 | Castle - Blaster | Coup critique + **5**  | 160 |  **10** x [Grand Arbalétrier](/fr/units/Marksman) |
   | 17 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Castle - Storm Assaulter | ATQ + **1** % | 80 |   |
   

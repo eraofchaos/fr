@@ -2,13 +2,13 @@
 title: "Formation de combat Tour"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Formation de combat Tour"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: fr
 ref: "BattleFormationFactionTower"
 toc: false
 classes: wide
 ---
- [Château](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rempart](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastion](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nécropole](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Hadès](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tour](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Donjon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Forteresse](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Crique](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+ [Château](/fr/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rempart](/fr/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastion](/fr/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nécropole](/fr/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Hadès](/fr/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tour](/fr/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Donjon](/fr/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Forteresse](/fr/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/fr/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Crique](/fr/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
   **Fraction:** [Tour](/units/Faction Tower)
 
@@ -32,43 +32,43 @@ classes: wide
 
 ## Formation de combat Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **10** x [Lutin](/units/Gremlin) |
+  | 1 | Tower - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Tower - A Strike Hit | Précision + **6**  | 150 |  **10** x [Lutin](/units/Gremlin) |
+  | 3 | Tower - A Strike Hit | Précision + **6**  | 150 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 4 | Tower - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Tower - Ingeniousness | Esquive + **6**  | 150 |  **10** x [Lutin](/units/Gremlin) |
+  | 5 | Tower - Ingeniousness | Esquive + **6**  | 150 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 6 | Tower - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Tower - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **10** x [Lutin](/units/Gremlin) |
+  | 7 | Tower - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 8 | Tower - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Tower - Rocklike Skin | Ténacité + **6**  | 150 |  **10** x [Lutin](/units/Gremlin) |
+  | 9 | Tower - Rocklike Skin | Ténacité + **6**  | 150 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 10 | Tower - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Tower - Blaster | Coup critique + **5**  | 150 |  **10** x [Lutin](/units/Gremlin) |
+  | 11 | Tower - Blaster | Coup critique + **5**  | 150 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 12 | Tower - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
 
 ## Formation de combat Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **10** x [Lutin](/units/Gremlin) |
+  | 1 | Tower - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Tower - A Strike Hit | Précision + **6**  | 160 |  **10** x [Gargouille](/units/Stone Gargoyle) |
+  | 4 | Tower - A Strike Hit | Précision + **6**  | 160 |  **10** x [Gargouille](/fr/units/Stone Gargoyle) |
   | 5 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Tower - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Golem de fer](/units/Iron Golem) |
+  | 7 | Tower - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Golem de fer](/fr/units/Iron Golem) |
   | 8 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Tower - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Tower - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Golem de fer](/units/Iron Golem) |
+  | 10 | Tower - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Golem de fer](/fr/units/Iron Golem) |
   | 11 | Tower - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Tower - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Gargouille](/units/Stone Gargoyle) |
+  | 13 | Tower - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Gargouille](/fr/units/Stone Gargoyle) |
   | 14 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Tower - Blaster | Coup critique + **5**  | 160 |  **10** x [Lutin](/units/Gremlin) |
+  | 16 | Tower - Blaster | Coup critique + **5**  | 160 |  **10** x [Lutin](/fr/units/Gremlin) |
   | 17 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Tower - Storm Assaulter | ATQ + **1** % | 80 |   |
   

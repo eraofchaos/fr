@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Bien qu'elle ait perdu son \"père\" à cause des humains, elle continue d'aider ceux qui vivent sur l'eau."
 heroID: 61701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Cassanbel"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Raz-de-marée
  **Description:** Lance un Raz-de-marée qui fracasse toutes les unités ennemies, infligeant <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> points de dégâts d'eau et l'effet <span style="color: #e07c44;font-size:20px">Découragement</span><span style="color: black"> pour 10s. A également 20 % de chances de les <span style="color: #e07c44;font-size:20px">geler</span><span style="color: black"> pour 2s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Cassanbel](/fr/heroes/Adjutant Cassanbel/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Seigneur de l'océan 
+
+ **Description:** Lorsque des Héros alliés lancent des sorts d'eau, augmente les coups critiques des unités de la Crique alliées de <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}</span><span style="color: black"> et les dégâts de leurs coups critiques de 1 %. Peut se cumuler jusqu'à 20 fois.
+
+## Infos combinaison
+
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Gel](/fr/combination/Gel/) 
+* [Découragement](/fr/combination/Découragement/) 
 
 ## HERO Biography
 

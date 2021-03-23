@@ -3,7 +3,7 @@ title: "Sandro (humain)"
 permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Sandro (humain). Sandro (humain). Sandro (humain), apprenti du Mage Eric de Bracada, est un jeune Mage venu d'Enroth par la mer. Il dissimule ses ambitions, au point que même son maître et ses proches ignorent tout de ses intentions."
 heroID: 60503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Human Sandro"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Description:** Invoque une ombre persistant 10s, qui inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies à portée chaque seconde et réduit leur vitesse d'ATQ de 30 %, tout en augmentant la vitesse d'ATQ et le drain de vie des unités de la Nécropole alliées de 30 %.
 
 
+## Adjudant
+
+ **Adjudant:**  [Adjudant Sandro (humain)](/fr/heroes/Adjutant Human Sandro/) 
+
+ **Type:**  Sort 
+
+ **Compétence d'Adjudant:**  Nécromancie interdite 
+
+ **Description:** Augmente l'effet des sorts d'invocation de tous les Héros alliés de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black"> et leur résistance aux dégâts d'unité de <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+  none
 ## HERO Biography
 
 ## HERO Skins

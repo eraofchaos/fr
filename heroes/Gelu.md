@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu est un demi-Elfe, mais c'est aussi le guerrier le plus connu d'Erathia. Au service de la reine Catherine, il a été remarqué et promu par le général Morgan Kendal en personne."
 heroID: 60301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Gelu"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Foudre de guerre
  **Description:** Sacrifie 30 % des PV max des unités alliées dans une large zone (sans les tuer) pour accroître leur vitesse d'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} secondes.</span><span style="color: black">
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Gelu](/fr/heroes/Adjutant Gelu/) 
+
+ **Type:**  Unités 
+
+ **Compétence d'Adjudant:**  Attaque ciblée 
+
+ **Description:** Augmente les dégâts des coups critiques des unités à distance alliées de <span style="color: #48b946;font-size:20px">{(3+0.3*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Lenteur](/fr/combination/Lenteur/) 
 
 ## HERO Biography
    - Jeune, Gelu était déjà un excellent éclaireur. Avec l'âge, il est devenu encore meilleur dans ce domaine.

@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Quand Lucifer Kreegan a tué Xenofex et pris le pouvoir, Xeron fut le premier à jurer allégeance à l'usurpateur, un acte qui lui a permis de gagner la faveur de son nouveau roi."
 heroID: 60801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Xeron"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Écho de l'abîme
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> de dégâts de feu aux unités ennemies à portée et invoque un Diable de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> dans la zone cible ; ce Diable possède une ATQ de <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black">, est immunisé contre tous les dégâts et persiste 10s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Xeron](/fr/heroes/Adjutant Xeron/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Âme brûlée 
+
+ **Description:** Lorsque des unités de l'Hadès alliées attaquent des unités victimes de <span style="color: #e07c44;font-size:20px">Brûlure</span><span style="color: black">, leurs dégâts d'unité augmentent de <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
 
 ## HERO Biography
 

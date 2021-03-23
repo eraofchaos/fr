@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. Pendant la guerre frontalière de six mois avec Krewlod, Tazar et sa petite troupe s'installèrent dans un avant-poste de Tatalia pour retenir l'armée ennemie ; bien que cinq fois moins nombreux, ils parvinrent à résister huit jours jusqu'à l'arrivée des renforts."
 heroID: 61501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Tazar"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: À mort
  **Description:** Toutes les unités déployées reçoivent 2 affaiblissements aléatoires ne pouvant pas être dissipés ; les malus de dégâts des ennemis sont doublés ; les unités alliées de la Forteresse gagnent 10 % de drain de vie pendant <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Tazar](/fr/heroes/Adjutant Tazar/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Grande peste 
+
+ **Description:** Réduit les soins reçus par toutes les unités de <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Pétrification](/fr/combination/Pétrification/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

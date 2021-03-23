@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack n'était qu'un Héros oublié d'Enroth quand il a fait voile vers Erathia. Ces terres dans la tourmente lui permettent de mettre ses immenses talents à profit."
 heroID: 60602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Crag Hack"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Désir meurtrier
  **Description:** Augmente l'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % et le drain de vie de {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pour toutes les unités de mêlée alliées, pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Crag Hack](/fr/heroes/Adjutant Crag Hack/) 
+
+ **Type:**  Unités 
+
+ **Compétence d'Adjudant:**  À mort 
+
+ **Description:** Augmente la pénétration de toutes les unités de mêlée alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Saignement](/fr/combination/Saignement/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
    - Lorsqu'il n'y a aucune bataille à livrer, Crag Hack adore naviguer en mer, attaquer des navires et assaillir des villes portuaires pour étancher sa soif de sang.

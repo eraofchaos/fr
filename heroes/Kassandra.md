@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandra doit ses compétences de combat exceptionnelles à l'éducation spartiate qu'elle a reçue enfant. Après que les Spartiates l'ont laissée pour morte sur le Mont Taygetos, elle est devenue mercenaire."
 heroID: 62001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Kassandra"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> dégâts de sort de feu aux unités ennemies situées dans une large zone ainsi que <span style="color: #e07c44;font-size:20px">Brûlure</span><span style="color: black"> et <span style="color: #e07c44;font-size:20px">Étourdissement</span><span style="color: black"> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000} secondes.
 
 
+## Adjudant
+
+ **Adjudant:**  [Adjudant Kassandra](/fr/heroes/Adjutant Kassandra/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Puissance de Léonidas 
+
+ **Description:** Lorsqu'un Héros ennemi lance un sort de feu, la DÉF de vos unités neutres augmente de <span style="color: #48b946;font-size:20px">{(0.5+0.5*($sklevel-1))} %</span><span style="color: black"> pendant 10 secondes.
+
+## Infos combinaison
+
+  none
 ## HERO Biography
 
 ## HERO Skins

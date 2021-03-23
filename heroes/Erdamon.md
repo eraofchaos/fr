@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, ancien Roi du magma, dormait depuis des siècles dans les montagnes à la frontière d'Eeofol. Il est maintenant sorti de son sommeil pour rejoindre les Élémentaires, très enthousiaste à l'idée de se battre pour débarrasser le monde des Kreegans."
 heroID: 60703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Erdamon"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Piège de lave
  **Description:** Invoque un Piège de lave persistant {$olast11/1000}s, qui inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> points de dégâts de terre aux unités au sol à portée chaque seconde et les <span style="color: #e07c44;font-size:20px">étourdit</span><span style="color: black"> pour 0,7s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Erdamon](/fr/heroes/Adjutant Erdamon/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Conflux amélioré 
+
+ **Description:** Augmente les PV des unités du Conflux alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Étourdissement](/fr/combination/Étourdissement/) 
+* [Bouclier](/fr/combination/Bouclier/) 
 
 ## HERO Biography
 

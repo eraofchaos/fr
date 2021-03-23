@@ -3,7 +3,7 @@ title: "PeterLee"
 permalink: /heroes/Peter Lee/
 excerpt: "Era of Chaos PeterLee. PeterLee. Peter Lee est un pirate légendaire, mais il semble préférer les trésors et l'aventure au pillage et à la destruction. La rumeur prétend que son équipage et lui seraient allés jusqu'au bout du monde."
 heroID: 61801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Peter Lee"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Brise-vagues
  **Description:** Peter Lee lance un navire d'assaut contre toutes les unités ennemies, leur infligeant <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> points de dégâts d'eau. Les unités défensives subissent en plus des dégâts magiques additionnels équivalents à 10 % de leurs PV max.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant PeterLee](/fr/heroes/Adjutant Peter Lee/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Crique améliorée 
+
+ **Description:** Augmente l'ATQ des unités de la Crique alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Exaltation](/fr/combination/Exaltation/) 
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Découragement](/fr/combination/Découragement/) 
 
 ## HERO Biography
 

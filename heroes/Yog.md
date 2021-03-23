@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog a étudié auprès des Mages de Bracada pendant de longues années, mais il a toujours préféré la stratégie militaire au langage des runes. Repéré par le duc Krewlod, il est devenu un général exceptionnel de l'armée barbare."
 heroID: 60604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Yog"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Inversion d'énergie
  **Description:** Les dégâts de sorts de Héros infligés aux unités alliées deviennent des soins, et les sorts de soins des Héros ennemis infligent des dégâts à leurs unités. L'effet dure {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Yog](/fr/heroes/Adjutant Yog/) 
+
+ **Type:**  Statistiques 
+
+ **Compétence d'Adjudant:**  Bassin de défense 
+
+ **Description:** Augmente la DÉF des Héros alliés de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
 
 ## HERO Biography
    - Le duc Boragus nomma Yog commandant des unités de Cyclopes, mais il lui fallait d'abord prouver qu'il était capable de les diriger.

@@ -3,7 +3,7 @@ title: "Korbac"
 permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac est considéré comme un Héros à Erathia pour avoir sauvé l'érudit Valjean. Que ce soit vrai ou pas, il a prouvé sa valeur au service de Tatalia."
 heroID: 61502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Korbac"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Nid de Guêpes serpents
  **Description:** Invoque une Guêpe de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> dans la zone cible. Elle persiste 20s avec une ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> et <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> PV.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Korbac](/fr/heroes/Adjutant Korbac/) 
+
+ **Type:**  Statistiques 
+
+ **Compétence d'Adjudant:**  Bassin d'attaque 
+
+ **Description:** Augmente l'ATQ des Héros alliés de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Exaltation](/fr/combination/Exaltation/) 
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

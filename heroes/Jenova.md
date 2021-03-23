@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. Toute petite, Jenova fut capturée et vendue par des Elfes noirs, avant d'être enfin libérée par une Licorne vengeresse. C'est ce jour qu'elle commença à vénérer ces mystérieuses créatures de la forêt et décida de passer le reste de sa vie à leurs côtés. Nul ne connaît mieux les Licornes que Jenova, qui sait parfaitement exploiter leur vitesse et leur puissance pour prendre un avantage tactique sur le champ de bataille."
 heroID: 60202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Jenova"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Cœur pur
  **Description:** Invoque 4 Rois Licorne de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> dans la zone cible. Ils persistent 20s avec une ATQ de <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> et <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}</span><span style="color: black"> PV.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Jenova](/fr/heroes/Adjutant Jenova/) 
+
+ **Type:**  Statistiques 
+
+ **Compétence d'Adjudant:**  Bassin de savoir 
+
+ **Description:** Augmente le savoir des Héros alliés de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Cécité](/fr/combination/Cécité/) 
+* [Bouclier](/fr/combination/Bouclier/) 
 
 ## HERO Biography
 

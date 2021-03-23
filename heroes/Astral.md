@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Arrivé à Erathia il y a environ dix ans, Astral a rapidement été accepté par les Mages de Bracada. Son ascension au sein de leur guilde a été si rapide que certains disent en plaisantant qu'il a dû utiliser la magie pour atteindre un tel rang aussi vite."
 heroID: 61203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Astral"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Terre éclatante
  **Description:** <span style="color: #e07c44;font-size:20px">Aveugle</span><span style="color: black"> toutes les unités ennemies et réduit leur précision de 1 000 points pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Astral](/fr/heroes/Adjutant Astral/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Afflux magique 
+
+ **Description:** Chaque fois qu'un Héros allié lance un sort, les unités de la Tour alliées récupèrent <span style="color: #48b946;font-size:20px">{(0.5+0.05*($sklevel-1))} %</span><span style="color: black"> de leurs PV max. Le temps de recharge est de 4 secondes.
+
+## Infos combinaison
+
+* [Cécité](/fr/combination/Cécité/) 
+* [Silence](/fr/combination/Silence/) 
 
 ## HERO Biography
 

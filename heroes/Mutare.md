@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Seigneur Nighon depuis peu, Mutare possède la capacité innée de commander les dragons, ce qui la rend quasi invincible sur le champ de bataille."
 heroID: 61301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Mutare"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Glissement de terrain
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> points de dégâts aux unités ennemies dans la zone d'effet toutes les 0,8s pendant {$olast11/1000}s. Ces unités sont aussi <span style="color: #e07c44;font-size:20px">étourdies</span><span style="color: black"> pour {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Mutare](/fr/heroes/Adjutant Mutare/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Donjon amélioré 
+
+ **Description:** Augmente les PV des unités du Donjon alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Même s'il est dans un monde totalement différent, Ezio s'accroche à ses convictions. Il agit dans l'ombre pour servir la lumière."
 heroID: 61901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Ezio"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Description:** Octroie <span style="color: #e07c44;font-size:20px">Œil de faucon</span><span style="color: black"> à toutes les unités alliées et augmente les coups critiques et la précision de 900 pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> secondes.
 
 
+## Adjudant
+
+ **Adjudant:**  [Adjudant Ezio](/fr/heroes/Adjutant Ezio/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Rien n'est vrai 
+
+ **Description:** Lorsqu'un Héros allié lance un sort offensif, les dégâts des coups critiques de vos unités neutres augmentent de <span style="color: #48b946;font-size:20px">{(9+1*($sklevel-1))} %</span><span style="color: black"> pendant 10 secondes.
+
+## Infos combinaison
+
+  none
 ## HERO Biography
 
 ## HERO Skins

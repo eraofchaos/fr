@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, unique sorcière connue d'Antagarich, serait la fille illégitime du roi Gryphonheart."
 heroID: 61402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Sephinroth"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Terre cristallisée
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies non <span style="color: #e07c44;font-size:20px">pétrifiées</span><span style="color: black"> sur une large zone et les <span style="color: #e07c44;font-size:20px">pétrifie</span><span style="color: black"> pour <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s. Les dégâts sont doublés contre les cibles déjà <span style="color: #e07c44;font-size:20px">pétrifiées</span><span style="color: black">.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Sephinroth](/fr/heroes/Adjutant Sephinroth/) 
+
+ **Type:**  Statistiques 
+
+ **Compétence d'Adjudant:**  Magie de la terre améliorée 
+
+ **Description:** Augmente les dégâts des sorts de terre des Héros alliés de <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Pétrification](/fr/combination/Pétrification/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

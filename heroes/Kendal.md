@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Un général dévoué à la famille royale d'Erathia. Depuis la mort du Roi Gryphonheart, Morgan Kendal dirige le royaume en attendant le retour de son héritier légitime."
 heroID: 60104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Kendal"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Ruée tactique
  **Description:** Augmente la vitesse d'ATQ de 30 % et la résistance magique de 50 % pour les unités alliées dans la zone cible pendant <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s. L'effet est doublé pour les unités de 9 combattants.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Kendal](/fr/heroes/Adjutant Kendal/) 
+
+ **Type:**  Unités 
+
+ **Compétence d'Adjudant:**  Frénésie guerrière 
+
+ **Description:** Augmente les dégâts des unités offensives alliées de <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Exaltation](/fr/combination/Exaltation/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

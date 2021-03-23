@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. En tant que reine d'Erathia, Catherine est contrainte de faire la guerre pour préserver le royaume fondé par son père. Elle luttera jusqu'à l'ultime épreuve de la lame d'Armageddon."
 heroID: 60102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Catherine"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Blizzard
  **Description:** Invoque un Blizzard, infligeant des dégâts d'eau 5 fois (pour un total de <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1> points de dégâts) aux unités ennemies dans une large zone, et les <span style="color: #e07c44;font-size:20px">ralentit</span><span style="color: black"> en plus pour 8 secondes.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Catherine](/fr/heroes/Adjutant Catherine/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Château amélioré 
+
+ **Description:** Augmente les PV des unités du Château alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Exaltation](/fr/combination/Exaltation/) 
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
    - Pour Catherine, la plus éprouvante des batailles fut également l'une des dernières : la bataille de la falaise des Griffons, où ses troupes vainquirent une armée de démons. Le conflit annonça officiellement son retour sur le trône.

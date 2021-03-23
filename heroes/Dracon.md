@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon est considéré comme un prodige de la magie par bon nombre de ses aînés. Son but dans la vie est de devenir le plus grand chasseur de dragons de l'histoire."
 heroID: 61202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Dracon"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Clone
  **Description:** Copie une de vos unités. Ce clone persiste 30s, possède <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))} %</span><span style="color: black"> de l'ATQ de l'unité originale et subit des dégâts majorés de {($duplidmg11+$duplidmg12*($sklevel-1))} %.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Dracon](/fr/heroes/Adjutant Dracon/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Tour améliorée 
+
+ **Description:** Augmente l'ATQ des unités de la Tour alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Lenteur](/fr/combination/Lenteur/) 
 
 ## HERO Biography
 

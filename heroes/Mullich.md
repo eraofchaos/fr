@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Les troupes de Sir Mullich sont connues pour leur vitesse. Elle est le fruit de l'entraînement spécial qu'il leur prodigue. La retenue et la discipline de Mullich sont elles aussi très appréciées."
 heroID: 60101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Mullich"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Arrêt du temps
  **Description:** Invoque un Champ temporel qui immobilise les unités ennemies à portée pendant <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Mullich](/fr/heroes/Adjutant Mullich/) 
+
+ **Type:**  Unités 
+
+ **Compétence d'Adjudant:**  Au travers des lignes ennemies 
+
+ **Description:** Augmente la résistance aux dégâts de l'unité d'assaut de <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))} %</span><span style="color: black"> pendant 20 secondes au début de la bataille.
+
+## Infos combinaison
+
+* [Exaltation](/fr/combination/Exaltation/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
    - Mullich a été adoubé dans une auberge.

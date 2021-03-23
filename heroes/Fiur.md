@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Encore jeune et inexpérimenté pour un Élémentaire, Fiur possède néanmoins un talent sans égal. Il devrait certainement devenir l'un des plus puissants Héros de sa caste."
 heroID: 60704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Fiur"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Éruption enflammée
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> points de dégâts de feu aux unités ennemies dans une large zone, ainsi que des dégâts de feu additionnels équivalents à 35 % de leurs PV max aux cibles victimes de <span style="color: #e07c44;font-size:20px">Brûlure</span><span style="color: black">.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Fiur](/fr/heroes/Adjutant Fiur/) 
+
+ **Type:**  Statistiques 
+
+ **Compétence d'Adjudant:**  Vestiges d'intelligence 
+
+ **Description:** Réduit l'intelligence des Héros ennemis de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
 
 ## HERO Biography
 

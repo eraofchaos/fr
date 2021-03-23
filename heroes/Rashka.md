@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka utilise la peur pour mener ses troupes à la victoire. Jusqu'ici, sa stratégie s'est révélée très efficace."
 heroID: 60802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Rashka"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Flamme infernale
  **Description:** Invoque une Crevasse d'Hadès, infligeant <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> points de dégâts de feu aux unités ennemies autour toutes les 0,5s pendant {$olast11/1000}s. Les dégâts sont réduits de moitié contre les unités d'Hadès.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Rashka](/fr/heroes/Adjutant Rashka/) 
+
+ **Type:**  Sort 
+
+ **Compétence d'Adjudant:**  Carnage ardent 
+
+ **Description:** Augmente les dégâts des sorts de feu des Héros alliés de <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
 
 ## HERO Biography
    - Rashka est un seigneur de l'Hadès. Depuis la destitution de Xyronfax, il s'est lancé dans l'unification d'Eeofol.

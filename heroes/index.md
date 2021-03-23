@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "index.md"
 toc: false
@@ -34,19 +34,20 @@ classes: wide
   | 22 | [Mullich](/fr/heroes/Mullich/) | Château | Chevalier | R+ |  Charge d'assaut  |
   | 23 | [Mutare](/fr/heroes/Mutare/) | Donjon | Seigneur de guerre | R |  Torrent du Donjon  |
   | 24 | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) | Donjon | Seigneur de guerre | SSR |  Éveil du Dragon  |
-  | 25 | [PeterLee](/fr/heroes/Peter Lee/) | Crique | Pirate | R+ |  Levez les voiles  |
-  | 26 | [Rashka](/fr/heroes/Rashka/) | Hadès | Démoniaque | R |  Seigneur du feu  |
-  | 27 | [Roland](/fr/heroes/Roland/) | Château | Chevalier | SR+ |  Moral accru  |
-  | 28 | [Ryland](/fr/heroes/Ryland/) | Rempart | Rôdeur | R |  Garde sylvanien  |
-  | 29 | [Sandro](/fr/heroes/Sandro/) | Nécropole | Nécromancien | SSR |  Les Ténèbres se répandent  |
-  | 30 | [Sandro (humain)](/fr/heroes/Human Sandro/) | Nécropole | Nécromancien | SR |  Âme immortelle  |
-  | 31 | [Seigneur Haart](/fr/heroes/Lord Haart/) | Nécropole | Chevalier de la mort | SR- |  Chevalier de la mort  |
-  | 32 | [Sephinroth](/fr/heroes/Sephinroth/) | Donjon | Mage de guerre | R |  Regard de cristal  |
-  | 33 | [Shiva](/fr/heroes/Shiva/) | Bastion | Barbare | R |  Porteur du tonnerre  |
-  | 34 | [Solmyr](/fr/heroes/Solmyr/) | Tour | Magicien | SR |  Foudre terrible  |
-  | 35 | [Tazar](/fr/heroes/Tazar/) | Forteresse | Maître des bêtes | SR |  Rage sanguinaire  |
-  | 36 | [Vidomina](/fr/heroes/Vidomina/) | Nécropole | Nécromancien | R |  Nécromancien  |
-  | 37 | [Wystan](/fr/heroes/Wystan/) | Forteresse | Maître des bêtes | R |  Chasseur des marais  |
-  | 38 | [Xeron](/fr/heroes/Xeron/) | Hadès | Démoniaque | SSR |  Archidiable  |
-  | 39 | [Yog](/fr/heroes/Yog/) | Bastion | Barbare | SR |  Cyclope enragé  |
-  | 40 | [Zydar](/fr/heroes/Zydar/) | Hadès | Hérétique | R |  Invocation d'Hadès  |
+  | 25 | [Mélodia](/fr/heroes/Melodia/) | Rempart | Druidesse | R |  Bonne fortune  |
+  | 26 | [PeterLee](/fr/heroes/Peter Lee/) | Crique | Pirate | R+ |  Levez les voiles  |
+  | 27 | [Rashka](/fr/heroes/Rashka/) | Hadès | Démoniaque | R |  Seigneur du feu  |
+  | 28 | [Roland](/fr/heroes/Roland/) | Château | Chevalier | SR+ |  Moral accru  |
+  | 29 | [Ryland](/fr/heroes/Ryland/) | Rempart | Rôdeur | R |  Garde sylvanien  |
+  | 30 | [Sandro](/fr/heroes/Sandro/) | Nécropole | Nécromancien | SSR |  Les Ténèbres se répandent  |
+  | 31 | [Sandro (humain)](/fr/heroes/Human Sandro/) | Nécropole | Nécromancien | SR |  Âme immortelle  |
+  | 32 | [Seigneur Haart](/fr/heroes/Lord Haart/) | Nécropole | Chevalier de la mort | SR- |  Chevalier de la mort  |
+  | 33 | [Sephinroth](/fr/heroes/Sephinroth/) | Donjon | Mage de guerre | R |  Regard de cristal  |
+  | 34 | [Shiva](/fr/heroes/Shiva/) | Bastion | Barbare | R |  Porteur du tonnerre  |
+  | 35 | [Solmyr](/fr/heroes/Solmyr/) | Tour | Magicien | SR |  Foudre terrible  |
+  | 36 | [Tazar](/fr/heroes/Tazar/) | Forteresse | Maître des bêtes | SR |  Rage sanguinaire  |
+  | 37 | [Vidomina](/fr/heroes/Vidomina/) | Nécropole | Nécromancien | R |  Nécromancien  |
+  | 38 | [Wystan](/fr/heroes/Wystan/) | Forteresse | Maître des bêtes | R |  Chasseur des marais  |
+  | 39 | [Xeron](/fr/heroes/Xeron/) | Hadès | Démoniaque | SSR |  Archidiable  |
+  | 40 | [Yog](/fr/heroes/Yog/) | Bastion | Barbare | SR |  Cyclope enragé  |
+  | 41 | [Zydar](/fr/heroes/Zydar/) | Hadès | Hérétique | R |  Invocation d'Hadès  |

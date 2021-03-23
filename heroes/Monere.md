@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere possède la capacité innée de contrôler les Élémentaires de magie et de l'esprit. C'est un général idéal pour les armées d'Élémentaires."
 heroID: 60702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Monere"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Domaine mystique
  **Description:** Crée un Domaine mystique dans la zone cible, infligeant <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux unités ennemies sur une large zone et les réduisant au <span style="color: #e07c44;font-size:20px">silence</span><span style="color: black"> pour <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Monere](/fr/heroes/Adjutant Monere/) 
+
+ **Type:**  Statistiques 
+
+ **Compétence d'Adjudant:**  Vestiges de savoir 
+
+ **Description:** Réduit le savoir des Héros ennemis de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Brûlure](/fr/combination/Brûlure/) 
+* [Silence](/fr/combination/Silence/) 
 
 ## HERO Biography
 

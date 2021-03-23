@@ -3,7 +3,7 @@ title: "Kilgor"
 permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. Très jeune, Kilgor a battu son père pour prendre le titre de chef de clan. Depuis, sa réputation ne fait que grandir à travers Krewlod. Beaucoup le considèrent comme le seul guerrier capable de remporter le Festival de la Vie de cette génération."
 heroID: 60601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Kilgor"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Volonté inflexible
  **Description:** Augmente la Ténacité des unités alliées de 50 et leurs dégâts critiques de 10 %. Les alliés du Bastion régénèrent <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> PV toutes les 3s pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Kilgor](/fr/heroes/Adjutant Kilgor/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Maître de la guerre 
+
+ **Description:** Augmente les dégâts des unités du Bastion alliées de <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))} %</span><span style="color: black"> toutes les 15 secondes. Peut se cumuler jusqu'à 4 fois.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
 
 ## HERO Biography
 

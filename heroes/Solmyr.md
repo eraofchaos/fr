@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr est resté piégé dans une lampe de génie pendant plus d'un millénaire. Infiniment reconnaissant envers celui qui l'a libéré, Gavin Magnus le souverain immortel des Hautes Terres de Bracada, il lui a juré son éternelle allégeance."
 heroID: 61201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Solmyr"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Foudre terrible
  **Description:** Lance un éclair qui rebondit 5 fois entre différentes unités ennemies. Chaque bond inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> points de dégâts d'air.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Solmyr](/fr/heroes/Adjutant Solmyr/) 
+
+ **Type:**  Sort 
+
+ **Compétence d'Adjudant:**  Magie de l'air améliorée 
+
+ **Description:** Augmente les dégâts des sorts d'air des Héros alliés de <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Statique](/fr/combination/Statique/) 
 
 ## HERO Biography
    - Une nouvelle conscience commença à se former dans le Labyrinthe de l'esprit...

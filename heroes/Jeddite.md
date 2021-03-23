@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite est un homme mystérieux, qui maintient d'étroites relations avec des dirigeants importants de différentes nations. Mais personne ne sait rien sur son passé, il n'en parle jamais."
 heroID: 61401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Jeddite"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Cycle de la vie
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre toutes les {$ointerval/1000} secondes aux unités ennemies dans une large zone et restaure la santé des unités alliées à hauteur des dégâts infligés. Dure {($olast11+$olast12*($sklevel-1))/1000} secondes.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Jeddite](/fr/heroes/Adjutant Jeddite/) 
+
+ **Type:**  Sort 
+
+ **Compétence d'Adjudant:**  Vestiges de défense 
+
+ **Description:** Réduit la DÉF des Héros ennemis de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Pétrification](/fr/combination/Pétrification/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

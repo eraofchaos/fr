@@ -3,7 +3,7 @@ title: "Mutare (dragon)"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Mutare (dragon). Mutare (dragon). En buvant la Fiole de sang de dragon, Mutare en est elle-même devenue un, tout en conservant sa conscience humaine. Certains affirment que sa transformation est annonciatrice de l'arrivée du Dragon patriarche."
 heroID: 61302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Dragon Mutare"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Rugissement du Dragon
  **Description:** Inflige <span style="color: #e07c44;font-size:20px">Saignement</span><span style="color: black"> à toutes les unités ennemies, provoquant des dégâts équivalents à <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))} %</span><span style="color: black"> de leurs PV max toutes les 2s pendant 16s, en plus de les <span style="color: #e07c44;font-size:20px">étourdir</span><span style="color: black"> pendant 6s. Certaines unités peuvent s'immuniser contre les dégâts de <span style="color: #e07c44;font-size:20px">saignement</span><span style="color: black">, et la guérison et réduite pour celles qui <span style="color: #e07c44;font-size:20px">saignent</span><span style="color: black">.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Mutare (dragon)](/fr/heroes/Adjutant Dragon Mutare/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Cercle draconique 
+
+ **Description:** Lorsqu'un Héros ennemi lance un sort, augmente les dégâts des unités du Donjon alliées de <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))} %</span><span style="color: black"> pendant 5 secondes. Peut se cumuler jusqu'à 5 fois.
+
+## Infos combinaison
+
+* [Saignement](/fr/combination/Saignement/) 
+* [Brûlure](/fr/combination/Brûlure/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

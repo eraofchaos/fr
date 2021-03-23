@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Le nécromancien Sandro connaît Enroth et Erathia dans leurs moindres recoins. Il semble à présent soutenir Finneas Vilmar, chef des nécromanciens de Deyja."
 heroID: 60501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Sandro"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Heures sombres
  **Description:** Inflige des dégâts de terre à toutes les unités ennemies (sauf Nécropole) équivalents à <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points plus 5 % de leurs PV max et les <span style="color: #e07c44;font-size:20px">démotive</span><span style="color: black"> pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s. Les unités de la Nécropole alliées récupèrent <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> PV, mais sont aussi <span style="color: #e07c44;font-size:20px">démotivées</span><span style="color: black">.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Sandro](/fr/heroes/Adjutant Sandro/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Invasion obscure 
+
+ **Description:** Lorsque toutes les unités sont victimes de <span style="color: #e07c44;font-size:20px">Démotivation</span><span style="color: black">, réduit la résistance aux dégâts de <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Démotivation](/fr/combination/Démotivation/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
    - Sandro décide de se rendre à Deyja après avoir obtenu le Manteau du roi des Non-Morts et l'Armure du Damné.

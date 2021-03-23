@@ -3,7 +3,7 @@ title: "Seigneur Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Seigneur Haart. Seigneur Haart. Le Seigneur Haart est mort, et il a ressuscité. Aujourd'hui général de l'armée des Non-Morts, il possède des pouvoirs encore plus grands que de son vivant."
 heroID: 60401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Lord Haart"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Mise à mort
  **Description:** Ordonne aux Chevaliers de la mort de porter une <span style="color: #48b946;font-size:20px">Frappe fatale</span><span style="color: black"> unique ; ses dégâts sont alors augmentés de 20 %, et elle réduit la DÉF de la cible de {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Seigneur Haart](/fr/heroes/Adjutant Lord Haart/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Aura effroyable 
+
+ **Description:** Augmente les dégâts des unités de la Nécropole alliées de <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Démotivation](/fr/combination/Démotivation/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Adelaïde"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaïde. Adelaïde. Alors qu'elle n'était qu'une jeune naufragée solitaire, Adelaïde est entrée par hasard sur le territoire des Elfes des neiges. Elle s'est entraînée pendant vingt ans à leurs côtés pour devenir la Mage la plus puissante du royaume avant de retourner en Erathia."
 heroID: 60001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Adelaide"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Anneau de givre
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> points de dégâts d'eau aux unités ennemies dans une large zone, et <span style="color: #e07c44;font-size:20px">gèle</span><span style="color: black"> les cibles<span style="color: #e07c44;font-size:20px">ralenties</span><span style="color: black"> pendant 5 secondes.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Adelaïde](/fr/heroes/Adjutant Adelaide/) 
+
+ **Type:**  Sort 
+
+ **Compétence d'Adjudant:**  Magie de l'eau améliorée 
+
+ **Description:** Augmente les dégâts d'eau des Héros alliés de <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Gel](/fr/combination/Gel/) 
 
 ## HERO Biography
 

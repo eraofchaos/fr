@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina faisait preuve d'un immense potentiel quand elle était jeune, jusqu'à ce qu'elle soit expulsée de Bracada après qu'il a été découvert qu'elle utilisait sa magie pour changer les vivants en Non-Morts. Cette sanction n'a fait que la placer définitivement sur la voie du mal."
 heroID: 60502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Vidomina"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Armée des Non-Morts
  **Description:** Invoque des Squelettes de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> dans la zone cible. Leur nombre est égal à celui d'unités ennemies présentes. Ils persistent 20s avec une ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> et <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)} PV.</span><span style="color: black">
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Vidomina](/fr/heroes/Adjutant Vidomina/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Nécropole améliorée 
+
+ **Description:** Augmente l'ATQ des unités de la Nécropole alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Démotivation](/fr/combination/Démotivation/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
    - Une expérience perçue comme une hérésie aide Vidomina à trouver le sens de la vie.

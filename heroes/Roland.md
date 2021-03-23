@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. Le Roi Roland a été sauvé des griffes des Kreegans par un groupe de guerriers. En signe de gratitude, il a rejoint l'armée d'Erathia en tant que général. C'est là qu'il a rencontré Catherine et combattu à ses côtés contre les envahisseurs."
 heroID: 60103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Roland"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Vent royal
  **Description:** Octroie <span style="color: #e07c44;font-size:20px">Exaltation</span><span style="color: black"> à toutes les unités alliées, augmentant leur ATQ de 50<50*($a122+$a126+$a132+$a136)> % pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Roland](/fr/heroes/Adjutant Roland/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Déferlement d'enthousiasme 
+
+ **Description:** Lorsque des unités du Château alliées sont <span style="color: #e07c44;font-size:20px">exaltées</span><span style="color: black">, leur vitesse d'attaque augmente de <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black"> pendant 6 secondes.
+
+## Infos combinaison
+
+* [Exaltation](/fr/combination/Exaltation/) 
+* [Brûlure](/fr/combination/Brûlure/) 
 
 ## HERO Biography
 

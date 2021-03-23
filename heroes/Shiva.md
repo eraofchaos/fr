@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva est née dans une famille de dresseurs de Rocks. Nullement intéressée par les affaires familiales, elle a préféré rejoindre l'armée de Krewlod pour devenir une redoutable mercenaire."
 heroID: 60603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Shiva"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Orage
  **Description:** Invoque une tempête dans la zone cible, infligeant <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air à toutes les unités à portée toutes les 0,5s et réduisant leur vitesse d'ATQ de 15 %, pendant {$olast11/1000}s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Shiva](/fr/heroes/Adjutant Shiva/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Bastion amélioré 
+
+ **Description:** Augmente l'ATQ des unités du Bastion alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna vivait à Enroth quand elle a appris qu'un Élémentaire était apparu à Erathia. Convaincue de pouvoir acquérir une magie bien plus puissante là-bas, elle a traversé la mer pour découvrir ses secrets."
 heroID: 60701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Luna"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Terre de feu
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> points de dégâts de feu aux unités ennemies sur une large zone, ainsi que <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> points de dégâts de feu additionnels aux cibles qui <span style="color: #e07c44;font-size:20px">brûlent</span><span style="color: black">.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Luna](/fr/heroes/Adjutant Luna/) 
+
+ **Type:**  Sort 
+
+ **Compétence d'Adjudant:**  Magie de feu améliorée 
+
+ **Description:** Augmente les dégâts des sorts de feu des Héros alliés de <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
 
 ## HERO Biography
 

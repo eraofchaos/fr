@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Mephala a suivi sa formation au sein de l'armée d'Erathia et possède un génie tactique naturel lui permettant d'exploiter le terrain à son avantage. Bien qu'elle préfère le calme de son village, elle reste dans l'armée pour servir son pays."
 heroID: 60302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Mephala"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Bouclier sacré
  **Description:** Invoque un bouclier protecteur géant et immunise les unités alliées contre tous les dégâts pendant <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> secondes.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Mephala](/fr/heroes/Adjutant Mephala/) 
+
+ **Type:**  Unités 
+
+ **Compétence d'Adjudant:**  Formation défensive 
+
+ **Description:** Augmente la valeur du bouclier des unités défensives alliées de <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Bouclier](/fr/combination/Bouclier/) 
 
 ## HERO Biography
    - Un incendie ravageur s'était déclaré dans la forêt. Mephala s'y rendit pour en trouver la cause.

@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Général invaincu sur le champ de bataille, Ciele fait partie des premiers Héros à avoir rejoint les rangs des Élémentaires. Elle s'est découvert une connexion avec eux à travers ses flèches magiques."
 heroID: 60705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Ciele"
 toc: true
@@ -43,6 +43,24 @@ toc: true
 ### 4 Spell: Flèche terrestre
  **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span><span style="color: black"> pendant 3 s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Ciele](/fr/heroes/Adjutant Ciele/) 
+
+ **Type:**  Sort 
+
+ **Compétence d'Adjudant:**  Conflux éclairé 
+
+ **Description:** Réduit la résistance magique à tous les sorts de toutes les unités ennemies <span style="color: #48b946;font-size:20px">{(8+0.8*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Statique](/fr/combination/Statique/) 
+* [Pétrification](/fr/combination/Pétrification/) 
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Brûlure](/fr/combination/Brûlure/) 
+* [Silence](/fr/combination/Silence/) 
 
 ## HERO Biography
 

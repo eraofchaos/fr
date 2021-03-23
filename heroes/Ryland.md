@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland est le premier et jusqu'ici l'unique humain à avoir été totalement accepté par le Cercle des Aînés des Elfes. Certains disent en plaisantant qu'il doit simplement être un elfe réincarné dans le corps d'un humain."
 heroID: 60303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Ryland"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Faveur divine
  **Description:** Restaure <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> PV aux unités alliées dans une large zone. L'effet est doublé pour les cibles ayant un <span style="color: #e07c44;font-size:20px">bouclier</span><span style="color: black">.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Ryland](/fr/heroes/Adjutant Ryland/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Rempart amélioré 
+
+ **Description:** Augmente les PV des unités du Rempart alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Étourdissement](/fr/combination/Étourdissement/) 
+* [Bouclier](/fr/combination/Bouclier/) 
 
 ## HERO Biography
 

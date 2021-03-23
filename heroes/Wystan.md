@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan est le beau-fils aîné du Roi Tralossk et le second héritier du trône. Il attend impatiemment le jour où il pourra enfin régner."
 heroID: 61504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Wystan"
 toc: true
@@ -43,6 +43,23 @@ toc: true
 ### 4 Spell: Bourbier
  **Description:** Invoque un Bourbier à un emplacement précis, qui restaure chaque seconde <span style="color: #e07c44;font-size:20px">3 %</span><span style="color: black"> des PV max des alliés de la Forteresse dans une large zone et augmente leur vitesse d'ATQ de <span style="color: #e07c44;font-size:20px">10 %</span><span style="color: black"> ; réduit la vitesse d'ATQ de <span style="color: #e07c44;font-size:20px">30 %</span><span style="color: black"> et la vitesse de déplacement de <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> pour toutes les unités ennemies au sol, pendant {($olast11+$olast12*($sklevel-1))/1000} secondes.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Wystan](/fr/heroes/Adjutant Wystan/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Forteresse améliorée 
+
+ **Description:** Augmente les PV des unités de la Forteresse alliées de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Saignement](/fr/combination/Saignement/) 
+* [Maladie](/fr/combination/Maladie/) 
+* [Étourdissement](/fr/combination/Étourdissement/) 
+* [Bouclier](/fr/combination/Bouclier/) 
 
 ## HERO Biography
 

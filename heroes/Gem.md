@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem est la plus puissante des sorcières d'Enroth. Elle a combattu pour Roland Ironfist dans les deux guerres. Une fois Roland couronné, elle s'est installée à Erathia."
 heroID: 60304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Gem"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Pluie paisible
  **Description:** Restaure les PV des unités alliées à hauteur de <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> points plus 1 % de leurs PV max pendant 6s.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Gem](/fr/heroes/Adjutant Gem/) 
+
+ **Type:**  Faction 
+
+ **Compétence d'Adjudant:**  Refuge naturel 
+
+ **Description:** Lorsque des unités du Rempart alliées reçoivent un <span style="color: #48b946;font-size:20px">bouclier</span><span style="color: black">, augmente la valeur du bouclier de <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Lenteur](/fr/combination/Lenteur/) 
+* [Bouclier](/fr/combination/Bouclier/) 
 
 ## HERO Biography
 

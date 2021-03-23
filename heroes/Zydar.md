@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar a consacré une grande partie de sa vie à améliorer sa magie, pour devenir un grand Lanceur de sorts avant de rejoindre le champ de bataille. Il est bien plus fiable que ses autres frères démons."
 heroID: 60901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: fr
 ref: "Zydar"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Portail de feu
  **Description:** Invoque un Portail de feu dans la zone cible et 3 Diablotins de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">. Ils persistent 20s avec une ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> et <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> PV.
 
+
+## Adjudant
+
+ **Adjudant:**  [Adjudant Zydar](/fr/heroes/Adjutant Zydar/) 
+
+ **Type:**  Statistiques 
+
+ **Compétence d'Adjudant:**  Bassin d'intelligence 
+
+ **Description:** Augmente l'intelligence des Héros alliés de <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Infos combinaison
+
+* [Brûlure](/fr/combination/Brûlure/) 
 
 ## HERO Biography
 

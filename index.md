@@ -33,26 +33,28 @@ En raison des limitations techniques de Github (nous avons environ 4000 pages da
 Ce portail d'informations contient des informations sur le jeu mobile "Era Of Chaos".
 
 Vous pouvez trouver ici:
-### <i class="fas fa-gavel"/> [Items](/fr/Items/)
-### <i class="fas fa-chess-king"/>  [Heroes](/fr/heroes/) 
-### <i class="fab fa-optin-monster"/>  [Units](/fr/units/)
-### <i class="fas fa-fist-raised"/> [Combination Bonus for Units and Heroes](https://eraofchaos.github.io/fr/combination/)
-### <i class="fas fa-atom"/>  [Holy Emblem](/fr/Emblem/)
-### <i class="fas fa-hand-sparkles"/>  [Artifacts](/fr/artifacts/)
+* <i class="fas fa-gavel"/> [Objets](/fr/Items/)
+* <i class="fas fa-chess-king"/>  [Héros](/fr/heroes/)
+* <i class="fas fa-mask"/>  [Adjudant](/fr/heroes/Adjutants/)
+* <i class="fab fa-optin-monster"/>  [Unités](/fr/units/)
+* <i class="fas fa-fist-raised"/> [Infos combinaison: Héros & Unités](/fr/combination/)
+* <i class="fas fa-atom"/>  [Emblème sacré](/fr/Emblem/)
+* <i class="fas fa-hand-sparkles"/>  [Artefact](/fr/artifacts/)
 
-### <i class="fas fa-question-circle"/>  [Sphinx answers](/fr/sphinx/)
+* <i class="fas fa-question-circle"/>  [SphinxRépondez aux questions pour obtenir l'accord et des récompenses !](/fr/sphinx/)
 
-### <i class="fas fa-hat-cowboy-side"/>  [Battlefield Backup](https://eraofchaos.github.io/fr/Backup/)
-### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/fr/Alchemy Workshop/)
-### <i class="fab fa-battle-net"/> [Battle Formation](/fr/Battle Formation/)
-### <i class="fas fa-store-alt"/>  [Harbour Shop](/fr/Shops/Harbour Shop/)
-### <i class="fas fa-water"/>  [Healing Sea](/fr/Healing Sea/)
+* <i class="fas fa-hat-cowboy-side"/>  [Renforts](/fr/Backup/)
+* <i class="fas fa-place-of-worship"/>  [Bibliothèque de formules d'alchimie](/fr/Alchemy Workshop/)
+* <i class="fab fa-battle-net"/> [Formation de combat](/fr/Battle Formation/)
+* <i class="fas fa-store-alt"/>  [Harbour Shop](/fr/Shops/Harbour Shop/)
+* <i class="fas fa-water"/>  [Healing Sea](/fr/Healing Sea/)
 
-### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/fr/Weekly Sign Rewards/) (up to 7 February 2021)
-### <i class="fas fa-calendar-alt"/>  [Schedule](/fr/Schedule/) (up to 8 February 2021)
-### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/fr/Hotspot/) (for complete 2021)
-#### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/fr/Hotspot/HotSpot Artifact _2021/)
-#### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/fr/Hotspot/HotSpot Spell _2021/)
+* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/fr/Weekly Sign Rewards/) (up to 6 April 2021)
+* <i class="fas fa-calendar-alt"/>  [Programme](/fr/Schedule/) (up to 6 April 2021)
+* <i class="fas fa-calendar-day"/> [À la une Artefact & Sort 2021](/fr/Hotspot/)
+* <i class="fas fa-calendar-day"/> [À la une Artefact 2021](/fr/Hotspot/HotSpot Artifact _2021/)
+* <i class="fas fa-calendar-day"/> [À la une Sort 2021](/fr/Hotspot/HotSpot Spell _2021/)
+
 
 <br/>
 <br/>

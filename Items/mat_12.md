@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai de bonne qualité"
 permalink: /Items/mat_12/
 excerpt: "Era of Chaos  Minerai de bonne qualité"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_12.md"
 toc: false

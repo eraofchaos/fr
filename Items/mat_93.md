@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes stellaires"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Gemmes stellaires"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_93.md"
 toc: false

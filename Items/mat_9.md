@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre ordinaire"
 permalink: /Items/mat_9/
 excerpt: "Era of Chaos  Soufre ordinaire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_9.md"
 toc: false

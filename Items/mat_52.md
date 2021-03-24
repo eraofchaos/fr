@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal fantastique"
 permalink: /Items/mat_52/
 excerpt: "Era of Chaos  Cristal fantastique"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_52.md"
 toc: false

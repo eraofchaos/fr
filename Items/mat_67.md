@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificat de légende"
 permalink: /Items/mat_67/
 excerpt: "Era of Chaos  Certificat de légende"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_67.md"
 toc: false

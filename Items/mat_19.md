@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai de qualité supérieure"
 permalink: /Items/mat_19/
 excerpt: "Era of Chaos  Minerai de qualité supérieure"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_19.md"
 toc: false

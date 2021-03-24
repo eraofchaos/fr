@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure d'âme"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Mercure d'âme"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_84.md"
 toc: false

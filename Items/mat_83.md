@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois d'âme"
 permalink: /Items/mat_83/
 excerpt: "Era of Chaos  Bois d'âme"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_83.md"
 toc: false

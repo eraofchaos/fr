@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois ordinaire"
 permalink: /Items/mat_7/
 excerpt: "Era of Chaos  Bois ordinaire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_7.md"
 toc: false

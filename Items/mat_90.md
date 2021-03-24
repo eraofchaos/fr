@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois stellaire"
 permalink: /Items/mat_90/
 excerpt: "Era of Chaos  Bois stellaire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_90.md"
 toc: false

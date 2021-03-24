@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure mythique"
 permalink: /Items/mat_63/
 excerpt: "Era of Chaos  Mercure mythique"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: fr
 ref: "mat_63.md"
 toc: false

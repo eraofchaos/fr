@@ -2,7 +2,7 @@
 title: "Infos combinaison for Bouclier"
 permalink: /combination/Shield/
 excerpt: "Infos combinaison - Bouclier. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Bouclier.md"
 toc: false
@@ -16,19 +16,19 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Elfe sylvaine](/units/Elfe sylvaine/) | [Gem](/heroes/Gem/) |
-  | 2 | [Pégase](/units/Pégase/) | [Ryland](/heroes/Ryland/) |
-  | 3 | [Garde sylvanien](/units/Garde sylvanien/) | [Mephala](/heroes/Mephala/) |
-  | 4 | [Licorne](/units/Licorne/) | [Gelu](/heroes/Gelu/) |
-  | 5 | [Druidesse](/units/Druidesse/) | [Erdamon](/heroes/Erdamon/) |
-  | 6 | [Tortue dragon](/units/Tortue dragon/) | [Wystan](/heroes/Wystan/) |
+  | 1 | [Elfe sylvaine](/fr/units/Wood Elf/) | [Gem](/fr/heroes/Gem/) |
+  | 2 | [Pégase](/fr/units/Pegasus/) | [Ryland](/fr/heroes/Ryland/) |
+  | 3 | [Garde sylvanien](/fr/units/Dendroid Guard/) | [Mephala](/fr/heroes/Mephala/) |
+  | 4 | [Licorne](/fr/units/Unicorn/) | [Gelu](/fr/heroes/Gelu/) |
+  | 5 | [Druidesse](/fr/units/Druid/) | [Erdamon](/fr/heroes/Erdamon/) |
+  | 6 | [Tortue dragon](/fr/units/Dragon Turtle/) | [Wystan](/fr/heroes/Wystan/) |
 
 
 #### Les unités et les Héros reçoivent des bonus supplémentaires quand ils ont un \"bouclier\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | - | [Gem](/heroes/Gem/) |
-  | 2 | - | [Ryland](/heroes/Ryland/) |
-  | 3 | - | [Mephala](/heroes/Mephala/) |
-  | 4 | - | [Jenova](/heroes/Jenova/) |
+  | 1 | - | [Gem](/fr/heroes/Gem/) |
+  | 2 | - | [Ryland](/fr/heroes/Ryland/) |
+  | 3 | - | [Mephala](/fr/heroes/Mephala/) |
+  | 4 | - | [Jenova](/fr/heroes/Jenova/) |

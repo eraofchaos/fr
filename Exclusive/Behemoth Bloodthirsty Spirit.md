@@ -2,7 +2,7 @@
 title: "Exclusif - Esprit sanguinaire"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Esprit sanguinaire. Esprit sanguinaire. Era of Chaos Exclusif Esprit sanguinaire. Béhémoth Exclusif."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Behemoth Esprit sanguinaire.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Infos combinaison for Gel"
 permalink: /combination/Freeze/
 excerpt: "Infos combinaison - Gel. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Gel.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Élémentaire de glace](/units/Élémentaire de glace/) | [Adelaïde](/heroes/Adelaïde/) |
-  | 2 | [Aéronef magique](/units/Aéronef magique/) | [Cassanbel](/heroes/Cassanbel/) |
+  | 1 | [Élémentaire de glace](/fr/units/Ice Elemental/) | [Adelaïde](/fr/heroes/Adelaide/) |
+  | 2 | [Aéronef magique](/fr/units/Magic Airship/) | [Cassanbel](/fr/heroes/Cassanbel/) |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis \"gelés\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Adelaïde](/heroes/Adelaïde/) |
-  | 2 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Gorgone](/fr/units/Gorgon/) | [Adelaïde](/fr/heroes/Adelaide/) |
+  | 2 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

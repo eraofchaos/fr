@@ -2,7 +2,7 @@
 title: "Bottes de la garnison"
 permalink: /equipment/Garrison Boots/
 excerpt: "Era of Chaos Bottes de la garnison. Bottes de la garnison"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Garrison Boots.md"
 toc: false

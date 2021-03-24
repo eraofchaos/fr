@@ -2,7 +2,7 @@
 title: "Ceinture de cuir"
 permalink: /equipment/Leather Belt/
 excerpt: "Era of Chaos Ceinture de cuir. Ceinture de cuir"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Leather Belt.md"
 toc: false

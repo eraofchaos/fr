@@ -2,7 +2,7 @@
 title: "Épaulières à pointes"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Era of Chaos Épaulières à pointes. Épaulières à pointes"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Spiked Pauldrons.md"
 toc: false

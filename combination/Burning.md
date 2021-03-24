@@ -2,7 +2,7 @@
 title: "Infos combinaison for Brûlure"
 permalink: /combination/Burning/
 excerpt: "Infos combinaison - Brûlure. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Brûlure.md"
 toc: false
@@ -16,28 +16,28 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gog](/units/Gog/) | [Xeron](/heroes/Xeron/) |
-  | 2 | [Effrit](/units/Effrit/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
-  | 3 | [Cyclope](/units/Cyclope/) | [Roland](/heroes/Roland/) |
-  | 4 | [Élémentaire de feu](/units/Élémentaire de feu/) | [Kilgor](/heroes/Kilgor/) |
-  | 5 | [Élémentaire de l'esprit](/units/Élémentaire de l'esprit/) | [Shiva](/heroes/Shiva/) |
-  | 6 | [Dragon noir](/units/Dragon noir/) | [Yog](/heroes/Yog/) |
-  | 7 | [Dragon rouge](/units/Dragon rouge/) | [Luna](/heroes/Luna/) |
-  | 8 | - | [Monere](/heroes/Monere/) |
-  | 9 | - | [Rashka](/heroes/Rashka/) |
-  | 10 | - | [Zydar](/heroes/Zydar/) |
-  | 11 | - | [Mutare](/heroes/Mutare/) |
-  | 12 | - | [Fiur](/heroes/Fiur/) |
-  | 13 | - | [Ciele](/heroes/Ciele/) |
+  | 1 | [Gog](/fr/units/Gog/) | [Xeron](/fr/heroes/Xeron/) |
+  | 2 | [Effrit](/fr/units/Efreeti/) | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) |
+  | 3 | [Cyclope](/fr/units/Cyclops/) | [Roland](/fr/heroes/Roland/) |
+  | 4 | [Élémentaire de feu](/fr/units/Fire Elemental/) | [Kilgor](/fr/heroes/Kilgor/) |
+  | 5 | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | [Shiva](/fr/heroes/Shiva/) |
+  | 6 | [Dragon noir](/fr/units/Black Dragon/) | [Yog](/fr/heroes/Yog/) |
+  | 7 | [Dragon rouge](/fr/units/Red Dragon/) | [Luna](/fr/heroes/Luna/) |
+  | 8 | - | [Monere](/fr/heroes/Monere/) |
+  | 9 | - | [Rashka](/fr/heroes/Rashka/) |
+  | 10 | - | [Zydar](/fr/heroes/Zydar/) |
+  | 11 | - | [Mutare](/fr/heroes/Mutare/) |
+  | 12 | - | [Fiur](/fr/heroes/Fiur/) |
+  | 13 | - | [Ciele](/fr/heroes/Ciele/) |
 
 
 #### Les unités et les Héros infligent des dégâts supplémentaires aux ennemis souffrant de <Brûlure>.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Diable](/units/Diable/) | [Luna](/heroes/Luna/) |
-  | 2 | [Oiseau de feu](/units/Oiseau de feu/) | [Xeron](/heroes/Xeron/) |
-  | 3 | [Dragon noir](/units/Dragon noir/) | [Fiur](/heroes/Fiur/) |
-  | 4 | [Gorgone](/units/Gorgone/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
-  | 5 | [Guêpe serpent](/units/Guêpe serpent/) | - |
-  | 6 | [Sorcière maléfique](/units/Sorcière maléfique/) | - |
+  | 1 | [Diable](/fr/units/Devil/) | [Luna](/fr/heroes/Luna/) |
+  | 2 | [Oiseau de feu](/fr/units/Firebird/) | [Xeron](/fr/heroes/Xeron/) |
+  | 3 | [Dragon noir](/fr/units/Black Dragon/) | [Fiur](/fr/heroes/Fiur/) |
+  | 4 | [Gorgone](/fr/units/Gorgon/) | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) |
+  | 5 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |
+  | 6 | [Sorcière maléfique](/fr/units/Evil Sorceress/) | - |

@@ -2,7 +2,7 @@
 title: "Œil maléfique de saphir"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "Era of Chaos Œil maléfique de saphir. Œil maléfique de saphir"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Beholder of Sapphire.md"
 toc: false

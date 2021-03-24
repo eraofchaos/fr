@@ -2,7 +2,7 @@
 title: "Infos combinaison for Découragement"
 permalink: /combination/Deterrence/
 excerpt: "Infos combinaison - Découragement. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Découragement.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Berserker](/units/Berserker/) | [Cassanbel](/heroes/Cassanbel/) |
-  | 2 | [Serpent de Regna](/units/Serpent de Regna/) | [PeterLee](/heroes/PeterLee/) |
-  | 3 | [Revyaratan](/units/Revyaratan/) | - |
+  | 1 | [Berserker](/fr/units/Berserker/) | [Cassanbel](/fr/heroes/Cassanbel/) |
+  | 2 | [Serpent de Regna](/fr/units/Regnan Serpent/) | [PeterLee](/fr/heroes/Peter Lee/) |
+  | 3 | [Revyaratan](/fr/units/Revyaratan/) | - |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis \"découragés\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Oracle de Regna](/units/Oracle de Regna/) | [PeterLee](/heroes/PeterLee/) |
-  | 2 | [Serpent de Regna](/units/Serpent de Regna/) | - |
-  | 3 | [Gorgone](/units/Gorgone/) | - |
-  | 4 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Oracle de Regna](/fr/units/Regnan Seer/) | [PeterLee](/fr/heroes/Peter Lee/) |
+  | 2 | [Serpent de Regna](/fr/units/Regnan Serpent/) | - |
+  | 3 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 4 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

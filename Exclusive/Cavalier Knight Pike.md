@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Cavalier Exclusif."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Cavalier Pic du Chevalier.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Infos combinaison for Saignement"
 permalink: /combination/Bleeding/
 excerpt: "Infos combinaison - Saignement. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Saignement.md"
 toc: false
@@ -16,27 +16,27 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Centaure](/units/Centaure/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Pégase](/units/Pégase/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
-  | 3 | [Orque](/units/Orque/) | [Wystan](/heroes/Wystan/) |
-  | 4 | [Garde sylvanien](/units/Garde sylvanien/) | - |
-  | 5 | [Béhémoth](/units/Béhémoth/) | - |
-  | 6 | [Chien de l'Enfer](/units/Chien de l'Enfer/) | - |
-  | 7 | [Minotaure](/units/Minotaure/) | - |
-  | 8 | [Guêpier](/units/Guêpier/) | - |
-  | 9 | [Champion des ténèbres](/units/Champion des ténèbres/) | - |
+  | 1 | [Centaure](/fr/units/Centaur/) | [Crag Hack](/fr/heroes/Crag Hack/) |
+  | 2 | [Pégase](/fr/units/Pegasus/) | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) |
+  | 3 | [Orque](/fr/units/Orc/) | [Wystan](/fr/heroes/Wystan/) |
+  | 4 | [Garde sylvanien](/fr/units/Dendroid Guard/) | - |
+  | 5 | [Béhémoth](/fr/units/Behemoth/) | - |
+  | 6 | [Chien de l'Enfer](/fr/units/Hell Hound/) | - |
+  | 7 | [Minotaure](/fr/units/Minotaur/) | - |
+  | 8 | [Guêpier](/fr/units/Waspwort/) | - |
+  | 9 | [Champion des ténèbres](/fr/units/Dark Champion/) | - |
 
 
 #### Les unités et les Héros infligent des dégâts supplémentaires aux ennemis souffrant de <Saignement>.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Dragon vert](/units/Dragon vert/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Chien de l'Enfer](/units/Chien de l'Enfer/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
-  | 3 | [Liche](/units/Liche/) | - |
-  | 4 | [Trépassé](/units/Trépassé/) | - |
-  | 5 | [Méduse](/units/Méduse/) | - |
-  | 6 | [Troglodyte](/units/Troglodyte/) | - |
-  | 7 | [Homme-lézard](/units/Homme-lézard/) | - |
-  | 8 | [Gorgone](/units/Gorgone/) | - |
-  | 9 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Dragon vert](/fr/units/Green Dragon/) | [Crag Hack](/fr/heroes/Crag Hack/) |
+  | 2 | [Chien de l'Enfer](/fr/units/Hell Hound/) | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) |
+  | 3 | [Liche](/fr/units/Lich/) | - |
+  | 4 | [Trépassé](/fr/units/Walking Dead/) | - |
+  | 5 | [Méduse](/fr/units/Medusa/) | - |
+  | 6 | [Troglodyte](/fr/units/Troglodyte/) | - |
+  | 7 | [Homme-lézard](/fr/units/Lizardman/) | - |
+  | 8 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 9 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

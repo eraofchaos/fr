@@ -2,7 +2,7 @@
 title: "Infos combinaison for Silence"
 permalink: /combination/Silence/
 excerpt: "Infos combinaison - Silence. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Silence.md"
 toc: false
@@ -16,17 +16,17 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Fée](/units/Fée/) | [Astral](/heroes/Astral/) |
-  | 2 | [Manticore](/units/Manticore/) | [Monere](/heroes/Monere/) |
-  | 3 | [Diable](/units/Diable/) | [Ciele](/heroes/Ciele/) |
-  | 4 | [Dragon squelette](/units/Dragon squelette/) | - |
-  | 5 | [Revenante](/units/Revenante/) | - |
-  | 6 | [Champion des ténèbres](/units/Champion des ténèbres/) | - |
+  | 1 | [Fée](/fr/units/Sprite/) | [Astral](/fr/heroes/Astral/) |
+  | 2 | [Manticore](/fr/units/Manticore/) | [Monere](/fr/heroes/Monere/) |
+  | 3 | [Diable](/fr/units/Devil/) | [Ciele](/fr/heroes/Ciele/) |
+  | 4 | [Dragon squelette](/fr/units/Bone Dragon/) | - |
+  | 5 | [Revenante](/fr/units/Wight/) | - |
+  | 6 | [Champion des ténèbres](/fr/units/Dark Champion/) | - |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis réduits au \"silence\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | - |
-  | 2 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 2 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

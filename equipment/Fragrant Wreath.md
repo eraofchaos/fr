@@ -2,7 +2,7 @@
 title: "Couronne parfumée"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "Era of Chaos Couronne parfumée. Couronne parfumée"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Fragrant Wreath.md"
 toc: false

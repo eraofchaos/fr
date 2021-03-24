@@ -2,7 +2,7 @@
 title: "Cuir adamantin"
 permalink: /equipment/Adamantine Leather/
 excerpt: "Era of Chaos Cuir adamantin. Cuir adamantin"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Adamantine Leather.md"
 toc: false

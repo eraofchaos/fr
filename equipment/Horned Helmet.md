@@ -2,7 +2,7 @@
 title: "Heaume cornu"
 permalink: /equipment/Horned Helmet/
 excerpt: "Era of Chaos Heaume cornu. Heaume cornu"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Horned Helmet.md"
 toc: false

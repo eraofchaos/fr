@@ -2,7 +2,7 @@
 title: "Robe de la rage tempétueuse"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "Era of Chaos Robe de la rage tempétueuse. Robe de la rage tempétueuse"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Robe of Storm Rage.md"
 toc: false

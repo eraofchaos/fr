@@ -2,7 +2,7 @@
 title: "Infos combinaison for Statique"
 permalink: /combination/Static/
 excerpt: "Infos combinaison - Statique. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Statique.md"
 toc: false
@@ -16,14 +16,14 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Archimage](/units/Archimage/) | [Solmyr](/heroes/Solmyr/) |
-  | 2 | [Élémentaire de tempête](/units/Élémentaire de tempête/) | [Ciele](/heroes/Ciele/) |
+  | 1 | [Archimage](/fr/units/Arch Mage/) | [Solmyr](/fr/heroes/Solmyr/) |
+  | 2 | [Élémentaire de tempête](/fr/units/Storm Elemental/) | [Ciele](/fr/heroes/Ciele/) |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis \"statiques\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Élémentaire de tempête](/units/Élémentaire de tempête/) | - |
-  | 2 | [Gorgone](/units/Gorgone/) | - |
-  | 3 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Élémentaire de tempête](/fr/units/Storm Elemental/) | - |
+  | 2 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 3 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

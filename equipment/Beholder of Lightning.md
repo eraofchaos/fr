@@ -2,7 +2,7 @@
 title: "Œil maléfique de foudre"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Era of Chaos Œil maléfique de foudre. Œil maléfique de foudre"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Beholder of Lightning.md"
 toc: false

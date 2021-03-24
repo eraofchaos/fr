@@ -2,7 +2,7 @@
 title: "Croc empoisonné mortel"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Era of Chaos Croc empoisonné mortel. Croc empoisonné mortel"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Fatal Poison Fang.md"
 toc: false

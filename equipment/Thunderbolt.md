@@ -2,7 +2,7 @@
 title: "Éclair"
 permalink: /equipment/Thunderbolt/
 excerpt: "Era of Chaos Éclair. Éclair"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Thunderbolt.md"
 toc: false

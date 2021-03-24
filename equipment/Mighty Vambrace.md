@@ -2,7 +2,7 @@
 title: "Brassard de puissance"
 permalink: /equipment/Mighty Vambrace/
 excerpt: "Era of Chaos Brassard de puissance. Brassard de puissance"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Mighty Vambrace.md"
 toc: false

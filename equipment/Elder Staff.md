@@ -2,7 +2,7 @@
 title: "Bâton ancien"
 permalink: /equipment/Elder Staff/
 excerpt: "Era of Chaos Bâton ancien. Bâton ancien"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Elder Staff.md"
 toc: false

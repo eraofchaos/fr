@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Gorgone"
 toc: true

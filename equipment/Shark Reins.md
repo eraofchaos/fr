@@ -2,7 +2,7 @@
 title: "Rênes de requins"
 permalink: /equipment/Shark Reins/
 excerpt: "Era of Chaos Rênes de requins. Rênes de requins"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Shark Reins.md"
 toc: false

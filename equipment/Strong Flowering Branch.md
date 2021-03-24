@@ -2,7 +2,7 @@
 title: "Branche fleurie rigide"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "Era of Chaos Branche fleurie rigide. Branche fleurie rigide"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Strong Flowering Branch.md"
 toc: false

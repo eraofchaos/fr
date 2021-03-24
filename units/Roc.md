@@ -3,7 +3,7 @@ title: "Rock"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Rocks apparaissent souvent lors des nuits d'orage. Ils volent aux côtés du tonnerre et des éclairs. Beaucoup les considèrent comme des messagers des dieux."
 unitID: 405
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Rock"
 toc: true

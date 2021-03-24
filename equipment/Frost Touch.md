@@ -2,7 +2,7 @@
 title: "Toucher glacial"
 permalink: /equipment/Frost Touch/
 excerpt: "Era of Chaos Toucher glacial. Toucher glacial"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Frost Touch.md"
 toc: false

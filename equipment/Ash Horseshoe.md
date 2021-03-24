@@ -2,7 +2,7 @@
 title: "Fer à cheval cendré"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Era of Chaos Fer à cheval cendré. Fer à cheval cendré"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Ash Horseshoe.md"
 toc: false

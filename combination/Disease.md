@@ -2,7 +2,7 @@
 title: "Infos combinaison for Maladie"
 permalink: /combination/Disease/
 excerpt: "Infos combinaison - Maladie. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Maladie.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Momie](/units/Momie/) | [Wystan](/heroes/Wystan/) |
+  | 1 | [Momie](/fr/units/Mummy/) | [Wystan](/fr/heroes/Wystan/) |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis victimes de <Maladie>.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Momie](/units/Momie/) | - |
-  | 2 | [Gorgone](/units/Gorgone/) | - |
-  | 3 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Momie](/fr/units/Mummy/) | - |
+  | 2 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 3 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

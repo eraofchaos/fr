@@ -2,7 +2,7 @@
 title: "Heureuses bénédictions"
 permalink: /equipment/Lucky Blessings/
 excerpt: "Era of Chaos Heureuses bénédictions. Heureuses bénédictions"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Lucky Blessings.md"
 toc: false

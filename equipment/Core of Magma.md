@@ -2,7 +2,7 @@
 title: "Noyau de magma"
 permalink: /equipment/Core of Magma/
 excerpt: "Era of Chaos Noyau de magma. Noyau de magma"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Core of Magma.md"
 toc: false

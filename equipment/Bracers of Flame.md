@@ -2,7 +2,7 @@
 title: "Bracelets enflammés"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Era of Chaos Bracelets enflammés. Bracelets enflammés"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Bracers of Flame.md"
 toc: false

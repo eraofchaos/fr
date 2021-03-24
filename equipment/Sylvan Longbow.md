@@ -2,7 +2,7 @@
 title: "Arc long sylvain"
 permalink: /equipment/Sylvan Longbow/
 excerpt: "Era of Chaos Arc long sylvain. Arc long sylvain"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Sylvan Longbow.md"
 toc: false

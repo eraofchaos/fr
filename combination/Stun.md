@@ -2,7 +2,7 @@
 title: "Infos combinaison for Étourdissement"
 permalink: /combination/Stun/
 excerpt: "Infos combinaison - Étourdissement. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Étourdissement.md"
 toc: false
@@ -16,33 +16,33 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Ange](/units/Ange/) | [Kendal](/heroes/Kendal/) |
-  | 2 | [Lancier](/units/Lancier/) | [Ryland](/heroes/Ryland/) |
-  | 3 | [Cavalier](/units/Cavalier/) | [Mullich](/heroes/Mullich/) |
-  | 4 | [Nain](/units/Nain/) | [Catherine](/heroes/Catherine/) |
-  | 5 | [Béhémoth](/units/Béhémoth/) | [Seigneur Haart](/heroes/Seigneur Haart/) |
-  | 6 | [Cyclope](/units/Cyclope/) | [Sandro](/heroes/Sandro/) |
-  | 7 | [Diablotin](/units/Diablotin/) | [Vidomina](/heroes/Vidomina/) |
-  | 8 | [Lutin](/units/Lutin/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 9 | [Élémentaire de l'esprit](/units/Élémentaire de l'esprit/) | [Shiva](/heroes/Shiva/) |
-  | 10 | [Élémentaire de pierre](/units/Élémentaire de pierre/) | [Luna](/heroes/Luna/) |
-  | 11 | [Troglodyte](/units/Troglodyte/) | [Erdamon](/heroes/Erdamon/) |
-  | 12 | [Gnoll](/units/Gnoll/) | [Mutare (dragon)](/heroes/Mutare (dragon)/) |
-  | 13 | [Tortue dragon](/units/Tortue dragon/) | [Mutare](/heroes/Mutare/) |
-  | 14 | [Guêpier](/units/Guêpier/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 15 | [Adjudicatrice](/units/Adjudicatrice/) | [Jeddite](/heroes/Jeddite/) |
-  | 16 | [Golem dragon](/units/Golem dragon/) | [Tazar](/heroes/Tazar/) |
-  | 17 | - | [Korbac](/heroes/Korbac/) |
-  | 18 | - | [Wystan](/heroes/Wystan/) |
-  | 19 | - | [Ciele](/heroes/Ciele/) |
+  | 1 | [Ange](/fr/units/Angel/) | [Kendal](/fr/heroes/Kendal/) |
+  | 2 | [Lancier](/fr/units/Pikeman/) | [Ryland](/fr/heroes/Ryland/) |
+  | 3 | [Cavalier](/fr/units/Cavalier /) | [Mullich](/fr/heroes/Mullich/) |
+  | 4 | [Nain](/fr/units/Dwarf/) | [Catherine](/fr/heroes/Catherine/) |
+  | 5 | [Béhémoth](/fr/units/Behemoth/) | [Seigneur Haart](/fr/heroes/Lord Haart/) |
+  | 6 | [Cyclope](/fr/units/Cyclops/) | [Sandro](/fr/heroes/Sandro/) |
+  | 7 | [Diablotin](/fr/units/Imp/) | [Vidomina](/fr/heroes/Vidomina/) |
+  | 8 | [Lutin](/fr/units/Gremlin/) | [Crag Hack](/fr/heroes/Crag Hack/) |
+  | 9 | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | [Shiva](/fr/heroes/Shiva/) |
+  | 10 | [Élémentaire de pierre](/fr/units/Stone Elemental/) | [Luna](/fr/heroes/Luna/) |
+  | 11 | [Troglodyte](/fr/units/Troglodyte/) | [Erdamon](/fr/heroes/Erdamon/) |
+  | 12 | [Gnoll](/fr/units/Gnoll/) | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) |
+  | 13 | [Tortue dragon](/fr/units/Dragon Turtle/) | [Mutare](/fr/heroes/Mutare/) |
+  | 14 | [Guêpier](/fr/units/Waspwort/) | [Sephinroth](/fr/heroes/Sephinroth/) |
+  | 15 | [Adjudicatrice](/fr/units/Judicator/) | [Jeddite](/fr/heroes/Jeddite/) |
+  | 16 | [Golem dragon](/fr/units/Dragon Golem/) | [Tazar](/fr/heroes/Tazar/) |
+  | 17 | - | [Korbac](/fr/heroes/Korbac/) |
+  | 18 | - | [Wystan](/fr/heroes/Wystan/) |
+  | 19 | - | [Ciele](/fr/heroes/Ciele/) |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis \"étourdis\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Harpie](/units/Harpie/) | [Jeddite](/heroes/Jeddite/) |
-  | 2 | [Gorgone](/units/Gorgone/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 3 | [Guêpe serpent](/units/Guêpe serpent/) | [Mutare](/heroes/Mutare/) |
-  | 4 | - | [Mullich](/heroes/Mullich/) |
-  | 5 | - | [Kendal](/heroes/Kendal/) |
+  | 1 | [Harpie](/fr/units/Harpy/) | [Jeddite](/fr/heroes/Jeddite/) |
+  | 2 | [Gorgone](/fr/units/Gorgon/) | [Sephinroth](/fr/heroes/Sephinroth/) |
+  | 3 | [Guêpe serpent](/fr/units/Serpent Fly/) | [Mutare](/fr/heroes/Mutare/) |
+  | 4 | - | [Mullich](/fr/heroes/Mullich/) |
+  | 5 | - | [Kendal](/fr/heroes/Kendal/) |

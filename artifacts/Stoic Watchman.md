@@ -1,0 +1,40 @@
+---
+title: "Artefact - Œil de faucon vivant - Guetteur"
+permalink: /artifacts/Stoic Watchman/
+excerpt: "Era of Chaos  Œil de faucon vivant - Guetteur. Une sculpture représentant un aventurier aux yeux rougeoyants. Composant de l'Œil de faucon vivant."
+last_modified_at: 2021-03-24
+locale: fr
+ref: "Stoic Watchman.md"
+toc: false
+classes: wide
+---
+
+
+
+## Détails
+
+ **Description:** Une sculpture représentant un aventurier aux yeux rougeoyants. Composant de l'Œil de faucon vivant.
+
+ **Part of Artifact:** [Œil de faucon vivant](/fr/artifacts/Live Hawkeye/){: .btn .btn--era5}
+
+ **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+
+ **Related Item**: [Guetteur](/fr/Items/art_133/)
+
+ **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifact component upgrade cost](/fr/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
+
+  **Santé de l'unité**: 2+(LEVEL\*0.8) %<br/>**Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 12+(LEVEL\*4.8)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **2** | Affects **9-man** unit | **HP**: +980 | 
+  | **5** | Affects **9-man** unit | **ATK**: +120 | 
+  | **8** | Affects **9-man** unit | **HP**: +2120 | 
+  | **11** | Affects **9-man** unit | **ATK**: +230 | 
+  | **14** | Affects **9-man** unit | **HP**: +3900 | 
+  | **17** | Affects **9-man** unit | **ATK**: +340 | 
+  | **20** | Affects **9-man** unit | **HP**: +4610 | 

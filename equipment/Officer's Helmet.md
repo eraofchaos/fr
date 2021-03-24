@@ -2,7 +2,7 @@
 title: "Heaume d'officier"
 permalink: /equipment/Officer's Helmet/
 excerpt: "Era of Chaos Heaume d'officier. Heaume d'officier"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Officer's Helmet.md"
 toc: false

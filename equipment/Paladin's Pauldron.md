@@ -2,7 +2,7 @@
 title: "Épaulière de Paladin"
 permalink: /equipment/Paladin's Pauldron/
 excerpt: "Era of Chaos Épaulière de Paladin. Épaulière de Paladin"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Paladin's Pauldron.md"
 toc: false

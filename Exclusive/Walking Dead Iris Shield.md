@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Trépassé Exclusif."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Walking Dead Bouclier iris.md"
 toc: false

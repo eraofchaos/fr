@@ -2,7 +2,7 @@
 title: "Crâne de l'hôte"
 permalink: /equipment/Host Cranium/
 excerpt: "Era of Chaos Crâne de l'hôte. Crâne de l'hôte"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Host Cranium.md"
 toc: false

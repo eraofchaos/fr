@@ -15,12 +15,12 @@ classes: wide
 
   |  Nr  | Renforts | Open Level | Compétence spéciale | Capacité de champ de bataille | Compétence globale |
   |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Charge offensive](/fr/Backup/Charge offensive/) |  | Charge offensive | Attaque par orage | Fer de lance |
-  | 2  | [Bénédiction de Luna](/fr/Backup/Bénédiction de Luna/) | 80 | Bénédiction de Luna | Soins | Puissance énergétique |
-  | 3  | [Attaque de la faux de la mort](/fr/Backup/Attaque de la faux de la mort/) | 85 | Attaque de la faux de la mort | Frapper | Érudition |
-  | 4  | [Coercition arctique](/fr/Backup/Coercition arctique/) | 89 | Coercition arctique | Énergie puissante | Alimentation |
-  | 5  | [Cercle de commandement de sorts](/fr/Backup/Cercle de commandement de sorts/) | 93 | Cercle de commandement de sorts | Champ de force | Incandescence |
-  | 6  | [Chasse dans la forêt](/fr/Backup/Chasse dans la forêt/) | 97 | Chasse dans la forêt | Motivation | Émancipation |
+  | 1  | [Charge offensive](/fr/Backup/Charge Offensive/) |  | Charge offensive | Attaque par orage | Fer de lance |
+  | 2  | [Bénédiction de Luna](/fr/Backup/Blessing of Luna/) | 80 | Bénédiction de Luna | Soins | Puissance énergétique |
+  | 3  | [Attaque de la faux de la mort](/fr/Backup/Scythe of the Death/) | 85 | Attaque de la faux de la mort | Frapper | Érudition |
+  | 4  | [Coercition arctique](/fr/Backup/Arctic Coercion/) | 89 | Coercition arctique | Énergie puissante | Alimentation |
+  | 5  | [Cercle de commandement de sorts](/fr/Backup/Spell Commandment/) | 93 | Cercle de commandement de sorts | Champ de force | Incandescence |
+  | 6  | [Chasse dans la forêt](/fr/Backup/Hunt in the Forest/) | 97 | Chasse dans la forêt | Motivation | Émancipation |
 
 
 ## Compétence spéciale Level up costs:

@@ -2,7 +2,7 @@
 title: "Exclusif - Noyau d'énergie"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Noyau d'énergie. Noyau d'énergie. Era of Chaos Exclusif Noyau d'énergie. Élémentaire de pierre Exclusif."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Stone Elemental Noyau d'énergie.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Infos combinaison for Démotivation"
 permalink: /combination/Low Morale/
 excerpt: "Infos combinaison - Démotivation. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Démotivation.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Chevalier noir](/units/Chevalier noir/) | [Seigneur Haart](/heroes/Seigneur Haart/) |
-  | 2 | [Dragon squelette](/units/Dragon squelette/) | [Vidomina](/heroes/Vidomina/) |
-  | 3 | - | [Sandro](/heroes/Sandro/) |
+  | 1 | [Chevalier noir](/fr/units/Black Knight/) | [Seigneur Haart](/fr/heroes/Lord Haart/) |
+  | 2 | [Dragon squelette](/fr/units/Bone Dragon/) | [Vidomina](/fr/heroes/Vidomina/) |
+  | 3 | - | [Sandro](/fr/heroes/Sandro/) |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis \"démotivés\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Trépassé](/units/Trépassé/) | [Seigneur Haart](/heroes/Seigneur Haart/) |
-  | 2 | [Dragon squelette](/units/Dragon squelette/) | [Sandro](/heroes/Sandro/) |
-  | 3 | [Gorgone](/units/Gorgone/) | - |
-  | 4 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Trépassé](/fr/units/Walking Dead/) | [Seigneur Haart](/fr/heroes/Lord Haart/) |
+  | 2 | [Dragon squelette](/fr/units/Bone Dragon/) | [Sandro](/fr/heroes/Sandro/) |
+  | 3 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 4 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

@@ -2,7 +2,7 @@
 title: "Cimeterre en acier"
 permalink: /equipment/Steel Scimitar/
 excerpt: "Era of Chaos Cimeterre en acier. Cimeterre en acier"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Steel Scimitar.md"
 toc: false

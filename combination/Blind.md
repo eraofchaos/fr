@@ -2,7 +2,7 @@
 title: "Infos combinaison for Cécité"
 permalink: /combination/Blind/
 excerpt: "Infos combinaison - Cécité. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Cécité.md"
 toc: false
@@ -16,12 +16,12 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Licorne](/units/Licorne/) | [Astral](/heroes/Astral/) |
+  | 1 | [Licorne](/fr/units/Unicorn/) | [Astral](/fr/heroes/Astral/) |
 
 
 #### Les unités et les Héros infligent des dégâts supplémentaires aux ennemis victimes de <Cécité>.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Jenova](/heroes/Jenova/) |
-  | 2 | [Guêpe serpent](/units/Guêpe serpent/) | [Astral](/heroes/Astral/) |
+  | 1 | [Gorgone](/fr/units/Gorgon/) | [Jenova](/fr/heroes/Jenova/) |
+  | 2 | [Guêpe serpent](/fr/units/Serpent Fly/) | [Astral](/fr/heroes/Astral/) |

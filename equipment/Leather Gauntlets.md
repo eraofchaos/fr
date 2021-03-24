@@ -2,7 +2,7 @@
 title: "Gantelets en cuir"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Era of Chaos Gantelets en cuir. Gantelets en cuir"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Leather Gauntlets.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Infos combinaison for Exaltation"
 permalink: /combination/High Morale/
 excerpt: "Infos combinaison - Exaltation. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Exaltation.md"
 toc: false
@@ -16,21 +16,21 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Moine](/units/Moine/) | [Roland](/heroes/Roland/) |
-  | 2 | [Paladin](/units/Paladin/) | [Mullich](/heroes/Mullich/) |
-  | 3 | [Adjudicatrice](/units/Adjudicatrice/) | [Catherine](/heroes/Catherine/) |
-  | 4 | - | [Korbac](/heroes/Korbac/) |
-  | 5 | - | [Kendal](/heroes/Kendal/) |
-  | 6 | - | [PeterLee](/heroes/PeterLee/) |
+  | 1 | [Moine](/fr/units/Monk/) | [Roland](/fr/heroes/Roland/) |
+  | 2 | [Paladin](/fr/units/Paladin/) | [Mullich](/fr/heroes/Mullich/) |
+  | 3 | [Adjudicatrice](/fr/units/Judicator/) | [Catherine](/fr/heroes/Catherine/) |
+  | 4 | - | [Korbac](/fr/heroes/Korbac/) |
+  | 5 | - | [Kendal](/fr/heroes/Kendal/) |
+  | 6 | - | [PeterLee](/fr/heroes/Peter Lee/) |
 
 
 #### Les unités et les Héros reçoivent des bonus supplémentaires quand ils sont en <Exaltation>.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Lancier](/units/Lancier/) | [Roland](/heroes/Roland/) |
-  | 2 | [Grand Arbalétrier](/units/Grand Arbalétrier/) | [Catherine](/heroes/Catherine/) |
-  | 3 | [Griffon](/units/Griffon/) | - |
-  | 4 | [Spadassin](/units/Spadassin/) | - |
-  | 5 | [Cavalier](/units/Cavalier/) | - |
-  | 6 | [Paladin](/units/Paladin/) | - |
+  | 1 | [Lancier](/fr/units/Pikeman/) | [Roland](/fr/heroes/Roland/) |
+  | 2 | [Grand Arbalétrier](/fr/units/Marksman/) | [Catherine](/fr/heroes/Catherine/) |
+  | 3 | [Griffon](/fr/units/Griffin/) | - |
+  | 4 | [Spadassin](/fr/units/Swordsman/) | - |
+  | 5 | [Cavalier](/fr/units/Cavalier /) | - |
+  | 6 | [Paladin](/fr/units/Paladin/) | - |

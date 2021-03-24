@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Méduse"
 toc: true

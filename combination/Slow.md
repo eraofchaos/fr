@@ -2,7 +2,7 @@
 title: "Infos combinaison for Lenteur"
 permalink: /combination/Slow/
 excerpt: "Infos combinaison - Lenteur. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Lenteur.md"
 toc: false
@@ -16,24 +16,24 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Garde sylvanien](/units/Garde sylvanien/) | [Adelaïde](/heroes/Adelaïde/) |
-  | 2 | [Centaure](/units/Centaure/) | [Catherine](/heroes/Catherine/) |
-  | 3 | [Trépassé](/units/Trépassé/) | [Dracon](/heroes/Dracon/) |
-  | 4 | [Élémentaire de glace](/units/Élémentaire de glace/) | [Gem](/heroes/Gem/) |
-  | 5 | [Élémentaire de mer](/units/Élémentaire de mer/) | [Monere](/heroes/Monere/) |
-  | 6 | [Arbalétrière de Regna](/units/Arbalétrière de Regna/) | [Korbac](/heroes/Korbac/) |
-  | 7 | - | [Ciele](/heroes/Ciele/) |
-  | 8 | - | [Cassanbel](/heroes/Cassanbel/) |
-  | 9 | - | [PeterLee](/heroes/PeterLee/) |
+  | 1 | [Garde sylvanien](/fr/units/Dendroid Guard/) | [Adelaïde](/fr/heroes/Adelaide/) |
+  | 2 | [Centaure](/fr/units/Centaur/) | [Catherine](/fr/heroes/Catherine/) |
+  | 3 | [Trépassé](/fr/units/Walking Dead/) | [Dracon](/fr/heroes/Dracon/) |
+  | 4 | [Élémentaire de glace](/fr/units/Ice Elemental/) | [Gem](/fr/heroes/Gem/) |
+  | 5 | [Élémentaire de mer](/fr/units/Sea Elemental/) | [Monere](/fr/heroes/Monere/) |
+  | 6 | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | [Korbac](/fr/heroes/Korbac/) |
+  | 7 | - | [Ciele](/fr/heroes/Ciele/) |
+  | 8 | - | [Cassanbel](/fr/heroes/Cassanbel/) |
+  | 9 | - | [PeterLee](/fr/heroes/Peter Lee/) |
 
 
 #### Les unités et les Héros frappent les ennemis \"ralentis\" deux fois.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Grand Arbalétrier](/units/Grand Arbalétrier/) | [Adelaïde](/heroes/Adelaïde/) |
-  | 2 | [Spadassin](/units/Spadassin/) | [Gelu](/heroes/Gelu/) |
-  | 3 | [Elfe sylvaine](/units/Elfe sylvaine/) | [PeterLee](/heroes/PeterLee/) |
-  | 4 | [Chevaucheur de loup](/units/Chevaucheur de loup/) | - |
-  | 5 | [Gorgone](/units/Gorgone/) | - |
-  | 6 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Grand Arbalétrier](/fr/units/Marksman/) | [Adelaïde](/fr/heroes/Adelaide/) |
+  | 2 | [Spadassin](/fr/units/Swordsman/) | [Gelu](/fr/heroes/Gelu/) |
+  | 3 | [Elfe sylvaine](/fr/units/Wood Elf/) | [PeterLee](/fr/heroes/Peter Lee/) |
+  | 4 | [Chevaucheur de loup](/fr/units/Wolf Rider/) | - |
+  | 5 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 6 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

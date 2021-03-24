@@ -2,7 +2,7 @@
 title: "Infos combinaison for Peste"
 permalink: /combination/Plague/
 excerpt: "Infos combinaison - Peste. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Peste.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Guêpe serpent](/units/Guêpe serpent/) | - |
-  | 2 | [Homme-lézard](/units/Homme-lézard/) | - |
-  | 3 | [Wivern](/units/Wivern/) | - |
-  | 4 | [Guêpier](/units/Guêpier/) | - |
+  | 1 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |
+  | 2 | [Homme-lézard](/fr/units/Lizardman/) | - |
+  | 3 | [Wivern](/fr/units/Wyvern/) | - |
+  | 4 | [Guêpier](/fr/units/Waspwort/) | - |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis victimes de la <Peste>.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | - |
-  | 2 | [Guêpe serpent](/units/Guêpe serpent/) | - |
-  | 3 | [Wivern](/units/Wivern/) | - |
+  | 1 | [Gorgone](/fr/units/Gorgon/) | - |
+  | 2 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |
+  | 3 | [Wivern](/fr/units/Wyvern/) | - |

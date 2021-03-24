@@ -2,7 +2,7 @@
 title: "Infos combinaison for Pétrification"
 permalink: /combination/Petrify/
 excerpt: "Infos combinaison - Pétrification. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Pétrification.md"
 toc: false
@@ -16,15 +16,15 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Méduse](/units/Méduse/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Basilic](/units/Basilic/) | [Jeddite](/heroes/Jeddite/) |
-  | 3 | - | [Ciele](/heroes/Ciele/) |
-  | 4 | - | [Tazar](/heroes/Tazar/) |
+  | 1 | [Méduse](/fr/units/Medusa/) | [Sephinroth](/fr/heroes/Sephinroth/) |
+  | 2 | [Basilic](/fr/units/Basilisk/) | [Jeddite](/fr/heroes/Jeddite/) |
+  | 3 | - | [Ciele](/fr/heroes/Ciele/) |
+  | 4 | - | [Tazar](/fr/heroes/Tazar/) |
 
 
 #### Les unités et les Héros ont un avantage contre les ennemis \"pétrifiés\".
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Guêpe serpent](/units/Guêpe serpent/) | - |
+  | 1 | [Gorgone](/fr/units/Gorgon/) | [Sephinroth](/fr/heroes/Sephinroth/) |
+  | 2 | [Guêpe serpent](/fr/units/Serpent Fly/) | - |

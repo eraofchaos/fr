@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Élémentaire de glace Exclusif."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Ice Elemental Mélopée des arcanes.md"
 toc: false

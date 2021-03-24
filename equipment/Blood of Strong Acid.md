@@ -2,7 +2,7 @@
 title: "Sang fortement acide"
 permalink: /equipment/Blood of Strong Acid/
 excerpt: "Era of Chaos Sang fortement acide. Sang fortement acide"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: fr
 ref: "Blood of Strong Acid.md"
 toc: false

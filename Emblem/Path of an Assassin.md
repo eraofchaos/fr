@@ -2,7 +2,7 @@
 title: "Emblème sacré - La voie de l'assassin"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos La voie de l'assassin. La voie de l'assassin. Era of Chaos Emblème sacré La voie de l'assassin. Era of Chaos Neutre La voie de l'assassin"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Path of an Assassin.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nom    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +6, PV +3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la pénétration de 90. Augmente également les coups critiques de 200 au début de la bataille pendant 30 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +16, PV +7 %</span> | 
   | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +13, PV +5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la pénétration de 120. Augmente également les coups critiques de 300 au début de la bataille pendant 30 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +30, PV +15 %</span> | 

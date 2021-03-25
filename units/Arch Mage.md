@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Archimage"
 toc: true
@@ -111,7 +111,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Mage augmente sa propre ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet, qui peut se cumuler jusqu'à 20 fois, est permanent tant que la cible ne change pas. Il se réinitialise quand le Mage attaque un nouvel ennemi.</span><span style="color: black">
 
 ### Compétence normale 1 : Ouragan
- **Description:** <span style="color: #645252;font-size:20px">Le Mage invoque une tornade qui emporte une unité ennemie aléatoire située sur la ligne arrière, ce qui l'empêche d'attaquer ou d'utiliser des compétences, et il augmente la résistance aux dégâts de son unité de 100 %. De plus, la tornade inflige <span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée. La tornade et Statique durent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes (la ligne arrière indique l'endroit où se trouve l'unité ennemie au bout de chaque ligne).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le Mage invoque une tornade qui emporte une unité ennemie aléatoire située sur la ligne arrière, ce qui l'empêche d'attaquer ou d'utiliser des compétences, et il réduit la résistance aux dégâts de son unité de 20 %. De plus, la tornade inflige <span style="color: #48b946;font-size:20px">Statique</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée. La tornade et Statique durent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes (la ligne arrière indique l'endroit où se trouve l'unité ennemie au bout de chaque ligne).</span><span style="color: black">
 
 ### Compétence normale 2 : Perte d'énergie
  **Description:** <span style="color: #645252;font-size:20px">Quand des Mages sont sur le champ de bataille, la vitesse de récupération magique du Héros ennemi augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Héros allié lance un sort d'air, le Mage lui rend 2 points de mana.</span><span style="color: black">

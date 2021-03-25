@@ -2,7 +2,7 @@
 title: "Heaume rouillé"
 permalink: /equipment/Rusted Helmet/
 excerpt: "Era of Chaos Heaume rouillé. Heaume rouillé"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Rusted Helmet.md"
 toc: false

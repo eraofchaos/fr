@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal d'âme"
 permalink: /Items/mat_87/
 excerpt: "Era of Chaos  Cristal d'âme"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "mat_87.md"
 toc: false

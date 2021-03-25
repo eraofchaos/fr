@@ -2,7 +2,7 @@
 title: "Emblème sacré - Ailes de Griffon"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Era of Chaos Ailes de Griffon. Ailes de Griffon. Era of Chaos Emblème sacré Ailes de Griffon. Era of Chaos Ordre Ailes de Griffon"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Griffin Wings.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nom    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Ailes de Griffon](/fr/Emblem/Griffin Wings/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +13, DÉF +0,5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente les dégâts des unités déployées de 18 % lorsqu'elles affrontent une cible ayant moins de 50 % de ses PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +30, DÉF +1,5 %</span> | 
   | [Ailes de Griffon](/fr/Emblem/Griffin Wings/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +6, DÉF +0,3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente les dégâts des unités déployées de 9 % lorsqu'elles affrontent une cible ayant moins de 50 % de ses PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +16, DÉF +0,7 %</span> | 

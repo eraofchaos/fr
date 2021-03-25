@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Revenante Exclusif."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Wight Mélopée des arcanes.md"
 toc: false

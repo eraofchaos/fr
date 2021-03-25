@@ -2,7 +2,7 @@
 title: "Couronne de l'esprit stellaire"
 permalink: /equipment/Star Spirit Crown/
 excerpt: "Era of Chaos Couronne de l'esprit stellaire. Couronne de l'esprit stellaire"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Star Spirit Crown.md"
 toc: false

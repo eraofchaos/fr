@@ -3,7 +3,7 @@ title: "Hydre"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Hydre"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Faction :** [Forteresse](/fr/units/Faction Fortress/)
 
- **Race:** Licorne
+ **Race:** Bête divine
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 

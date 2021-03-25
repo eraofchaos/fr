@@ -2,7 +2,7 @@
 title: "Emblème sacré - Envie"
 permalink: /Emblem/Jealousy/
 excerpt: "Era of Chaos Envie. Envie. Era of Chaos Emblème sacré Envie. Era of Chaos Chaos Envie"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Jealousy.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nom    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Envie](/fr/Emblem/Jealousy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +2, PV +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 20 % de chance d'infliger 10 % de dégâts supplémentaires.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +6, PV +2 %</span> | 
   | [Envie](/fr/Emblem/Jealousy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +6, PV +3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 20 % de chance d'infliger 20 % de dégâts supplémentaires.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +16, PV +7 %</span> | 

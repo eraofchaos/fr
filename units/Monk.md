@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Moine"
 toc: true
@@ -110,36 +110,34 @@ toc: true
 ### Capacité ultime: Faveur divine
  **Description:** <span style="color: #645252;font-size:20px">Les Moines rendent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV à l'unité alliée qui a le pourcentage le moins élevé de PV toutes les 17 secondes.</span><span style="color: black">
 
-### Compétence normale 1 : Bénédiction des courageux
- **Description:** <span style="color: #645252;font-size:20px">Lorsque le combat commence, les Moines octroient </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités alliées sur leur chemin pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
+### Compétence normale 1 : null
+ **Description:** 
 
 ### Compétence normale 2 : Méditation
- **Description:** <span style="color: #645252;font-size:20px">Quand les Moines sont sur le champ de bataille, la vitesse de récupération du sort du Héros augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand les Moines sont sur le champ de bataille, la vitesse de récupération du sort du Héros augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 3 : Récupération
- **Description:** <span style="color: #645252;font-size:20px">Les PV des Moines augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et les soins de 50 %.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les PV des Moines augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et les soins de 50 %.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Combat de siège
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### Compétence spéciale de faction II : Résonance défensive
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str5 = "(LEVEL*1.5+2.5)"
-    let str6 = "(LEVEL*0.5+2.5)"
-    let str3 = "LEVEL*0.05+0.25"
-    let str4 = "LEVEL*4+16"
+    let str5 = "(LEVEL*0.5+2.5)"
+    let str3 = "LEVEL*4+16"
+    let str4 = "(LEVEL*1.5+2.5)"
     let str1 = "(LEVEL*15+285)*0.01*ATK"
-    let str2 = "(LEVEL*1+11)"
+    let str2 = "LEVEL*0.05+0.25"
     let res="ERR";
     try {
      res = eval(str5); document.getElementById('str5').textContent = res;
-     res = eval(str6); document.getElementById('str6').textContent = res;
      res = eval(str3); document.getElementById('str3').textContent = res;
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;

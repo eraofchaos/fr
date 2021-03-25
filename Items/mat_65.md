@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes mythiques"
 permalink: /Items/mat_65/
 excerpt: "Era of Chaos  Gemmes mythiques"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "mat_65.md"
 toc: false

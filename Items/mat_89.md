@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai stellaire"
 permalink: /Items/mat_89/
 excerpt: "Era of Chaos  Minerai stellaire"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "mat_89.md"
 toc: false

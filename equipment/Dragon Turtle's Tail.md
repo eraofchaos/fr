@@ -2,7 +2,7 @@
 title: "Queue de Tortue dragon"
 permalink: /equipment/Dragon Turtle's Tail/
 excerpt: "Era of Chaos Queue de Tortue dragon. Queue de Tortue dragon"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Dragon Turtle's Tail.md"
 toc: false

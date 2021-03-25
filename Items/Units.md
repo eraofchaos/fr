@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Units.md"
 toc: false
@@ -104,7 +104,7 @@ classes: wide
   | 90 | [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Griffon sanctifié. |
   | 91 | [Pierre d'âme de Guerrier Gnoll](/fr/Items/unt_336/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Guerrier Gnoll. |
   | 92 | [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Guerrier squelette. |
-  | 93 | [Pierre d'âme de Guêpe serpent pestilentielle](/fr/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de la Guêpe serpent pestilentielle. |
+  | 93 | [Pierre d'âme de Guêpe serpent pestilentielle](/fr/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de la Guêpe dragon. |
   | 94 | [Pierre d'âme de Génie](/fr/Items/unt_324/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Génie. |
   | 95 | [Pierre d'âme de Hallebardier](/fr/Items/unt_282/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Hallebardier. |
   | 96 | [Pierre d'âme de Harpie sinistre](/fr/Items/unt_329/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de la Harpie sinistre. |
@@ -152,7 +152,7 @@ classes: wide
   | 138 | [Squelette](/fr/Items/unt_208/){: .btn .btn--era3} | Unit Soul | Une fois 10 jetons d'âme accumulés, vous pouvez invoquer un Squelette, unité d'aptitude R. |
   | 139 | [Tool_3209](/fr/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 140 | [Tool_3509](/fr/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 141 | [Tool_3709](/fr/Items/unt_252/){: .btn .btn--era6} | Unit Soul |  |
+  | 141 | [Tool_3709](/fr/Items/unt_252/){: .btn .btn--era6} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Sorcière maléfique. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Sorcières maléfiques. |
   | 142 | [Tool_3809](/fr/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 143 | [Tool_94601](/fr/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
   | 144 | [Tool_94602](/fr/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |

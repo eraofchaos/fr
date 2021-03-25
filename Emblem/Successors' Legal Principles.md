@@ -2,7 +2,7 @@
 title: "Emblème sacré - Droits des successeurs"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Era of Chaos Droits des successeurs. Droits des successeurs. Era of Chaos Emblème sacré Droits des successeurs. Era of Chaos Neutre Droits des successeurs"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Successors' Legal Principles.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nom    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Droits des successeurs](/fr/Emblem/Successors' Legal Principles/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; PV +1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la DÉF de 1 % et la ténacité de 100. Octroie un bonus de 150 en ténacité au début du combat, qui s'épuise au bout de 30 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; PV +2 %, DÉF des Emblèmes sacrés +6</span> | 
   | [Droits des successeurs](/fr/Emblem/Successors' Legal Principles/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; PV +3 %, DÉF des Emblèmes sacrés +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente la DÉF de 3 % et la ténacité de 200. Octroie un bonus de 300 en ténacité au début du combat, qui s'épuise au bout de 30 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; PV +7 %, DÉF des Emblèmes sacrés +16</span> | 

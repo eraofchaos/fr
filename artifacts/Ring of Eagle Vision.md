@@ -2,7 +2,7 @@
 title: "Artefact - Œil de faucon vivant - Anneau de vue perçante"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Era of Chaos  Œil de faucon vivant - Anneau de vue perçante. Un anneau secret orné d'yeux. Composant de l'Œil de faucon vivant."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Ring of Eagle Vision.md"
 toc: false

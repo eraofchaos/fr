@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 14  Semaine de la Nécropole
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Apr** | **3x [Squelette](/fr/Items/unt_208/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
+  | **6 Apr** | **3x [Trépassé](/fr/Items/unt_209/)**  | Une escouade de Trépassés a rejoint votre armée et vous renforce ! |
+  | **7 Apr** | **100x <i class="fas fa-gem"/>**  | Vos troupes ont trouvé un certain nombre de trésors dans l'ancien tombeau en ruine ! |
+  | **8 Apr** | **2x [Vampire](/fr/Items/unt_211/)**  | Une escouade de Vampires a rejoint votre armée et vous renforce ! |
+  | **9 Apr** | **2x [Revenante](/fr/Items/unt_210/)**  | Une escouade de Revenantes a rejoint votre armée et vous renforce ! |
+  | **10 Apr** | **5x [Coffre (Nécropole)](/fr/Items/con_1271/)**  | Vos unités de la Nécropole vous ont apporté de nombreux coffres au trésor ! |
+  | **11 Apr** | **3x [Vidomina](/fr/Items/her_372/)**  | Vos guerriers Non-Morts intéressent Vidomina. Elle souhaite rejoindre votre équipe ! |
+
 
 #### 2021 Week 13  Semaine du Donjon
 

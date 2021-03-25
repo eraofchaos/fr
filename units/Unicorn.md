@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Licorne"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
- **Race:** Licorne
+ **Race:** Bête divine
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 

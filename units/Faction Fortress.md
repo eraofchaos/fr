@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "Era of Chaos Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Faction Fortress"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | [Tigre blanc](/fr/units/White Tiger/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 2 | [Gnoll](/fr/units/Gnoll/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrier Gnoll  |
   | 3 | [Homme-lézard](/fr/units/Lizardman/) | À distance | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
-  | 4 | [Guêpe serpent](/fr/units/Serpent Fly/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 4 | [Guêpe serpent](/fr/units/Serpent Fly/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Guêpe dragon  |
   | 5 | [Basilic](/fr/units/Basilisk/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 6 | [Gorgone](/fr/units/Gorgon/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Grande Gorgone  |
   | 7 | [Wivern](/fr/units/Wyvern/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Monarque Wivern  |

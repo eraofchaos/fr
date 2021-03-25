@@ -2,7 +2,7 @@
 title: "Sceptre divin de l'âme de l'océan"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "Era of Chaos Sceptre divin de l'âme de l'océan. Sceptre divin de l'âme de l'océan"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Balafre tourbillonnante"
 permalink: /equipment/Vortex Scar/
 excerpt: "Era of Chaos Balafre tourbillonnante. Balafre tourbillonnante"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Vortex Scar.md"
 toc: false

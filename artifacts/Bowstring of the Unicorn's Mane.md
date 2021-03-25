@@ -2,7 +2,7 @@
 title: "Artefact - Arc du tireur d'élite - Corde Immaculée"
 permalink: /artifacts/Bowstring of the Unicorn's Mane/
 excerpt: "Era of Chaos  Arc du tireur d'élite - Corde Immaculée. Une crinière offerte aux Elfes par une bête sacrée. Composant de l'Arc du tireur d'élite."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Bowstring of the Unicorn's Mane.md"
 toc: false

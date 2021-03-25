@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !"
 unitID: 909
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Farfadet"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
- **Race:** Licorne
+ **Race:** Bête divine
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 

@@ -2,7 +2,7 @@
 title: "Adjudant Monere"
 permalink: /heroes/Adjutant Monere/
 excerpt: "Era of Chaos  Adjudant Monere"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Adjutant Monere.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Emblème sacré - Roue du temps"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Roue du temps. Roue du temps. Era of Chaos Emblème sacré Roue du temps. Era of Chaos Bonté Roue du temps"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Gear of Time.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nom    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Roue du temps](/fr/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +15 %, DÉF des Emblèmes sacrés +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2,5 % tous les 5 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +37,5, DÉF des Emblèmes sacrés +37,5</span> | 
   | [Roue du temps](/fr/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +9 %, DÉF des Emblèmes sacrés +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La DÉF des unités déployées augmente de 2 % tous les 7 % de PV perdus.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +22,5, DÉF des Emblèmes sacrés +22,5</span> | 

@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Guêpe serpent"
 toc: true
@@ -193,40 +193,40 @@ toc: true
 
 ## Awaking
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Guêpe dragon
 
- **Awaking Description:** null
+ **Awaking Description:** Dans un monde régi par la loi de la jungle, l'arsenal des Guêpes serpents ne cesse d'évoluer. Plus leurs épines sont acérées, plus leur poison devient mortel. Ce sont des prédateurs terrifiants, et les maîtres des Terres boueuses.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Déployez une Guêpe serpent et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités de la Forteresse pour réussir 1 fois le niveau Impitoyable ou un niveau supérieur de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ressources pendant une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Guêpe dragon dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Déployez une Guêpe serpent et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités de la Forteresse pour remporter 3 batailles dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Forme de peste
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Peste des marais&gt;</span><span style="color: #645252;font-size:18px"> Augmente les dégâts subis par la cible de 50 %. Si l'unité cible est victime de Pétrification, sa résistance aux dégâts est réduite de 20 %. Dure 6 secondes.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): Forme pestilentielle
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Peste des marais&gt;</span><span style="color: #645252;font-size:18px"> Augmente les dégâts subis par la cible de 50 %. Si l'unité cible est victime de Pétrification, ses dégâts sont réduits de 20 %. Dure 6 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): Souffle fétide
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mouches ambiantes&gt;</span><span style="color: #645252;font-size:18px">Double l'augmentation de la vitesse d'attaque de la Guêpe serpent.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Puissance du marais
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mouches ambiantes&gt;</span><span style="color: #645252;font-size:18px">Double l'augmentation du coup critique de la Guêpe serpent.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Pouvoir dissipé
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Faiblesse&gt;</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts des unités à portée de 5 % supplémentaires et leur ténacité de 80 points supplémentaires. Dure 10 secondes et peut se cumuler jusqu'à 3 fois.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Énergie épuisée
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Faiblesse&gt;</span><span style="color: #645252;font-size:18px"> Réduit la défense des unités à portée de 5 % supplémentaires et leur esquive de 80 points supplémentaires. Dure 10 secondes et peut se cumuler jusqu'à 3 fois.</span>
 
 ## Technical info
  **runart:** 0

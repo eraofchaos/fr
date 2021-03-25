@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche - Couronne croc de Dragon"
 permalink: /artifacts/Crown of Dragontooth/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche - Couronne croc de Dragon. Un casque fait de dents de dragon. Composant de la Puissance du Dragon patriarche."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Crown of Dragontooth.md"
 toc: false

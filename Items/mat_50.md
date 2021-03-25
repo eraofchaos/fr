@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre fantastique"
 permalink: /Items/mat_50/
 excerpt: "Era of Chaos  Soufre fantastique"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "mat_50.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois de bonne qualité"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Bois de bonne qualité"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "mat_13.md"
 toc: false

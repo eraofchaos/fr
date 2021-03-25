@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Pendentif de pureté"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "Era of Chaos  Alliance angélique - Pendentif de pureté. Le collier d'un Ange. Composant de l'Alliance angélique."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Pendant of Holiness.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Mante religieuse"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ses gigantesques lames, tranchantes comme des rasoirs, témoignent de sa fierté de créature légendaire. Les elfes de Vori ont conféré à la Mante religieuse une vitalité de fer inébranlable."
 unitID: 209
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Mante religieuse"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Faction :** [Rempart](/fr/units/Faction Rampart/)
 
- **Race:** Licorne
+ **Race:** Bête divine
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 

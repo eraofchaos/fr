@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Lutin Exclusif."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Gremlin Arc long.md"
 toc: false

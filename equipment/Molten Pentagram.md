@@ -2,7 +2,7 @@
 title: "Pentagramme en fusion"
 permalink: /equipment/Molten Pentagram/
 excerpt: "Era of Chaos Pentagramme en fusion. Pentagramme en fusion"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Molten Pentagram.md"
 toc: false

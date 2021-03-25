@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal précieux"
 permalink: /Items/mat_31/
 excerpt: "Era of Chaos  Cristal précieux"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "mat_31.md"
 toc: false

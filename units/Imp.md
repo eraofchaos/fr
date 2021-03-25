@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Diablotin"
 toc: true

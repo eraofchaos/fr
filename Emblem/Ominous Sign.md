@@ -2,7 +2,7 @@
 title: "Emblème sacré - Signe inquiétant"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Era of Chaos Signe inquiétant. Signe inquiétant. Era of Chaos Emblème sacré Signe inquiétant. Era of Chaos Mauvais Signe inquiétant"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Ominous Sign.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nom    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Signe inquiétant](/fr/Emblem/Ominous Sign/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +0,1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées essaient d'esquiver, elles ont 15 % de chance de récupérer 2 % de leurs PV max. Le temps de recharge est de 4 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +0,2 %, DÉF des Emblèmes sacrés +6</span> | 
   | [Signe inquiétant](/fr/Emblem/Ominous Sign/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +0,3 %, DÉF des Emblèmes sacrés +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées essaient d'esquiver, elles ont 15 % de chance de récupérer 4 % de leurs PV max. Le temps de recharge est de 4 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +0,7 %, DÉF des Emblèmes sacrés +16</span> | 

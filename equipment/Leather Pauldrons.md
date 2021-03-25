@@ -2,7 +2,7 @@
 title: "Épaulières en cuir"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Era of Chaos Épaulières en cuir. Épaulières en cuir"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Leather Pauldrons.md"
 toc: false

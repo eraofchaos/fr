@@ -2,7 +2,7 @@
 title: "Adjudant Roland"
 permalink: /heroes/Adjutant Roland/
 excerpt: "Era of Chaos  Adjudant Roland"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Adjutant Roland.md"
 toc: false

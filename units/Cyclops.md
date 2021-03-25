@@ -3,7 +3,7 @@ title: "Cyclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Cyclope"
 toc: true

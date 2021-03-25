@@ -2,7 +2,7 @@
 title: "Pantalon de marin"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Era of Chaos Pantalon de marin. Pantalon de marin"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Sailor's Pants.md"
 toc: false

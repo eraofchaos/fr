@@ -2,7 +2,7 @@
 title: "Emblème sacré - Illumination des ténèbres"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Illumination des ténèbres. Illumination des ténèbres. Era of Chaos Emblème sacré Illumination des ténèbres. Era of Chaos Mauvais Illumination des ténèbres"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Darkness Enlightenment.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordre](/fr/Emblem/Type Order/){: .btn .btn--warning}   [Bonté](/fr/Emblem/Type Goodness/){: .btn .btn--success}   [Neutre](/fr/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/fr/Emblem/Type Chaos/){: .btn .btn--danger}   [Mauvais](/fr/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nom            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nom    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Illumination des ténèbres](/fr/Emblem/Darkness Enlightenment/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés + 2, ATQ +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; À chaque fois que l'unité déployée attaque, elle a 30 % de chance de diminuer la résistance aux dégâts de la cible de 1 %. Cet effet dure 3 secondes et peut se cumuler jusqu'à 5 fois. (Un ensemble d'Emblèmes sacrés de haute qualité couvre les effets d'un ensemble de moindre qualité.)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +6, ATQ +2 %</span> | 
   | [Illumination des ténèbres](/fr/Emblem/Darkness Enlightenment/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +6, ATQ +3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; À chaque fois que l'unité déployée attaque, elle a 35 % de chance de diminuer la résistance aux dégâts de la cible de 1 %. Cet effet dure 3 secondes et peut se cumuler jusqu'à 10 fois. (Un ensemble d'Emblèmes sacrés de haute qualité couvre les effets d'un ensemble de moindre qualité.)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +16, ATQ +7 %</span> | 

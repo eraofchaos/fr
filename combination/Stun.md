@@ -2,7 +2,7 @@
 title: "Infos combinaison for Étourdissement"
 permalink: /combination/Stun/
 excerpt: "Infos combinaison - Étourdissement. Units and Heroes Formation."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Étourdissement.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Heaume spirituel"
 permalink: /equipment/Thunder Helmet/
 excerpt: "Era of Chaos Heaume spirituel. Heaume spirituel"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Thunder Helmet.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ceinture de Gorgone"
 permalink: /equipment/Gorgon Belt/
 excerpt: "Era of Chaos Ceinture de Gorgone. Ceinture de Gorgone"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: fr
 ref: "Gorgon Belt.md"
 toc: false

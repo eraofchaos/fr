@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem est la plus puissante des sorcières d'Enroth. Elle a combattu pour Roland Ironfist dans les deux guerres. Une fois Roland couronné, elle s'est installée à Erathia."
 heroID: 60304
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: fr
 ref: "Gem"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Rempart
 
  **Rate:** SSR
+
+ **User Rate:** SSR
 
  **Specialty:** Guérison naturelle
 

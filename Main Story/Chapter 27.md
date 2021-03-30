@@ -1,7 +1,7 @@
 ---
-title: "Histoire principale - Chapitre 27"
+title: "Histoire principale - Chapitre 27 Sang du Dragon patriarche"
 permalink: /Main Story/Chapter 27/
-excerpt: "Chapitre 27. Era of Chaos  Histoire principale - Chapitre 27."
+excerpt: "Chapitre 27. Era of Chaos  Histoire principale - Chapitre 27. Sang du Dragon patriarche"
 last_modified_at: 2021-03-30
 locale: fr
 ref: "Chapter 27.md"

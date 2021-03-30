@@ -19,7 +19,7 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 1](/fr/Main Story/Chapter 1/) | TBD | 
+  | [Chapitre 1](/fr/Main Story/Chapter 1/) | Île d'Evenmorn | 
 
 
 ## Le retour de la Reine: Chapitre 2 - Chapitre 4
@@ -34,9 +34,9 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 2](/fr/Main Story/Chapter 2/) | TBD | 
-  | [Chapitre 3](/fr/Main Story/Chapter 3/) | TBD | 
-  | [Chapitre 4](/fr/Main Story/Chapter 4/) | TBD | 
+  | [Chapitre 2](/fr/Main Story/Chapter 2/) | Le retour de la Reine | 
+  | [Chapitre 3](/fr/Main Story/Chapter 3/) | Ange gardien | 
+  | [Chapitre 4](/fr/Main Story/Chapter 4/) | Falaises des Griffons | 
 
 
 ## Légion infernale: Chapitre 5 - Chapitre 8
@@ -51,10 +51,10 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 5](/fr/Main Story/Chapter 5/) | TBD | 
-  | [Chapitre 6](/fr/Main Story/Chapter 6/) | TBD | 
-  | [Chapitre 7](/fr/Main Story/Chapter 7/) | TBD | 
-  | [Chapitre 8](/fr/Main Story/Chapter 8/) | TBD | 
+  | [Chapitre 5](/fr/Main Story/Chapter 5/) | Byrd | 
+  | [Chapitre 6](/fr/Main Story/Chapter 6/) | À l'aube du changement | 
+  | [Chapitre 7](/fr/Main Story/Chapter 7/) | Erathia | 
+  | [Chapitre 8](/fr/Main Story/Chapter 8/) | Les régions frontalières | 
 
 
 ## Bataille de frontière: Chapitre 9 - Chapitre 12
@@ -69,10 +69,10 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 9](/fr/Main Story/Chapter 9/) | TBD | 
-  | [Chapitre 10](/fr/Main Story/Chapter 10/) | TBD | 
-  | [Chapitre 11](/fr/Main Story/Chapter 11/) | TBD | 
-  | [Chapitre 12](/fr/Main Story/Chapter 12/) | TBD | 
+  | [Chapitre 9](/fr/Main Story/Chapter 9/) | Les Terres du chaos | 
+  | [Chapitre 10](/fr/Main Story/Chapter 10/) | Les marécages | 
+  | [Chapitre 11](/fr/Main Story/Chapter 11/) | Tatalia | 
+  | [Chapitre 12](/fr/Main Story/Chapter 12/) | Mer de glace | 
 
 
 ## Renforts magiques: Chapitre 13 - Chapitre 15
@@ -87,9 +87,9 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 13](/fr/Main Story/Chapter 13/) | TBD | 
-  | [Chapitre 14](/fr/Main Story/Chapter 14/) | TBD | 
-  | [Chapitre 15](/fr/Main Story/Chapter 15/) | TBD | 
+  | [Chapitre 13](/fr/Main Story/Chapter 13/) | Le jour et la nuit | 
+  | [Chapitre 14](/fr/Main Story/Chapter 14/) | Passage sûr | 
+  | [Chapitre 15](/fr/Main Story/Chapter 15/) | Un front uni | 
 
 
 ## La vengeance d'Avlee: Chapitre 16 - Chapitre 18
@@ -104,9 +104,9 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 16](/fr/Main Story/Chapter 16/) | TBD | 
-  | [Chapitre 17](/fr/Main Story/Chapter 17/) | TBD | 
-  | [Chapitre 18](/fr/Main Story/Chapter 18/) | TBD | 
+  | [Chapitre 16](/fr/Main Story/Chapter 16/) | Pour le Roi et la nation | 
+  | [Chapitre 17](/fr/Main Story/Chapter 17/) | La libération de l'Empire | 
+  | [Chapitre 18](/fr/Main Story/Chapter 18/) | Pacte avec le diable | 
 
 
 ## Puissance et magie: Chapitre 19 - Chapitre 21
@@ -121,9 +121,9 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 19](/fr/Main Story/Chapter 19/) | TBD | 
-  | [Chapitre 20](/fr/Main Story/Chapter 20/) | TBD | 
-  | [Chapitre 21](/fr/Main Story/Chapter 21/) | TBD | 
+  | [Chapitre 19](/fr/Main Story/Chapter 19/) | Affaires neutres | 
+  | [Chapitre 20](/fr/Main Story/Chapter 20/) | Tunnels et Troglodytes | 
+  | [Chapitre 21](/fr/Main Story/Chapter 21/) | Le Graal | 
 
 
 ## Tueur de Dragons: Chapitre 22 - Chapitre 24
@@ -138,9 +138,9 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 22](/fr/Main Story/Chapter 22/) | TBD | 
-  | [Chapitre 23](/fr/Main Story/Chapter 23/) | TBD | 
-  | [Chapitre 24](/fr/Main Story/Chapter 24/) | TBD | 
+  | [Chapitre 22](/fr/Main Story/Chapter 22/) | Dragon de cristal | 
+  | [Chapitre 23](/fr/Main Story/Chapter 23/) | Dragon corrosif | 
+  | [Chapitre 24](/fr/Main Story/Chapter 24/) | Dragon féérique | 
 
 
 ## Sang de Dragon: Chapitre 25 - Chapitre 27
@@ -155,9 +155,9 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [Chapitre 25](/fr/Main Story/Chapter 25/) | TBD | 
-  | [Chapitre 26](/fr/Main Story/Chapter 26/) | TBD | 
-  | [Chapitre 27](/fr/Main Story/Chapter 27/) | TBD | 
+  | [Chapitre 25](/fr/Main Story/Chapter 25/) | Loi de la jungle | 
+  | [Chapitre 26](/fr/Main Story/Chapter 26/) | Commandement prolongé | 
+  | [Chapitre 27](/fr/Main Story/Chapter 27/) | Sang du Dragon patriarche | 
 
 
 ## Voie de l'aube: Chapitre 28 - Chapitre 30
@@ -172,8 +172,8 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [](/fr/Main Story/Chapter 28/) | TBD | 
-  | [](/fr/Main Story/Chapter 29/) | TBD | 
-  | [](/fr/Main Story/Chapter 30/) | TBD | 
+  | [](/fr/Main Story/Chapter 28/) | Tunnels et Troglodytes | 
+  | [](/fr/Main Story/Chapter 29/) |  | 
+  | [](/fr/Main Story/Chapter 30/) |  | 
 
 

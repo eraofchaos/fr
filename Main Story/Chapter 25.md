@@ -1,7 +1,7 @@
 ---
-title: "Histoire principale - Chapitre 25"
+title: "Histoire principale - Chapitre 25 Loi de la jungle"
 permalink: /Main Story/Chapter 25/
-excerpt: "Chapitre 25. Era of Chaos  Histoire principale - Chapitre 25."
+excerpt: "Chapitre 25. Era of Chaos  Histoire principale - Chapitre 25. Loi de la jungle"
 last_modified_at: 2021-03-30
 locale: fr
 ref: "Chapter 25.md"

@@ -1,7 +1,7 @@
 ---
-title: "Histoire principale - Chapitre 21"
+title: "Histoire principale - Chapitre 21 Le Graal"
 permalink: /Main Story/Chapter 21/
-excerpt: "Chapitre 21. Era of Chaos  Histoire principale - Chapitre 21."
+excerpt: "Chapitre 21. Era of Chaos  Histoire principale - Chapitre 21. Le Graal"
 last_modified_at: 2021-03-30
 locale: fr
 ref: "Chapter 21.md"

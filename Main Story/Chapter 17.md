@@ -1,7 +1,7 @@
 ---
-title: "Histoire principale - Chapitre 17"
+title: "Histoire principale - Chapitre 17 La libération de l'Empire"
 permalink: /Main Story/Chapter 17/
-excerpt: "Chapitre 17. Era of Chaos  Histoire principale - Chapitre 17."
+excerpt: "Chapitre 17. Era of Chaos  Histoire principale - Chapitre 17. La libération de l'Empire"
 last_modified_at: 2021-03-30
 locale: fr
 ref: "Chapter 17.md"

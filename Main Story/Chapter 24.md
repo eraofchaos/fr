@@ -1,7 +1,7 @@
 ---
-title: "Histoire principale - Chapitre 24"
+title: "Histoire principale - Chapitre 24 Dragon féérique"
 permalink: /Main Story/Chapter 24/
-excerpt: "Chapitre 24. Era of Chaos  Histoire principale - Chapitre 24."
+excerpt: "Chapitre 24. Era of Chaos  Histoire principale - Chapitre 24. Dragon féérique"
 last_modified_at: 2021-03-30
 locale: fr
 ref: "Chapter 24.md"

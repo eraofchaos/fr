@@ -1,0 +1,29 @@
+---
+title: "Histoire principale - Chapitre 23 - 23-13 Protéger le trésor"
+permalink: /Main Story/Chapter 23_13/
+excerpt: "Chapitre 23 - 13. Era of Chaos  Histoire principale - Chapitre 23_13. 23-13 Protéger le trésor"
+last_modified_at: 2021-03-30
+locale: fr
+ref: "Chapter 23_13.md"
+toc: false
+classes: wide
+---
+
+## Détails
+
+ **Nom:** 23-13 Protéger le trésor
+
+ **Description:** La plupart des Dragons sont les gardiens de nombreux trésors, mais les Dragons corrosifs, eux, sont les gardiens de tas de ferraille. Ce doit être la raison pour laquelle les guerriers les chassent si peu.
+
+ **Related to:** [Chapitre 23](/fr/Main Story/Chapter 23/)
+
+## Récompense
+
+ **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+
+ **Drop 1:** **100% 1x** [Soufre mystérieux](/fr/Items/mat_78/){: .btn .btn--era5}
+
+ **Drop 2:** **60% 0x** [Minerai éternel](/fr/Items/mat_68/){: .btn .btn--era5}, **40% 1x** [Minerai éternel](/fr/Items/mat_68/){: .btn .btn--era5}
+
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+

@@ -1,0 +1,29 @@
+---
+title: "Histoire principale - Chapitre 24 - 24-12 Une cité vide de Dragons"
+permalink: /Main Story/Chapter 24_12/
+excerpt: "Chapitre 24 - 12. Era of Chaos  Histoire principale - Chapitre 24_12. 24-12 Une cité vide de Dragons"
+last_modified_at: 2021-03-30
+locale: fr
+ref: "Chapter 24_12.md"
+toc: false
+classes: wide
+---
+
+## Détails
+
+ **Nom:** 24-12 Une cité vide de Dragons
+
+ **Description:** Vous tombez sur un château vide. Votre éclaireur vous a indiqué qu'il s'agissait autrefois de l'antre d'un Dragon féérique. Maintenant que le Dragon est parti, ce château n'appartient plus à personne.
+
+ **Related to:** [Chapitre 24](/fr/Main Story/Chapter 24/)
+
+## Récompense
+
+ **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+
+ **Drop 1:** **100% 1x** [Cristal d'âme](/fr/Items/mat_87/){: .btn .btn--era5}
+
+ **Drop 2:** **60% 0x** [Gemmes mystérieuses](/fr/Items/mat_79/){: .btn .btn--era5}, **40% 1x** [Gemmes mystérieuses](/fr/Items/mat_79/){: .btn .btn--era5}
+
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+

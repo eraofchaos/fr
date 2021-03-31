@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for October 2021"
 permalink: /FactionAltar/Faction Altar October_2021/
 excerpt: "Era of Chaos  Faction Altar for October 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Faction Altar October_2021.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
   |    Date    |  Race  |  Détails  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 27 Sep - 4 Oct | **Donjon** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_107/) | [Pierre d'âme de Troglodyte des ténèbres](/fr/Items/unt_328/), [Pierre d'âme de Roi Minotaure](/fr/Items/unt_332/), [Pierre d'âme de Roi Dragon noir](/fr/Items/unt_334/) | [Troglodyte](/fr/Items/unt_244/), [Harpie](/fr/Items/unt_245/), [Minotaure](/fr/Items/unt_248/), [Dragon noir](/fr/Items/unt_250/), [Dragon rouge](/fr/Items/unt_251/) | 
+  | 27 Sep - 4 Oct | **Crique** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_112/) |  - | [Pirates de Regna](/fr/Items/unt_273/), [Arbalétrière de Regna](/fr/Items/unt_274/), [Élémentaire de mer](/fr/Items/unt_275/), [Tortue dragon](/fr/Items/unt_278/), [Dompteur de requins](/fr/Items/unt_281/) | 
   | 4 - 11 Oct | **Nécropole** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_104/) | [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/), [Pierre d'âme de Zombie](/fr/Items/unt_298/), [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/), [Pierre d'âme de Dragon fantôme](/fr/Items/unt_303/) | [Squelette](/fr/Items/unt_208/), [Trépassé](/fr/Items/unt_209/), [Revenante](/fr/Items/unt_210/), [Vampire](/fr/Items/unt_211/), [Dragon squelette](/fr/Items/unt_214/) | 
   | 11 - 18 Oct | **Conflux** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_109/) | [Pierre d'âme de Rage foudroyante](/fr/Items/unt_344/), [Pierre d'âme d'Esprit de la neige silencieux](/fr/Items/unt_345/), [Pierre d'âme d'Élémentaire de magie](/fr/Items/unt_347/), [Pierre d'âme de Phoenix](/fr/Items/unt_348/) | [Fée](/fr/Items/unt_262/), [Élémentaire de tempête](/fr/Items/unt_263/), [Élémentaire de glace](/fr/Items/unt_264/), [Élémentaire de l'esprit](/fr/Items/unt_267/), [Oiseau de feu](/fr/Items/unt_268/), [Farfadet](/fr/Items/unt_270/) | 
   | 18 - 25 Oct | **Bastion** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_103/) | [Pierre d'âme de Hobgobelin](/fr/Items/unt_305/), [Pierre d'âme de Pillard](/fr/Items/unt_306/), [Pierre d'âme de Commandant Orque](/fr/Items/unt_307/), [Pierre d'âme d'Ogre Mage](/fr/Items/unt_308/), [Pierre d'âme de Rock foudroyant](/fr/Items/unt_309/), [Pierre d'âme de Roi Cyclope](/fr/Items/unt_310/), [Pierre d'âme de Béhémoth royal](/fr/Items/unt_311/) | [Gobelin](/fr/Items/unt_217/), [Chevaucheur de loup](/fr/Items/unt_218/), [Orque](/fr/Items/unt_219/), [Ogre](/fr/Items/unt_220/), [Rock](/fr/Items/unt_221/), [Cyclope](/fr/Items/unt_222/), [Béhémoth](/fr/Items/unt_223/), [Berserker](/fr/Items/unt_224/) | 

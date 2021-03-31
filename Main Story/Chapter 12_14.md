@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-14 Sur la trace des Non-Morts"
 permalink: /Main Story/Chapter 12_14/
 excerpt: "Chapitre 12 - 14. Era of Chaos  Histoire principale - Chapitre 12_14. 12-14 Sur la trace des Non-Morts"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 12_14.md"
 toc: false

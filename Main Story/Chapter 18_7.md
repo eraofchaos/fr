@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-7 Le chant des poètes"
 permalink: /Main Story/Chapter 18_7/
 excerpt: "Chapitre 18 - 7. Era of Chaos  Histoire principale - Chapitre 18_7. 18-7 Le chant des poètes"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 18_7.md"
 toc: false

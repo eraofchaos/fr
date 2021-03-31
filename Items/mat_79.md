@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes mystérieuses"
 permalink: /Items/mat_79/
 excerpt: "Era of Chaos  Gemmes mystérieuses"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "mat_79.md"
 toc: false

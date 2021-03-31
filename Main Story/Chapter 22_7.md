@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-7 Le langage des Dragons"
 permalink: /Main Story/Chapter 22_7/
 excerpt: "Chapitre 22 - 7. Era of Chaos  Histoire principale - Chapitre 22_7. 22-7 Le langage des Dragons"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 22_7.md"
 toc: false

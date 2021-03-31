@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-4 La famille du gardien des Dragons"
 permalink: /Main Story/Chapter 25_4/
 excerpt: "Chapitre 25 - 4. Era of Chaos  Histoire principale - Chapitre 25_4. 25-4 La famille du gardien des Dragons"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 25_4.md"
 toc: false

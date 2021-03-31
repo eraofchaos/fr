@@ -2,7 +2,7 @@
 title: "Armure miraculeuse"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Era of Chaos Armure miraculeuse. Armure miraculeuse"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Armor of Wonder.md"
 toc: false

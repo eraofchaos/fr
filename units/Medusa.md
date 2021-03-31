@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Méduse"
 toc: true
@@ -80,7 +80,7 @@ toc: true
 
  **Nom:** [Arc de la Méduse](/fr/Exclusive/Medusa Medusa's Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Arc de la Méduse](/fr/Items/con_991/)
 

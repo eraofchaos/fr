@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois éternel"
 permalink: /Items/mat_69/
 excerpt: "Era of Chaos  Bois éternel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "mat_69.md"
 toc: false

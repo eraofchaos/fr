@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai légendaire"
 permalink: /Items/mat_54/
 excerpt: "Era of Chaos  Minerai légendaire"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "mat_54.md"
 toc: false

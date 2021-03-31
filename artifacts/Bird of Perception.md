@@ -2,7 +2,7 @@
 title: "Artefact - Œil de faucon vivant - Oiseau moqueur"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Era of Chaos  Œil de faucon vivant - Oiseau moqueur. Une sculpture d'oiseau enchantée par une sorcière. Composant de l'Œil de faucon vivant."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Bird of Perception.md"
 toc: false

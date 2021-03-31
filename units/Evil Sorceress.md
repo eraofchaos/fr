@@ -3,7 +3,7 @@ title: "Sorcière maléfique"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons."
 unitID: 709
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Sorcière maléfique"
 toc: true
@@ -35,45 +35,45 @@ toc: true
  **Position :** Renvoie les sorts. Bonus de domaine.
 
 ## Stats de base
- **Base HP: 5770.0**
+ **Base HP: 6000.0**
 
- **Base ATK: 633.6**
+ **Base ATK: 550.0**
 
  **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Vert | 316.8 | 12.0 | 4327.5 |
-  | Bleu | 633.6 | 24.0 | 8655.0 |
-  | Bleu +1 | 950.4 | 36.0 | 12982.5 |
-  | Bleu +2 | 1330.56 | 50.4 | 18175.5 |
-  | Violet | 1710.72 | 64.8 | 23368.5 |
-  | Violet +1 | 2090.88 | 79.2 | 28561.5 |
-  | Violet +2 | 2534.4 | 96.0 | 34620.0 |
-  | Violet +3 | 2977.92 | 112.8 | 40678.5 |
-  | Orange | 3421.44 | 129.6 | 46737.0 |
-  | Orange +1 | 3928.32 | 148.8 | 53661.0 |
-  | Orange +2 | 4435.2 | 168.0 | 60585.0 |
-  | Orange +3 | 4942.08 | 187.2 | 67509.0 |
-  | Orange +4 | 5448.96 | 206.4 | 74433.0 |
-  | Orange +5 | 6209.28 | 235.2 | 84819.0 |
-  | Rouge | 7223.04 | 273.6 | 98667.0 |
+  | Vert | 275.0 | 13.0 | 4500.0 |
+  | Bleu | 550.0 | 26.0 | 9000.0 |
+  | Bleu +1 | 825.0 | 39.0 | 13500.0 |
+  | Bleu +2 | 1155.0 | 54.6 | 18900.0 |
+  | Violet | 1485.0 | 70.2 | 24300.0 |
+  | Violet +1 | 1815.0 | 85.8 | 29700.0 |
+  | Violet +2 | 2200.0 | 104.0 | 36000.0 |
+  | Violet +3 | 2585.0 | 122.2 | 42300.0 |
+  | Orange | 2970.0 | 140.4 | 48600.0 |
+  | Orange +1 | 3410.0 | 161.2 | 55800.0 |
+  | Orange +2 | 3850.0 | 182.0 | 63000.0 |
+  | Orange +3 | 4290.0 | 202.8 | 70200.0 |
+  | Orange +4 | 4730.0 | 223.6 | 77400.0 |
+  | Orange +5 | 5390.0 | 254.8 | 88200.0 |
+  | Rouge | 6270.0 | 296.4 | 102600.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
-  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
-  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
-  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
+  | **3x** <i class="fas fa-star"/> | 77.0 | 0.55 | 6.72 | 840.0 |
+  | **4x** <i class="fas fa-star"/> | 88.0 | 0.58 | 7.48 | 960.0 |
+  | **5x** <i class="fas fa-star"/> | 99.0 | 0.6 | 8.24 | 1080.0 |
+  | **6x** <i class="fas fa-star"/> | 110.0 | 0.63 | 9.0 | 1200.0 |
 
 ## Équipement
 
   | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/fr/equipment/UnknownEquipment_7091/) | **ATQ** | **DÉF** | 
-  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/fr/equipment/UnknownEquipment_7092/) | **PV** | **DÉF** | 
-  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/fr/equipment/UnknownEquipment_7093/) | **ATQ** | **DÉF** | 
-  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/fr/equipment/UnknownEquipment_7094/) | **PV** | **DÉF** | 
+  | ![Bâton du briseur de sort](/images/e/e_7091.png) | [Bâton du briseur de sort](/fr/equipment/Spell Breaker's Staff/) | **ATQ** | **DÉF** | 
+  | ![Ailes démoniaques](/images/e/e_7092.png) | [Ailes démoniaques](/fr/equipment/Demonic Wings/) | **PV** | **DÉF** | 
+  | ![Gantelets crâniens](/images/e/e_7093.png) | [Gantelets crâniens](/fr/equipment/Cranial Gauntlets/) | **ATQ** | **DÉF** | 
+  | ![Os solides](/images/e/e_7094.png) | [Os solides](/fr/equipment/Hard Bone/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -104,36 +104,38 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">La Sorcière maléfique est immunisée contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">Silence</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand elle est sur le champ de bataille, elle augmente le mana initial de vos Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Au début du combat, elle lance &lt;Réflexion&gt; sur elle-même et sur 1 petite unité pour toute la bataille. Augmente la résistance aux dégâts d'unité de la Sorcière maléfique de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> en combat face à des unités ennemies à distance et de Lanceurs de sorts.</span><span style="color: black">
 
 ### Compétence normale 2 : Bâton du briseur de sort
- **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts d'unité de la Sorcière maléfique de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsqu'un Héros ennemi lance un sort, la Sorcière maléfique inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ et à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max aux unités ennemies situées dans un certain périmètre autour de l'unité ciblée. Elle inflige également des dégâts équivalents à 1,5 % de ses PV max à toutes les unités ennemies. Inflige également </span><span style="color: black"><span style="color: #48b946;font-size:20px">Étourdissement</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux unités </span><span style="color: black"><span style="color: #48b946;font-size:20px">empoisonnées</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 4 secondes et inflige des dégâts supplémentaires équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max aux unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Brûlure</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente les dégâts d'unité de la Sorcière maléfique de 50 % en combat face à des unités de la Tour.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts d'unité de la Sorcière maléfique de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsqu'un Héros ennemi lance un sort, la Sorcière maléfique inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ et à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max aux unités ennemies situées dans un certain périmètre autour de l'unité ciblée. Elle inflige également des dégâts équivalents à 1,5 % de ses PV max à toutes les unités ennemies. Inflige aussi </span><span style="color: black"><span style="color: #48b946;font-size:20px">Étourdissement</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Poison</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 4 secondes, ainsi que des dégâts supplémentaires équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max aux unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Brûlure</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente les dégâts d'unité de la Sorcière maléfique de 50 % en combat face à des unités de la Tour.</span><span style="color: black">
 
 ### Compétence normale 3 : Téléportation
- **Description:** <span style="color: #645252;font-size:20px">Augmente la vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les attaques normales des unités d'assaut du Donjon ont 5 % de chance d'étourdir les cibles </span><span style="color: black"><span style="color: #48b946;font-size:20px">empoisonnées</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes. 4 secondes après son entrée sur le champ de bataille, la Sorcière maléfique augmente la vitesse d'attaque des unités d'assaut alliées de 15 %. Cet effet dure </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. La Sorcière maléfique voyage entre les limbes et la réalité. Elle est immunisée contre les dégâts d'unité, mais ne peut être soignée si elle est dans les limbes. Dure 2 secondes. Le temps de recharge est de 5 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Augmente la vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les attaques normales des unités d'assaut du Donjon ont 5 % de chance d'étourdir les cibles victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Poison</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes. 4 secondes après son entrée sur le champ de bataille, la Sorcière maléfique augmente la vitesse d'attaque des unités d'assaut alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet dure </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. La Sorcière maléfique voyage entre les limbes et la réalité. Elle est immunisée contre les dégâts d'unité, mais ne peut être soignée si elle est dans les limbes. Dure 2 secondes. Le temps de recharge est de 5 secondes.</span><span style="color: black">
 
 ### Compétence spéciale de faction : Conflit des ténèbres
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ### Compétence normale 6 : Donjon sanglant
- **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la résistance aux dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsque 3 unités du Donjon sont déployées. Quand Éclatement d'âme est lancé, le domaine </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Donjon sanglant&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> se forme</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis s'étend avec l'augmentation du niveau de la compétence. Ce domaine existe pendant 15 secondes et son temps de recharge est de 30 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la résistance aux dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsque 3 unités du Donjon sont déployées. Quand Éclatement d'âme est lancé, le domaine </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Donjon sanglant&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> se forme</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis s'étend avec l'augmentation du niveau de la compétence. Ce domaine existe pendant 15 secondes et son temps de recharge est de 30 secondes.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str7 = "LEVEL*3+11"
-    let str8 = "LEVEL*0.1+0.9"
-    let str5 = "LEVEL*2+20"
-    let str6 = "LEVEL*1+2"
-    let str3 = "LEVEL*0.1+2.6"
+    let str7 = "LEVEL*1+5"
+    let str8 = "LEVEL*3+11"
+    let str5 = "LEVEL*4+40"
+    let str6 = "LEVEL*1+5"
+    let str3 = "LEVEL*0.1+2.5"
     let str4 = "LEVEL*1+2"
     let str1 = "LEVEL*10+150"
     let str2 = "LEVEL*0.3+2.5"
-    let str12 = "(LEVEL*1+5)"
-    let str13 = "LEVEL*1+15"
-    let str10 = "LEVEL*1+10"
-    let str11 = "(LEVEL*1+15)"
-    let str9 = "LEVEL*0.1+3.5"
-    let str14 = "LEVEL*1+15"
+    let str12 = "(LEVEL*1.5+7.5)"
+    let str13 = "(LEVEL*1+15)"
+    let str10 = "LEVEL*0.1+3.5"
+    let str11 = "LEVEL*1+10"
+    let str16 = "LEVEL*1+15"
+    let str9 = "LEVEL*0.1+0.9"
+    let str14 = "(LEVEL*1+5)"
+    let str15 = "LEVEL*1+15"
     let res="ERR";
     try {
      res = eval(str7); document.getElementById('str7').textContent = res;
@@ -148,8 +150,10 @@ toc: true
      res = eval(str13); document.getElementById('str13').textContent = res;
      res = eval(str10); document.getElementById('str10').textContent = res;
      res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
      res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)
       event.preventDefault();

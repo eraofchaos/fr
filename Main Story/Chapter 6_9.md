@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-9 Le siège"
 permalink: /Main Story/Chapter 6_9/
 excerpt: "Chapitre 6 - 9. Era of Chaos  Histoire principale - Chapitre 6_9. 6-9 Le siège"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 6_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Rune du rituel"
 permalink: /equipment/Rune of Ritual/
 excerpt: "Era of Chaos Rune du rituel. Rune du rituel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Rune of Ritual.md"
 toc: false

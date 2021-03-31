@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 15  Semaine du Conflux
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Apr** | **5x [Fée](/fr/Items/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
+  | **13 Apr** | **3x [Élémentaire de glace](/fr/Items/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
+  | **14 Apr** | **100x <i class="fas fa-gem"/>**  | Les créatures du Plan du Conflux vous offrent un petit amas de diamants ! |
+  | **15 Apr** | **3x [Élémentaire de pierre](/fr/Items/unt_266/)**  | Une escouade d'Élémentaires de pierre a rejoint votre armée et vous renforce ! |
+  | **16 Apr** | **3x [Élémentaire de tempête](/fr/Items/unt_263/)**  | Une escouade d'Élémentaires de tempête a rejoint votre armée et vous renforce ! |
+  | **17 Apr** | **5x [Coffre (Conflux)](/fr/Items/con_1275/)**  | Vos troupes vous ont rapporté plusieurs coffres imprégnés de pouvoir élémentaire ! |
+  | **18 Apr** | **5x [Luna](/fr/Items/her_378/)**  | La puissance élémentaire rassemblée dans votre territoire a poussé un Mage élémentaire à vous rendre une visite ! |
+
 
 #### 2021 Week 14  Semaine de la Nécropole
 

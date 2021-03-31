@@ -2,7 +2,7 @@
 title: "Chaînes de loup-garou"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "Era of Chaos Chaînes de loup-garou. Chaînes de loup-garou"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Werewolf's Chain.md"
 toc: false

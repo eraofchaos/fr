@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-10 La malédiction du tueur de Dragons"
 permalink: /Main Story/Chapter 24_10/
 excerpt: "Chapitre 24 - 10. Era of Chaos  Histoire principale - Chapitre 24_10. 24-10 La malédiction du tueur de Dragons"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 24_10.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Élémentaire de tempête"
 toc: true

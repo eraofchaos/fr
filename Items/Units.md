@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Units.md"
 toc: false
@@ -101,7 +101,7 @@ classes: wide
   | 87 | [Pierre d'âme de Grand Elfe](/fr/Items/unt_291/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Grand Elfe. |
   | 88 | [Pierre d'âme de Grande Gorgone](/fr/Items/unt_339/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de la Grande Gorgone. |
   | 89 | [Pierre d'âme de Grande Liche](/fr/Items/unt_301/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de la Grande Liche. |
-  | 90 | [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Griffon sanctifié. |
+  | 90 | [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Griffon royal. |
   | 91 | [Pierre d'âme de Guerrier Gnoll](/fr/Items/unt_336/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Guerrier Gnoll. |
   | 92 | [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Guerrier squelette. |
   | 93 | [Pierre d'âme de Guêpe serpent pestilentielle](/fr/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de la Guêpe dragon. |

@@ -2,7 +2,7 @@
 title: "Emblème sacré - Chaos"
 permalink: /Emblem/Type Chaos/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Era of Chaos Emblème sacré Chaos. Era of Chaos Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "typeChaos.md"
 toc: false

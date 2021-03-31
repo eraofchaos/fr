@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for April 2021"
 permalink: /FactionAltar/Faction Altar April_2021/
 excerpt: "Era of Chaos  Faction Altar for April 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Faction Altar April_2021.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 5 - 12 Apr | **Nécropole** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_104/) | [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/), [Pierre d'âme de Zombie](/fr/Items/unt_298/), [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/), [Pierre d'âme de Dragon fantôme](/fr/Items/unt_303/) | [Squelette](/fr/Items/unt_208/), [Trépassé](/fr/Items/unt_209/), [Revenante](/fr/Items/unt_210/), [Vampire](/fr/Items/unt_211/), [Dragon squelette](/fr/Items/unt_214/) | 
   | 12 - 19 Apr | **Conflux** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_109/) | [Pierre d'âme de Rage foudroyante](/fr/Items/unt_344/), [Pierre d'âme d'Esprit de la neige silencieux](/fr/Items/unt_345/), [Pierre d'âme d'Élémentaire de magie](/fr/Items/unt_347/), [Pierre d'âme de Phoenix](/fr/Items/unt_348/) | [Fée](/fr/Items/unt_262/), [Élémentaire de tempête](/fr/Items/unt_263/), [Élémentaire de glace](/fr/Items/unt_264/), [Élémentaire de l'esprit](/fr/Items/unt_267/), [Oiseau de feu](/fr/Items/unt_268/), [Farfadet](/fr/Items/unt_270/) | 
   | 19 - 26 Apr | **Bastion** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_103/) | [Pierre d'âme de Hobgobelin](/fr/Items/unt_305/), [Pierre d'âme de Pillard](/fr/Items/unt_306/), [Pierre d'âme de Commandant Orque](/fr/Items/unt_307/), [Pierre d'âme d'Ogre Mage](/fr/Items/unt_308/), [Pierre d'âme de Rock foudroyant](/fr/Items/unt_309/), [Pierre d'âme de Roi Cyclope](/fr/Items/unt_310/), [Pierre d'âme de Béhémoth royal](/fr/Items/unt_311/) | [Gobelin](/fr/Items/unt_217/), [Chevaucheur de loup](/fr/Items/unt_218/), [Orque](/fr/Items/unt_219/), [Ogre](/fr/Items/unt_220/), [Rock](/fr/Items/unt_221/), [Cyclope](/fr/Items/unt_222/), [Béhémoth](/fr/Items/unt_223/), [Berserker](/fr/Items/unt_224/) | 
-  | 26 Apr - 3 May | **Rempart** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_102/) | [Pierre d'âme de Capitaine Centaure](/fr/Items/unt_290/), [Pierre d'âme de Grand Elfe](/fr/Items/unt_291/), [Pierre d'âme de Pégase d'argent](/fr/Items/unt_292/), [Pierre d'âme de Soldat sylvanien](/fr/Items/unt_293/), [Pierre d'âme de Licorne de guerre](/fr/Items/unt_294/), [Pierre d'âme de Dragon d'or](/fr/Items/unt_295/) | [Centaure](/fr/Items/unt_199/), [Nain](/fr/Items/unt_200/), [Elfe sylvaine](/fr/Items/unt_201/), [Pégase](/fr/Items/unt_202/), [Garde sylvanien](/fr/Items/unt_203/), [Licorne](/fr/Items/unt_204/), [Dragon vert](/fr/Items/unt_205/) | 
+  | 26 Apr - 3 May | **Crique** | [Faction Altar Drop Details](/fr/FactionAltar/DROP_112/) |  - | [Pirates de Regna](/fr/Items/unt_273/), [Arbalétrière de Regna](/fr/Items/unt_274/), [Élémentaire de mer](/fr/Items/unt_275/), [Tortue dragon](/fr/Items/unt_278/), [Dompteur de requins](/fr/Items/unt_281/) | 
 
 
 

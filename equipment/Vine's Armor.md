@@ -2,7 +2,7 @@
 title: "Armure de liane"
 permalink: /equipment/Vine's Armor/
 excerpt: "Era of Chaos Armure de liane. Armure de liane"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Vine's Armor.md"
 toc: false

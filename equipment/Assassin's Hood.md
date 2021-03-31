@@ -2,7 +2,7 @@
 title: "Capuche d'assassin"
 permalink: /equipment/Assassin's Hood/
 excerpt: "Era of Chaos Capuche d'assassin. Capuche d'assassin"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Assassin's Hood.md"
 toc: false

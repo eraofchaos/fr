@@ -2,7 +2,7 @@
 title: "Bec du tonnerre"
 permalink: /equipment/Beak of Thunder/
 excerpt: "Era of Chaos Bec du tonnerre. Bec du tonnerre"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Beak of Thunder.md"
 toc: false

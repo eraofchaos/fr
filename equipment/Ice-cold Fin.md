@@ -2,7 +2,7 @@
 title: "Nageoire glaciale"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "Era of Chaos Nageoire glaciale. Nageoire glaciale"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Ice-cold Fin.md"
 toc: false

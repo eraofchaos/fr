@@ -2,7 +2,7 @@
 title: "Ailes de Manticore"
 permalink: /equipment/Manticore Wings/
 excerpt: "Era of Chaos Ailes de Manticore. Ailes de Manticore"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Manticore Wings.md"
 toc: false

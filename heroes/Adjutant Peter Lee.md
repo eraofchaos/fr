@@ -2,7 +2,7 @@
 title: "Adjudant PeterLee"
 permalink: /heroes/Adjutant Peter Lee/
 excerpt: "Era of Chaos  Adjudant PeterLee"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Adjutant Peter Lee.md"
 toc: false

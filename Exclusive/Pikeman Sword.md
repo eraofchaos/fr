@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Lancier Exclusif."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Pikeman Épée.md"
 toc: false

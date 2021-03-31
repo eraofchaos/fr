@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai d'âme"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Minerai d'âme"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "mat_82.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of INTERNAL (unreleased) Unités"
 permalink: /units/internal/
 excerpt: "List of INTERNAL Unités in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "internal"
 toc: false

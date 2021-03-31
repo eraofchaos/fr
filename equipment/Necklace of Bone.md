@@ -2,7 +2,7 @@
 title: "Collier d'os"
 permalink: /equipment/Necklace of Bone/
 excerpt: "Era of Chaos Collier d'os. Collier d'os"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Necklace of Bone.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure précieux"
 permalink: /Items/mat_28/
 excerpt: "Era of Chaos  Mercure précieux"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "mat_28.md"
 toc: false

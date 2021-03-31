@@ -2,7 +2,7 @@
 title: "Feu de l'abysse"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Era of Chaos Feu de l'abysse. Feu de l'abysse"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Fire in the Abyss.md"
 toc: false

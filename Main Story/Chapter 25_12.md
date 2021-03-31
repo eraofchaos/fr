@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-12 L'école de combat"
 permalink: /Main Story/Chapter 25_12/
 excerpt: "Chapitre 25 - 12. Era of Chaos  Histoire principale - Chapitre 25_12. 25-12 L'école de combat"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 25_12.md"
 toc: false

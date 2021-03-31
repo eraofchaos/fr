@@ -2,7 +2,7 @@
 title: "Infos combinaison for Brûlure"
 permalink: /combination/Burning/
 excerpt: "Infos combinaison - Brûlure. Units and Heroes Formation."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Brûlure.md"
 toc: false

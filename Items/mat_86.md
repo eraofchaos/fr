@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes d'âme"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Gemmes d'âme"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "mat_86.md"
 toc: false

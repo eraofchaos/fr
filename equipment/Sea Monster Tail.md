@@ -2,7 +2,7 @@
 title: "Queue de monstre marin"
 permalink: /equipment/Sea Monster Tail/
 excerpt: "Era of Chaos Queue de monstre marin. Queue de monstre marin"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Sea Monster Tail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bottes hautes forestières"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "Era of Chaos Bottes hautes forestières. Bottes hautes forestières"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Thigh Boots of the Forest.md"
 toc: false

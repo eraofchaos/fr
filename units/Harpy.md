@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Harpie"
 toc: true
@@ -172,40 +172,40 @@ toc: true
 
 ## Awaking
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Harpie sinistre
 
- **Awaking Description:** null
+ **Awaking Description:** La nuit tombe et les Harpies dansent au rythme du chant de la faune. Le clair de lune se reflète sur leurs lames et émet une froide lueur qui se balance au gré de leur vol, offrant un spectacle aussi mortel que fascinant.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Déployez une Harpie et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Donjon pour réussir le niveau Impitoyable ou un niveau supérieur de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #876741;font-size:18px">Dans le souterrain de l'aventure de guilde, occupez la ville </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> fois.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Harpie dans les niveaux 16-2 et 16-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Déployez une Harpie et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités d'assaut pour remporter 3 batailles dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Lame tranchante de Harpie
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Griffe tranchante de la Harpie&gt; :</span><span style="color: #645252;font-size:18px"> &lt;Griffe tranchante de la Harpie&gt; se déclenche systématiquement 1 fois lorsque les attaques de la Harpie sont esquivées. Le temps de recharge est de 5 secondes.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): Lame empoisonnée de Harpie
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Griffe tranchante de la Harpie&gt; :</span><span style="color: #645252;font-size:18px"> Les compétences infligent des dégâts supplémentaires équivalents à 200 % de sa propre ATQ à l'unité cible ainsi que Poison pendant 5 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): Défense de briseur de sort
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cri du briseur de sort&gt; :</span><span style="color: #645252;font-size:18px"> Lorsqu'un Héros ennemi lance un sort, la vitesse d'attaque des unités ennemies de la première ligne diminue de 4 % supplémentaires. Cet effet peut se cumuler jusqu'à 5 fois et dure 8 secondes.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Invasion du briseur de sort
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cri du briseur de sort&gt; :</span><span style="color: #645252;font-size:18px"> Lorsqu'un Héros ennemi lance un sort, la vitesse d'attaque des unités alliées de la première ligne augmente de 4 % supplémentaires. Cet effet peut se cumuler jusqu'à 5 fois et dure 8 secondes.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Cible aérienne
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Visée aérienne&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les dégâts de 20 % lors de l'attaque d'unités victimes de Saignement.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Massacre aérien
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Visée aérienne&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la résistance aux dégâts de 20 % lors de l'attaque d'unités victimes de Poison.</span>
 
 ## Technical info
  **runart:** 1

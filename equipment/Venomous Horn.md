@@ -2,7 +2,7 @@
 title: "Corne venimeuse"
 permalink: /equipment/Venomous Horn/
 excerpt: "Era of Chaos Corne venimeuse. Corne venimeuse"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Venomous Horn.md"
 toc: false

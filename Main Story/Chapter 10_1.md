@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-1 La terre des Non-Morts"
 permalink: /Main Story/Chapter 10_1/
 excerpt: "Chapitre 10 - 1. Era of Chaos  Histoire principale - Chapitre 10_1. 10-1 La terre des Non-Morts"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 10_1.md"
 toc: false

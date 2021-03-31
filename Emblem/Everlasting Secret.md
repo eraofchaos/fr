@@ -2,7 +2,7 @@
 title: "Emblème sacré - Secret éternel"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "Era of Chaos Secret éternel. Secret éternel. Era of Chaos Emblème sacré Secret éternel. Era of Chaos Ordre Secret éternel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Everlasting Secret.md"
 toc: false

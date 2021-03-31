@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Griffon"
 toc: true
@@ -182,7 +182,7 @@ toc: true
 ### Awaking Détails
  **Is it possible right now?** YES
 
- **Awaking Name:** Griffon sanctifié
+ **Awaking Name:** Griffon royal
 
  **Awaking Description:** Les Griffons dressés par la famille Edric servent désormais de gardiens à Erathia. De jour comme de nuit, ils arpentent le ciel au-dessus du château. Les envahisseurs assez imprudents pour s'approcher du château sont mis en lambeaux par les griffes acérées des Griffons.
 
@@ -191,7 +191,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ressources pendant une aventure de guilde.</span>
 
- 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Griffon sanctifié dans les niveaux 15-2 et 15-4 du souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Griffon royal dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
  4. <span style="color: #876741;font-size:18px">Déployez un Griffon et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Château pour remporter 3 combats dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 

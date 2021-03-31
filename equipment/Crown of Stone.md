@@ -2,7 +2,7 @@
 title: "Couronne de pierre"
 permalink: /equipment/Crown of Stone/
 excerpt: "Era of Chaos Couronne de pierre. Couronne de pierre"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Crown of Stone.md"
 toc: false

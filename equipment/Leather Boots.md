@@ -2,7 +2,7 @@
 title: "Bottes en cuir"
 permalink: /equipment/Leather Boots/
 excerpt: "Era of Chaos Bottes en cuir. Bottes en cuir"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Leather Boots.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois de qualité inférieure"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Bois de qualité inférieure"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: fr
 ref: "mat_1.md"
 toc: false

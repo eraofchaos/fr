@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-12 Une cité vide de Dragons"
 permalink: /Main Story/Chapter 24_12/
 excerpt: "Chapitre 24 - 12. Era of Chaos  Histoire principale - Chapitre 24_12. 24-12 Une cité vide de Dragons"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: fr
 ref: "Chapter 24_12.md"
 toc: false

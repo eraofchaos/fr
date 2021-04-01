@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes précieuses"
 permalink: /Items/mat_30/
 excerpt: "Era of Chaos  Gemmes précieuses"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_30.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 9 (Les Terres du chaos) -> 9-1 
-*    Chapitre 9 (Les Terres du chaos) -> 9-5 
-*    Chapitre 9 (Les Terres du chaos) -> 9-11 
+*    Aventure de guilde 
+*    [Chapitre 9: Les Terres du chaos -> 9-1](/fr/Main Story/Chapter 9_1/) 
+*    [Chapitre 9: Les Terres du chaos -> 9-5](/fr/Main Story/Chapter 9_5/) 
+*    [Chapitre 9: Les Terres du chaos -> 9-11](/fr/Main Story/Chapter 9_11/) 
 
 ## This item contains:
 

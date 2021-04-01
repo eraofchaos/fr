@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal stellaire"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Cristal stellaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_94.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 26 (Commandement prolongé) -> 26-6 
-*    Chapitre 26 (Commandement prolongé) -> 26-12 
-*    Chapitre 26 (Commandement prolongé) -> 26-15 
+*    Aventure de guilde 
+*    [Chapitre 26: Commandement prolongé -> 26-6](/fr/Main Story/Chapter 26_6/) 
+*    [Chapitre 26: Commandement prolongé -> 26-12](/fr/Main Story/Chapter 26_12/) 
+*    [Chapitre 26: Commandement prolongé -> 26-15](/fr/Main Story/Chapter 26_15/) 
 
 ## This item contains:
 

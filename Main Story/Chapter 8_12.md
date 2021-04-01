@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-12 L'ancien frère"
 permalink: /Main Story/Chapter 8_12/
 excerpt: "Chapitre 8 - 12. Era of Chaos  Histoire principale - Chapitre 8_12. 8-12 L'ancien frère"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 8_12.md"
 toc: false

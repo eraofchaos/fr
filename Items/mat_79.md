@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes mystérieuses"
 permalink: /Items/mat_79/
 excerpt: "Era of Chaos  Gemmes mystérieuses"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_79.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 22 (Dragon de cristal) -> 22-1 
-*    Chapitre 22 (Dragon de cristal) -> 22-5 
-*    Chapitre 22 (Dragon de cristal) -> 22-11 
+*    Aventure de guilde 
+*    [Chapitre 22: Dragon de cristal -> 22-1](/fr/Main Story/Chapter 22_1/) 
+*    [Chapitre 22: Dragon de cristal -> 22-5](/fr/Main Story/Chapter 22_5/) 
+*    [Chapitre 22: Dragon de cristal -> 22-11](/fr/Main Story/Chapter 22_11/) 
 
 ## This item contains:
 

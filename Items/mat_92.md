@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre stellaire"
 permalink: /Items/mat_92/
 excerpt: "Era of Chaos  Soufre stellaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_92.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 26 (Commandement prolongé) -> 26-4 
-*    Chapitre 26 (Commandement prolongé) -> 26-10 
-*    Chapitre 26 (Commandement prolongé) -> 26-13 
+*    Aventure de guilde 
+*    [Chapitre 26: Commandement prolongé -> 26-4](/fr/Main Story/Chapter 26_4/) 
+*    [Chapitre 26: Commandement prolongé -> 26-10](/fr/Main Story/Chapter 26_10/) 
+*    [Chapitre 26: Commandement prolongé -> 26-13](/fr/Main Story/Chapter 26_13/) 
 
 ## This item contains:
 

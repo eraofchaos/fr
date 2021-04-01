@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois stellaire"
 permalink: /Items/mat_90/
 excerpt: "Era of Chaos  Bois stellaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_90.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 26 (Commandement prolongé) -> 26-2 
-*    Chapitre 26 (Commandement prolongé) -> 26-8 
+*    Aventure de guilde 
+*    [Chapitre 26: Commandement prolongé -> 26-2](/fr/Main Story/Chapter 26_2/) 
+*    [Chapitre 26: Commandement prolongé -> 26-8](/fr/Main Story/Chapter 26_8/) 
 
 ## This item contains:
 

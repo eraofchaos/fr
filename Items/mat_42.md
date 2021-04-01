@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure rare"
 permalink: /Items/mat_42/
 excerpt: "Era of Chaos  Mercure rare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_42.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 12 (Mer de glace) -> 12-3 
-*    Chapitre 12 (Mer de glace) -> 12-6 
-*    Chapitre 12 (Mer de glace) -> 12-9 
+*    Aventure de guilde 
+*    [Chapitre 12: Mer de glace -> 12-3](/fr/Main Story/Chapter 12_3/) 
+*    [Chapitre 12: Mer de glace -> 12-6](/fr/Main Story/Chapter 12_6/) 
+*    [Chapitre 12: Mer de glace -> 12-9](/fr/Main Story/Chapter 12_9/) 
 
 ## This item contains:
 

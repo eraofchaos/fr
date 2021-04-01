@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai d'âme"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Minerai d'âme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_82.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 24 (Dragon féérique) -> 24-7 
-*    Chapitre 25 (Loi de la jungle) -> 25-7 
+*    Aventure de guilde 
+*    [Chapitre 24: Dragon féérique -> 24-7](/fr/Main Story/Chapter 24_7/) 
+*    [Chapitre 25: Loi de la jungle -> 25-7](/fr/Main Story/Chapter 25_7/) 
 
 ## This item contains:
 

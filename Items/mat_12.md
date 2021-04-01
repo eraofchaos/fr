@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai de bonne qualité"
 permalink: /Items/mat_12/
 excerpt: "Era of Chaos  Minerai de bonne qualité"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_12.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 4 (Falaises des Griffons) -> 4-1 
-*    Chapitre 4 (Falaises des Griffons) -> 4-4 
-*    Chapitre 4 (Falaises des Griffons) -> 4-7 
+*    Aventure de guilde 
+*    [Chapitre 4: Falaises des Griffons -> 4-1](/fr/Main Story/Chapter 4_1/) 
+*    [Chapitre 4: Falaises des Griffons -> 4-4](/fr/Main Story/Chapter 4_4/) 
+*    [Chapitre 4: Falaises des Griffons -> 4-7](/fr/Main Story/Chapter 4_7/) 
 
 ## This item contains:
 

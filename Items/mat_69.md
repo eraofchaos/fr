@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois éternel"
 permalink: /Items/mat_69/
 excerpt: "Era of Chaos  Bois éternel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_69.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-2 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-5 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-8 
+*    Aventure de guilde 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-2](/fr/Main Story/Chapter 20_2/) 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-5](/fr/Main Story/Chapter 20_5/) 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-8](/fr/Main Story/Chapter 20_8/) 
 
 ## This item contains:
 

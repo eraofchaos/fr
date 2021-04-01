@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre de bonne qualité"
 permalink: /Items/mat_15/
 excerpt: "Era of Chaos  Soufre de bonne qualité"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_15.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 4 (Falaises des Griffons) -> 4-10 
-*    Chapitre 4 (Falaises des Griffons) -> 4-14 
-*    Chapitre 5 (Byrd) -> 5-4 
+*    Aventure de guilde 
+*    [Chapitre 4: Falaises des Griffons -> 4-10](/fr/Main Story/Chapter 4_10/) 
+*    [Chapitre 4: Falaises des Griffons -> 4-14](/fr/Main Story/Chapter 4_14/) 
+*    [Chapitre 5: Byrd -> 5-4](/fr/Main Story/Chapter 5_4/) 
 
 ## This item contains:
 

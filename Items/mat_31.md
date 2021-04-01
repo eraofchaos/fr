@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal précieux"
 permalink: /Items/mat_31/
 excerpt: "Era of Chaos  Cristal précieux"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_31.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 9 (Les Terres du chaos) -> 9-6 
-*    Chapitre 9 (Les Terres du chaos) -> 9-12 
-*    Chapitre 9 (Les Terres du chaos) -> 9-15 
+*    Aventure de guilde 
+*    [Chapitre 9: Les Terres du chaos -> 9-6](/fr/Main Story/Chapter 9_6/) 
+*    [Chapitre 9: Les Terres du chaos -> 9-12](/fr/Main Story/Chapter 9_12/) 
+*    [Chapitre 9: Les Terres du chaos -> 9-15](/fr/Main Story/Chapter 9_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal rare"
 permalink: /Items/mat_45/
 excerpt: "Era of Chaos  Cristal rare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_45.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 13 (Le jour et la nuit) -> 13-6 
-*    Chapitre 13 (Le jour et la nuit) -> 13-12 
-*    Chapitre 13 (Le jour et la nuit) -> 13-15 
+*    Aventure de guilde 
+*    [Chapitre 13: Le jour et la nuit -> 13-6](/fr/Main Story/Chapter 13_6/) 
+*    [Chapitre 13: Le jour et la nuit -> 13-12](/fr/Main Story/Chapter 13_12/) 
+*    [Chapitre 13: Le jour et la nuit -> 13-15](/fr/Main Story/Chapter 13_15/) 
 
 ## This item contains:
 

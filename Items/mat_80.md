@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal mystérieux"
 permalink: /Items/mat_80/
 excerpt: "Era of Chaos  Cristal mystérieux"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_80.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 22 (Dragon de cristal) -> 22-6 
-*    Chapitre 22 (Dragon de cristal) -> 22-12 
-*    Chapitre 22 (Dragon de cristal) -> 22-15 
+*    Aventure de guilde 
+*    [Chapitre 22: Dragon de cristal -> 22-6](/fr/Main Story/Chapter 22_6/) 
+*    [Chapitre 22: Dragon de cristal -> 22-12](/fr/Main Story/Chapter 22_12/) 
+*    [Chapitre 22: Dragon de cristal -> 22-15](/fr/Main Story/Chapter 22_15/) 
 
 ## This item contains:
 

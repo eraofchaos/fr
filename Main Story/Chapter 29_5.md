@@ -2,7 +2,7 @@
 title: "Histoire principale -  - "
 permalink: /Main Story/Chapter 29_5/
 excerpt: " - 5. Era of Chaos  Histoire principale - _5. "
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 29_5.md"
 toc: false

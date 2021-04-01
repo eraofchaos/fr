@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai mythique"
 permalink: /Items/mat_61/
 excerpt: "Era of Chaos  Minerai mythique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_61.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 18 (Pacte avec le diable) -> 18-1 
-*    Chapitre 18 (Pacte avec le diable) -> 18-4 
-*    Chapitre 18 (Pacte avec le diable) -> 18-7 
+*    Aventure de guilde 
+*    [Chapitre 18: Pacte avec le diable -> 18-1](/fr/Main Story/Chapter 18_1/) 
+*    [Chapitre 18: Pacte avec le diable -> 18-4](/fr/Main Story/Chapter 18_4/) 
+*    [Chapitre 18: Pacte avec le diable -> 18-7](/fr/Main Story/Chapter 18_7/) 
 
 ## This item contains:
 

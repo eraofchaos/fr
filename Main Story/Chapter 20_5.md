@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-5 Le mur de la sagesse"
 permalink: /Main Story/Chapter 20_5/
 excerpt: "Chapitre 20 - 5. Era of Chaos  Histoire principale - Chapitre 20_5. 20-5 Le mur de la sagesse"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 20_5.md"
 toc: false

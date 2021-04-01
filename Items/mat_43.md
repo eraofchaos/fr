@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre rare"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Soufre rare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_43.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 12 (Mer de glace) -> 12-10 
-*    Chapitre 12 (Mer de glace) -> 12-14 
-*    Chapitre 13 (Le jour et la nuit) -> 13-4 
+*    Aventure de guilde 
+*    [Chapitre 12: Mer de glace -> 12-10](/fr/Main Story/Chapter 12_10/) 
+*    [Chapitre 12: Mer de glace -> 12-14](/fr/Main Story/Chapter 12_14/) 
+*    [Chapitre 13: Le jour et la nuit -> 13-4](/fr/Main Story/Chapter 13_4/) 
 
 ## This item contains:
 

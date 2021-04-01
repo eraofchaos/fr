@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois exceptionnel"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Bois exceptionnel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_34.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 10 (Les marécages) -> 10-2 
-*    Chapitre 10 (Les marécages) -> 10-5 
-*    Chapitre 10 (Les marécages) -> 10-8 
+*    Aventure de guilde 
+*    [Chapitre 10: Les marécages -> 10-2](/fr/Main Story/Chapter 10_2/) 
+*    [Chapitre 10: Les marécages -> 10-5](/fr/Main Story/Chapter 10_5/) 
+*    [Chapitre 10: Les marécages -> 10-8](/fr/Main Story/Chapter 10_8/) 
 
 ## This item contains:
 

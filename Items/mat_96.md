@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai flamboyant"
 permalink: /Items/mat_96/
 excerpt: "Era of Chaos  Minerai flamboyant"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_96.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 27 (Sang du Dragon patriarche) -> 27-7 
+*    Aventure de guilde 
+*    [Chapitre 27: Sang du Dragon patriarche -> 27-7](/fr/Main Story/Chapter 27_7/) 
 
 ## This item contains:
 

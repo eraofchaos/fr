@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes mythiques"
 permalink: /Items/mat_65/
 excerpt: "Era of Chaos  Gemmes mythiques"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_65.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 19 (Affaires neutres) -> 19-1 
-*    Chapitre 19 (Affaires neutres) -> 19-5 
-*    Chapitre 19 (Affaires neutres) -> 19-11 
+*    Aventure de guilde 
+*    [Chapitre 19: Affaires neutres -> 19-1](/fr/Main Story/Chapter 19_1/) 
+*    [Chapitre 19: Affaires neutres -> 19-5](/fr/Main Story/Chapter 19_5/) 
+*    [Chapitre 19: Affaires neutres -> 19-11](/fr/Main Story/Chapter 19_11/) 
 
 ## This item contains:
 

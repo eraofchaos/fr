@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre mystérieux"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Soufre mystérieux"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_78.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 22 (Dragon de cristal) -> 22-4 
-*    Chapitre 22 (Dragon de cristal) -> 22-10 
-*    Chapitre 22 (Dragon de cristal) -> 22-13 
+*    Aventure de guilde 
+*    [Chapitre 22: Dragon de cristal -> 22-4](/fr/Main Story/Chapter 22_4/) 
+*    [Chapitre 22: Dragon de cristal -> 22-10](/fr/Main Story/Chapter 22_10/) 
+*    [Chapitre 22: Dragon de cristal -> 22-13](/fr/Main Story/Chapter 22_13/) 
 
 ## This item contains:
 

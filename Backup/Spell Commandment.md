@@ -2,7 +2,7 @@
 title: "Backup - Cercle de commandement de sorts"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Cercle de commandement de sorts"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Spell Commandment.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure d'âme"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Mercure d'âme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_84.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 24 (Dragon féérique) -> 24-3 
-*    Chapitre 24 (Dragon féérique) -> 24-9 
-*    Chapitre 25 (Loi de la jungle) -> 25-3 
+*    Aventure de guilde 
+*    [Chapitre 24: Dragon féérique -> 24-3](/fr/Main Story/Chapter 24_3/) 
+*    [Chapitre 24: Dragon féérique -> 24-9](/fr/Main Story/Chapter 24_9/) 
+*    [Chapitre 25: Loi de la jungle -> 25-3](/fr/Main Story/Chapter 25_3/) 
 
 ## This item contains:
 

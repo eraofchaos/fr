@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 Dragon de cristal"
 permalink: /Main Story/Chapter 22/
 excerpt: "Chapitre 22. Era of Chaos  Histoire principale - Chapitre 22. Dragon de cristal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 22.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois fantastique"
 permalink: /Items/mat_48/
 excerpt: "Era of Chaos  Bois fantastique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_48.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 14 (Passage sûr) -> 14-2 
-*    Chapitre 14 (Passage sûr) -> 14-5 
-*    Chapitre 14 (Passage sûr) -> 14-8 
+*    Aventure de guilde 
+*    [Chapitre 14: Passage sûr -> 14-2](/fr/Main Story/Chapter 14_2/) 
+*    [Chapitre 14: Passage sûr -> 14-5](/fr/Main Story/Chapter 14_5/) 
+*    [Chapitre 14: Passage sûr -> 14-8](/fr/Main Story/Chapter 14_8/) 
 
 ## This item contains:
 

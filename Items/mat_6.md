@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai ordinaire"
 permalink: /Items/mat_6/
 excerpt: "Era of Chaos  Minerai ordinaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_6.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 2 (Le retour de la Reine) -> 2-2 
-*    Chapitre 2 (Le retour de la Reine) -> 2-6 
-*    Chapitre 2 (Le retour de la Reine) -> 2-10 
+*    Aventure de guilde 
+*    [Chapitre 2: Le retour de la Reine -> 2-2](/fr/Main Story/Chapter 2_2/) 
+*    [Chapitre 2: Le retour de la Reine -> 2-6](/fr/Main Story/Chapter 2_6/) 
+*    [Chapitre 2: Le retour de la Reine -> 2-10](/fr/Main Story/Chapter 2_10/) 
 
 ## This item contains:
 

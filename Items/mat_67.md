@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificat de légende"
 permalink: /Items/mat_67/
 excerpt: "Era of Chaos  Certificat de légende"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_67.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventure de guilde 
 *    Chapitre - Pour le Roi et la nation 
 *    Chapitre - La libération de l'Empire 
 *    Chapitre - Pacte avec le diable 

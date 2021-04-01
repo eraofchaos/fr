@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-6 La culture des champignons"
 permalink: /Main Story/Chapter 27_6/
 excerpt: "Chapitre 27 - 6. Era of Chaos  Histoire principale - Chapitre 27_6. 27-6 La culture des champignons"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 27_6.md"
 toc: false

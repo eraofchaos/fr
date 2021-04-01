@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes d'âme"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Gemmes d'âme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_86.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 24 (Dragon féérique) -> 24-1 
-*    Chapitre 24 (Dragon féérique) -> 24-5 
-*    Chapitre 24 (Dragon féérique) -> 24-11 
+*    Aventure de guilde 
+*    [Chapitre 24: Dragon féérique -> 24-1](/fr/Main Story/Chapter 24_1/) 
+*    [Chapitre 24: Dragon féérique -> 24-5](/fr/Main Story/Chapter 24_5/) 
+*    [Chapitre 24: Dragon féérique -> 24-11](/fr/Main Story/Chapter 24_11/) 
 
 ## This item contains:
 

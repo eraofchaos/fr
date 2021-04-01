@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure flamboyant"
 permalink: /Items/mat_98/
 excerpt: "Era of Chaos  Mercure flamboyant"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_98.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 27 (Sang du Dragon patriarche) -> 27-3 
-*    Chapitre 27 (Sang du Dragon patriarche) -> 27-9 
+*    Aventure de guilde 
+*    [Chapitre 27: Sang du Dragon patriarche -> 27-3](/fr/Main Story/Chapter 27_3/) 
+*    [Chapitre 27: Sang du Dragon patriarche -> 27-9](/fr/Main Story/Chapter 27_9/) 
 
 ## This item contains:
 

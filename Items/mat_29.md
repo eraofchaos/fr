@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre précieux"
 permalink: /Items/mat_29/
 excerpt: "Era of Chaos  Soufre précieux"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_29.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 8 (Les régions frontalières) -> 8-10 
-*    Chapitre 8 (Les régions frontalières) -> 8-14 
-*    Chapitre 9 (Les Terres du chaos) -> 9-4 
+*    Aventure de guilde 
+*    [Chapitre 8: Les régions frontalières -> 8-10](/fr/Main Story/Chapter 8_10/) 
+*    [Chapitre 8: Les régions frontalières -> 8-14](/fr/Main Story/Chapter 8_14/) 
+*    [Chapitre 9: Les Terres du chaos -> 9-4](/fr/Main Story/Chapter 9_4/) 
 
 ## This item contains:
 

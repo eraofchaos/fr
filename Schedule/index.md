@@ -2,7 +2,7 @@
 title: "Programme"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Programme. Schedule for all near events and shop sales."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "index.md"
 toc: false

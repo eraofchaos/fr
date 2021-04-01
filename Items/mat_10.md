@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes ordinaires"
 permalink: /Items/mat_10/
 excerpt: "Era of Chaos  Gemmes ordinaires"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_10.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 3 (Ange gardien) -> 3-1 
-*    Chapitre 3 (Ange gardien) -> 3-5 
-*    Chapitre 3 (Ange gardien) -> 3-11 
+*    Aventure de guilde 
+*    [Chapitre 3: Ange gardien -> 3-1](/fr/Main Story/Chapter 3_1/) 
+*    [Chapitre 3: Ange gardien -> 3-5](/fr/Main Story/Chapter 3_5/) 
+*    [Chapitre 3: Ange gardien -> 3-11](/fr/Main Story/Chapter 3_11/) 
 
 ## This item contains:
 

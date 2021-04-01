@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-10 Les renforts"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Chapitre 13 - 10. Era of Chaos  Histoire principale - Chapitre 13_10. 13-10 Les renforts"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 13_10.md"
 toc: false

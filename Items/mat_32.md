@@ -2,7 +2,7 @@
 title: "Item - Materials - Répertoire des armes"
 permalink: /Items/mat_32/
 excerpt: "Era of Chaos  Répertoire des armes"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_32.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventure de guilde 
 *    Chapitre - La chute de la capitale 
 *    Chapitre - Les régions frontalières 
 *    Chapitre - Pensées frénétiques 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal d'âme"
 permalink: /Items/mat_87/
 excerpt: "Era of Chaos  Cristal d'âme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_87.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 24 (Dragon féérique) -> 24-6 
-*    Chapitre 24 (Dragon féérique) -> 24-12 
-*    Chapitre 24 (Dragon féérique) -> 24-15 
+*    Aventure de guilde 
+*    [Chapitre 24: Dragon féérique -> 24-6](/fr/Main Story/Chapter 24_6/) 
+*    [Chapitre 24: Dragon féérique -> 24-12](/fr/Main Story/Chapter 24_12/) 
+*    [Chapitre 24: Dragon féérique -> 24-15](/fr/Main Story/Chapter 24_15/) 
 
 ## This item contains:
 

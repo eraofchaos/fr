@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal de qualité supérieure"
 permalink: /Items/mat_24/
 excerpt: "Era of Chaos  Cristal de qualité supérieure"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_24.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 7 (Erathia) -> 7-6 
-*    Chapitre 7 (Erathia) -> 7-12 
-*    Chapitre 7 (Erathia) -> 7-15 
+*    Aventure de guilde 
+*    [Chapitre 7: Erathia -> 7-6](/fr/Main Story/Chapter 7_6/) 
+*    [Chapitre 7: Erathia -> 7-12](/fr/Main Story/Chapter 7_12/) 
+*    [Chapitre 7: Erathia -> 7-15](/fr/Main Story/Chapter 7_15/) 
 
 ## This item contains:
 

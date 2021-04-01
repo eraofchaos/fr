@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal ordinaire"
 permalink: /Items/mat_11/
 excerpt: "Era of Chaos  Cristal ordinaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_11.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 3 (Ange gardien) -> 3-6 
-*    Chapitre 3 (Ange gardien) -> 3-12 
-*    Chapitre 3 (Ange gardien) -> 3-15 
+*    Aventure de guilde 
+*    [Chapitre 3: Ange gardien -> 3-6](/fr/Main Story/Chapter 3_6/) 
+*    [Chapitre 3: Ange gardien -> 3-12](/fr/Main Story/Chapter 3_12/) 
+*    [Chapitre 3: Ange gardien -> 3-15](/fr/Main Story/Chapter 3_15/) 
 
 ## This item contains:
 

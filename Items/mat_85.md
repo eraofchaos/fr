@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre d'âme"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Soufre d'âme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_85.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 24 (Dragon féérique) -> 24-4 
-*    Chapitre 24 (Dragon féérique) -> 24-10 
-*    Chapitre 24 (Dragon féérique) -> 24-13 
+*    Aventure de guilde 
+*    [Chapitre 24: Dragon féérique -> 24-4](/fr/Main Story/Chapter 24_4/) 
+*    [Chapitre 24: Dragon féérique -> 24-10](/fr/Main Story/Chapter 24_10/) 
+*    [Chapitre 24: Dragon féérique -> 24-13](/fr/Main Story/Chapter 24_13/) 
 
 ## This item contains:
 

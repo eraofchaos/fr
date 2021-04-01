@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes exceptionnelles"
 permalink: /Items/mat_37/
 excerpt: "Era of Chaos  Gemmes exceptionnelles"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_37.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 11 (Tatalia) -> 11-1 
-*    Chapitre 11 (Tatalia) -> 11-5 
-*    Chapitre 11 (Tatalia) -> 11-11 
+*    Aventure de guilde 
+*    [Chapitre 11: Tatalia -> 11-1](/fr/Main Story/Chapter 11_1/) 
+*    [Chapitre 11: Tatalia -> 11-5](/fr/Main Story/Chapter 11_5/) 
+*    [Chapitre 11: Tatalia -> 11-11](/fr/Main Story/Chapter 11_11/) 
 
 ## This item contains:
 

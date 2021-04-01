@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure de qualité supérieure"
 permalink: /Items/mat_21/
 excerpt: "Era of Chaos  Mercure de qualité supérieure"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_21.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 6 (À l'aube du changement) -> 6-3 
-*    Chapitre 6 (À l'aube du changement) -> 6-6 
-*    Chapitre 6 (À l'aube du changement) -> 6-9 
+*    Aventure de guilde 
+*    [Chapitre 6: À l'aube du changement -> 6-3](/fr/Main Story/Chapter 6_3/) 
+*    [Chapitre 6: À l'aube du changement -> 6-6](/fr/Main Story/Chapter 6_6/) 
+*    [Chapitre 6: À l'aube du changement -> 6-9](/fr/Main Story/Chapter 6_9/) 
 
 ## This item contains:
 

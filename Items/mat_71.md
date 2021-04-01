@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre éternel"
 permalink: /Items/mat_71/
 excerpt: "Era of Chaos  Soufre éternel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_71.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-10 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-14 
-*    Chapitre 21 (Le Graal) -> 21-4 
+*    Aventure de guilde 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-10](/fr/Main Story/Chapter 20_10/) 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-14](/fr/Main Story/Chapter 20_14/) 
+*    [Chapitre 21: Le Graal -> 21-4](/fr/Main Story/Chapter 21_4/) 
 
 ## This item contains:
 

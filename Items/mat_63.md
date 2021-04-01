@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure mythique"
 permalink: /Items/mat_63/
 excerpt: "Era of Chaos  Mercure mythique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_63.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 18 (Pacte avec le diable) -> 18-3 
-*    Chapitre 18 (Pacte avec le diable) -> 18-6 
-*    Chapitre 18 (Pacte avec le diable) -> 18-9 
+*    Aventure de guilde 
+*    [Chapitre 18: Pacte avec le diable -> 18-3](/fr/Main Story/Chapter 18_3/) 
+*    [Chapitre 18: Pacte avec le diable -> 18-6](/fr/Main Story/Chapter 18_6/) 
+*    [Chapitre 18: Pacte avec le diable -> 18-9](/fr/Main Story/Chapter 18_9/) 
 
 ## This item contains:
 

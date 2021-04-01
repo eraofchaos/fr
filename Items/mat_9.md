@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre ordinaire"
 permalink: /Items/mat_9/
 excerpt: "Era of Chaos  Soufre ordinaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_9.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 2 (Le retour de la Reine) -> 2-5 
-*    Chapitre 2 (Le retour de la Reine) -> 2-9 
-*    Chapitre 3 (Ange gardien) -> 3-4 
+*    Aventure de guilde 
+*    [Chapitre 2: Le retour de la Reine -> 2-5](/fr/Main Story/Chapter 2_5/) 
+*    [Chapitre 2: Le retour de la Reine -> 2-9](/fr/Main Story/Chapter 2_9/) 
+*    [Chapitre 3: Ange gardien -> 3-4](/fr/Main Story/Chapter 3_4/) 
 
 ## This item contains:
 

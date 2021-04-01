@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai stellaire"
 permalink: /Items/mat_89/
 excerpt: "Era of Chaos  Minerai stellaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_89.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 26 (Commandement prolongé) -> 26-7 
+*    Aventure de guilde 
+*    [Chapitre 26: Commandement prolongé -> 26-7](/fr/Main Story/Chapter 26_7/) 
 
 ## This item contains:
 

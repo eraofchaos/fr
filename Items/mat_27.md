@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois précieux"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Bois précieux"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_27.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 8 (Les régions frontalières) -> 8-2 
-*    Chapitre 8 (Les régions frontalières) -> 8-5 
-*    Chapitre 8 (Les régions frontalières) -> 8-8 
+*    Aventure de guilde 
+*    [Chapitre 8: Les régions frontalières -> 8-2](/fr/Main Story/Chapter 8_2/) 
+*    [Chapitre 8: Les régions frontalières -> 8-5](/fr/Main Story/Chapter 8_5/) 
+*    [Chapitre 8: Les régions frontalières -> 8-8](/fr/Main Story/Chapter 8_8/) 
 
 ## This item contains:
 

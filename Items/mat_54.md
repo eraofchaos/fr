@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai légendaire"
 permalink: /Items/mat_54/
 excerpt: "Era of Chaos  Minerai légendaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_54.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-1 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-4 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-7 
+*    Aventure de guilde 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-1](/fr/Main Story/Chapter 16_1/) 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-4](/fr/Main Story/Chapter 16_4/) 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-7](/fr/Main Story/Chapter 16_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Items/Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Consumables.md"
 toc: false
@@ -45,56 +45,56 @@ classes: wide
   | 31 | [8 300 bonbons citrouille](/fr/Items/con_1826/){: .btn .btn--era4} | Gift | Octroie 8 300 bonbons citrouille et 250 diamants. |
   | 32 | [Abats de poisson du Hubei](/fr/Items/con_1223/){: .btn .btn--era3} | Event related | Des tripes de poissons moelleuses, de la vessie de poisson particulièrement tendre et de délicats foies de poisson sont cuits jusqu'à obtention d'une sauce parfumée. Le mariage de ces différentes textures offre une expérience gustative unique. Cependant, le contenu de cette marmite semble plutôt cru. |
   | 33 | [Acier draconique](/fr/Items/con_880/){: .btn .btn--era5} | Other | Utilisez un tas d'acier draconique (ressource de niveau 3) pour améliorer les casernes. |
-  | 34 | [Adelaïde - Chant de Noël](/fr/Items/con_1025/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Chant de Noël d'Adelaïde |
-  | 35 | [Amour immortel de Jeddite](/fr/Items/con_1076/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Amour immortel de Jeddite |
-  | 36 | [Archimage Adelaïde](/fr/Items/con_1024/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Archimage de Vori d'Adelaïde |
-  | 37 | [Argent](/fr/Items/con_942/){: .btn .btn--era5} | Unknown |  |
+  | 34 | [Adelaïde - Chant de Noël](/fr/Items/con_1025/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Chant de Noël d'Adelaïde |
+  | 35 | [Amour immortel de Jeddite](/fr/Items/con_1076/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Amour immortel de Jeddite |
+  | 36 | [Archimage Adelaïde](/fr/Items/con_1024/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Archimage de Vori d'Adelaïde |
+  | 37 | [Argent](/fr/Items/con_942/){: .btn .btn--era5} | VIP related |  |
   | 38 | [Argent étoilé](/fr/Items/con_969/){: .btn .btn--era5} | Other | Une pièce mystérieuse d'origine inconnue. On dit qu'il est possible de l'utiliser une seule fois pour obtenir de l'argent étoilé. |
   | 39 | [Argentile](/fr/Items/con_882/){: .btn .btn--era3} | Other | Utilisez un tas d'argentile (ressource de niveau 1) pour améliorer les casernes. |
-  | 40 | [Armure dorée : PhuThieu](/fr/Items/con_972/){: .btn .btn--era5} | Unknown |  |
+  | 40 | [Armure dorée : PhuThieu](/fr/Items/con_972/){: .btn .btn--era5} | Hero Avatar |  |
   | 41 | [Artefact orange cadeau aléatoire](/fr/Items/con_963/){: .btn .btn--era5} | Gift | Contient un artefact orange aléatoire. |
-  | 42 | [Astral le Magicien](/fr/Items/con_1067/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Astral le Magicien |
-  | 43 | [Avatar Née des cendres](/fr/Items/con_576/){: .btn .btn--era5} | Unknown | Permet de recevoir le skin et l'avatar Née des cendres de Luna |
-  | 44 | [Avatar d'Adelaïde](/fr/Items/con_581/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar d'Adelaïde |
-  | 45 | [Avatar d'Adjudicatrice - Fidèle](/fr/Items/con_584/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar Adjudicatrice - Fidèle |
-  | 46 | [Avatar d'Envol du dragon, Bond du lion](/fr/Items/con_873/){: .btn .btn--era5} | Unknown |  |
-  | 47 | [Avatar d'esquisse de l'Élémentaire des marées](/fr/Items/con_1099/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar effets spéciaux de l'Élémentaire des marées. |
-  | 48 | [Avatar d'esquisse du Monstre marin ancestral](/fr/Items/con_1103/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar effets spéciaux du Monstre marin ancestral. |
-  | 49 | [Avatar d'esquisse du Roi des pirates](/fr/Items/con_1101/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar effets spéciaux du Roi des pirates. |
-  | 50 | [Avatar d'Éclaireurs](/fr/Items/con_570/){: .btn .btn--era5} | Unknown | Permet de recevoir le skin et l'avatar d'Éclaireurs de Gelu |
-  | 51 | [Avatar de Capitaine](/fr/Items/con_566/){: .btn .btn--era5} | Unknown | Permet de recevoir le skin et l'avatar Capitaine de Catherine |
-  | 52 | [Avatar de Cassanbel](/fr/Items/con_588/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Cassanbel |
-  | 53 | [Avatar de Cassanbel - Envol du dragon](/fr/Items/con_870/){: .btn .btn--era5} | Unknown |  |
-  | 54 | [Avatar de Catherine](/fr/Items/con_561/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Catherine |
-  | 55 | [Avatar de Ciele](/fr/Items/con_585/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Ciele |
-  | 56 | [Avatar de Gelu](/fr/Items/con_562/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Gelu |
-  | 57 | [Avatar de Gem](/fr/Items/con_580/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Gem |
-  | 58 | [Avatar de Gem - Bond du lion](/fr/Items/con_874/){: .btn .btn--era5} | Unknown |  |
-  | 59 | [Avatar de Luna](/fr/Items/con_575/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Luna |
-  | 60 | [Avatar de Mante religieuse - Aura déferlante](/fr/Items/con_593/){: .btn .btn--era5} | Unknown |  |
-  | 61 | [Avatar de Mephala](/fr/Items/con_563/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Mephala |
-  | 62 | [Avatar de Rashka](/fr/Items/con_572/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Rashka |
-  | 63 | [Avatar de Sandro (humain)](/fr/Items/con_579/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Sandro (humain) |
-  | 64 | [Avatar de Sephinroth](/fr/Items/con_578/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Sephinroth |
-  | 65 | [Avatar de Shiva](/fr/Items/con_1007/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Shiva |
-  | 66 | [Avatar de Sorcière aux sucreries](/fr/Items/con_583/){: .btn .btn--era5} | Unknown | Avatar de Vidomina - Sorcière aux sucreries |
-  | 67 | [Avatar de Wystan](/fr/Items/con_582/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Wystan |
-  | 68 | [Avatar de Yog](/fr/Items/con_574/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Yog |
-  | 69 | [Avatar de l'Adjudicatrice](/fr/Items/con_597/){: .btn .btn--era5} | Unknown | À utiliser pour recevoir l'avatar de l'Adjudicatrice. |
-  | 70 | [Avatar de la Démone de glace](/fr/Items/con_596/){: .btn .btn--era5} | Unknown | À utiliser pour recevoir l'avatar de la Démone de glace. |
-  | 71 | [Avatar de la Sorcière maléfique](/fr/Items/con_599/){: .btn .btn--era5} | Unknown | À utiliser pour recevoir l'avatar de la Sorcière maléfique. |
-  | 72 | [Avatar de tireur d'élite féminin](/fr/Items/con_565/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de la Tireuse d'élite |
-  | 73 | [Avatar de tireur d'élite masculin](/fr/Items/con_564/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar du Tireur d'élite |
-  | 74 | [Avatar du Champion](/fr/Items/con_586/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar du Champion de Sephinroth |
-  | 75 | [Avatar du Duc d'or](/fr/Items/con_571/){: .btn .btn--era5} | Unknown | Permet de recevoir le skin et l'avatar Duc d'or de Crag Hack |
-  | 76 | [Avatar du Fils de la forêt](/fr/Items/con_567/){: .btn .btn--era5} | Unknown | Permet de recevoir le skin et l'avatar Fils de la forêt de Ryland |
-  | 77 | [Avatar du Troll](/fr/Items/con_598/){: .btn .btn--era5} | Unknown | À utiliser pour recevoir l'avatar du Troll. |
-  | 78 | [Avatar du Tyran de cendre](/fr/Items/con_568/){: .btn .btn--era5} | Unknown | Permet de recevoir le skin et l'avatar Tyran de cendre de Rashka |
-  | 79 | [Avatar du champion](/fr/Items/con_577/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar du Champion de Mephala |
-  | 80 | [Avatar du cristal de glace](/fr/Items/con_569/){: .btn .btn--era5} | Unknown | Permet de recevoir le skin et l'avatar Cristal de glace d'Adelaïde |
+  | 42 | [Astral le Magicien](/fr/Items/con_1067/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Astral le Magicien |
+  | 43 | [Avatar Née des cendres](/fr/Items/con_576/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar Née des cendres de Luna |
+  | 44 | [Avatar d'Adelaïde](/fr/Items/con_581/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar d'Adelaïde |
+  | 45 | [Avatar d'Adjudicatrice - Fidèle](/fr/Items/con_584/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar Adjudicatrice - Fidèle |
+  | 46 | [Avatar d'Envol du dragon, Bond du lion](/fr/Items/con_873/){: .btn .btn--era5} | Hero Avatar |  |
+  | 47 | [Avatar d'esquisse de l'Élémentaire des marées](/fr/Items/con_1099/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar effets spéciaux de l'Élémentaire des marées. |
+  | 48 | [Avatar d'esquisse du Monstre marin ancestral](/fr/Items/con_1103/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar effets spéciaux du Monstre marin ancestral. |
+  | 49 | [Avatar d'esquisse du Roi des pirates](/fr/Items/con_1101/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar effets spéciaux du Roi des pirates. |
+  | 50 | [Avatar d'Éclaireurs](/fr/Items/con_570/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar d'Éclaireurs de Gelu |
+  | 51 | [Avatar de Capitaine](/fr/Items/con_566/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar Capitaine de Catherine |
+  | 52 | [Avatar de Cassanbel](/fr/Items/con_588/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Cassanbel |
+  | 53 | [Avatar de Cassanbel - Envol du dragon](/fr/Items/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 54 | [Avatar de Catherine](/fr/Items/con_561/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Catherine |
+  | 55 | [Avatar de Ciele](/fr/Items/con_585/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Ciele |
+  | 56 | [Avatar de Gelu](/fr/Items/con_562/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Gelu |
+  | 57 | [Avatar de Gem](/fr/Items/con_580/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Gem |
+  | 58 | [Avatar de Gem - Bond du lion](/fr/Items/con_874/){: .btn .btn--era5} | Hero Avatar |  |
+  | 59 | [Avatar de Luna](/fr/Items/con_575/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Luna |
+  | 60 | [Avatar de Mante religieuse - Aura déferlante](/fr/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 61 | [Avatar de Mephala](/fr/Items/con_563/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Mephala |
+  | 62 | [Avatar de Rashka](/fr/Items/con_572/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Rashka |
+  | 63 | [Avatar de Sandro (humain)](/fr/Items/con_579/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Sandro (humain) |
+  | 64 | [Avatar de Sephinroth](/fr/Items/con_578/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Sephinroth |
+  | 65 | [Avatar de Shiva](/fr/Items/con_1007/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Shiva |
+  | 66 | [Avatar de Sorcière aux sucreries](/fr/Items/con_583/){: .btn .btn--era5} | Hero Avatar | Avatar de Vidomina - Sorcière aux sucreries |
+  | 67 | [Avatar de Wystan](/fr/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Wystan |
+  | 68 | [Avatar de Yog](/fr/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Yog |
+  | 69 | [Avatar de l'Adjudicatrice](/fr/Items/con_597/){: .btn .btn--era5} | Hero Avatar | À utiliser pour recevoir l'avatar de l'Adjudicatrice. |
+  | 70 | [Avatar de la Démone de glace](/fr/Items/con_596/){: .btn .btn--era5} | Hero Avatar | À utiliser pour recevoir l'avatar de la Démone de glace. |
+  | 71 | [Avatar de la Sorcière maléfique](/fr/Items/con_599/){: .btn .btn--era5} | Hero Avatar | À utiliser pour recevoir l'avatar de la Sorcière maléfique. |
+  | 72 | [Avatar de tireur d'élite féminin](/fr/Items/con_565/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de la Tireuse d'élite |
+  | 73 | [Avatar de tireur d'élite masculin](/fr/Items/con_564/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar du Tireur d'élite |
+  | 74 | [Avatar du Champion](/fr/Items/con_586/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar du Champion de Sephinroth |
+  | 75 | [Avatar du Duc d'or](/fr/Items/con_571/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar Duc d'or de Crag Hack |
+  | 76 | [Avatar du Fils de la forêt](/fr/Items/con_567/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar Fils de la forêt de Ryland |
+  | 77 | [Avatar du Troll](/fr/Items/con_598/){: .btn .btn--era5} | Hero Avatar | À utiliser pour recevoir l'avatar du Troll. |
+  | 78 | [Avatar du Tyran de cendre](/fr/Items/con_568/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar Tyran de cendre de Rashka |
+  | 79 | [Avatar du champion](/fr/Items/con_577/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar du Champion de Mephala |
+  | 80 | [Avatar du cristal de glace](/fr/Items/con_569/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar Cristal de glace d'Adelaïde |
   | 81 | [Boisson du Nouvel An](/fr/Items/con_553/){: .btn .btn--era4} | Event related | Objet spécial du Nouvel An. Vous pouvez l'échanger contre des objets rares pendant l'événement. |
   | 82 | [Bon de Fan](/fr/Items/con_878/){: .btn .btn--era5} | Other | Ressources octroyées uniquement aux plus grands adeptes de La Bataille des Dieux. |
-  | 83 | [Bon de fan](/fr/Items/con_908/){: .btn .btn--era9} | Unknown | Bon de fan |
+  | 83 | [Bon de fan](/fr/Items/con_908/){: .btn .btn--era9} | VIP related | Bon de fan |
   | 84 | [Bon de réduction](/fr/Items/con_945/){: .btn .btn--era4} | Other | Bon utilisable dans l'événement Mer guérisseuse. |
   | 85 | [Bonbon bleu](/fr/Items/con_551/){: .btn .btn--era4} | Event related | Un bonbon bleu joliment emballé. Peut être utilisé lors de l'événement Double réduction du Nouvel An. |
   | 86 | [Bonbon citrouille](/fr/Items/con_1086/){: .btn .btn--era4} | Event related | Sucrerie disponible pendant Halloween. Particulièrement apprécié par une certaine Revenante de la ville principale... |
@@ -148,18 +148,18 @@ classes: wide
   | 134 | [Carte de recrutement](/fr/Items/con_1908/){: .btn .btn--era5} | Gift | Octroie les éléments suivants chaque jour pendant les 7 jours suivant l'achat : 1 clé d'or, 1 clé d'argent et 40 diamants. |
   | 135 | [Carte de sort](/fr/Items/con_1909/){: .btn .btn--era5} | Gift | Octroie les éléments suivants chaque jour pendant les 7 jours suivant l'achat : 3 coffres de jetons de sort orange à sélectionner et 45 diamants. |
   | 136 | [Cartes du destin](/fr/Items/con_698/){: .btn .btn--era4} | Event related | Carte qui pourrait sceller votre destin. |
-  | 137 | [Cassanbel - Été palpitant](/fr/Items/con_1080/){: .btn .btn--era5} | Unknown | Ange de l'Amour naissant |
-  | 138 | [Catherine - Ailes du Triomphe](/fr/Items/con_1032/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Ailes du Triomphe de Catherine |
-  | 139 | [Catherine - Aristocrate](/fr/Items/con_1031/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Aristocrate de Catherine |
-  | 140 | [Catherine - Capitaine](/fr/Items/con_1029/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Capitaine de Catherine |
-  | 141 | [Catherine - Mariage royal](/fr/Items/con_1030/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Mariage royal de Catherine |
-  | 142 | [Centaure - Gardien de la forêt](/fr/Items/con_1978/){: .btn .btn--era5} | Unknown | Octroie le skin Gardien de la forêt du Centaure. |
+  | 137 | [Cassanbel - Été palpitant](/fr/Items/con_1080/){: .btn .btn--era5} | Special Skin | Ange de l'Amour naissant |
+  | 138 | [Catherine - Ailes du Triomphe](/fr/Items/con_1032/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Ailes du Triomphe de Catherine |
+  | 139 | [Catherine - Aristocrate](/fr/Items/con_1031/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Aristocrate de Catherine |
+  | 140 | [Catherine - Capitaine](/fr/Items/con_1029/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Capitaine de Catherine |
+  | 141 | [Catherine - Mariage royal](/fr/Items/con_1030/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Mariage royal de Catherine |
+  | 142 | [Centaure - Gardien de la forêt](/fr/Items/con_1978/){: .btn .btn--era5} | Unit Skin | Octroie le skin Gardien de la forêt du Centaure. |
   | 143 | [Certificat de gloire](/fr/Items/con_933/){: .btn .btn--era5} | Other | Certificat de gloire. S'obtient via les récompenses et les résultats quotidiens de l'Arène glorieuse. |
   | 144 | [Certificat divin](/fr/Items/con_958/){: .btn .btn--era5} | Other | Le certificat divin, la récompense de rang de la saison de l'Arène glorieuse. |
-  | 145 | [Champion d'Adelaïde](/fr/Items/con_1026/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Champion d'Adelaïde |
-  | 146 | [Champion de Sephinroth](/fr/Items/con_1077/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Champion de Sephinroth |
-  | 147 | [Championne Mephala](/fr/Items/con_1043/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Championne de Mephala |
-  | 148 | [Chant de Noël](/fr/Items/con_1058/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Chant de Noël de Crag Hack |
+  | 145 | [Champion d'Adelaïde](/fr/Items/con_1026/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Champion d'Adelaïde |
+  | 146 | [Champion de Sephinroth](/fr/Items/con_1077/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Champion de Sephinroth |
+  | 147 | [Championne Mephala](/fr/Items/con_1043/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Championne de Mephala |
+  | 148 | [Chant de Noël](/fr/Items/con_1058/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Chant de Noël de Crag Hack |
   | 149 | [Chapeau de Noël](/fr/Items/con_811/){: .btn .btn--era4} | Event related | Disponible à Noël. À échanger contre le skin Adelaïde - Noël personnalisé. |
   | 150 | [Chaussettes de Noël](/fr/Items/con_1091/){: .btn .btn--era4} | Event related | Objet de l'événement Roue de Noël. Peut être échangé contre des récompenses durant l'événement. |
   | 151 | [Ciele - Vega](/fr/Items/con_1809/){: .btn .btn--era4} | Gift | Octroie 1 980 diamants et 1 skin Vega de Ciele. |
@@ -190,7 +190,7 @@ classes: wide
   | 176 | [Coffre (Tour)](/fr/Items/con_1274/){: .btn .btn--era4} | Gift | Recevez un jeton d'unité aléatoire de la Tour. |
   | 177 | [Coffre (bête magique)](/fr/Items/con_1521/){: .btn .btn--era6} | Gift | Un coffre fabriqué par un maître forgeron. Seuls les seigneurs ayant un Golem dragon peuvent l'ouvrir. |
   | 178 | [Coffre (cœur avide)](/fr/Items/con_1519/){: .btn .btn--era5} | Gift | Un coffre maudit par le pouvoir de la marée. Seuls les seigneurs ayant une Arbalétrière de Regna peuvent l'ouvrir. |
-  | 179 | [Coffre (essence de Squelette)](/fr/Items/con_1327/){: .btn .btn--era4} | Unknown | A 50 % de chance de produire un jeton Vidomina ! |
+  | 179 | [Coffre (essence de Squelette)](/fr/Items/con_1327/){: .btn .btn--era4} | Unit Essence | A 50 % de chance de produire un jeton Vidomina ! |
   | 180 | [Coffre (faux du diable)](/fr/Items/con_1527/){: .btn .btn--era5} | Gift | À utiliser pour obtenir jeton aléatoire de Faux du Diable x1 ou jeton de Faux du Diable x2. |
   | 181 | [Coffre (mana)](/fr/Items/con_1335/){: .btn .btn--era4} | Gift | À utiliser pour recevoir l'Amulette de mana, le Talisman de mana et l'Orbe mystique de mana. |
   | 182 | [Coffre (miracle céleste)](/fr/Items/con_1407/){: .btn .btn--era5} | Gift | Seuls les seigneurs possédant un Ange peuvent utiliser le coffre mystique fait de luminosité céleste. |
@@ -279,7 +279,7 @@ classes: wide
   | 265 | [Coffre festif de luxe A](/fr/Items/con_1633/){: .btn .btn--era4} | Gift | Octroie 3 280 diamants, 25 clés d'or, 1 coffre de jetons d'unité SR+, 500 000 pièces d'or, 200 parchemins de sorts et 300 trèfles. |
   | 266 | [Coffre festif de luxe B](/fr/Items/con_1634/){: .btn .btn--era4} | Gift | Octroie 6 480 diamants, 50 clés d'or, 20 unités d'argent étoilé, 1 000 000 de pièces d'or, 20 pierres runiques en cristal violet et 600 trèfles. |
   | 267 | [Coffre glorieux](/fr/Items/con_1607/){: .btn .btn--era4} | Gift | A 50 % de chance de produire un jeton de Mullich. |
-  | 268 | [Coffre matériaux (basique)](/fr/Items/con_756/){: .btn .btn--era3} | Unknown | Délivre des objets normaux permettant d'améliorer l'équipement du joueur selon son niveau. |
+  | 268 | [Coffre matériaux (basique)](/fr/Items/con_756/){: .btn .btn--era3} | Material Chest | Délivre des objets normaux permettant d'améliorer l'équipement du joueur selon son niveau. |
   | 269 | [Coffre matériaux (blanc)](/fr/Items/con_1254/){: .btn .btn--era1} | Gift | Recevez un objet aléatoire pour améliorer l'équipement blanc. |
   | 270 | [Coffre matériaux (bleu +1)](/fr/Items/con_1257/){: .btn .btn--era3} | Gift | Recevez un objet aléatoire pour améliorer l'équipement bleu +1. |
   | 271 | [Coffre matériaux (bleu +2)](/fr/Items/con_1258/){: .btn .btn--era3} | Gift | Recevez un objet aléatoire pour améliorer l'équipement bleu +2. |
@@ -290,7 +290,7 @@ classes: wide
   | 276 | [Coffre matériaux (orange +4)](/fr/Items/con_1267/){: .btn .btn--era5} | Gift | Recevez un objet aléatoire pour améliorer l'équipement orange +4. |
   | 277 | [Coffre matériaux (orange +5)](/fr/Items/con_1268/){: .btn .btn--era5} | Gift | Recevez un objet aléatoire pour améliorer l'équipement orange +5. |
   | 278 | [Coffre matériaux (orange)](/fr/Items/con_1263/){: .btn .btn--era5} | Gift | Recevez un objet aléatoire pour améliorer l'équipement orange. |
-  | 279 | [Coffre matériaux (rare)](/fr/Items/con_757/){: .btn .btn--era4} | Unknown | Délivre des objets rares permettant d'améliorer l'équipement du joueur selon son niveau. |
+  | 279 | [Coffre matériaux (rare)](/fr/Items/con_757/){: .btn .btn--era4} | Material Chest | Délivre des objets rares permettant d'améliorer l'équipement du joueur selon son niveau. |
   | 280 | [Coffre matériaux (vert)](/fr/Items/con_1255/){: .btn .btn--era2} | Gift | Recevez un objet aléatoire pour améliorer l'équipement vert. |
   | 281 | [Coffre matériaux (violet +1)](/fr/Items/con_1260/){: .btn .btn--era4} | Gift | Recevez un objet aléatoire pour améliorer l'équipement violet +1. |
   | 282 | [Coffre matériaux (violet +2)](/fr/Items/con_1261/){: .btn .btn--era4} | Gift | Recevez un objet aléatoire pour améliorer l'équipement violet +2. |
@@ -308,60 +308,60 @@ classes: wide
   | 294 | [Collectionneur - Basique](/fr/Items/con_1107/){: .btn .btn--era5} | Gift | Collectionneur - Basique |
   | 295 | [Collectionneur - Expert](/fr/Items/con_1109/){: .btn .btn--era5} | Gift | Collectionneur - Expert |
   | 296 | [Collier en dents de bêtes](/fr/Items/con_796/){: .btn .btn--era4} | Event related | Collier fait à partir des crânes de bêtes puissantes. Vous pouvez l'échanger contre des objets de la faction Bastion lors des évènements correspondants. |
-  | 297 | [Commandante Mephala](/fr/Items/con_1041/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Commandante de Mephala |
+  | 297 | [Commandante Mephala](/fr/Items/con_1041/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Commandante de Mephala |
   | 298 | [Compensation pour la fusion des serveurs](/fr/Items/con_1448/){: .btn .btn--era4} | Gift | À utiliser pour obtenir diamant x500, pièces du festival x20, jeton universel x10, parchemin de temple x10 et cristal de sort x2. |
-  | 299 | [Crag Hack - Dieu de la Guerre viking](/fr/Items/con_1056/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Dieu de la Guerre viking de Crag Hack |
-  | 300 | [Crag Hack - Duc d'or](/fr/Items/con_1057/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Duc d'or de Crag Hack |
+  | 299 | [Crag Hack - Dieu de la Guerre viking](/fr/Items/con_1056/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Dieu de la Guerre viking de Crag Hack |
+  | 300 | [Crag Hack - Duc d'or](/fr/Items/con_1057/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Duc d'or de Crag Hack |
   | 301 | [Cristal blanc](/fr/Items/con_707/){: .btn .btn--era1} | Material | Mystérieuse pierre runique. Améliore légèrement les compétences de vos unités. Utilisez-la pour gagner 10 EXP de compétence. |
   | 302 | [Cristal bleu](/fr/Items/con_716/){: .btn .btn--era3} | Material | Mystérieuse pierre runique. Améliore les compétences de vos unités. Utilisez-la pour gagner 150 EXP de compétence. |
-  | 303 | [Cristal de glace : Adelaïde](/fr/Items/con_1023/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Cristal de glace d'Adelaïde |
-  | 304 | [Cristal de mémoire](/fr/Items/con_941/){: .btn .btn--era5} | Unknown | Les cristaux de mémoire sont obtenus grâce à l'extraction de souvenirs et peuvent être utilisés pour acheter des objets dans la boutique de souvenirs. |
+  | 303 | [Cristal de glace : Adelaïde](/fr/Items/con_1023/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Cristal de glace d'Adelaïde |
+  | 304 | [Cristal de mémoire](/fr/Items/con_941/){: .btn .btn--era5} | VIP related | Les cristaux de mémoire sont obtenus grâce à l'extraction de souvenirs et peuvent être utilisés pour acheter des objets dans la boutique de souvenirs. |
   | 305 | [Cristal de sang de dragon](/fr/Items/con_879/){: .btn .btn--era5} | Other | Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes. |
   | 306 | [Cristal du Conflux](/fr/Items/con_799/){: .btn .btn--era4} | Event related | Pierre de cristal façonnée par les pouvoirs de véritables élémentaires. Vous pouvez l'échanger contre des objets de la faction Conflux lors des évènements correspondants. |
-  | 307 | [Cristal magique](/fr/Items/con_895/){: .btn .btn--era4} | Unknown | Utilisez-les pour améliorer vos sorts dans la Guilde des mages. Gagnez en terminant des niveaux. |
+  | 307 | [Cristal magique](/fr/Items/con_895/){: .btn .btn--era4} | VIP related | Utilisez-les pour améliorer vos sorts dans la Guilde des mages. Gagnez en terminant des niveaux. |
   | 308 | [Cristal miroitant](/fr/Items/con_807/){: .btn .btn--era4} | Event related | Cristal défendu par de puissants dragons. Vous pouvez l'échanger contre des objets du Donjon lors des évènements correspondants. |
   | 309 | [Cristal orange](/fr/Items/con_730/){: .btn .btn--era5} | Material | Mystérieuse pierre runique. Améliore fortement les compétences de vos unités. Utilisez-la pour gagner 1 000 EXP de compétence. |
   | 310 | [Cristal sacré](/fr/Items/con_927/){: .btn .btn--era5} | Other | Cristal condensé surnaturel. À échanger contre du matériel rare dans la boutique interserveur. S'obtient dans l'Affrontement des Dieux interserveur. |
   | 311 | [Cristal spirituel](/fr/Items/con_924/){: .btn .btn--era5} | Other | Cristal spirituel. S'échange contre des Emblèmes sacrés dans la boutique d'échange Saisis ta chance. Obtenez-en en jouant à Saisis ta chance. |
   | 312 | [Cristal vert](/fr/Items/con_711/){: .btn .btn--era2} | Material | Mystérieuse pierre runique. Améliore un peu les compétences de vos unités. Utilisez-la pour gagner 50 EXP de compétence. |
   | 313 | [Cristal violet](/fr/Items/con_720/){: .btn .btn--era4} | Material | Mystérieuse pierre runique. Améliore de façon drastique les compétences de vos unités. Utilisez-la pour gagner 450 EXP de compétence. |
-  | 314 | [Diamant](/fr/Items/con_885/){: .btn .btn--era4} | Unknown | Les diamants sont synonymes de richesse. |
-  | 315 | [Diamant ](/fr/Items/con_898/){: .btn .btn--era9} | Unknown | Les diamants sont synonymes de richesse. |
+  | 314 | [Diamant](/fr/Items/con_885/){: .btn .btn--era4} | VIP related | Les diamants sont synonymes de richesse. |
+  | 315 | [Diamant ](/fr/Items/con_898/){: .btn .btn--era9} | VIP related | Les diamants sont synonymes de richesse. |
   | 316 | [Diamant ténébreux](/fr/Items/con_554/){: .btn .btn--era4} | Event related | S'obtient via les préparatifs pour la chasse au trésor ou par achat. Il permet d'accéder à une partie de chasse au trésor une fois. |
   | 317 | [Djinn](/fr/Items/con_1573/){: .btn .btn--era4} | Gift | Djinn |
   | 318 | [Dompteur du Destin (14 jours)](/fr/Items/con_1021/){: .btn .btn--era5} | Experience Card | Élément obtenu en remportant l'Affrontement des Dieux interserveur |
-  | 319 | [Don Mullich](/fr/Items/con_1028/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Don Mullich |
-  | 320 | [Dragon enchanté](/fr/Items/con_1073/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Constellation du Dragon enchanté de Mutare (dragon) |
-  | 321 | [Dé](/fr/Items/con_946/){: .btn .btn--era4} | Unknown | Magnifique dé utilisable dans l'événement Mer guérisseuse. |
-  | 322 | [Dé de chance](/fr/Items/con_891/){: .btn .btn--era4} | Unknown | À utiliser pour trouver des trésors cachés ! |
-  | 323 | [Défaites en combat](/fr/Items/con_893/){: .btn .btn--era4} | Unknown | Représente les dégâts subis lors des guerres de guildes. Une fois à 0, vous devez être réanimé. |
+  | 319 | [Don Mullich](/fr/Items/con_1028/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Don Mullich |
+  | 320 | [Dragon enchanté](/fr/Items/con_1073/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Constellation du Dragon enchanté de Mutare (dragon) |
+  | 321 | [Dé](/fr/Items/con_946/){: .btn .btn--era4} | VIP related | Magnifique dé utilisable dans l'événement Mer guérisseuse. |
+  | 322 | [Dé de chance](/fr/Items/con_891/){: .btn .btn--era4} | VIP related | À utiliser pour trouver des trésors cachés ! |
+  | 323 | [Défaites en combat](/fr/Items/con_893/){: .btn .btn--era4} | VIP related | Représente les dégâts subis lors des guerres de guildes. Une fois à 0, vous devez être réanimé. |
   | 324 | [EXP Carte Premium](/fr/Items/con_943/){: .btn .btn--era5} | Other | L'EXP de Carte Premium augmente le niveau de la Carte Premium active. |
-  | 325 | [EXP VIP](/fr/Items/con_888/){: .btn .btn--era5} | Unknown | L'EXP VIP est synonyme de dignité. |
-  | 326 | [EXP d'unité](/fr/Items/con_902/){: .btn .btn--era9} | Unknown | La montée en niveau des unités leur coûte de l'expérience. |
-  | 327 | [EXP de joueur](/fr/Items/con_897/){: .btn .btn--era4} | Unknown | Tout le monde aime engranger de l'expérience ! |
+  | 325 | [EXP VIP](/fr/Items/con_888/){: .btn .btn--era5} | VIP related | L'EXP VIP est synonyme de dignité. |
+  | 326 | [EXP d'unité](/fr/Items/con_902/){: .btn .btn--era9} | VIP related | La montée en niveau des unités leur coûte de l'expérience. |
+  | 327 | [EXP de joueur](/fr/Items/con_897/){: .btn .btn--era4} | VIP related | Tout le monde aime engranger de l'expérience ! |
   | 328 | [Eau divine](/fr/Items/con_959/){: .btn .btn--era5} | Other | Une ressource produite au cours des Épreuves de la statue sacrée et qui peut être utilisée pour acheter des objets dans la boutique. |
-  | 329 | [Elfe de Noël](/fr/Items/con_1074/){: .btn .btn--era5} | Unknown | Elfe de Noël qui joue avec des flocons de neige |
+  | 329 | [Elfe de Noël](/fr/Items/con_1074/){: .btn .btn--era5} | Special Skin | Elfe de Noël qui joue avec des flocons de neige |
   | 330 | [Emblème sacré bleu (aléatoire)](/fr/Items/con_1970/){: .btn .btn--era3} | Gift | Coffre d'Emblèmes sacrés bleus gagné à \"Saisis ta chance !\". Ouvrez-le pour obtenir soit une Envie bleue, soit un Autonyme oublié bleu. |
   | 331 | [Emblème sacré vert (aléatoire)](/fr/Items/con_1969/){: .btn .btn--era2} | Gift | Coffre d'Emblèmes sacrés verts gagné à \"Saisis ta chance !\". Ouvrez-le pour obtenir soit une Envie verte, soit un Autonyme oublié vert. |
   | 332 | [Ensemble Œil de faucon vivant en édition limitée](/fr/Items/con_1635/){: .btn .btn--era4} | Gift | Octroie 3 280 diamants, 1 Oiseau moqueur, 1 Anneau de vue perçante, 1 Guetteur et 1 Médaille de vérité. |
   | 333 | [Escarcelle d'or](/fr/Items/con_1563/){: .btn .btn--era3} | Gift | Pack de 77 777 pièces d'or. |
-  | 334 | [Essence (Attaque rapide)](/fr/Items/con_1113/){: .btn .btn--era3} | Unknown | Enregistre les secrets de bataille (niv. basique). Pour améliorer l'attaque rapide des unités. |
-  | 335 | [Essence (Attaque)](/fr/Items/con_1110/){: .btn .btn--era3} | Unknown | Enregistre les secrets de bataille (niv. basique). Pour améliorer l'attaque des unités. |
-  | 336 | [Essence (Augmentation des dégâts)](/fr/Items/con_1117/){: .btn .btn--era5} | Unknown | Enregistre les secrets de bataille (niv. expert). Pour améliorer les dégâts des unités. |
-  | 337 | [Essence (Coup critique)](/fr/Items/con_1115/){: .btn .btn--era4} | Unknown | Enregistre les secrets de bataille (niv. avancé). Pour améliorer les coups critiques des unités. |
-  | 338 | [Essence (Défense)](/fr/Items/con_1112/){: .btn .btn--era3} | Unknown | Enregistre les secrets de bataille (niv. basique). Pour améliorer la défense des unités. |
-  | 339 | [Essence (Esquive)](/fr/Items/con_1114/){: .btn .btn--era4} | Unknown | Enregistre les secrets de bataille (niv. avancé). Pour améliorer l'esquive des unités. |
-  | 340 | [Essence (Résistance aux dégâts)](/fr/Items/con_1116/){: .btn .btn--era5} | Unknown | Enregistre les secrets de bataille (niv. expert). Pour améliorer la résistance aux dégâts des unités. |
-  | 341 | [Essence (Résistance à la magie)](/fr/Items/con_1118/){: .btn .btn--era4} | Unknown | Enregistre les secrets de bataille (niv. avancé). Pour améliorer la résistance à la magie des unités. |
-  | 342 | [Essence (Survie)](/fr/Items/con_1111/){: .btn .btn--era3} | Unknown | Enregistre les secrets de bataille (niv. basique). Pour améliorer la survie des unités. |
+  | 334 | [Essence (Attaque rapide)](/fr/Items/con_1113/){: .btn .btn--era3} | Skill Essence | Enregistre les secrets de bataille (niv. basique). Pour améliorer l'attaque rapide des unités. |
+  | 335 | [Essence (Attaque)](/fr/Items/con_1110/){: .btn .btn--era3} | Skill Essence | Enregistre les secrets de bataille (niv. basique). Pour améliorer l'attaque des unités. |
+  | 336 | [Essence (Augmentation des dégâts)](/fr/Items/con_1117/){: .btn .btn--era5} | Skill Essence | Enregistre les secrets de bataille (niv. expert). Pour améliorer les dégâts des unités. |
+  | 337 | [Essence (Coup critique)](/fr/Items/con_1115/){: .btn .btn--era4} | Skill Essence | Enregistre les secrets de bataille (niv. avancé). Pour améliorer les coups critiques des unités. |
+  | 338 | [Essence (Défense)](/fr/Items/con_1112/){: .btn .btn--era3} | Skill Essence | Enregistre les secrets de bataille (niv. basique). Pour améliorer la défense des unités. |
+  | 339 | [Essence (Esquive)](/fr/Items/con_1114/){: .btn .btn--era4} | Skill Essence | Enregistre les secrets de bataille (niv. avancé). Pour améliorer l'esquive des unités. |
+  | 340 | [Essence (Résistance aux dégâts)](/fr/Items/con_1116/){: .btn .btn--era5} | Skill Essence | Enregistre les secrets de bataille (niv. expert). Pour améliorer la résistance aux dégâts des unités. |
+  | 341 | [Essence (Résistance à la magie)](/fr/Items/con_1118/){: .btn .btn--era4} | Skill Essence | Enregistre les secrets de bataille (niv. avancé). Pour améliorer la résistance à la magie des unités. |
+  | 342 | [Essence (Survie)](/fr/Items/con_1111/){: .btn .btn--era3} | Skill Essence | Enregistre les secrets de bataille (niv. basique). Pour améliorer la survie des unités. |
   | 343 | [Essence d'amélioration](/fr/Items/con_696/){: .btn .btn--era3} | Event related | Essence magique pure. Vous permet d'améliorer vos unités. |
-  | 344 | [Essence d'artefact](/fr/Items/con_905/){: .btn .btn--era5} | Unknown | Échangez votre essence d'artefact contre des artefacts chez le marchand d'artefacts. |
+  | 344 | [Essence d'artefact](/fr/Items/con_905/){: .btn .btn--era5} | VIP related | Échangez votre essence d'artefact contre des artefacts chez le marchand d'artefacts. |
   | 345 | [Expédition planétaire](/fr/Items/con_1094/){: .btn .btn--era5} | Gift | Permet de recevoir le cadre d'avatar Expédition planétaire. |
   | 346 | [Ezio : Révélations](/fr/Items/con_1817/){: .btn .btn--era4} | Gift | Octroie 980 diamants et 1 skin Ezio : Révélations. |
   | 347 | [Faveur des Dieux (14 jours)](/fr/Items/con_1020/){: .btn .btn--era5} | Experience Card | Élément obtenu en prenant la 2e place de l'Affrontement des Dieux interserveur |
   | 348 | [Ferveur](/fr/Items/con_954/){: .btn .btn--era5} | Other | Un objet servant à défier des boss pendant l'événement Attaque de la Crique. |
   | 349 | [Fiole d'énergie moyenne](/fr/Items/con_725/){: .btn .btn--era4} | EXP | Fiole contenant de l'essence d'artefact. Elle vous rapporte 20 essences d'artefact. |
-  | 350 | [Flèche](/fr/Items/con_890/){: .btn .btn--era4} | Unknown | Ce type de flèche est généralement utilisé par les Elfes sylvaines. |
+  | 350 | [Flèche](/fr/Items/con_890/){: .btn .btn--era4} | VIP related | Ce type de flèche est généralement utilisé par les Elfes sylvaines. |
   | 351 | [Fonds de la guilde](/fr/Items/con_930/){: .btn .btn--era4} | Other | S'obtient grâce aux dons. À utiliser pour renchérir sur une ville lors de Guerre des guildes interserveur. |
   | 352 | [Fondue aux champignons sauvages du Yunnan](/fr/Items/con_1184/){: .btn .btn--era3} | Event related | Les champignons sauvages de ce plat proviennent de l'environnement naturel délicat de la province du Yunnan. Cette simple marmite de soupe de poulet contient plus de 30 sortes de champignons comestibles qui mettent en valeur ses saveurs et sa richesse. Cependant, le contenu de cette marmite semble plutôt cru. |
   | 353 | [Fondue aux fruits de mer cantonaise](/fr/Items/con_1190/){: .btn .btn--era3} | Event related | Un large assortiment de fruits de mer est ajouté à un porridge constitué de bouillon d'os de porc et de pétoncles bouillis. Vous retrouverez dans ce plat toutes sortes de fruits de mer : du poisson, des crevettes, du crabe et divers crustacés. Une fois blanchis, tous ces aliments ont un goût incroyablement frais. Ce plat est une interprétation artistique de la gastronomie du Guangdong. Cependant, le contenu de cette marmite semble plutôt cru. |
@@ -381,16 +381,16 @@ classes: wide
   | 367 | [Fondue puante du Guizhou](/fr/Items/con_1247/){: .btn .btn--era3} | Event related | Les habitants de la préfecture buyei de Qiannan se transmettent cette recette de génération en génération. Pour la réaliser, divers légumes sont cuits ensemble, puis fermentés pendant un certain temps, jusqu'à obtention d'une préparation à l'odeur âcre et au goût acide. Cette préparation est ensuite utilisée pour préparer le bouillon de cette fondue. Cependant, le contenu de cette marmite semble plutôt cru. |
   | 368 | [Fondue vinaigrée de l'île de Hainan](/fr/Items/con_1250/){: .btn .btn--era3} | Event related | Cette fondue est inspirée d'un en-cas traditionnel de l'île de Hainan. Les restes du vinaigre ayant servi à la préparation des spiritueux sont utilisés pour réaliser ce bouillon. Divers fruits de mer et légumes sont ensuite ajoutés à ce plat légèrement épicé et plutôt doux au goût si particulier. Cependant, le contenu de cette marmite semble plutôt cru. |
   | 369 | [Fondue à la pâte de piment du Ningxia](/fr/Items/con_1214/){: .btn .btn--era3} | Event related | Les habitants de la région du Ningxia préparent ce plat en ajoutant des nouilles pimentées à un bouillon agrémenté de cacahuètes écrasées et de diverses épices. Tous les ingrédients de ce plat sont enveloppés d'une pâte pimentée particulièrement parfumée. Cependant, le contenu de cette marmite semble plutôt cru. |
-  | 370 | [Fée - Dame Fortune](/fr/Items/con_2001/){: .btn .btn--era5} | Unknown | Octroie le skin Dame Fortune de la Fée. |
+  | 370 | [Fée - Dame Fortune](/fr/Items/con_2001/){: .btn .btn--era5} | Unit Skin | Octroie le skin Dame Fortune de la Fée. |
   | 371 | [Fête semi-annuelle](/fr/Items/con_1447/){: .btn .btn--era4} | Gift | À utiliser pour obtenir skin Aristocrate de Catherine x1 et cadre d'avatar dieu Oiseau de feu x1. |
   | 372 | [GK : Ange Michael](/fr/Items/con_516/){: .btn .btn--era5} | Event related | Félicitations ! Vous avez un GK de l'Ange Michael. Nous vous enverrons l'objet réel dès que possible ! |
   | 373 | [GK : Duc Ivan](/fr/Items/con_515/){: .btn .btn--era5} | Event related | Félicitations ! Vous avez un GK du duc Ivan. Nous vous enverrons l'objet réel dès que possible ! |
-  | 374 | [Gelu - Ailes du Triomphe](/fr/Items/con_1040/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Gelu - Ailes du Triomphe |
-  | 375 | [Gelu - Fête du Printemps](/fr/Items/con_1039/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Gelu - Fête du printemps |
-  | 376 | [Gelu - Lame d'Armageddon](/fr/Items/con_1037/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Lame d'Armageddon de Gelu |
-  | 377 | [Gelu - Éclaireurs](/fr/Items/con_1038/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Éclaireurs de Gelu |
-  | 378 | [Gelu : Ailes du triomphe](/fr/Items/con_872/){: .btn .btn--era5} | Unknown |  |
-  | 379 | [Gem - Invitation au clair de lune](/fr/Items/con_1048/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Invitation au clair de lune de Gem |
+  | 374 | [Gelu - Ailes du Triomphe](/fr/Items/con_1040/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Gelu - Ailes du Triomphe |
+  | 375 | [Gelu - Fête du Printemps](/fr/Items/con_1039/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Gelu - Fête du printemps |
+  | 376 | [Gelu - Lame d'Armageddon](/fr/Items/con_1037/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Lame d'Armageddon de Gelu |
+  | 377 | [Gelu - Éclaireurs](/fr/Items/con_1038/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Éclaireurs de Gelu |
+  | 378 | [Gelu : Ailes du triomphe](/fr/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
+  | 379 | [Gem - Invitation au clair de lune](/fr/Items/con_1048/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Invitation au clair de lune de Gem |
   | 380 | [Gem - Joueuse de foot](/fr/Items/con_1807/){: .btn .btn--era4} | Gift | Octroie 1 980 diamants et 1 skin Joueuse de foot de Gem. |
   | 381 | [Gemme souterraine](/fr/Items/con_540/){: .btn .btn--era4} | Event related | Gemme faite de matériaux spéciaux obtenue dans un gisement. Peut être échangée contre des objets à la boutique d'échange. |
   | 382 | [Grand trésor d'arène](/fr/Items/con_719/){: .btn .btn--era4} | EXP | Coffre au trésor avec 60 pièces d'arène ! |
@@ -439,8 +439,8 @@ classes: wide
   | 425 | [Jeton d'unité SSR aléatoire](/fr/Items/con_1962/){: .btn .btn--era5} | Gift | Octroie au hasard 1 jeton d'Ange, de Dragon vert, de Béhémoth, de Dragon squelette, de Diable, de Naga, de Géant, d'Élémentaire de l'esprit ou de Dragon noir. |
   | 426 | [Jeton de connaissance](/fr/Items/con_911/){: .btn .btn--era5} | Other | Ressource à échanger contre des jetons de livres de sorts dans la boutique des livres de sorts. Obtenez-la en démantelant les livres de sorts. |
   | 427 | [Jeton de la roue de Noël](/fr/Items/con_1087/){: .btn .btn--era4} | Event related | Requis pour faire tourner la roue de Noël à durée limitée. |
-  | 428 | [Jeton de rapidité](/fr/Items/con_906/){: .btn .btn--era4} | Unknown | À utiliser pour accélérer de 30 minutes votre actuelle Quête du Chantier naval. |
-  | 429 | [Jeton universel](/fr/Items/con_1458/){: .btn .btn--era4} | Unknown | *33 % de chance d'obtenir un jeton universel ! |
+  | 428 | [Jeton de rapidité](/fr/Items/con_906/){: .btn .btn--era4} | Shipyard related | À utiliser pour accélérer de 30 minutes votre actuelle Quête du Chantier naval. |
+  | 429 | [Jeton universel](/fr/Items/con_1458/){: .btn .btn--era4} | Unit Essence | *33 % de chance d'obtenir un jeton universel ! |
   | 430 | [Jeton Écaille de Dragon noir](/fr/Items/con_993/){: .btn .btn--era5} | WEAPON PIECE | Jeton Écaille de Dragon noir d'une ancienne campagne pouvant être utilisé pour activer le potentiel exclusif général du Dragon noir : Écaille de Dragon noir. |
   | 431 | [Jeton Énergie de feu](/fr/Items/con_998/){: .btn .btn--era4} | WEAPON PIECE | Jeton Énergie de feu d'une ancienne campagne pouvant être utilisé pour activer le potentiel exclusif général de l'Élémentaire de Feu : Énergie de feu. |
   | 432 | [Jeton Épée](/fr/Items/con_912/){: .btn .btn--era4} | WEAPON PIECE | Jeton exclusif d'une ancienne campagne pouvant être utilisé pour activer le potentiel exclusif général de l'unité offensive : Épée. |
@@ -450,14 +450,14 @@ classes: wide
   | 436 | [Jetons de Héros aléatoires](/fr/Items/con_1435/){: .btn .btn--era5} | Gift | À utiliser pour obtenir des jetons de Héros aléatoires. |
   | 437 | [Jetons des plans](/fr/Items/con_910/){: .btn .btn--era5} | Other | Ces jetons, forgés par les élémentaires entre les plans au fil des ans, sont très précieux. Vous pouvez les échanger contre des objets.  |
   | 438 | [Kassandra : Amazone](/fr/Items/con_1819/){: .btn .btn--era4} | Gift | Octroie 980 diamants et 1 skin Kassandra : Amazone. |
-  | 439 | [Kilgor - Épée de givre](/fr/Items/con_1055/){: .btn .btn--era5} | Unknown | Octroie le skin Épée de givre de Kilgor. |
+  | 439 | [Kilgor - Épée de givre](/fr/Items/con_1055/){: .btn .btn--era5} | Special Skin | Octroie le skin Épée de givre de Kilgor. |
   | 440 | [La dinde](/fr/Items/con_1529/){: .btn .btn--era4} | Gift | Une délicieuse dinde dorée. Mangez-la pour vous remettre de vos combats. |
   | 441 | [Larme de l'océan](/fr/Items/con_955/){: .btn .btn--era5} | Other | Si vous utilisez la Larme de l'océan pour invoquer un boss pendant l'Attaque de la Crique, vous aurez plus de chances d'invoquer un boss rare, et donc d'obtenir de meilleures récompenses. |
-  | 442 | [Le Faucheur de Deyja](/fr/Items/con_1050/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Faucheur de Deyja du Seigneur Haart |
+  | 442 | [Le Faucheur de Deyja](/fr/Items/con_1050/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Faucheur de Deyja du Seigneur Haart |
   | 443 | [Lettre de recrutement](/fr/Items/con_965/){: .btn .btn--era5} | Event related | Les lettres de recrutement prouvent votre valeur et vous aideront à gagner la confiance des habitants du continent mystérieux. Vous pouvez recruter des unités à la taverne. |
   | 444 | [Lichen frais](/fr/Items/con_532/){: .btn .btn--era4} | Event related | Il s'agirait de la nourriture préférée des rennes. Emportez-en avec vous, et, avec un peu de chance, un renne viendra vous rejoindre en combat. |
   | 445 | [Livre des prières](/fr/Items/con_917/){: .btn .btn--era5} | Other | Jetez le sort pour réveiller la fontaine à sorts et recevoir une tentative de Prière de sort. |
-  | 446 | [Luna - Née des cendres](/fr/Items/con_1060/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Née des cendres de Luna |
+  | 446 | [Luna - Née des cendres](/fr/Items/con_1060/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Née des cendres de Luna |
   | 447 | [Magic](/fr/Items/con_861/){: .btn .btn--era5} | Event related | On raconte que récolter tous les mystérieux symboles des contrées lointaines ouvrirait la voie vers de nombreux trésors ! |
   | 448 | [Marmite en terre cuite du xian de Gao, dans la province du Sichuan](/fr/Items/con_1178/){: .btn .btn--era3} | Event related | Cette marmite en terre cuite est fabriquée à partir d'une terre unique qui ne se trouve que dans le xian de Gao. Cette céramique contient une variété d'oligoéléments bénéfiques pour le corps humain. Les aliments cuits dans cette marmite unique sont plus frais et plus croquants. Cependant, le contenu de celle-ci ne semble pas suffisamment cuit. |
   | 449 | [Marque incandescente](/fr/Items/con_948/){: .btn .btn--era4} | Other | Médaille récupérée lors de la capture de Roland. Peut être échangée contre d'intéressantes récompenses à la boutique de l'événement. |
@@ -468,18 +468,18 @@ classes: wide
   | 454 | [Matériaux de construction rares](/fr/Items/con_805/){: .btn .btn--era5} | Event related | Utilisé pour la construction de murs lors de la Défense de Steadwick |
   | 455 | [Matériaux de décoration de Pâques](/fr/Items/con_2118/){: .btn .btn--era4} | Event related | Un matériau de décoration obtenu dans un Œuf incandescent. Peut être utilisé pour décorer la ville principale pour Pâques. |
   | 456 | [Matériel de guerre](/fr/Items/con_919/){: .btn .btn--era4} | Other | Matériel de guerre. Utilisé pour améliorer les machines de guerre. |
-  | 457 | [Mephala - Rôdeuse de la forêt](/fr/Items/con_1042/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Rôdeuse de la forêt de Mephala |
+  | 457 | [Mephala - Rôdeuse de la forêt](/fr/Items/con_1042/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Rôdeuse de la forêt de Mephala |
   | 458 | [Might](/fr/Items/con_859/){: .btn .btn--era5} | Event related | On raconte que récolter tous les mystérieux symboles des contrées lointaines ouvrirait la voie vers de nombreux trésors ! |
   | 459 | [Minerai stellaire](/fr/Items/con_956/){: .btn .btn--era4} | Other | EXP de musée. Cumulez un certain nombre de points d'EXP pour augmenter le niveau du musée. |
   | 460 | [Mithril du néant](/fr/Items/con_817/){: .btn .btn--era4} | Event related | Une étrange météorite qui renferme une puissante énergie magique. Ce matériau est nécessaire pour forger les équipements magiques de qualité supérieure. |
-  | 461 | [Mouvement](/fr/Items/con_894/){: .btn .btn--era4} | Unknown | En route pour l'aventure ! |
-  | 462 | [Mullich d'Erathia](/fr/Items/con_1027/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Mullich d'Erathia |
+  | 461 | [Mouvement](/fr/Items/con_894/){: .btn .btn--era4} | VIP related | En route pour l'aventure ! |
+  | 462 | [Mullich d'Erathia](/fr/Items/con_1027/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Mullich d'Erathia |
   | 463 | [Médaille d'expédition](/fr/Items/con_960/){: .btn .btn--era5} | Other | Une médaille donnée aux Héros qui ont longtemps combattu en première ligne. À échanger contre des récompenses dans la boutique d'expédition. Toutes les médailles seront converties à la fin de la période d'À cor et à cri actuelle. |
   | 464 | [Médaille de Rôdeur](/fr/Items/con_795/){: .btn .btn--era4} | Event related | Souvenir du légendaire Rôdeur. Vous pouvez l'échanger contre des objets de la faction Rempart lors des évènements correspondants. |
   | 465 | [Médaille du labeur](/fr/Items/con_512/){: .btn .btn--era4} | Event related |  |
-  | 466 | [Médaille impériale](/fr/Items/con_904/){: .btn .btn--era9} | Unknown | Obtenez des médailles impériales en combattant dans des campagnes. |
+  | 466 | [Médaille impériale](/fr/Items/con_904/){: .btn .btn--era9} | VIP related | Obtenez des médailles impériales en combattant dans des campagnes. |
   | 467 | [Médaille royale](/fr/Items/con_794/){: .btn .btn--era4} | Event related | Médaille délivrée par la cour impériale d'Erathia. Vous pouvez l'échanger contre des objets de la faction Château lors des évènements correspondants. |
-  | 468 | [Noyau d'énergie](/fr/Items/con_931/){: .btn .btn--era5} | Unknown | À utiliser pour activer les nœuds de formation. |
+  | 468 | [Noyau d'énergie](/fr/Items/con_931/){: .btn .btn--era5} | Battle Formation | À utiliser pour activer les nœuds de formation. |
   | 469 | [Noyau de magma](/fr/Items/con_819/){: .btn .btn--era4} | Event related | Artefact récupéré pendant la capture de Xeron. Peut être utilisé pour améliorer un volcan. |
   | 470 | [Née des cendres](/fr/Items/con_1022/){: .btn .btn--era5} | Experience Card | Élément obtenu via l'Arène glorieuse |
   | 471 | [Obsidienne](/fr/Items/con_797/){: .btn .btn--era4} | Event related | Gemme exotique que l'on ne trouve que dans l'Hadès. Vous pouvez l'échanger contre des objets de la faction Hadès lors des évènements correspondants. |
@@ -580,9 +580,9 @@ classes: wide
   | 566 | [Offre spéciale à durée limitée Monsieur Citrouille](/fr/Items/con_1831/){: .btn .btn--era4} | Gift | Octroie 1 580 diamants, 1 skin Monsieur Citrouille du Chevalier noir et 5 jetons de Chevalier noir. |
   | 567 | [Offre Épée de givre](/fr/Items/con_1758/){: .btn .btn--era5} | Gift | Octroie 1 coffre de composants (Givre) et 3 880 diamants. |
   | 568 | [Offre à durée limitée sur Vidomina](/fr/Items/con_1564/){: .btn .btn--era4} | Gift | Confère Vidomina à 1 étoile, skin Sorcière aux sucreries, rune de groupement (Nécropole) x10, parchemin de sort x50 et parchemin de temple x2. |
-  | 569 | [Ogre - Patrouille nocturne de la nature](/fr/Items/con_1987/){: .btn .btn--era5} | Unknown | Octroie le skin Patrouille nocturne de la nature de l'Ogre. |
-  | 570 | [Or](/fr/Items/con_899/){: .btn .btn--era9} | Unknown | L'or étincelant a de nombreuses utilités. |
-  | 571 | [Oracle de Regna](/fr/Items/con_2117/){: .btn .btn--era5} | Unknown | À utiliser pour recevoir l'avatar de l'Oracle de Regna. |
+  | 569 | [Ogre - Patrouille nocturne de la nature](/fr/Items/con_1987/){: .btn .btn--era5} | Unit Skin | Octroie le skin Patrouille nocturne de la nature de l'Ogre. |
+  | 570 | [Or](/fr/Items/con_899/){: .btn .btn--era9} | VIP related | L'or étincelant a de nombreuses utilités. |
+  | 571 | [Oracle de Regna](/fr/Items/con_2117/){: .btn .btn--era5} | Hero Avatar | À utiliser pour recevoir l'avatar de l'Oracle de Regna. |
   | 572 | [Pack A Argent étoilé](/fr/Items/con_1575/){: .btn .btn--era4} | Gift | Acheter pour obtenir 5 unités d'argent étoilé |
   | 573 | [Pack A Édition limitée](/fr/Items/con_1578/){: .btn .btn--era4} | Gift | Acheter pour obtenir 120 diamants, 1 coffre de jetons aléatoires d'unités de l'Hadès, 120 points d'EXP VIP |
   | 574 | [Pack Acier draconique](/fr/Items/con_729/){: .btn .btn--era5} | EXP | Petit paquet cadeau avec une belle quantité d'acier draconique. Ouvrez-le pour recevoir 1 000 unités d'acier draconique. |
@@ -671,28 +671,28 @@ classes: wide
   | 657 | [Pack Unités SR](/fr/Items/con_1601/){: .btn .btn--era4} | Gift | Pack Unités SR |
   | 658 | [Pack Unités SR (Rempart & Bastion)](/fr/Items/con_1584/){: .btn .btn--era4} | Gift | Obtenez 80 jetons au hasard pour une unité : Garde sylvanien, Pégase, Licorne, Cyclope, Rock, Orque, Ogre. |
   | 659 | [Pack Vidomina](/fr/Items/con_1561/){: .btn .btn--era4} | Gift | Confère Vidomina à 1 étoile, rune de groupement (Nécropole) x10, parchemin de sort x50 et parchemin de temple x2. |
-  | 660 | [Pack bonus de gratitude](/fr/Items/con_2114/){: .btn .btn--era4} | Unknown | À utiliser pour pouvoir choisir 1 jeton d'arme universel. |
-  | 661 | [Pack cadeau Commandant mortel](/fr/Items/con_622/){: .btn .btn--era5} | Unknown | Contient le cadre Commandant mortel. En débloquant ce cadre, vous obtiendrez 30 diamants. |
-  | 662 | [Pack cadeau Commandant tactique](/fr/Items/con_621/){: .btn .btn--era5} | Unknown | Contient le cadre Commandant tactique. En débloquant ce cadre, vous obtiendrez 30 diamants. |
-  | 663 | [Pack cadeau de cadre d'avatar Amour du feu et de la glace](/fr/Items/con_629/){: .btn .btn--era5} | Unknown | Contient le cadre Amour du feu et de la glace. En débloquant ce cadre, vous obtiendrez 30 diamants. |
-  | 664 | [Pack cadeau de cadre d'avatar Bastion](/fr/Items/con_605/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Bastion ! |
-  | 665 | [Pack cadeau de cadre d'avatar Chasseur de trésors](/fr/Items/con_620/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Chasseur de trésors ! |
-  | 666 | [Pack cadeau de cadre d'avatar Château](/fr/Items/con_612/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Château ! |
-  | 667 | [Pack cadeau de cadre d'avatar Concurrent](/fr/Items/con_603/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Concurrent ! |
-  | 668 | [Pack cadeau de cadre d'avatar Cœur de feu](/fr/Items/con_624/){: .btn .btn--era5} | Unknown | Contient le cadre Cœur de feu. En débloquant ce cadre, vous obtiendrez 30 diamants. |
-  | 669 | [Pack cadeau de cadre d'avatar Cœur du Griffon](/fr/Items/con_607/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Cœur de Griffon ! |
-  | 670 | [Pack cadeau de cadre d'avatar Danse des lames](/fr/Items/con_627/){: .btn .btn--era5} | Unknown | Contient le cadre Danse des lames. En débloquant ce cadre, vous obtiendrez 30 diamants. |
-  | 671 | [Pack cadeau de cadre d'avatar Furie de la nature](/fr/Items/con_630/){: .btn .btn--era5} | Unknown | Contient le cadre Furie de la nature. En débloquant ce cadre, vous obtiendrez 30 diamants. |
-  | 672 | [Pack cadeau de cadre d'avatar Guerrier](/fr/Items/con_602/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Guerrier ! |
-  | 673 | [Pack cadeau de cadre d'avatar Hadès](/fr/Items/con_604/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Hadès ! |
-  | 674 | [Pack cadeau de cadre d'avatar Maître des sorts](/fr/Items/con_611/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Maître des sorts ! |
-  | 675 | [Pack cadeau de cadre d'avatar Nécropole](/fr/Items/con_614/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Nécropole ! |
-  | 676 | [Pack cadeau de cadre d'avatar Phoenix Nirvana](/fr/Items/con_618/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Phoenix Nirvana ! |
-  | 677 | [Pack cadeau de cadre d'avatar Rempart](/fr/Items/con_613/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Rempart ! |
-  | 678 | [Pack cadeau de cadre d'avatar Secrets du Sphinx](/fr/Items/con_626/){: .btn .btn--era5} | Unknown | Contient le cadre Secrets du Sphinx. En débloquant ce cadre, vous obtiendrez 30 diamants. |
-  | 679 | [Pack cadeau de cadre d'avatar Seigneur de guerre](/fr/Items/con_610/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Seigneur de guerre ! |
-  | 680 | [Pack cadeau de cadre d'avatar Seigneur des Cieux](/fr/Items/con_619/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Seigneur des Cieux ! |
-  | 681 | [Pack cadeau de cadre d'avatar Tour](/fr/Items/con_606/){: .btn .btn--era5} | Unknown | Contient un cadre d'avatar Tour ! |
+  | 660 | [Pack bonus de gratitude](/fr/Items/con_2114/){: .btn .btn--era4} | Weapon Token related | À utiliser pour pouvoir choisir 1 jeton d'arme universel. |
+  | 661 | [Pack cadeau Commandant mortel](/fr/Items/con_622/){: .btn .btn--era5} | Avatar frame | Contient le cadre Commandant mortel. En débloquant ce cadre, vous obtiendrez 30 diamants. |
+  | 662 | [Pack cadeau Commandant tactique](/fr/Items/con_621/){: .btn .btn--era5} | Avatar frame | Contient le cadre Commandant tactique. En débloquant ce cadre, vous obtiendrez 30 diamants. |
+  | 663 | [Pack cadeau de cadre d'avatar Amour du feu et de la glace](/fr/Items/con_629/){: .btn .btn--era5} | Avatar frame | Contient le cadre Amour du feu et de la glace. En débloquant ce cadre, vous obtiendrez 30 diamants. |
+  | 664 | [Pack cadeau de cadre d'avatar Bastion](/fr/Items/con_605/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Bastion ! |
+  | 665 | [Pack cadeau de cadre d'avatar Chasseur de trésors](/fr/Items/con_620/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Chasseur de trésors ! |
+  | 666 | [Pack cadeau de cadre d'avatar Château](/fr/Items/con_612/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Château ! |
+  | 667 | [Pack cadeau de cadre d'avatar Concurrent](/fr/Items/con_603/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Concurrent ! |
+  | 668 | [Pack cadeau de cadre d'avatar Cœur de feu](/fr/Items/con_624/){: .btn .btn--era5} | Avatar frame | Contient le cadre Cœur de feu. En débloquant ce cadre, vous obtiendrez 30 diamants. |
+  | 669 | [Pack cadeau de cadre d'avatar Cœur du Griffon](/fr/Items/con_607/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Cœur de Griffon ! |
+  | 670 | [Pack cadeau de cadre d'avatar Danse des lames](/fr/Items/con_627/){: .btn .btn--era5} | Avatar frame | Contient le cadre Danse des lames. En débloquant ce cadre, vous obtiendrez 30 diamants. |
+  | 671 | [Pack cadeau de cadre d'avatar Furie de la nature](/fr/Items/con_630/){: .btn .btn--era5} | Avatar frame | Contient le cadre Furie de la nature. En débloquant ce cadre, vous obtiendrez 30 diamants. |
+  | 672 | [Pack cadeau de cadre d'avatar Guerrier](/fr/Items/con_602/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Guerrier ! |
+  | 673 | [Pack cadeau de cadre d'avatar Hadès](/fr/Items/con_604/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Hadès ! |
+  | 674 | [Pack cadeau de cadre d'avatar Maître des sorts](/fr/Items/con_611/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Maître des sorts ! |
+  | 675 | [Pack cadeau de cadre d'avatar Nécropole](/fr/Items/con_614/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Nécropole ! |
+  | 676 | [Pack cadeau de cadre d'avatar Phoenix Nirvana](/fr/Items/con_618/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Phoenix Nirvana ! |
+  | 677 | [Pack cadeau de cadre d'avatar Rempart](/fr/Items/con_613/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Rempart ! |
+  | 678 | [Pack cadeau de cadre d'avatar Secrets du Sphinx](/fr/Items/con_626/){: .btn .btn--era5} | Avatar frame | Contient le cadre Secrets du Sphinx. En débloquant ce cadre, vous obtiendrez 30 diamants. |
+  | 679 | [Pack cadeau de cadre d'avatar Seigneur de guerre](/fr/Items/con_610/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Seigneur de guerre ! |
+  | 680 | [Pack cadeau de cadre d'avatar Seigneur des Cieux](/fr/Items/con_619/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Seigneur des Cieux ! |
+  | 681 | [Pack cadeau de cadre d'avatar Tour](/fr/Items/con_606/){: .btn .btn--era5} | Avatar frame | Contient un cadre d'avatar Tour ! |
   | 682 | [Pack céleste](/fr/Items/con_1752/){: .btn .btn--era5} | Gift | Octroie 1 coffre de composants céleste et 3 880 diamants. |
   | 683 | [Pack d'Emblème sacré orange à sélectionner](/fr/Items/con_1943/){: .btn .btn--era5} | Gift | À utiliser pour choisir 1 Emblème sacré orange. |
   | 684 | [Pack d'Emblème sacré à sélectionner](/fr/Items/con_1799/){: .btn .btn--era5} | Gift | À utiliser pour obtenir au choix l'un des nombreux Emblèmes sacrés. |
@@ -724,16 +724,16 @@ classes: wide
   | 710 | [Pack de Niv. sup. Squelette 2](/fr/Items/con_1560/){: .btn .btn--era4} | Gift | Confère jeton de Guerrier squelette x150, EXP d'unité x10 000, coffre de faction (Nécropole) x20, pierre runique en cristal violet x10 et or x100 000. |
   | 711 | [Pack de Niv. sup. Élémentaire de feu](/fr/Items/con_1565/){: .btn .btn--era4} | Gift | Confère jeton d'Élémentaire de feu x15. |
   | 712 | [Pack de Pâques](/fr/Items/con_1658/){: .btn .btn--era4} | Gift | Offre exclusive de Pâques. En plus des diamants et de l'EXP VIP correspondants, vous pouvez aussi recevoir de nombreuses clés d'or et des objets d'événement ! |
-  | 713 | [Pack de cadre d'avatar Adepte des mondanités](/fr/Items/con_631/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Adepte des mondanités. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 713 | [Pack de cadre d'avatar Adepte des mondanités](/fr/Items/con_631/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Adepte des mondanités. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
   | 714 | [Pack de cadre d'avatar En guerre](/fr/Items/con_1525/){: .btn .btn--era5} | Gift | Contient le cadre d'avatar En guerre. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 715 | [Pack de cadre d'avatar Maître de la magie](/fr/Items/con_633/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Maître de la magie. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 716 | [Pack de cadre d'avatar Maître de la terre](/fr/Items/con_636/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Maître de la terre. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 717 | [Pack de cadre d'avatar Maître des flammes](/fr/Items/con_635/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Maître des flammes. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 718 | [Pack de cadre d'avatar Maître du ciel](/fr/Items/con_637/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Maître du ciel. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 719 | [Pack de cadre d'avatar Maître du gel](/fr/Items/con_634/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Maître du gel. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 720 | [Pack de cadre d'avatar Maître du néant](/fr/Items/con_638/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Maître du néant. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 721 | [Pack de cadre d'avatar Messager céleste](/fr/Items/con_639/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Messager céleste. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
-  | 722 | [Pack de cadre d'avatar Noël blanc](/fr/Items/con_640/){: .btn .btn--era5} | Unknown | Contient le cadre d'avatar Noël blanc. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 715 | [Pack de cadre d'avatar Maître de la magie](/fr/Items/con_633/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Maître de la magie. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 716 | [Pack de cadre d'avatar Maître de la terre](/fr/Items/con_636/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Maître de la terre. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 717 | [Pack de cadre d'avatar Maître des flammes](/fr/Items/con_635/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Maître des flammes. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 718 | [Pack de cadre d'avatar Maître du ciel](/fr/Items/con_637/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Maître du ciel. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 719 | [Pack de cadre d'avatar Maître du gel](/fr/Items/con_634/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Maître du gel. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 720 | [Pack de cadre d'avatar Maître du néant](/fr/Items/con_638/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Maître du néant. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 721 | [Pack de cadre d'avatar Messager céleste](/fr/Items/con_639/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Messager céleste. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
+  | 722 | [Pack de cadre d'avatar Noël blanc](/fr/Items/con_640/){: .btn .btn--era5} | Avatar frame | Contient le cadre d'avatar Noël blanc. Vous obtiendrez 30 diamants à la place si le cadre d'avatar a déjà été déverrouillé. |
   | 723 | [Pack de clés d'or A](/fr/Items/con_1567/){: .btn .btn--era5} | Gift | 2 clés dorées et 680 diamants |
   | 724 | [Pack de clés d'or B](/fr/Items/con_1568/){: .btn .btn--era5} | Gift | 5 clés dorées et 1 530 diamants |
   | 725 | [Pack de clés d'or C](/fr/Items/con_1569/){: .btn .btn--era5} | Gift | 15 clés dorées et 1 980 diamants |
@@ -809,17 +809,17 @@ classes: wide
   | 795 | [Pack de ressources Travailleur D](/fr/Items/con_1677/){: .btn .btn--era5} | Gift | Offre exclusive de la fête du Travail. En plus des diamants et de l'EXP VIP correspondants, vous pouvez aussi recevoir de nombreuses clés d'or et des objets d'événement ! |
   | 796 | [Pack de ressources Travailleur E](/fr/Items/con_1678/){: .btn .btn--era5} | Gift | Offre exclusive de la fête du Travail. En plus des diamants et de l'EXP VIP correspondants, vous pouvez aussi recevoir de nombreuses clés d'or et des objets d'événement ! |
   | 797 | [Pack de runes spéciales](/fr/Items/con_1411/){: .btn .btn--era4} | Gift | Vous recevrez 5 pierres runiques en cristal violet, 5 pierres runiques en cristal bleu et 5 pierres runiques en cristal vert. |
-  | 798 | [Pack de récompense (diamants)](/fr/Items/con_557/){: .btn .btn--era5} | Unknown | Un pack de récompense rempli de diamants. Ouvrez-le pour tenter votre chance ! (Cet article sera supprimé à la fin de l'événement.) |
-  | 799 | [Pack de récompense (pièces)](/fr/Items/con_556/){: .btn .btn--era4} | Unknown | Un pack de récompense rempli de pièces. Ouvrez-le pour tenter votre chance ! (Cet article sera supprimé à la fin de l'événement.) |
+  | 798 | [Pack de récompense (diamants)](/fr/Items/con_557/){: .btn .btn--era5} | Event related | Un pack de récompense rempli de diamants. Ouvrez-le pour tenter votre chance ! (Cet article sera supprimé à la fin de l'événement.) |
+  | 799 | [Pack de récompense (pièces)](/fr/Items/con_556/){: .btn .btn--era4} | Event related | Un pack de récompense rempli de pièces. Ouvrez-le pour tenter votre chance ! (Cet article sera supprimé à la fin de l'événement.) |
   | 800 | [Pack de récompense de préinscription](/fr/Items/con_1337/){: .btn .btn--era5} | Gift | Symbole de gloire et de compétences. Déverrouillé après le niv. 40. À utiliser pour recevoir 800 unités d'argentile, 500 unités de sombracier et 200 unités d'acier draconique. |
-  | 801 | [Pack de récompense gratuit](/fr/Items/con_842/){: .btn .btn--era5} | Unknown | Niveau 3 de l'Épreuve des Anges terminé ! Envoyez gratuitement une enveloppe rouge aux membres de votre guilde ! |
+  | 801 | [Pack de récompense gratuit](/fr/Items/con_842/){: .btn .btn--era5} | Guild member gift | Niveau 3 de l'Épreuve des Anges terminé ! Envoyez gratuitement une enveloppe rouge aux membres de votre guilde ! |
   | 802 | [Pack de réconfort du Sphinx](/fr/Items/con_1129/){: .btn .btn--era4} | Gift | Coffre au trésor offert par le Sphinx en récompense. Peut-être contient-il quelque chose de précieux ? |
   | 803 | [Pack de skin - Seigneur Haart](/fr/Items/con_1592/){: .btn .btn--era4} | Gift | Permet d'obtenir le skin Faucheur de Deyja du Seigneur Haart. |
   | 804 | [Pack de soutien Héros](/fr/Items/con_1690/){: .btn .btn--era4} | Gift | Permet de choisir 1 jeton de Roland, de Sandro ou de Kilgor. |
   | 805 | [Pack de talents (ligne arrière)](/fr/Items/con_1401/){: .btn .btn--era4} | Gift | Utilisez ce pack et recevez 1 des 488 potions de talent d'unités de Lanceurs de sort/d'Arbalétriers/d'assaut. |
   | 806 | [Pack de talents (première ligne)](/fr/Items/con_1400/){: .btn .btn--era4} | Gift | Utilisez ce pack et recevez 1 des 488 potions de talent d'unités offensives/défensives/d'assaut. |
   | 807 | [Pack de talents universels](/fr/Items/con_1418/){: .btn .btn--era4} | Gift | À utiliser pour obtenir au choix : Talent Attaque, Défense, Assaut, Magie, Arbalétrier x100. |
-  | 808 | [Pack des Meilleurs commentateurs](/fr/Items/con_615/){: .btn .btn--era5} | Unknown | Récompenses de l'évènement des Meilleurs commentateurs. Ouvrez-le pour recevoir un cadre d'avatar. Vous obtiendrez 30 diamants à la place si le cadre de l'avatar a déjà été déverrouillé. |
+  | 808 | [Pack des Meilleurs commentateurs](/fr/Items/con_615/){: .btn .btn--era5} | Avatar frame | Récompenses de l'évènement des Meilleurs commentateurs. Ouvrez-le pour recevoir un cadre d'avatar. Vous obtiendrez 30 diamants à la place si le cadre de l'avatar a déjà été déverrouillé. |
   | 809 | [Pack diamants doublés A à durée limitée](/fr/Items/con_519/){: .btn .btn--era5} | Gift | Octroie 600 diamants et 50 000 pièces d'or. |
   | 810 | [Pack diamants doublés B à durée limitée](/fr/Items/con_520/){: .btn .btn--era5} | Gift | Octroie 1 360 diamants, 10 coffres du Bastion et 5 petites potions d'énergie. |
   | 811 | [Pack diamants doublés C à durée limitée](/fr/Items/con_521/){: .btn .btn--era5} | Gift | Octroie 2 560 diamants, 20 coffres du Bastion et 5 potions d'énergie moyennes. |
@@ -884,20 +884,20 @@ classes: wide
   | 870 | [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} | Event related | Parchemin mystérieux contenant un pouvoir magique pur. Indispensable aux Héros pour recevoir de puissantes compétences. |
   | 871 | [Pass Défi de l'arène](/fr/Items/con_695/){: .btn .btn--era3} | Event related | Seuls les plus chanceux trouveront ce précieux objet, qui leur donnera un accès supplémentaire à l'arène. |
   | 872 | [Pass Défi du Nouvel An](/fr/Items/con_867/){: .btn .btn--era5} | Event related | Un Pass Défi mystérieux disponible pendant l'événement du Nouvel An. Récoltez-en suffisamment pour accéder au niveau du Nouvel An à durée limitée. |
-  | 873 | [Pass mensuel (VIP)](/fr/Items/con_883/){: .btn .btn--era5} | Unknown | Objet mystérieux qui produit des richesses de façon continue. Seuls les plus chanceux l'obtiennent. |
-  | 874 | [Pass mensuel (basique)](/fr/Items/con_884/){: .btn .btn--era4} | Unknown | Objet mystérieux qui produit des richesses de façon continue. Seuls les plus chanceux l'obtiennent. |
-  | 875 | [Pays du Tarot](/fr/Items/con_1054/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Sandro (humain) au pays du Tarot |
-  | 876 | [Peau spéciale Arc de la Méduse](/fr/Items/con_659/){: .btn .btn--era4} | Unknown | La peau est déverrouillée lors de l'activation de l'Arc de la Méduse. |
-  | 877 | [Peau spéciale Faux du diable](/fr/Items/con_652/){: .btn .btn--era5} | Unknown | La peau est déverrouillée lors de l'activation de la Faux du diable. |
-  | 878 | [Peau spéciale Flamme éternelle](/fr/Items/con_669/){: .btn .btn--era4} | Unknown | La peau est déverrouillée lors de l'activation de la Flamme éternelle. |
-  | 879 | [Peau spéciale Hommage mortel](/fr/Items/con_646/){: .btn .btn--era4} | Unknown | La peau est déverrouillée lors de l'activation d'Hommage mortel. |
-  | 880 | [Peau spéciale Noyau d'énergie](/fr/Items/con_667/){: .btn .btn--era4} | Unknown | La peau est déverrouillée lors de l'activation du Noyau d'énergie. |
-  | 881 | [Peau spéciale Os de dragon immortel](/fr/Items/con_648/){: .btn .btn--era5} | Unknown | La peau est déverrouillée lors de l'activation de l'Os de dragon immortel. |
-  | 882 | [Peau spéciale Queue de scorpion](/fr/Items/con_660/){: .btn .btn--era4} | Unknown | La peau est déverrouillée lors de l'activation de la Queue de scorpion. |
-  | 883 | [Peau spéciale Sabre des limbes](/fr/Items/con_647/){: .btn .btn--era5} | Unknown | La peau est déverrouillée lors de l'activation du Sabre des limbes. |
-  | 884 | [Peau spéciale Écaille de Dragon noir](/fr/Items/con_661/){: .btn .btn--era5} | Unknown | La peau est déverrouillée lors de l'activation de l'Écaille de Dragon noir. |
-  | 885 | [Peau spéciale Énergie de feu](/fr/Items/con_666/){: .btn .btn--era4} | Unknown | La peau est déverrouillée lors de l'activation de l'Énergie de feu. |
-  | 886 | [Peau spéciale Épée Naga](/fr/Items/con_655/){: .btn .btn--era5} | Unknown | La peau est déverrouillée lors de l'activation de l'Épée Naga. |
+  | 873 | [Pass mensuel (VIP)](/fr/Items/con_883/){: .btn .btn--era5} | VIP related | Objet mystérieux qui produit des richesses de façon continue. Seuls les plus chanceux l'obtiennent. |
+  | 874 | [Pass mensuel (basique)](/fr/Items/con_884/){: .btn .btn--era4} | VIP related | Objet mystérieux qui produit des richesses de façon continue. Seuls les plus chanceux l'obtiennent. |
+  | 875 | [Pays du Tarot](/fr/Items/con_1054/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Sandro (humain) au pays du Tarot |
+  | 876 | [Peau spéciale Arc de la Méduse](/fr/Items/con_659/){: .btn .btn--era4} | Special Skin | La peau est déverrouillée lors de l'activation de l'Arc de la Méduse. |
+  | 877 | [Peau spéciale Faux du diable](/fr/Items/con_652/){: .btn .btn--era5} | Special Skin | La peau est déverrouillée lors de l'activation de la Faux du diable. |
+  | 878 | [Peau spéciale Flamme éternelle](/fr/Items/con_669/){: .btn .btn--era4} | Special Skin | La peau est déverrouillée lors de l'activation de la Flamme éternelle. |
+  | 879 | [Peau spéciale Hommage mortel](/fr/Items/con_646/){: .btn .btn--era4} | Special Skin | La peau est déverrouillée lors de l'activation d'Hommage mortel. |
+  | 880 | [Peau spéciale Noyau d'énergie](/fr/Items/con_667/){: .btn .btn--era4} | Special Skin | La peau est déverrouillée lors de l'activation du Noyau d'énergie. |
+  | 881 | [Peau spéciale Os de dragon immortel](/fr/Items/con_648/){: .btn .btn--era5} | Special Skin | La peau est déverrouillée lors de l'activation de l'Os de dragon immortel. |
+  | 882 | [Peau spéciale Queue de scorpion](/fr/Items/con_660/){: .btn .btn--era4} | Special Skin | La peau est déverrouillée lors de l'activation de la Queue de scorpion. |
+  | 883 | [Peau spéciale Sabre des limbes](/fr/Items/con_647/){: .btn .btn--era5} | Special Skin | La peau est déverrouillée lors de l'activation du Sabre des limbes. |
+  | 884 | [Peau spéciale Écaille de Dragon noir](/fr/Items/con_661/){: .btn .btn--era5} | Special Skin | La peau est déverrouillée lors de l'activation de l'Écaille de Dragon noir. |
+  | 885 | [Peau spéciale Énergie de feu](/fr/Items/con_666/){: .btn .btn--era4} | Special Skin | La peau est déverrouillée lors de l'activation de l'Énergie de feu. |
+  | 886 | [Peau spéciale Épée Naga](/fr/Items/con_655/){: .btn .btn--era5} | Special Skin | La peau est déverrouillée lors de l'activation de l'Épée Naga. |
   | 887 | [Perle étincelante](/fr/Items/con_527/){: .btn .btn--era4} | Event related | À échanger contre des pierres d'âme d'unité rares. |
   | 888 | [Permis de transformation du minerai](/fr/Items/con_699/){: .btn .btn--era5} | Gift |  |
   | 889 | [Petit trésor d'arène](/fr/Items/con_717/){: .btn .btn--era2} | EXP | Coffre au trésor avec 6 pièces d'arène ! |
@@ -905,11 +905,11 @@ classes: wide
   | 891 | [Petite fiole d'énergie](/fr/Items/con_724/){: .btn .btn--era4} | EXP | Fiole contenant un peu d'essence d'artefact. Elle vous rapporte 10 essences d'artefact. |
   | 892 | [Petite potion d'EXP](/fr/Items/con_701/){: .btn .btn--era2} | EXP | Une petite bouteille de potion d'EXP nuageuse. La boire vous fera gagner 300 EXP d'unité. |
   | 893 | [Petite potion d'énergie](/fr/Items/con_704/){: .btn .btn--era2} | EXP | Petite bouteille de potion d'énergie trouble. La boire vous fera gagner 6 points d'énergie. |
-  | 894 | [Pierre artificielle (Bonté)](/fr/Items/con_1124/){: .btn .btn--era5} | Unknown | Pierre artificielle (Bonté) : indispensable à la forge des Emblèmes sacrés de la bonté |
-  | 895 | [Pierre artificielle (Chaos)](/fr/Items/con_1126/){: .btn .btn--era5} | Unknown | Pierre artificielle (Chaos) : indispensable à la forge des Emblèmes sacrés du chaos |
-  | 896 | [Pierre artificielle (Mal)](/fr/Items/con_1127/){: .btn .btn--era5} | Unknown | Pierre artificielle (Mal) : indispensable à la forge des Emblèmes sacrés du mal |
-  | 897 | [Pierre artificielle (Neutralité)](/fr/Items/con_1125/){: .btn .btn--era5} | Unknown | Pierre artificielle (Neutralité) : indispensable à la forge des Emblèmes sacrés de la Neutralité |
-  | 898 | [Pierre artificielle (Ordre)](/fr/Items/con_1123/){: .btn .btn--era5} | Unknown | Pierre artificielle (Ordre) : indispensable à la forge des Emblèmes sacrés de l'ordre |
+  | 894 | [Pierre artificielle (Bonté)](/fr/Items/con_1124/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pierre artificielle (Bonté) : indispensable à la forge des Emblèmes sacrés de la bonté |
+  | 895 | [Pierre artificielle (Chaos)](/fr/Items/con_1126/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pierre artificielle (Chaos) : indispensable à la forge des Emblèmes sacrés du chaos |
+  | 896 | [Pierre artificielle (Mal)](/fr/Items/con_1127/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pierre artificielle (Mal) : indispensable à la forge des Emblèmes sacrés du mal |
+  | 897 | [Pierre artificielle (Neutralité)](/fr/Items/con_1125/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pierre artificielle (Neutralité) : indispensable à la forge des Emblèmes sacrés de la Neutralité |
+  | 898 | [Pierre artificielle (Ordre)](/fr/Items/con_1123/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pierre artificielle (Ordre) : indispensable à la forge des Emblèmes sacrés de l'ordre |
   | 899 | [Pierre calendaire](/fr/Items/con_813/){: .btn .btn--era4} | Event related | Une pierre calendaire travaillée avec soin. Vous pouvez l'échanger contre des objets de la Forteresse lors des évènements correspondants. |
   | 900 | [Pierre d'âme ](/fr/Items/con_923/){: .btn .btn--era4} | Other | Pierre d'âme. S'obtient en démantelant des Emblèmes sacrés. S'échange contre des objets dans la Boutique d'Emblèmes sacrés. |
   | 901 | [Pierre de raffinage](/fr/Items/con_814/){: .btn .btn--era4} | Artifact | Pierre de raffinage condensée avec de l'essence d'arme. Elle est utilisée pour fabriquer des objets puissants exclusifs. Obtenez-la en combattant dans l'Arène glorieuse. |
@@ -921,15 +921,15 @@ classes: wide
   | 907 | [Pièce UBI](/fr/Items/con_546/){: .btn .btn--era4} | Event related | Objet exclusif à l'événement. Peut être échangé contre des récompenses uniquement durant cet événement ! |
   | 908 | [Pièce commémorative](/fr/Items/con_877/){: .btn .btn--era5} | Other | Preuve de votre participation à La Bataille des Dieux. |
   | 909 | [Pièce d'argent de Regna](/fr/Items/con_952/){: .btn .btn--era5} | Other | Un objet récupéré lors de l'Attaque de la Crique. Sert à invoquer un boss pour le défier. |
-  | 910 | [Pièce d'arène](/fr/Items/con_903/){: .btn .btn--era9} | Unknown | Obtenez des pièces d'Arène en combattant dans l'Arène ou via les récompenses quotidiennes. |
+  | 910 | [Pièce d'arène](/fr/Items/con_903/){: .btn .btn--era9} | VIP related | Obtenez des pièces d'Arène en combattant dans l'Arène ou via les récompenses quotidiennes. |
   | 911 | [Pièce d'or de Regna](/fr/Items/con_951/){: .btn .btn--era5} | Other | Un objet récupéré lors de l'Attaque de la Crique. Sert à invoquer un boss pour le défier. |
-  | 912 | [Pièce de chance](/fr/Items/con_909/){: .btn .btn--era5} | Unknown | Pièce commémorative |
+  | 912 | [Pièce de chance](/fr/Items/con_909/){: .btn .btn--era5} | VIP related | Pièce commémorative |
   | 913 | [Pièce de cuivre de Regna](/fr/Items/con_953/){: .btn .btn--era5} | Other | Un objet récupéré lors de l'Attaque de la Crique. Sert à invoquer un boss pour le défier. |
-  | 914 | [Pièce de duel](/fr/Items/con_907/){: .btn .btn--era5} | Unknown | Obtenez des pièces de duel en jouant en mode Duel des Héros. |
+  | 914 | [Pièce de duel](/fr/Items/con_907/){: .btn .btn--era5} | VIP related | Obtenez des pièces de duel en jouant en mode Duel des Héros. |
   | 915 | [Pièce de gloire](/fr/Items/con_922/){: .btn .btn--era4} | Other | Lancées par la lumière glorieuse du Royaume. Obtenez-les en prenant part aux épreuves de combat du royaume. |
-  | 916 | [Pièce de guilde](/fr/Items/con_896/){: .btn .btn--era4} | Unknown | Échangez-les contre des objets dans la Boutique de Guilde. |
+  | 916 | [Pièce de guilde](/fr/Items/con_896/){: .btn .btn--era4} | VIP related | Échangez-les contre des objets dans la Boutique de Guilde. |
   | 917 | [Pièce de guilde interserveurs](/fr/Items/con_929/){: .btn .btn--era4} | Other | S'obtient en participant à Guerre des guildes interserveur. |
-  | 918 | [Pièce de ligue](/fr/Items/con_892/){: .btn .btn--era4} | Unknown | Obtenez des pièces de ligue en jouant en mode Duel de Champions ou via les récompenses saisonnières. |
+  | 918 | [Pièce de ligue](/fr/Items/con_892/){: .btn .btn--era4} | VIP related | Obtenez des pièces de ligue en jouant en mode Duel de Champions ou via les récompenses saisonnières. |
   | 919 | [Pièce de ravitaillement militaire](/fr/Items/con_921/){: .btn .btn--era4} | Other | Les pièces de ravitaillement militaire peuvent être dépensées pour produire des composants. |
   | 920 | [Pièces de connexion](/fr/Items/con_928/){: .btn .btn--era4} | Other | Échangez vos pièces rares contre différents objets dans la boutique de connexion. |
   | 921 | [Pièces de fête d'anniversaire](/fr/Items/con_514/){: .btn .btn--era4} | Event related | Objets exclusifs de la fête d'anniversaire, à échanger contre des objets d'évènement. |
@@ -958,18 +958,18 @@ classes: wide
   | 944 | [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/){: .btn .btn--era4} | Event related | Cette potion augmente les caractéristiques de vos Lanceurs de sorts et améliore leurs compétences. |
   | 945 | [Potion de talent (Offensive)](/fr/Items/con_786/){: .btn .btn--era4} | Event related | Cette potion augmente les caractéristiques de vos unités offensives et améliore leurs compétences. |
   | 946 | [Potions d'EXP du joueur](/fr/Items/con_676/){: .btn .btn--era2} | EXP | Requis pour améliorer le rang des Oiseaux de feu, unités d'aptitude SR. |
-  | 947 | [Puissance du Dragon patriarche](/fr/Items/con_1068/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Puissance du Dragon patriarche d'Astral. |
+  | 947 | [Puissance du Dragon patriarche](/fr/Items/con_1068/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Puissance du Dragon patriarche d'Astral. |
   | 948 | [Puissance du Dragon patriarche - Composant 1](/fr/Items/con_1346/){: .btn .btn--era5} | Gift | Coffre de composants de l'artefact Puissance du Dragon patriarche. Ouvrez-le pour recevoir l'Épée du Dragon rouge, la Couronne croc de Dragon ou le Collier dent de Dragon. |
   | 949 | [Puissance du Dragon patriarche - Composant 2](/fr/Items/con_1347/){: .btn .btn--era5} | Gift | Coffre de composants de l'artefact Puissance du Dragon patriarche. Ouvrez-le pour recevoir le Bouclier Dragon, l'Armure Dragon ou les Jambières Dragon. |
-  | 950 | [Rashka - Tyran de cendre](/fr/Items/con_1064/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Tyran de cendre de Rashka |
+  | 950 | [Rashka - Tyran de cendre](/fr/Items/con_1064/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Tyran de cendre de Rashka |
   | 951 | [Renne](/fr/Items/con_1088/){: .btn .btn--era4} | Event related | Objet de l'événement Roue de Noël. Peut être échangé contre des récompenses durant l'événement. |
   | 952 | [Renommée marine](/fr/Items/con_1096/){: .btn .btn--era5} | Gift | Permet de recevoir le cadre d'avatar effets spéciaux Renommée marine. |
   | 953 | [Ressources militaires](/fr/Items/con_1083/){: .btn .btn--era5} | Gift | Une récompense de Xeron pour la capture de Roland. Octroie des ressources précieuses aléatoires. |
   | 954 | [Retour](/fr/Items/con_863/){: .btn .btn--era5} | Event related | On raconte que récolter tous les mystérieux symboles des contrées lointaines ouvrirait la voie vers de nombreux trésors ! |
-  | 955 | [Roland - Mariage royal](/fr/Items/con_1035/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Mariage royal de Roland |
-  | 956 | [Roland - Nuit de moisson](/fr/Items/con_1034/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Nuit de moisson de Roland |
-  | 957 | [Roland - Prince indigent](/fr/Items/con_1033/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Prince indigent de Roland |
-  | 958 | [Roland - Père et fils](/fr/Items/con_1036/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Père et fils de Roland |
+  | 955 | [Roland - Mariage royal](/fr/Items/con_1035/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Mariage royal de Roland |
+  | 956 | [Roland - Nuit de moisson](/fr/Items/con_1034/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Nuit de moisson de Roland |
+  | 957 | [Roland - Prince indigent](/fr/Items/con_1033/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Prince indigent de Roland |
+  | 958 | [Roland - Père et fils](/fr/Items/con_1036/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Père et fils de Roland |
   | 959 | [Rose bleue](/fr/Items/con_801/){: .btn .btn--era4} | Event related |  |
   | 960 | [Rose de rayon de lune](/fr/Items/con_558/){: .btn .btn--era4} | Event related | Une rose exotique cueillie par un Héros le long du chemin de la campagne. Vous pouvez l'échanger contre des récompenses au cours de l'événement d'échange de roses de la Saint-Valentin 2021. |
   | 961 | [Rose rouge](/fr/Items/con_800/){: .btn .btn--era4} | Event related |  |
@@ -1000,8 +1000,8 @@ classes: wide
   | 986 | [Runes de groupement (Rempart)](/fr/Items/con_753/){: .btn .btn--era3} | Event related | Important pour améliorer le classement des unités du Rempart. |
   | 987 | [Runes de groupement (Tour)](/fr/Items/con_785/){: .btn .btn--era3} | Event related | Important pour améliorer le classement des unités de la Tour. |
   | 988 | [Runes de groupement (Énormes)](/fr/Items/con_750/){: .btn .btn--era3} | Event related | Important pour améliorer le classement des très grandes unités. |
-  | 989 | [Ryland - Fils de la forêt](/fr/Items/con_1044/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Fils de la forêt de Ryland |
-  | 990 | [Ryland - Gardien de Vernin](/fr/Items/con_1045/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Gardien de Vernin de Ryland |
+  | 989 | [Ryland - Fils de la forêt](/fr/Items/con_1044/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Fils de la forêt de Ryland |
+  | 990 | [Ryland - Gardien de Vernin](/fr/Items/con_1045/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Gardien de Vernin de Ryland |
   | 991 | [Récompense d'actualisation](/fr/Items/con_1968/){: .btn .btn--era4} | Gift | Actualisez la boutique d'Emblèmes sacrés 120 fois par semaine pour récupérer une récompense. Ouvrez-la pour recevoir un Emblème sacré violet au hasard. |
   | 992 | [Récompense de préinscription](/fr/Items/con_1384/){: .btn .btn--era5} | Gift | Voici une récompense de préinscription. |
   | 993 | [Répertoire des essences (avancé)](/fr/Items/con_1121/){: .btn .btn--era4} | Gift | Mystérieux livre des secrets. Renferme les secrets des compétences d'une unité avancée. |
@@ -1009,68 +1009,68 @@ classes: wide
   | 995 | [Sac d'or](/fr/Items/con_714/){: .btn .btn--era4} | EXP | Pack de 60 000 pièces d'or. |
   | 996 | [Sac de diamants](/fr/Items/con_710/){: .btn .btn--era4} | EXP | Pack de 128 diamants ! |
   | 997 | [Sachet de diamants](/fr/Items/con_708/){: .btn .btn--era2} | EXP | Pack de 38 diamants ! |
-  | 998 | [Sandro - Conspiration fatale](/fr/Items/con_1051/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Conspiration fatale de Sandro |
+  | 998 | [Sandro - Conspiration fatale](/fr/Items/con_1051/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Conspiration fatale de Sandro |
   | 999 | [Sapin de Noël](/fr/Items/con_1090/){: .btn .btn--era4} | Event related | Objet de l'événement Roue de Noël. Peut être échangé contre des récompenses durant l'événement. |
   | 1000 | [Sceau démoniaque](/fr/Items/con_793/){: .btn .btn--era4} | Event related | Sceau qui contient des pouvoirs mortels. Vous pouvez l'échanger contre des objets de la faction Nécropole lors des évènements correspondants. |
   | 1001 | [Sceau stellaire](/fr/Items/con_876/){: .btn .btn--era5} | Other | La puissance d'une étoile, éparpillée à travers Enroth, scellée dans de l'ambre. Peut briser le pouvoir des artefacts. |
-  | 1002 | [Seigneur Haart - Conspiration fatale](/fr/Items/con_1049/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Conspiration fatale du Seigneur Haart |
+  | 1002 | [Seigneur Haart - Conspiration fatale](/fr/Items/con_1049/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Conspiration fatale du Seigneur Haart |
   | 1003 | [Seigneur des mers](/fr/Items/con_1095/){: .btn .btn--era5} | Gift | Permet de recevoir le cadre d'avatar Seigneur des mers. |
   | 1004 | [Seigneur des océans](/fr/Items/con_1097/){: .btn .btn--era5} | Gift | Permet de recevoir le cadre d'avatar effets spéciaux Seigneur des océans. |
-  | 1005 | [Seigneur du givre](/fr/Items/con_1075/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Seigneur du givre de Mutare (dragon). |
-  | 1006 | [Shaman Yog](/fr/Items/con_1059/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Shaman de Yog |
+  | 1005 | [Seigneur du givre](/fr/Items/con_1075/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Seigneur du givre de Mutare (dragon). |
+  | 1006 | [Shaman Yog](/fr/Items/con_1059/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Shaman de Yog |
   | 1007 | [Shekel](/fr/Items/con_950/){: .btn .btn--era4} | Other | Un objet de la mer récupéré lors de l'Attaque de la Crique. Peut être échangé contre d'intéressantes récompenses à la boutique de l'événement. |
-  | 1008 | [Skin Armure dorée de l'Ange](/fr/Items/con_1974/){: .btn .btn--era5} | Unknown | Octroie le skin Armure dorée de l'Ange. |
-  | 1009 | [Skin Asura du Troll](/fr/Items/con_1989/){: .btn .btn--era5} | Unknown | Octroie le skin Asura du Troll. |
-  | 1010 | [Skin L'art des Vikings du Berserker](/fr/Items/con_1988/){: .btn .btn--era5} | Unknown | Octroie le skin L'art des Vikings du Berserker. |
-  | 1011 | [Skin Monsieur Citrouille du Chevalier noir](/fr/Items/con_1982/){: .btn .btn--era5} | Unknown | Octroie le skin Monsieur Citrouille du Chevalier noir. |
-  | 1012 | [Skin Nirvana éclatant de l'Oiseau de feu](/fr/Items/con_2002/){: .btn .btn--era5} | Unknown | Octroie le skin Nirvana éclatant de l'Oiseau de feu. |
-  | 1013 | [Skin Retour spectral du Chevalier noir](/fr/Items/con_1983/){: .btn .btn--era5} | Unknown | Octroie le skin Retour spectral du Chevalier noir. |
-  | 1014 | [Skin Seigneur de la glace de la Démone de glace](/fr/Items/con_2003/){: .btn .btn--era5} | Unknown | Octroie le skin Seigneur de la glace de la Démone de glace. |
-  | 1015 | [Skin Volcan des lamentations de la Tortue dragon](/fr/Items/con_2004/){: .btn .btn--era5} | Unknown | Octroie le skin Volcan des lamentations de la Tortue dragon. |
+  | 1008 | [Skin Armure dorée de l'Ange](/fr/Items/con_1974/){: .btn .btn--era5} | Unit Skin | Octroie le skin Armure dorée de l'Ange. |
+  | 1009 | [Skin Asura du Troll](/fr/Items/con_1989/){: .btn .btn--era5} | Unit Skin | Octroie le skin Asura du Troll. |
+  | 1010 | [Skin L'art des Vikings du Berserker](/fr/Items/con_1988/){: .btn .btn--era5} | Unit Skin | Octroie le skin L'art des Vikings du Berserker. |
+  | 1011 | [Skin Monsieur Citrouille du Chevalier noir](/fr/Items/con_1982/){: .btn .btn--era5} | Unit Skin | Octroie le skin Monsieur Citrouille du Chevalier noir. |
+  | 1012 | [Skin Nirvana éclatant de l'Oiseau de feu](/fr/Items/con_2002/){: .btn .btn--era5} | Unit Skin | Octroie le skin Nirvana éclatant de l'Oiseau de feu. |
+  | 1013 | [Skin Retour spectral du Chevalier noir](/fr/Items/con_1983/){: .btn .btn--era5} | Unit Skin | Octroie le skin Retour spectral du Chevalier noir. |
+  | 1014 | [Skin Seigneur de la glace de la Démone de glace](/fr/Items/con_2003/){: .btn .btn--era5} | Unit Skin | Octroie le skin Seigneur de la glace de la Démone de glace. |
+  | 1015 | [Skin Volcan des lamentations de la Tortue dragon](/fr/Items/con_2004/){: .btn .btn--era5} | Unit Skin | Octroie le skin Volcan des lamentations de la Tortue dragon. |
   | 1016 | [Skin d'Adelaïde - Chant de Noël (2 jours)](/fr/Items/con_1018/){: .btn .btn--era5} | Experience Card | Donne accès au skin d'Adelaïde - Chant de Noël pendant 2 jours. |
   | 1017 | [Skin de Catherine - Mariage royal (2 jours)](/fr/Items/con_1017/){: .btn .btn--era5} | Experience Card | Donne accès au skin de Catherine - Mariage royal pendant 2 jours. |
-  | 1018 | [Skin de Diable - Démon ailé](/fr/Items/con_1990/){: .btn .btn--era5} | Unknown | Contient le skin de Diable - Démon ailé. |
-  | 1019 | [Skin de Dragon de cristal de sang du Dragon rouge](/fr/Items/con_1996/){: .btn .btn--era5} | Unknown | Octroie le skin de Dragon de cristal de sang du Dragon rouge. |
-  | 1020 | [Skin de Dragon squelette - Dragon d'obsidienne](/fr/Items/con_1984/){: .btn .btn--era5} | Unknown | Octroie le skin Dragon d'obsidienne du Dragon squelette. |
-  | 1021 | [Skin de Gorgone - Gorgone du tonnerre](/fr/Items/con_1998/){: .btn .btn--era5} | Unknown | Contient le skin de Gorgone - Gorgone du tonnerre. |
+  | 1018 | [Skin de Diable - Démon ailé](/fr/Items/con_1990/){: .btn .btn--era5} | Unit Skin | Contient le skin de Diable - Démon ailé. |
+  | 1019 | [Skin de Dragon de cristal de sang du Dragon rouge](/fr/Items/con_1996/){: .btn .btn--era5} | Unit Skin | Octroie le skin de Dragon de cristal de sang du Dragon rouge. |
+  | 1020 | [Skin de Dragon squelette - Dragon d'obsidienne](/fr/Items/con_1984/){: .btn .btn--era5} | Unit Skin | Octroie le skin Dragon d'obsidienne du Dragon squelette. |
+  | 1021 | [Skin de Gorgone - Gorgone du tonnerre](/fr/Items/con_1998/){: .btn .btn--era5} | Unit Skin | Contient le skin de Gorgone - Gorgone du tonnerre. |
   | 1022 | [Skin de Kilgor - Givre](/fr/Items/con_1704/){: .btn .btn--era4} | Gift | Octroie 1 980 diamants et 1 skin Épée de givre de Kilgor. |
-  | 1023 | [Skin de Moine - Saint converti](/fr/Items/con_1972/){: .btn .btn--era5} | Unknown | Contient le skin de Moine - Saint converti. |
+  | 1023 | [Skin de Moine - Saint converti](/fr/Items/con_1972/){: .btn .btn--era5} | Unit Skin | Contient le skin de Moine - Saint converti. |
   | 1024 | [Skin de Moine - Saint converti (2 jours)](/fr/Items/con_1014/){: .btn .btn--era5} | Experience Card | Donne accès au skin de Moine - Saint converti pendant 2 jours. |
-  | 1025 | [Skin de Naga - Seigneur des lames](/fr/Items/con_1993/){: .btn .btn--era5} | Unknown | Contient le skin de Naga - Seigneur des lames. |
+  | 1025 | [Skin de Naga - Seigneur des lames](/fr/Items/con_1993/){: .btn .btn--era5} | Unit Skin | Contient le skin de Naga - Seigneur des lames. |
   | 1026 | [Skin de Naga - Seigneur des lames (2 jours)](/fr/Items/con_1013/){: .btn .btn--era5} | Experience Card | Donne accès au skin de Naga - Seigneur des lames pendant 2 jours. |
-  | 1027 | [Skin du Dragon vert : Dragon des cieux](/fr/Items/con_1980/){: .btn .btn--era5} | Unknown | Octroie le skin Dragon des cieux du Dragon vert. |
-  | 1028 | [Skin du Titan - Sombre cortège](/fr/Items/con_2131/){: .btn .btn--era5} | Unknown | Octroie le skin Sombre cortège du Titan. |
+  | 1027 | [Skin du Dragon vert : Dragon des cieux](/fr/Items/con_1980/){: .btn .btn--era5} | Unit Skin | Octroie le skin Dragon des cieux du Dragon vert. |
+  | 1028 | [Skin du Titan - Sombre cortège](/fr/Items/con_2131/){: .btn .btn--era5} | Unit Skin | Octroie le skin Sombre cortège du Titan. |
   | 1029 | [Skin et avatar d'Adelaïde - Chant de Noël (2 jours)](/fr/Items/con_1016/){: .btn .btn--era5} | Experience Card | Donne accès au skin et à l'avatar d'Adelaïde - Chant de Noël pendant 2 jours. |
   | 1030 | [Skin et avatar de Catherine - Mariage royal (2 jours)](/fr/Items/con_1015/){: .btn .btn--era5} | Experience Card | Donne accès au skin et à l'avatar de Catherine - Mariage royal pendant 2 jours. |
   | 1031 | [Skin et avatar de Moine - Saint converti (2 jours)](/fr/Items/con_1012/){: .btn .btn--era5} | Experience Card | Donne accès au skin et à l'avatar de Moine - Saint converti pendant 2 jours. |
   | 1032 | [Skin et avatar de Naga - Seigneur des lames (2 jours)](/fr/Items/con_1011/){: .btn .btn--era5} | Experience Card | Donne accès au skin et à l'avatar de Naga - Seigneur des lames pendant 2 jours. |
-  | 1033 | [Skin pour Adjudicatrice - Fidèle](/fr/Items/con_1976/){: .btn .btn--era5} | Unknown | Obtenez le skin pour Adjudicatrice \"Fidèle\" après ouverture. |
-  | 1034 | [Skin pour Ange - Gardien de lumière](/fr/Items/con_1973/){: .btn .btn--era5} | Unknown | Obtenez le skin pour Ange \"Gardien de lumière\" après ouverture. |
-  | 1035 | [Skin pour Champion des ténèbres - Azraël](/fr/Items/con_1985/){: .btn .btn--era5} | Unknown | Obtenez le skin pour Champion des ténèbres \"Azraël\" après ouverture. |
-  | 1036 | [Skin pour Elfe sylvaine - Elfe de jade](/fr/Items/con_1979/){: .btn .btn--era5} | Unknown | Obtenez le skin pour Elfe sylvaine \"Elfe de jade\" après ouverture. |
-  | 1037 | [Skin pour Golem dragon - Béhémoth automate β](/fr/Items/con_1994/){: .btn .btn--era5} | Unknown | Obtenez le skin pour Golem dragon \"Béhémoth automate β\" après ouverture. |
-  | 1038 | [Skin pour Oracle de Regna - Océanide](/fr/Items/con_2005/){: .btn .btn--era5} | Unknown | Obtenez le skin pour Oracle de Regna \"Océanide\" après ouverture. |
-  | 1039 | [Skin spécial Aile de dragon resplendissante](/fr/Items/con_644/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation d'Aile de dragon resplendissante. |
-  | 1040 | [Skin spécial Bandage](/fr/Items/con_649/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation de Bandage. |
-  | 1041 | [Skin spécial Bâton de renouveau](/fr/Items/con_645/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation de Bâton de renouveau. |
-  | 1042 | [Skin spécial Corne de Gorgone](/fr/Items/con_663/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation de Corne de Gorgone. |
-  | 1043 | [Skin spécial Durandel](/fr/Items/con_641/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation de Durandel. |
-  | 1044 | [Skin spécial Esprit sanguinaire](/fr/Items/con_650/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation d'Esprit sanguinaire. |
-  | 1045 | [Skin spécial Hache de Berserker](/fr/Items/con_651/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation de Hache de Berserker. |
-  | 1046 | [Skin spécial Intrépide](/fr/Items/con_642/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation d'Intrépide. |
-  | 1047 | [Skin spécial Lyre](/fr/Items/con_654/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation de Lyre. |
-  | 1048 | [Skin spécial Marées diurnes](/fr/Items/con_671/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation de Marées diurnes. |
-  | 1049 | [Skin spécial Marées nocturnes](/fr/Items/con_672/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation de Marées nocturnes. |
-  | 1050 | [Skin spécial Mille tonnes](/fr/Items/con_656/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation de Mille tonnes. |
-  | 1051 | [Skin spécial Noyau spirituel](/fr/Items/con_668/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation de Noyau spirituel. |
-  | 1052 | [Skin spécial Queue de Wivern](/fr/Items/con_664/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation de Queue de Wivern. |
-  | 1053 | [Skin spécial Regard ténébreux](/fr/Items/con_658/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation de Regard ténébreux. |
-  | 1054 | [Skin spécial d'obéissance](/fr/Items/con_673/){: .btn .btn--era5} | Unknown | Le skin est déverrouillé lors de l'activation d'Obéissance. |
-  | 1055 | [Skin spécial Étoile polaire](/fr/Items/con_657/){: .btn .btn--era4} | Unknown | Le skin est déverrouillé lors de l'activation d'Étoile polaire. |
-  | 1056 | [Skin Épée du printemps du Paladin](/fr/Items/con_1975/){: .btn .btn--era5} | Unknown | Octroie le skin Épée du printemps du Paladin. |
-  | 1057 | [Solmyr - Diable en bouteille](/fr/Items/con_1065/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Diable en bouteille de Solmyr |
+  | 1033 | [Skin pour Adjudicatrice - Fidèle](/fr/Items/con_1976/){: .btn .btn--era5} | Unit Skin | Obtenez le skin pour Adjudicatrice \"Fidèle\" après ouverture. |
+  | 1034 | [Skin pour Ange - Gardien de lumière](/fr/Items/con_1973/){: .btn .btn--era5} | Unit Skin | Obtenez le skin pour Ange \"Gardien de lumière\" après ouverture. |
+  | 1035 | [Skin pour Champion des ténèbres - Azraël](/fr/Items/con_1985/){: .btn .btn--era5} | Unit Skin | Obtenez le skin pour Champion des ténèbres \"Azraël\" après ouverture. |
+  | 1036 | [Skin pour Elfe sylvaine - Elfe de jade](/fr/Items/con_1979/){: .btn .btn--era5} | Unit Skin | Obtenez le skin pour Elfe sylvaine \"Elfe de jade\" après ouverture. |
+  | 1037 | [Skin pour Golem dragon - Béhémoth automate β](/fr/Items/con_1994/){: .btn .btn--era5} | Unit Skin | Obtenez le skin pour Golem dragon \"Béhémoth automate β\" après ouverture. |
+  | 1038 | [Skin pour Oracle de Regna - Océanide](/fr/Items/con_2005/){: .btn .btn--era5} | Unit Skin | Obtenez le skin pour Oracle de Regna \"Océanide\" après ouverture. |
+  | 1039 | [Skin spécial Aile de dragon resplendissante](/fr/Items/con_644/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation d'Aile de dragon resplendissante. |
+  | 1040 | [Skin spécial Bandage](/fr/Items/con_649/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation de Bandage. |
+  | 1041 | [Skin spécial Bâton de renouveau](/fr/Items/con_645/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation de Bâton de renouveau. |
+  | 1042 | [Skin spécial Corne de Gorgone](/fr/Items/con_663/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation de Corne de Gorgone. |
+  | 1043 | [Skin spécial Durandel](/fr/Items/con_641/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation de Durandel. |
+  | 1044 | [Skin spécial Esprit sanguinaire](/fr/Items/con_650/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation d'Esprit sanguinaire. |
+  | 1045 | [Skin spécial Hache de Berserker](/fr/Items/con_651/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation de Hache de Berserker. |
+  | 1046 | [Skin spécial Intrépide](/fr/Items/con_642/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation d'Intrépide. |
+  | 1047 | [Skin spécial Lyre](/fr/Items/con_654/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation de Lyre. |
+  | 1048 | [Skin spécial Marées diurnes](/fr/Items/con_671/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation de Marées diurnes. |
+  | 1049 | [Skin spécial Marées nocturnes](/fr/Items/con_672/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation de Marées nocturnes. |
+  | 1050 | [Skin spécial Mille tonnes](/fr/Items/con_656/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation de Mille tonnes. |
+  | 1051 | [Skin spécial Noyau spirituel](/fr/Items/con_668/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation de Noyau spirituel. |
+  | 1052 | [Skin spécial Queue de Wivern](/fr/Items/con_664/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation de Queue de Wivern. |
+  | 1053 | [Skin spécial Regard ténébreux](/fr/Items/con_658/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation de Regard ténébreux. |
+  | 1054 | [Skin spécial d'obéissance](/fr/Items/con_673/){: .btn .btn--era5} | Special Skin | Le skin est déverrouillé lors de l'activation d'Obéissance. |
+  | 1055 | [Skin spécial Étoile polaire](/fr/Items/con_657/){: .btn .btn--era4} | Special Skin | Le skin est déverrouillé lors de l'activation d'Étoile polaire. |
+  | 1056 | [Skin Épée du printemps du Paladin](/fr/Items/con_1975/){: .btn .btn--era5} | Unit Skin | Octroie le skin Épée du printemps du Paladin. |
+  | 1057 | [Solmyr - Diable en bouteille](/fr/Items/con_1065/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Diable en bouteille de Solmyr |
   | 1058 | [Sombracier](/fr/Items/con_881/){: .btn .btn--era4} | Other | Utilisez un tas de sombracier (ressource de niveau 2) pour améliorer les casernes. |
-  | 1059 | [Sorcière aux sucreries](/fr/Items/con_1053/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Sorcière aux sucreries de Vidomina |
+  | 1059 | [Sorcière aux sucreries](/fr/Items/con_1053/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Sorcière aux sucreries de Vidomina |
   | 1060 | [Soupe aigre aux pieds de porc du Yunnan](/fr/Items/con_1226/){: .btn .btn--era3} | Event related | Des pieds de porc riches en collagène et à la saveur délicate sont mijotés lentement dans une délicieuse soupe au goût aigre dont la recette est secrète. Il s'agit d'un mets particulièrement rare. Cependant, le contenu de cette marmite semble plutôt cru. |
   | 1061 | [Soupe claire](/fr/Items/con_1158/){: .btn .btn--era4} | Event related | Cette soupe au goût léger est particulièrement savoureuse. Elle est nourrissante et dégage une odeur subtile. Non contente de nourrir le corps, elle sublime la peau. |
   | 1062 | [Soupe de mouton de Jianyang, dans la province du Sichuan](/fr/Items/con_1172/){: .btn .btn--era3} | Event related | Les habitants de Jianyang, dans la province du Sichuan, élaborent ce plat en cuisant du mouton dans un bouillon constitué d'os de mouton et d'arêtes de carpe. Comme le dit un proverbe chinois, l'alliance du poisson et de la viande de mouton ne peut qu'être exquise. Cependant, le contenu de cette marmite semble plutôt cru. |
@@ -1093,44 +1093,44 @@ classes: wide
   | 1079 | [Tool_10011](/fr/Items/con_525/){: .btn .btn--era4} | Event related |  |
   | 1080 | [Tool_10012](/fr/Items/con_526/){: .btn .btn--era4} | Event related |  |
   | 1081 | [Tool_10014](/fr/Items/con_528/){: .btn .btn--era4} | Event related | S'échange contre des objets rares lors des évènements correspondants. Amusez-vous bien ! |
-  | 1082 | [Tool_10130](/fr/Items/con_589/){: .btn .btn--era5} | Unknown | Permet de recevoir l'avatar de Peter Lee |
-  | 1083 | [Tool_10131](/fr/Items/con_590/){: .btn .btn--era5} | Unknown |  |
-  | 1084 | [Tool_10133](/fr/Items/con_592/){: .btn .btn--era5} | Unknown |  |
-  | 1085 | [Tool_10135](/fr/Items/con_594/){: .btn .btn--era5} | Unknown |  |
-  | 1086 | [Tool_10136](/fr/Items/con_595/){: .btn .btn--era5} | Unknown |  |
-  | 1087 | [Tool_21007](/fr/Items/con_608/){: .btn .btn--era5} | Unknown |  |
-  | 1088 | [Tool_21008](/fr/Items/con_609/){: .btn .btn--era5} | Unknown |  |
-  | 1089 | [Tool_21015](/fr/Items/con_616/){: .btn .btn--era5} | Unknown |  |
-  | 1090 | [Tool_21016](/fr/Items/con_617/){: .btn .btn--era5} | Unknown |  |
-  | 1091 | [Tool_21022](/fr/Items/con_623/){: .btn .btn--era5} | Unknown |  |
-  | 1092 | [Tool_21024](/fr/Items/con_625/){: .btn .btn--era5} | Unknown |  |
-  | 1093 | [Tool_21027](/fr/Items/con_628/){: .btn .btn--era5} | Unknown |  |
-  | 1094 | [Tool_21035](/fr/Items/con_632/){: .btn .btn--era5} | Unknown |  |
-  | 1095 | [Tool_210909](/fr/Items/con_643/){: .btn .btn--era6} | Unknown |  |
-  | 1096 | [Tool_250809](/fr/Items/con_653/){: .btn .btn--era4} | Unknown |  |
-  | 1097 | [Tool_2990309](/fr/Items/con_670/){: .btn .btn--era4} | Unknown |  |
-  | 1098 | [Tool_2990709](/fr/Items/con_674/){: .btn .btn--era6} | Unknown |  |
+  | 1082 | [Tool_10130](/fr/Items/con_589/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar de Peter Lee |
+  | 1083 | [Tool_10131](/fr/Items/con_590/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1084 | [Tool_10133](/fr/Items/con_592/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1085 | [Tool_10135](/fr/Items/con_594/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1086 | [Tool_10136](/fr/Items/con_595/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1087 | [Tool_21007](/fr/Items/con_608/){: .btn .btn--era5} | Avatar frame |  |
+  | 1088 | [Tool_21008](/fr/Items/con_609/){: .btn .btn--era5} | Avatar frame |  |
+  | 1089 | [Tool_21015](/fr/Items/con_616/){: .btn .btn--era5} | Avatar frame |  |
+  | 1090 | [Tool_21016](/fr/Items/con_617/){: .btn .btn--era5} | Avatar frame |  |
+  | 1091 | [Tool_21022](/fr/Items/con_623/){: .btn .btn--era5} | Avatar frame |  |
+  | 1092 | [Tool_21024](/fr/Items/con_625/){: .btn .btn--era5} | Avatar frame |  |
+  | 1093 | [Tool_21027](/fr/Items/con_628/){: .btn .btn--era5} | Avatar frame |  |
+  | 1094 | [Tool_21035](/fr/Items/con_632/){: .btn .btn--era5} | Avatar frame |  |
+  | 1095 | [Tool_210909](/fr/Items/con_643/){: .btn .btn--era6} | Special Skin |  |
+  | 1096 | [Tool_250809](/fr/Items/con_653/){: .btn .btn--era4} | Special Skin |  |
+  | 1097 | [Tool_2990309](/fr/Items/con_670/){: .btn .btn--era4} | Special Skin |  |
+  | 1098 | [Tool_2990709](/fr/Items/con_674/){: .btn .btn--era6} | Special Skin |  |
   | 1099 | [Tool_2991](/fr/Items/con_675/){: .btn .btn--era4} | Gift |  |
   | 1100 | [Tool_303001](/fr/Items/con_743/){: .btn .btn--era4} | Gift |  |
   | 1101 | [Tool_303002](/fr/Items/con_744/){: .btn .btn--era4} | Gift |  |
   | 1102 | [Tool_303003](/fr/Items/con_745/){: .btn .btn--era4} | Gift |  |
   | 1103 | [Tool_3064](/fr/Items/con_806/){: .btn .btn--era4} | Event related |  |
-  | 1104 | [Tool_31022](/fr/Items/con_843/){: .btn .btn--era5} | Unknown |  |
-  | 1105 | [Tool_31023](/fr/Items/con_844/){: .btn .btn--era5} | Unknown |  |
-  | 1106 | [Tool_31024](/fr/Items/con_845/){: .btn .btn--era5} | Unknown |  |
-  | 1107 | [Tool_31025](/fr/Items/con_846/){: .btn .btn--era5} | Unknown |  |
-  | 1108 | [Tool_31026](/fr/Items/con_847/){: .btn .btn--era5} | Unknown |  |
-  | 1109 | [Tool_31027](/fr/Items/con_848/){: .btn .btn--era5} | Unknown |  |
-  | 1110 | [Tool_31028](/fr/Items/con_849/){: .btn .btn--era5} | Unknown |  |
-  | 1111 | [Tool_31029](/fr/Items/con_850/){: .btn .btn--era5} | Unknown |  |
-  | 1112 | [Tool_31030](/fr/Items/con_851/){: .btn .btn--era5} | Unknown |  |
-  | 1113 | [Tool_31031](/fr/Items/con_852/){: .btn .btn--era5} | Unknown |  |
-  | 1114 | [Tool_31032](/fr/Items/con_853/){: .btn .btn--era5} | Unknown |  |
-  | 1115 | [Tool_31033](/fr/Items/con_854/){: .btn .btn--era5} | Unknown |  |
-  | 1116 | [Tool_31034](/fr/Items/con_855/){: .btn .btn--era5} | Unknown |  |
-  | 1117 | [Tool_31035](/fr/Items/con_856/){: .btn .btn--era5} | Unknown |  |
-  | 1118 | [Tool_31036](/fr/Items/con_857/){: .btn .btn--era5} | Unknown |  |
-  | 1119 | [Tool_31037](/fr/Items/con_858/){: .btn .btn--era5} | Unknown |  |
+  | 1104 | [Tool_31022](/fr/Items/con_843/){: .btn .btn--era5} | Guild member gift |  |
+  | 1105 | [Tool_31023](/fr/Items/con_844/){: .btn .btn--era5} | Guild member gift |  |
+  | 1106 | [Tool_31024](/fr/Items/con_845/){: .btn .btn--era5} | Guild member gift |  |
+  | 1107 | [Tool_31025](/fr/Items/con_846/){: .btn .btn--era5} | Guild member gift |  |
+  | 1108 | [Tool_31026](/fr/Items/con_847/){: .btn .btn--era5} | Guild member gift |  |
+  | 1109 | [Tool_31027](/fr/Items/con_848/){: .btn .btn--era5} | Guild member gift |  |
+  | 1110 | [Tool_31028](/fr/Items/con_849/){: .btn .btn--era5} | Guild member gift |  |
+  | 1111 | [Tool_31029](/fr/Items/con_850/){: .btn .btn--era5} | Guild member gift |  |
+  | 1112 | [Tool_31030](/fr/Items/con_851/){: .btn .btn--era5} | Guild member gift |  |
+  | 1113 | [Tool_31031](/fr/Items/con_852/){: .btn .btn--era5} | Guild member gift |  |
+  | 1114 | [Tool_31032](/fr/Items/con_853/){: .btn .btn--era5} | Guild member gift |  |
+  | 1115 | [Tool_31033](/fr/Items/con_854/){: .btn .btn--era5} | Guild member gift |  |
+  | 1116 | [Tool_31034](/fr/Items/con_855/){: .btn .btn--era5} | Guild member gift |  |
+  | 1117 | [Tool_31035](/fr/Items/con_856/){: .btn .btn--era5} | Guild member gift |  |
+  | 1118 | [Tool_31036](/fr/Items/con_857/){: .btn .btn--era5} | Guild member gift |  |
+  | 1119 | [Tool_31037](/fr/Items/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 1120 | [Tool_31045](/fr/Items/con_866/){: .btn .btn--era5} | Event related | On raconte que récolter tous les mystérieux symboles des contrées lointaines ouvrirait la voie vers de nombreux trésors ! |
   | 1121 | [Tool_40013](/fr/Items/con_925/){: .btn .btn--era4} | Other |  |
   | 1122 | [Tool_40024](/fr/Items/con_936/){: .btn .btn--era5} | Other |  |
@@ -1141,10 +1141,10 @@ classes: wide
   | 1127 | [Tool_408001](/fr/Items/con_961/){: .btn .btn--era3} | Gift |  |
   | 1128 | [Tool_408002](/fr/Items/con_962/){: .btn .btn--era4} | Gift |  |
   | 1129 | [Tool_499035](/fr/Items/con_1002/){: .btn .btn--era4} | WEAPON PIECE |  |
-  | 1130 | [Tool_6030403](/fr/Items/con_1047/){: .btn .btn--era5} | Unknown |  |
-  | 1131 | [Tool_6070503](/fr/Items/con_1062/){: .btn .btn--era5} | Unknown |  |
+  | 1130 | [Tool_6030403](/fr/Items/con_1047/){: .btn .btn--era5} | Special Skin |  |
+  | 1131 | [Tool_6070503](/fr/Items/con_1062/){: .btn .btn--era5} | Special Skin |  |
   | 1132 | [Tool_613002](/fr/Items/con_1070/){: .btn .btn--era5} | Gift |  |
-  | 1133 | [Tool_6170102](/fr/Items/con_1079/){: .btn .btn--era5} | Unknown |  |
+  | 1133 | [Tool_6170102](/fr/Items/con_1079/){: .btn .btn--era5} | Special Skin |  |
   | 1134 | [Tool_906041](/fr/Items/con_1364/){: .btn .btn--era4} | Gift | À utiliser pour obtenir diamant x2580, pack Unité d'élite x1, matériau de potion de talent x288 et énorme potion d'EXP x20. |
   | 1135 | [Tool_906043](/fr/Items/con_1366/){: .btn .btn--era4} | Gift | À utiliser pour obtenir diamant x5180, pack Unité d'élite x1, parchemin de sort x300 et parchemin de temple x10. |
   | 1136 | [Tool_906045](/fr/Items/con_1368/){: .btn .btn--era5} | Gift | À utiliser pour obtenir diamant x60 et coffre de composants (artefact premium) x1. |
@@ -1188,16 +1188,16 @@ classes: wide
   | 1174 | [Tool_907418](/fr/Items/con_1796/){: .btn .btn--era4} | Gift |  |
   | 1175 | [Tool_907419](/fr/Items/con_1797/){: .btn .btn--era4} | Gift |  |
   | 1176 | [Tool_907545](/fr/Items/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 1177 | [Tool_9210101](/fr/Items/con_1971/){: .btn .btn--era5} | Unknown |  |
-  | 1178 | [Tool_9210903](/fr/Items/con_1977/){: .btn .btn--era5} | Unknown |  |
-  | 1179 | [Tool_9220902](/fr/Items/con_1981/){: .btn .btn--era5} | Unknown |  |
-  | 1180 | [Tool_9230903](/fr/Items/con_1986/){: .btn .btn--era5} | Unknown |  |
-  | 1181 | [Tool_9250902](/fr/Items/con_1991/){: .btn .btn--era5} | Unknown |  |
-  | 1182 | [Tool_9250903](/fr/Items/con_1992/){: .btn .btn--era5} | Unknown |  |
-  | 1183 | [Tool_9260903](/fr/Items/con_1995/){: .btn .btn--era5} | Unknown |  |
-  | 1184 | [Tool_9270902](/fr/Items/con_1997/){: .btn .btn--era5} | Unknown | Débloqué après l'obtention du skin Sorcière maléfique - Incarnation du Mal |
-  | 1185 | [Tool_9280803](/fr/Items/con_1999/){: .btn .btn--era5} | Unknown |  |
-  | 1186 | [Tool_9280902](/fr/Items/con_2000/){: .btn .btn--era5} | Unknown |  |
+  | 1177 | [Tool_9210101](/fr/Items/con_1971/){: .btn .btn--era5} | Unit Skin |  |
+  | 1178 | [Tool_9210903](/fr/Items/con_1977/){: .btn .btn--era5} | Unit Skin |  |
+  | 1179 | [Tool_9220902](/fr/Items/con_1981/){: .btn .btn--era5} | Unit Skin |  |
+  | 1180 | [Tool_9230903](/fr/Items/con_1986/){: .btn .btn--era5} | Unit Skin |  |
+  | 1181 | [Tool_9250902](/fr/Items/con_1991/){: .btn .btn--era5} | Unit Skin |  |
+  | 1182 | [Tool_9250903](/fr/Items/con_1992/){: .btn .btn--era5} | Unit Skin |  |
+  | 1183 | [Tool_9260903](/fr/Items/con_1995/){: .btn .btn--era5} | Unit Skin |  |
+  | 1184 | [Tool_9270902](/fr/Items/con_1997/){: .btn .btn--era5} | Unit Skin | Débloqué après l'obtention du skin Sorcière maléfique - Incarnation du Mal |
+  | 1185 | [Tool_9280803](/fr/Items/con_1999/){: .btn .btn--era5} | Unit Skin |  |
+  | 1186 | [Tool_9280902](/fr/Items/con_2000/){: .btn .btn--era5} | Unit Skin |  |
   | 1187 | [Tool_93601](/fr/Items/con_2050/){: .btn .btn--era5} | Event related |  |
   | 1188 | [Tool_93602](/fr/Items/con_2051/){: .btn .btn--era5} | Event related |  |
   | 1189 | [Tool_93608](/fr/Items/con_2057/){: .btn .btn--era5} | Event related |  |
@@ -1210,18 +1210,18 @@ classes: wide
   | 1196 | [Tool_939906](/fr/Items/con_2084/){: .btn .btn--era5} | Event related |  |
   | 1197 | [Tool_939908](/fr/Items/con_2085/){: .btn .btn--era5} | Event related |  |
   | 1198 | [Tool_939909](/fr/Items/con_2086/){: .btn .btn--era5} | Event related |  |
-  | 1199 | [Tool_940001](/fr/Items/con_2087/){: .btn .btn--era4} | Unknown |  |
-  | 1200 | [Tool_940002](/fr/Items/con_2088/){: .btn .btn--era4} | Unknown |  |
-  | 1201 | [Tool_940101](/fr/Items/con_2089/){: .btn .btn--era4} | Unknown |  |
-  | 1202 | [Tool_940102](/fr/Items/con_2090/){: .btn .btn--era4} | Unknown |  |
-  | 1203 | [Tool_940103](/fr/Items/con_2091/){: .btn .btn--era4} | Unknown |  |
-  | 1204 | [Tool_940104](/fr/Items/con_2092/){: .btn .btn--era4} | Unknown |  |
-  | 1205 | [Tool_940105](/fr/Items/con_2093/){: .btn .btn--era4} | Unknown |  |
-  | 1206 | [Tool_940106](/fr/Items/con_2094/){: .btn .btn--era4} | Unknown |  |
-  | 1207 | [Tool_940107](/fr/Items/con_2095/){: .btn .btn--era4} | Unknown |  |
-  | 1208 | [Tool_940108](/fr/Items/con_2096/){: .btn .btn--era4} | Unknown |  |
-  | 1209 | [Tool_940109](/fr/Items/con_2097/){: .btn .btn--era4} | Unknown |  |
-  | 1210 | [Tool_940110](/fr/Items/con_2098/){: .btn .btn--era4} | Unknown |  |
+  | 1199 | [Tool_940001](/fr/Items/con_2087/){: .btn .btn--era4} | Battle Formation |  |
+  | 1200 | [Tool_940002](/fr/Items/con_2088/){: .btn .btn--era4} | Battle Formation |  |
+  | 1201 | [Tool_940101](/fr/Items/con_2089/){: .btn .btn--era4} | Battle Formation |  |
+  | 1202 | [Tool_940102](/fr/Items/con_2090/){: .btn .btn--era4} | Battle Formation |  |
+  | 1203 | [Tool_940103](/fr/Items/con_2091/){: .btn .btn--era4} | Battle Formation |  |
+  | 1204 | [Tool_940104](/fr/Items/con_2092/){: .btn .btn--era4} | Battle Formation |  |
+  | 1205 | [Tool_940105](/fr/Items/con_2093/){: .btn .btn--era4} | Battle Formation |  |
+  | 1206 | [Tool_940106](/fr/Items/con_2094/){: .btn .btn--era4} | Battle Formation |  |
+  | 1207 | [Tool_940107](/fr/Items/con_2095/){: .btn .btn--era4} | Battle Formation |  |
+  | 1208 | [Tool_940108](/fr/Items/con_2096/){: .btn .btn--era4} | Battle Formation |  |
+  | 1209 | [Tool_940109](/fr/Items/con_2097/){: .btn .btn--era4} | Battle Formation |  |
+  | 1210 | [Tool_940110](/fr/Items/con_2098/){: .btn .btn--era4} | Battle Formation |  |
   | 1211 | [Tool_990099](/fr/Items/con_2099/){: .btn .btn--era4} | Gift |  |
   | 1212 | [Tortue dragon avec une carapace mécanique en forme de marmite](/fr/Items/con_1187/){: .btn .btn--era3} | Event related | \"Bien le bonjour, je suis la Tortue dragon mécanique. Comme vous pouvez le constater, ma carapace est constituée à 30 % de fer forgé.\" |
   | 1213 | [Tortue dragon avec une carapace métallique en forme de marmite](/fr/Items/con_1208/){: .btn .btn--era3} | Event related | \"Bien le bonjour, je suis la Tortue dragon métallique. Comme vous pouvez le constater, ma carapace est constituée de plastique.\" |
@@ -1233,10 +1233,10 @@ classes: wide
   | 1219 | [Trésor du Dragon patriarche](/fr/Items/con_2006/){: .btn .btn--era5} | Gift | Ce ne sont là que quelques exemples des trésors que le Roi Dragon a récupérés il y a des milliers d'années. Ce sont des trésors inestimables. |
   | 1220 | [Téléportation](/fr/Items/con_944/){: .btn .btn--era4} | Other | Permet la téléportation dans l'événement Mer guérisseuse. |
   | 1221 | [Unité R/SR aléatoire](/fr/Items/con_541/){: .btn .btn--era4} | Event related | Récupérez-en 30 pour obtenir 30 jetons d'unité R (30 %) ou un jeton d'unité SR (70 %) au hasard. (Jeton d'unité SR : Griffon, Spadassin, Moine, Cavalier, Nain, Elfe sylvaine, Pégase, Garde sylvanien, Licorne, Orque, Ogre, Rock, Cyclope, Revenante, Vampire, Chien de l'Enfer, Démon, Servante des Abîmes, Effrit, Gargouille, Golem de fer, Mage, Élémentaire de tempête, Élémentaire de glace, Harpie, Minotaure. Jeton d'unité R : Lancier, Grand Arbalétrier, Centaure, Gobelin, Chevaucheur de loup, Squelette, Trépassé, Diablotin, Gog, Lutin, Fée, Troglodyte.) |
-  | 1222 | [Valeur de l'activité](/fr/Items/con_901/){: .btn .btn--era4} | Unknown | Les missions quotidiennes vous permettent d'augmenter vos niveaux d'activité. |
-  | 1223 | [Vega Ciele](/fr/Items/con_1061/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Vega Ciele |
-  | 1224 | [Vidomina - Apprentie hérétique](/fr/Items/con_1052/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Apprentie hérétique de Vidomina |
-  | 1225 | [Xeron - Fête du Printemps](/fr/Items/con_1063/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Xeron - Fête du printemps |
+  | 1222 | [Valeur de l'activité](/fr/Items/con_901/){: .btn .btn--era4} | VIP related | Les missions quotidiennes vous permettent d'augmenter vos niveaux d'activité. |
+  | 1223 | [Vega Ciele](/fr/Items/con_1061/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Vega Ciele |
+  | 1224 | [Vidomina - Apprentie hérétique](/fr/Items/con_1052/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Apprentie hérétique de Vidomina |
+  | 1225 | [Xeron - Fête du Printemps](/fr/Items/con_1063/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Xeron - Fête du printemps |
   | 1226 | [Zongzi au jaune d'œuf](/fr/Items/con_543/){: .btn .btn--era4} | Event related | Un délicieux zongzi au jaune d'œuf. Peut être utilisé lors de l'événement Double réduction. |
   | 1227 | [Zongzi au porc](/fr/Items/con_542/){: .btn .btn--era4} | Event related | Un délicieux zongzi au porc. Peut être utilisé lors de l'événement Double réduction. |
   | 1228 | [Zongzi aux haricots rouges](/fr/Items/con_545/){: .btn .btn--era4} | Event related | Un délicieux zongzi aux haricots rouges. Peut être utilisé lors de l'événement Double réduction. |
@@ -1311,10 +1311,10 @@ classes: wide
   | 1297 | [Âme de Troglodyte des ténèbres](/fr/Items/con_2058/){: .btn .btn--era5} | Event related | Une âme ancienne de Héros immortel qui peut être utilisée pour l'éveil du Troglodyte. |
   | 1298 | [Âme de Zombie](/fr/Items/con_2028/){: .btn .btn--era5} | Event related | Une âme ancienne de Héros immortel qui peut être utilisée pour l'éveil du Trépassé. |
   | 1299 | [Âme de Zélote](/fr/Items/con_2016/){: .btn .btn--era5} | Event related | Une âme ancienne de Héros immortel qui peut être utilisée pour l'éveil du Moine. |
-  | 1300 | [Âme stellaire](/fr/Items/con_926/){: .btn .btn--era5} | Unknown | Ressource qui active les étoiles. Obtenez-la en convertissant des jetons de Héros. Chaque Héros a besoin d'une Âme stellaire différente. |
+  | 1300 | [Âme stellaire](/fr/Items/con_926/){: .btn .btn--era5} | VIP related | Ressource qui active les étoiles. Obtenez-la en convertissant des jetons de Héros. Chaque Héros a besoin d'une Âme stellaire différente. |
   | 1301 | [Élément de précision](/fr/Items/con_920/){: .btn .btn--era4} | Other | Élément de précision, utilisé pour améliorer les composants. S'obtient en démantelant des composants. |
-  | 1302 | [Émissaire de Bracada](/fr/Items/con_1066/){: .btn .btn--era5} | Unknown | Permet d'obtenir le skin Émissaire de Bracada de Solmyr |
-  | 1303 | [Énergie](/fr/Items/con_900/){: .btn .btn--era4} | Unknown | Vous dépensez de l'énergie en mode histoire ou en mode souterrain. |
+  | 1302 | [Émissaire de Bracada](/fr/Items/con_1066/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Émissaire de Bracada de Solmyr |
+  | 1303 | [Énergie](/fr/Items/con_900/){: .btn .btn--era4} | VIP related | Vous dépensez de l'énergie en mode histoire ou en mode souterrain. |
   | 1304 | [Énorme potion d'EXP](/fr/Items/con_703/){: .btn .btn--era4} | EXP | Bouteille de potion d'EXP extrêmement purifiée. La boire vous fera gagner 7 500 EXP d'unité. |
   | 1305 | [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/){: .btn .btn--era6} | WEAPON PIECE | Étendard spirituel de la Crique issu d'une ancienne campagne et pouvant être utilisé pour activer le potentiel de l'étendard de l'Oracle de Regna : La cité dans l'océan. |
   | 1306 | [Étendard spirituel Radiance sainte](/fr/Items/con_975/){: .btn .btn--era6} | WEAPON PIECE | Étendard spirituel du Château issu d'une ancienne campagne et pouvant être utilisé pour activer le potentiel de l'étendard de l'Adjudicatrice : Radiance sainte. |

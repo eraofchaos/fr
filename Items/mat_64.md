@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre mythique"
 permalink: /Items/mat_64/
 excerpt: "Era of Chaos  Soufre mythique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_64.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 18 (Pacte avec le diable) -> 18-10 
-*    Chapitre 18 (Pacte avec le diable) -> 18-14 
+*    Aventure de guilde 
+*    [Chapitre 18: Pacte avec le diable -> 18-10](/fr/Main Story/Chapter 18_10/) 
+*    [Chapitre 18: Pacte avec le diable -> 18-14](/fr/Main Story/Chapter 18_14/) 
 
 ## This item contains:
 

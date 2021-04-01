@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes fantastiques"
 permalink: /Items/mat_51/
 excerpt: "Era of Chaos  Gemmes fantastiques"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_51.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 15 (Un front uni) -> 15-1 
-*    Chapitre 15 (Un front uni) -> 15-5 
-*    Chapitre 15 (Un front uni) -> 15-11 
+*    Aventure de guilde 
+*    [Chapitre 15: Un front uni -> 15-1](/fr/Main Story/Chapter 15_1/) 
+*    [Chapitre 15: Un front uni -> 15-5](/fr/Main Story/Chapter 15_5/) 
+*    [Chapitre 15: Un front uni -> 15-11](/fr/Main Story/Chapter 15_11/) 
 
 ## This item contains:
 

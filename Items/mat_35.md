@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure exceptionnel"
 permalink: /Items/mat_35/
 excerpt: "Era of Chaos  Mercure exceptionnel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_35.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 10 (Les marécages) -> 10-3 
-*    Chapitre 10 (Les marécages) -> 10-6 
-*    Chapitre 10 (Les marécages) -> 10-9 
+*    Aventure de guilde 
+*    [Chapitre 10: Les marécages -> 10-3](/fr/Main Story/Chapter 10_3/) 
+*    [Chapitre 10: Les marécages -> 10-6](/fr/Main Story/Chapter 10_6/) 
+*    [Chapitre 10: Les marécages -> 10-9](/fr/Main Story/Chapter 10_9/) 
 
 ## This item contains:
 

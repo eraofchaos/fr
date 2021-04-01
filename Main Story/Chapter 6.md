@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 À l'aube du changement"
 permalink: /Main Story/Chapter 6/
 excerpt: "Chapitre 6. Era of Chaos  Histoire principale - Chapitre 6. À l'aube du changement"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 6.md"
 toc: false

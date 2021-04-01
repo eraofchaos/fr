@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre de qualité supérieure"
 permalink: /Items/mat_22/
 excerpt: "Era of Chaos  Soufre de qualité supérieure"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_22.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 6 (À l'aube du changement) -> 6-10 
-*    Chapitre 6 (À l'aube du changement) -> 6-14 
-*    Chapitre 7 (Erathia) -> 7-4 
+*    Aventure de guilde 
+*    [Chapitre 6: À l'aube du changement -> 6-10](/fr/Main Story/Chapter 6_10/) 
+*    [Chapitre 6: À l'aube du changement -> 6-14](/fr/Main Story/Chapter 6_14/) 
+*    [Chapitre 7: Erathia -> 7-4](/fr/Main Story/Chapter 7_4/) 
 
 ## This item contains:
 

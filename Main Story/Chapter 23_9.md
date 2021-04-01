@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-9 La maladie de la rouille"
 permalink: /Main Story/Chapter 23_9/
 excerpt: "Chapitre 23 - 9. Era of Chaos  Histoire principale - Chapitre 23_9. 23-9 La maladie de la rouille"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 23_9.md"
 toc: false

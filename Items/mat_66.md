@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal mythique"
 permalink: /Items/mat_66/
 excerpt: "Era of Chaos  Cristal mythique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_66.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 19 (Affaires neutres) -> 19-6 
-*    Chapitre 19 (Affaires neutres) -> 19-12 
-*    Chapitre 19 (Affaires neutres) -> 19-15 
+*    Aventure de guilde 
+*    [Chapitre 19: Affaires neutres -> 19-6](/fr/Main Story/Chapter 19_6/) 
+*    [Chapitre 19: Affaires neutres -> 19-12](/fr/Main Story/Chapter 19_12/) 
+*    [Chapitre 19: Affaires neutres -> 19-15](/fr/Main Story/Chapter 19_15/) 
 
 ## This item contains:
 

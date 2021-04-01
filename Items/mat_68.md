@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai éternel"
 permalink: /Items/mat_68/
 excerpt: "Era of Chaos  Minerai éternel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_68.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-1 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-4 
-*    Chapitre 20 (Tunnels et Troglodytes) -> 20-7 
+*    Aventure de guilde 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-1](/fr/Main Story/Chapter 20_1/) 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-4](/fr/Main Story/Chapter 20_4/) 
+*    [Chapitre 20: Tunnels et Troglodytes -> 20-7](/fr/Main Story/Chapter 20_7/) 
 
 ## This item contains:
 

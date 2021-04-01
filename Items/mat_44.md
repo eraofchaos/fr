@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes rares"
 permalink: /Items/mat_44/
 excerpt: "Era of Chaos  Gemmes rares"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_44.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 13 (Le jour et la nuit) -> 13-1 
-*    Chapitre 13 (Le jour et la nuit) -> 13-5 
-*    Chapitre 13 (Le jour et la nuit) -> 13-11 
+*    Aventure de guilde 
+*    [Chapitre 13: Le jour et la nuit -> 13-1](/fr/Main Story/Chapter 13_1/) 
+*    [Chapitre 13: Le jour et la nuit -> 13-5](/fr/Main Story/Chapter 13_5/) 
+*    [Chapitre 13: Le jour et la nuit -> 13-11](/fr/Main Story/Chapter 13_11/) 
 
 ## This item contains:
 

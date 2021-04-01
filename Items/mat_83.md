@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois d'âme"
 permalink: /Items/mat_83/
 excerpt: "Era of Chaos  Bois d'âme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_83.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 24 (Dragon féérique) -> 24-2 
-*    Chapitre 24 (Dragon féérique) -> 24-8 
-*    Chapitre 25 (Loi de la jungle) -> 25-2 
+*    Aventure de guilde 
+*    [Chapitre 24: Dragon féérique -> 24-2](/fr/Main Story/Chapter 24_2/) 
+*    [Chapitre 24: Dragon féérique -> 24-8](/fr/Main Story/Chapter 24_8/) 
+*    [Chapitre 25: Loi de la jungle -> 25-2](/fr/Main Story/Chapter 25_2/) 
 
 ## This item contains:
 

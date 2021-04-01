@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-12 Bataille sur la plaine"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Chapitre 13 - 12. Era of Chaos  Histoire principale - Chapitre 13_12. 13-12 Bataille sur la plaine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 13_12.md"
 toc: false

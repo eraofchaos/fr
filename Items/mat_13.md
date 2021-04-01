@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois de bonne qualité"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Bois de bonne qualité"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_13.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 4 (Falaises des Griffons) -> 4-2 
-*    Chapitre 4 (Falaises des Griffons) -> 4-5 
-*    Chapitre 4 (Falaises des Griffons) -> 4-8 
+*    Aventure de guilde 
+*    [Chapitre 4: Falaises des Griffons -> 4-2](/fr/Main Story/Chapter 4_2/) 
+*    [Chapitre 4: Falaises des Griffons -> 4-5](/fr/Main Story/Chapter 4_5/) 
+*    [Chapitre 4: Falaises des Griffons -> 4-8](/fr/Main Story/Chapter 4_8/) 
 
 ## This item contains:
 

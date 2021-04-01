@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois légendaire"
 permalink: /Items/mat_55/
 excerpt: "Era of Chaos  Bois légendaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_55.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-2 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-5 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-8 
+*    Aventure de guilde 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-2](/fr/Main Story/Chapter 16_2/) 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-5](/fr/Main Story/Chapter 16_5/) 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-8](/fr/Main Story/Chapter 16_8/) 
 
 ## This item contains:
 

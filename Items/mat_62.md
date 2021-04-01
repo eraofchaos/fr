@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois mythique"
 permalink: /Items/mat_62/
 excerpt: "Era of Chaos  Bois mythique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_62.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 18 (Pacte avec le diable) -> 18-2 
-*    Chapitre 18 (Pacte avec le diable) -> 18-5 
-*    Chapitre 18 (Pacte avec le diable) -> 18-8 
+*    Aventure de guilde 
+*    [Chapitre 18: Pacte avec le diable -> 18-2](/fr/Main Story/Chapter 18_2/) 
+*    [Chapitre 18: Pacte avec le diable -> 18-5](/fr/Main Story/Chapter 18_5/) 
+*    [Chapitre 18: Pacte avec le diable -> 18-8](/fr/Main Story/Chapter 18_8/) 
 
 ## This item contains:
 

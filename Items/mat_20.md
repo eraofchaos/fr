@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois de qualité supérieure"
 permalink: /Items/mat_20/
 excerpt: "Era of Chaos  Bois de qualité supérieure"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_20.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 6 (À l'aube du changement) -> 6-2 
-*    Chapitre 6 (À l'aube du changement) -> 6-5 
-*    Chapitre 6 (À l'aube du changement) -> 6-8 
+*    Aventure de guilde 
+*    [Chapitre 6: À l'aube du changement -> 6-2](/fr/Main Story/Chapter 6_2/) 
+*    [Chapitre 6: À l'aube du changement -> 6-5](/fr/Main Story/Chapter 6_5/) 
+*    [Chapitre 6: À l'aube du changement -> 6-8](/fr/Main Story/Chapter 6_8/) 
 
 ## This item contains:
 

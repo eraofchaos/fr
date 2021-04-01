@@ -2,7 +2,7 @@
 title: "Artefact - Lame d'Armageddon - Marteau de Guerrier"
 permalink: /artifacts/Warrior Hammer/
 excerpt: "Era of Chaos  Lame d'Armageddon - Marteau de Guerrier. Un marteau d'armes caché sur la crête du Géant. Composant de la Lame d'Armageddon."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Warrior Hammer.md"
 toc: false

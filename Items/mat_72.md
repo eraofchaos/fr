@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes éternelles"
 permalink: /Items/mat_72/
 excerpt: "Era of Chaos  Gemmes éternelles"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_72.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 21 (Le Graal) -> 21-1 
-*    Chapitre 21 (Le Graal) -> 21-5 
-*    Chapitre 21 (Le Graal) -> 21-11 
+*    Aventure de guilde 
+*    [Chapitre 21: Le Graal -> 21-1](/fr/Main Story/Chapter 21_1/) 
+*    [Chapitre 21: Le Graal -> 21-5](/fr/Main Story/Chapter 21_5/) 
+*    [Chapitre 21: Le Graal -> 21-11](/fr/Main Story/Chapter 21_11/) 
 
 ## This item contains:
 

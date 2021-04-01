@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-7 Étranges rêves"
 permalink: /Main Story/Chapter 24_7/
 excerpt: "Chapitre 24 - 7. Era of Chaos  Histoire principale - Chapitre 24_7. 24-7 Étranges rêves"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 24_7.md"
 toc: false

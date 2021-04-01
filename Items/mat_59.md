@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal légendaire"
 permalink: /Items/mat_59/
 excerpt: "Era of Chaos  Cristal légendaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_59.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 17 (La libération de l'Empire) -> 17-6 
-*    Chapitre 17 (La libération de l'Empire) -> 17-12 
-*    Chapitre 17 (La libération de l'Empire) -> 17-15 
+*    Aventure de guilde 
+*    [Chapitre 17: La libération de l'Empire -> 17-6](/fr/Main Story/Chapter 17_6/) 
+*    [Chapitre 17: La libération de l'Empire -> 17-12](/fr/Main Story/Chapter 17_12/) 
+*    [Chapitre 17: La libération de l'Empire -> 17-15](/fr/Main Story/Chapter 17_15/) 
 
 ## This item contains:
 

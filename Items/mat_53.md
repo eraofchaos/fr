@@ -2,7 +2,7 @@
 title: "Item - Materials - Répertoire des essences"
 permalink: /Items/mat_53/
 excerpt: "Era of Chaos  Répertoire des essences"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_53.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventure de guilde 
 *    Chapitre - Châtiment corporel 
 *    Chapitre - Le jour et la nuit 
 *    Chapitre - Passage sûr 

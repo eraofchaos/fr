@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai précieux"
 permalink: /Items/mat_26/
 excerpt: "Era of Chaos  Minerai précieux"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_26.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 8 (Les régions frontalières) -> 8-1 
-*    Chapitre 8 (Les régions frontalières) -> 8-4 
-*    Chapitre 8 (Les régions frontalières) -> 8-7 
+*    Aventure de guilde 
+*    [Chapitre 8: Les régions frontalières -> 8-1](/fr/Main Story/Chapter 8_1/) 
+*    [Chapitre 8: Les régions frontalières -> 8-4](/fr/Main Story/Chapter 8_4/) 
+*    [Chapitre 8: Les régions frontalières -> 8-7](/fr/Main Story/Chapter 8_7/) 
 
 ## This item contains:
 

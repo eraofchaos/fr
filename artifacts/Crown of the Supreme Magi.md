@@ -2,7 +2,7 @@
 title: "Artefact - Hache de férocité - Couronne suprême"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Era of Chaos  Hache de férocité - Couronne suprême. Une couronne offerte en récompense pour le sauvetage d'un Magicien fou. Composant de la Hache de férocité."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Crown of the Supreme Magi.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois ordinaire"
 permalink: /Items/mat_7/
 excerpt: "Era of Chaos  Bois ordinaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_7.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 2 (Le retour de la Reine) -> 2-3 
-*    Chapitre 2 (Le retour de la Reine) -> 2-7 
-*    Chapitre 3 (Ange gardien) -> 3-2 
+*    Aventure de guilde 
+*    [Chapitre 2: Le retour de la Reine -> 2-3](/fr/Main Story/Chapter 2_3/) 
+*    [Chapitre 2: Le retour de la Reine -> 2-7](/fr/Main Story/Chapter 2_7/) 
+*    [Chapitre 3: Ange gardien -> 3-2](/fr/Main Story/Chapter 3_2/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure de bonne qualité"
 permalink: /Items/mat_14/
 excerpt: "Era of Chaos  Mercure de bonne qualité"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_14.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 4 (Falaises des Griffons) -> 4-3 
-*    Chapitre 4 (Falaises des Griffons) -> 4-6 
-*    Chapitre 4 (Falaises des Griffons) -> 4-9 
+*    Aventure de guilde 
+*    [Chapitre 4: Falaises des Griffons -> 4-3](/fr/Main Story/Chapter 4_3/) 
+*    [Chapitre 4: Falaises des Griffons -> 4-6](/fr/Main Story/Chapter 4_6/) 
+*    [Chapitre 4: Falaises des Griffons -> 4-9](/fr/Main Story/Chapter 4_9/) 
 
 ## This item contains:
 

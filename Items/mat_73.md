@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal éternel"
 permalink: /Items/mat_73/
 excerpt: "Era of Chaos  Cristal éternel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_73.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 21 (Le Graal) -> 21-6 
-*    Chapitre 21 (Le Graal) -> 21-12 
-*    Chapitre 21 (Le Graal) -> 21-15 
+*    Aventure de guilde 
+*    [Chapitre 21: Le Graal -> 21-6](/fr/Main Story/Chapter 21_6/) 
+*    [Chapitre 21: Le Graal -> 21-12](/fr/Main Story/Chapter 21_12/) 
+*    [Chapitre 21: Le Graal -> 21-15](/fr/Main Story/Chapter 21_15/) 
 
 ## This item contains:
 

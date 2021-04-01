@@ -2,7 +2,7 @@
 title: "Item - Materials - Répertoire des essences"
 permalink: /Items/mat_39/
 excerpt: "Era of Chaos  Répertoire des essences"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_39.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventure de guilde 
 *    Chapitre - Pensées frénétiques 
 *    Chapitre - Avidité 
 *    Chapitre - Gryphonheart 

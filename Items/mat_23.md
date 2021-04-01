@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes de qualité supérieure"
 permalink: /Items/mat_23/
 excerpt: "Era of Chaos  Gemmes de qualité supérieure"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_23.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 7 (Erathia) -> 7-1 
-*    Chapitre 7 (Erathia) -> 7-5 
-*    Chapitre 7 (Erathia) -> 7-11 
+*    Aventure de guilde 
+*    [Chapitre 7: Erathia -> 7-1](/fr/Main Story/Chapter 7_1/) 
+*    [Chapitre 7: Erathia -> 7-5](/fr/Main Story/Chapter 7_5/) 
+*    [Chapitre 7: Erathia -> 7-11](/fr/Main Story/Chapter 7_11/) 
 
 ## This item contains:
 

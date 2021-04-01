@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre fantastique"
 permalink: /Items/mat_50/
 excerpt: "Era of Chaos  Soufre fantastique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_50.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 14 (Passage sûr) -> 14-10 
-*    Chapitre 14 (Passage sûr) -> 14-14 
-*    Chapitre 15 (Un front uni) -> 15-4 
+*    Aventure de guilde 
+*    [Chapitre 14: Passage sûr -> 14-10](/fr/Main Story/Chapter 14_10/) 
+*    [Chapitre 14: Passage sûr -> 14-14](/fr/Main Story/Chapter 14_14/) 
+*    [Chapitre 15: Un front uni -> 15-4](/fr/Main Story/Chapter 15_4/) 
 
 ## This item contains:
 

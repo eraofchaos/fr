@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure fantastique"
 permalink: /Items/mat_49/
 excerpt: "Era of Chaos  Mercure fantastique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_49.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 14 (Passage sûr) -> 14-3 
-*    Chapitre 14 (Passage sûr) -> 14-6 
-*    Chapitre 14 (Passage sûr) -> 14-9 
+*    Aventure de guilde 
+*    [Chapitre 14: Passage sûr -> 14-3](/fr/Main Story/Chapter 14_3/) 
+*    [Chapitre 14: Passage sûr -> 14-6](/fr/Main Story/Chapter 14_6/) 
+*    [Chapitre 14: Passage sûr -> 14-9](/fr/Main Story/Chapter 14_9/) 
 
 ## This item contains:
 

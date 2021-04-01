@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai exceptionnel"
 permalink: /Items/mat_33/
 excerpt: "Era of Chaos  Minerai exceptionnel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_33.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 10 (Les marécages) -> 10-1 
-*    Chapitre 10 (Les marécages) -> 10-4 
-*    Chapitre 10 (Les marécages) -> 10-7 
+*    Aventure de guilde 
+*    [Chapitre 10: Les marécages -> 10-1](/fr/Main Story/Chapter 10_1/) 
+*    [Chapitre 10: Les marécages -> 10-4](/fr/Main Story/Chapter 10_4/) 
+*    [Chapitre 10: Les marécages -> 10-7](/fr/Main Story/Chapter 10_7/) 
 
 ## This item contains:
 

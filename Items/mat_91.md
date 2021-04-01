@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure stellaire"
 permalink: /Items/mat_91/
 excerpt: "Era of Chaos  Mercure stellaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_91.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 26 (Commandement prolongé) -> 26-3 
-*    Chapitre 26 (Commandement prolongé) -> 26-9 
+*    Aventure de guilde 
+*    [Chapitre 26: Commandement prolongé -> 26-3](/fr/Main Story/Chapter 26_3/) 
+*    [Chapitre 26: Commandement prolongé -> 26-9](/fr/Main Story/Chapter 26_9/) 
 
 ## This item contains:
 

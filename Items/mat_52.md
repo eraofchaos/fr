@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal fantastique"
 permalink: /Items/mat_52/
 excerpt: "Era of Chaos  Cristal fantastique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_52.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 15 (Un front uni) -> 15-6 
-*    Chapitre 15 (Un front uni) -> 15-12 
-*    Chapitre 15 (Un front uni) -> 15-15 
+*    Aventure de guilde 
+*    [Chapitre 15: Un front uni -> 15-6](/fr/Main Story/Chapter 15_6/) 
+*    [Chapitre 15: Un front uni -> 15-12](/fr/Main Story/Chapter 15_12/) 
+*    [Chapitre 15: Un front uni -> 15-15](/fr/Main Story/Chapter 15_15/) 
 
 ## This item contains:
 

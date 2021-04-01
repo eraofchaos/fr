@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-6 Destruction"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Chapitre 6 - 6. Era of Chaos  Histoire principale - Chapitre 6_6. 6-6 Destruction"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Chapter 6_6.md"
 toc: false

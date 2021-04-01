@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre légendaire"
 permalink: /Items/mat_57/
 excerpt: "Era of Chaos  Soufre légendaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_57.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-10 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-14 
-*    Chapitre 17 (La libération de l'Empire) -> 17-4 
+*    Aventure de guilde 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-10](/fr/Main Story/Chapter 16_10/) 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-14](/fr/Main Story/Chapter 16_14/) 
+*    [Chapitre 17: La libération de l'Empire -> 17-4](/fr/Main Story/Chapter 17_4/) 
 
 ## This item contains:
 

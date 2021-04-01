@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure légendaire"
 permalink: /Items/mat_56/
 excerpt: "Era of Chaos  Mercure légendaire"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_56.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-3 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-6 
-*    Chapitre 16 (Pour le Roi et la nation) -> 16-9 
+*    Aventure de guilde 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-3](/fr/Main Story/Chapter 16_3/) 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-6](/fr/Main Story/Chapter 16_6/) 
+*    [Chapitre 16: Pour le Roi et la nation -> 16-9](/fr/Main Story/Chapter 16_9/) 
 
 ## This item contains:
 

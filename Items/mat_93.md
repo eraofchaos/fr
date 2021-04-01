@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes stellaires"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Gemmes stellaires"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_93.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 26 (Commandement prolongé) -> 26-1 
-*    Chapitre 26 (Commandement prolongé) -> 26-5 
-*    Chapitre 26 (Commandement prolongé) -> 26-11 
+*    Aventure de guilde 
+*    [Chapitre 26: Commandement prolongé -> 26-1](/fr/Main Story/Chapter 26_1/) 
+*    [Chapitre 26: Commandement prolongé -> 26-5](/fr/Main Story/Chapter 26_5/) 
+*    [Chapitre 26: Commandement prolongé -> 26-11](/fr/Main Story/Chapter 26_11/) 
 
 ## This item contains:
 

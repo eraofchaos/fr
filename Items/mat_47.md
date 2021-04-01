@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai fantastique"
 permalink: /Items/mat_47/
 excerpt: "Era of Chaos  Minerai fantastique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_47.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 14 (Passage sûr) -> 14-1 
-*    Chapitre 14 (Passage sûr) -> 14-4 
-*    Chapitre 14 (Passage sûr) -> 14-7 
+*    Aventure de guilde 
+*    [Chapitre 14: Passage sûr -> 14-1](/fr/Main Story/Chapter 14_1/) 
+*    [Chapitre 14: Passage sûr -> 14-4](/fr/Main Story/Chapter 14_4/) 
+*    [Chapitre 14: Passage sûr -> 14-7](/fr/Main Story/Chapter 14_7/) 
 
 ## This item contains:
 

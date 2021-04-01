@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai de qualité supérieure"
 permalink: /Items/mat_19/
 excerpt: "Era of Chaos  Minerai de qualité supérieure"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_19.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 6 (À l'aube du changement) -> 6-1 
-*    Chapitre 6 (À l'aube du changement) -> 6-4 
-*    Chapitre 6 (À l'aube du changement) -> 6-7 
+*    Aventure de guilde 
+*    [Chapitre 6: À l'aube du changement -> 6-1](/fr/Main Story/Chapter 6_1/) 
+*    [Chapitre 6: À l'aube du changement -> 6-4](/fr/Main Story/Chapter 6_4/) 
+*    [Chapitre 6: À l'aube du changement -> 6-7](/fr/Main Story/Chapter 6_7/) 
 
 ## This item contains:
 

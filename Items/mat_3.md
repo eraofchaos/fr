@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre de qualité inférieure"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Soufre de qualité inférieure"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_3.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 1 (Île d'Evenmorn) -> 1-2 
-*    Chapitre 1 (Île d'Evenmorn) -> 1-5 
-*    Chapitre 2 (Le retour de la Reine) -> 2-4 
+*    Aventure de guilde 
+*    [Chapitre 1: Île d'Evenmorn -> 1-2](/fr/Main Story/Chapter 1_2/) 
+*    [Chapitre 1: Île d'Evenmorn -> 1-5](/fr/Main Story/Chapter 1_5/) 
+*    [Chapitre 2: Le retour de la Reine -> 2-4](/fr/Main Story/Chapter 2_4/) 
 
 ## This item contains:
 

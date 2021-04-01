@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre flamboyant"
 permalink: /Items/mat_99/
 excerpt: "Era of Chaos  Soufre flamboyant"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_99.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 27 (Sang du Dragon patriarche) -> 27-4 
-*    Chapitre 27 (Sang du Dragon patriarche) -> 27-10 
-*    Chapitre 27 (Sang du Dragon patriarche) -> 27-13 
+*    Aventure de guilde 
+*    [Chapitre 27: Sang du Dragon patriarche -> 27-4](/fr/Main Story/Chapter 27_4/) 
+*    [Chapitre 27: Sang du Dragon patriarche -> 27-10](/fr/Main Story/Chapter 27_10/) 
+*    [Chapitre 27: Sang du Dragon patriarche -> 27-13](/fr/Main Story/Chapter 27_13/) 
 
 ## This item contains:
 

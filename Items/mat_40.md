@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai rare"
 permalink: /Items/mat_40/
 excerpt: "Era of Chaos  Minerai rare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_40.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 12 (Mer de glace) -> 12-1 
-*    Chapitre 12 (Mer de glace) -> 12-4 
-*    Chapitre 12 (Mer de glace) -> 12-7 
+*    Aventure de guilde 
+*    [Chapitre 12: Mer de glace -> 12-1](/fr/Main Story/Chapter 12_1/) 
+*    [Chapitre 12: Mer de glace -> 12-4](/fr/Main Story/Chapter 12_4/) 
+*    [Chapitre 12: Mer de glace -> 12-7](/fr/Main Story/Chapter 12_7/) 
 
 ## This item contains:
 

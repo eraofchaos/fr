@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure précieux"
 permalink: /Items/mat_28/
 excerpt: "Era of Chaos  Mercure précieux"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "mat_28.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapitre 8 (Les régions frontalières) -> 8-3 
-*    Chapitre 8 (Les régions frontalières) -> 8-6 
-*    Chapitre 8 (Les régions frontalières) -> 8-9 
+*    Aventure de guilde 
+*    [Chapitre 8: Les régions frontalières -> 8-3](/fr/Main Story/Chapter 8_3/) 
+*    [Chapitre 8: Les régions frontalières -> 8-6](/fr/Main Story/Chapter 8_6/) 
+*    [Chapitre 8: Les régions frontalières -> 8-9](/fr/Main Story/Chapter 8_9/) 
 
 ## This item contains:
 

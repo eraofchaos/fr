@@ -2,7 +2,7 @@
 title: "Griffe de l'abîme"
 permalink: /equipment/Abyss Claw/
 excerpt: "Era of Chaos Griffe de l'abîme. Griffe de l'abîme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Abyss Claw.md"
 toc: false

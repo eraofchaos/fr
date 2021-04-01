@@ -2,7 +2,7 @@
 title: "Ailes arc-en-ciel"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "Era of Chaos Ailes arc-en-ciel. Ailes arc-en-ciel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Rainbow Feathered Wings.md"
 toc: false

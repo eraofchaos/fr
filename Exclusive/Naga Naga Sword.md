@@ -2,7 +2,7 @@
 title: "Exclusif - Épée Naga"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Épée Naga. Épée Naga. Era of Chaos Exclusif Épée Naga. Naga Exclusif."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Naga Épée Naga.md"
 toc: false

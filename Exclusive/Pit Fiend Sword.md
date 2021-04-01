@@ -2,7 +2,7 @@
 title: "Exclusif - Épée"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Servante des Abîmes Exclusif."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Pit Fiend Épée.md"
 toc: false

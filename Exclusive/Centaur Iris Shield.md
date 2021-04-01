@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Centaure Exclusif."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Centaur Bouclier iris.md"
 toc: false

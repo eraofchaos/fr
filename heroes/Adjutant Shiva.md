@@ -2,7 +2,7 @@
 title: "Adjudant Shiva"
 permalink: /heroes/Adjutant Shiva/
 excerpt: "Era of Chaos  Adjudant Shiva"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Adjutant Shiva.md"
 toc: false

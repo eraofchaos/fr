@@ -2,7 +2,7 @@
 title: "Sabre acéré"
 permalink: /equipment/Razor-bladed Sabre/
 excerpt: "Era of Chaos Sabre acéré. Sabre acéré"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Razor-bladed Sabre.md"
 toc: false

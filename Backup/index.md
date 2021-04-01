@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Capacité de champ de bataille | Compétence globale | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Energy Scroll](/Items/con_830/) | **5x** [Energy Scroll](/Items/con_830/) | 
-  | 2 | **2x** [Energy Scroll](/Items/con_830/) | **10x** [Energy Scroll](/Items/con_830/) | 
-  | 3 | **3x** [Energy Scroll](/Items/con_830/) | **15x** [Energy Scroll](/Items/con_830/) | 
-  | 4 | **4x** [Energy Scroll](/Items/con_830/) | **20x** [Energy Scroll](/Items/con_830/) | 
-  | 5 | **5x** [Energy Scroll](/Items/con_830/) | **25x** [Energy Scroll](/Items/con_830/) | 
-  | 6 | **9x** [Energy Scroll](/Items/con_830/) | **45x** [Energy Scroll](/Items/con_830/) | 
-  | 7 | **12x** [Energy Scroll](/Items/con_830/) | **60x** [Energy Scroll](/Items/con_830/) | 
-  | 8 | **20x** [Energy Scroll](/Items/con_830/) | **100x** [Energy Scroll](/Items/con_830/) | 
-  | 9 | **30x** [Energy Scroll](/Items/con_830/) | **150x** [Energy Scroll](/Items/con_830/) | 
-  | 10 | **40x** [Energy Scroll](/Items/con_830/) | **200x** [Energy Scroll](/Items/con_830/) | 
-  | 11 | **50x** [Energy Scroll](/Items/con_830/) | **250x** [Energy Scroll](/Items/con_830/) | 
-  | 12 | **60x** [Energy Scroll](/Items/con_830/) | **300x** [Energy Scroll](/Items/con_830/) | 
-  | 13 | **100x** [Energy Scroll](/Items/con_830/) | **500x** [Energy Scroll](/Items/con_830/) | 
-  | 14 | **160x** [Energy Scroll](/Items/con_830/) | **800x** [Energy Scroll](/Items/con_830/) | 
-  | 15 | **200x** [Energy Scroll](/Items/con_830/) | **1000x** [Energy Scroll](/Items/con_830/) | 
+  | 1 | **1x** [Parchemin d'énergie](/fr/Items/con_830/) | **5x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 2 | **2x** [Parchemin d'énergie](/fr/Items/con_830/) | **10x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 3 | **3x** [Parchemin d'énergie](/fr/Items/con_830/) | **15x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 4 | **4x** [Parchemin d'énergie](/fr/Items/con_830/) | **20x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 5 | **5x** [Parchemin d'énergie](/fr/Items/con_830/) | **25x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 6 | **9x** [Parchemin d'énergie](/fr/Items/con_830/) | **45x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 7 | **12x** [Parchemin d'énergie](/fr/Items/con_830/) | **60x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 8 | **20x** [Parchemin d'énergie](/fr/Items/con_830/) | **100x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 9 | **30x** [Parchemin d'énergie](/fr/Items/con_830/) | **150x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 10 | **40x** [Parchemin d'énergie](/fr/Items/con_830/) | **200x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 11 | **50x** [Parchemin d'énergie](/fr/Items/con_830/) | **250x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 12 | **60x** [Parchemin d'énergie](/fr/Items/con_830/) | **300x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 13 | **100x** [Parchemin d'énergie](/fr/Items/con_830/) | **500x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 14 | **160x** [Parchemin d'énergie](/fr/Items/con_830/) | **800x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 15 | **200x** [Parchemin d'énergie](/fr/Items/con_830/) | **1000x** [Parchemin d'énergie](/fr/Items/con_830/) | 
 
 
 ## Règles

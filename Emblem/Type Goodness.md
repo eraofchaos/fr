@@ -2,7 +2,7 @@
 title: "Emblème sacré - Bonté"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Era of Chaos Emblème sacré Bonté. Era of Chaos Bonté"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "typeBonté.md"
 toc: false

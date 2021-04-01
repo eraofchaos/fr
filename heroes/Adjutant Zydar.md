@@ -2,7 +2,7 @@
 title: "Adjudant Zydar"
 permalink: /heroes/Adjutant Zydar/
 excerpt: "Era of Chaos  Adjudant Zydar"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Adjutant Zydar.md"
 toc: false

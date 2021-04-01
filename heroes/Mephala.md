@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Mephala a suivi sa formation au sein de l'armée d'Erathia et possède un génie tactique naturel lui permettant d'exploiter le terrain à son avantage. Bien qu'elle préfère le calme de son village, elle reste dans l'armée pour servir son pays."
 heroID: 60302
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Mephala"
 toc: true

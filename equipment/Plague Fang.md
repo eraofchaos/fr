@@ -2,7 +2,7 @@
 title: "Croc de la peste"
 permalink: /equipment/Plague Fang/
 excerpt: "Era of Chaos Croc de la peste. Croc de la peste"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Plague Fang.md"
 toc: false

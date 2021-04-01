@@ -2,7 +2,7 @@
 title: "Formation de combat Crique"
 permalink: /Battle Formation/Battle Formation Faction Cove internal
 excerpt: "Formation de combat Crique"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "BattleFormationFactionCove"
 toc: false

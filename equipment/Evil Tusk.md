@@ -2,7 +2,7 @@
 title: "Défense démoniaque"
 permalink: /equipment/Evil Tusk/
 excerpt: "Era of Chaos Défense démoniaque. Défense démoniaque"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: fr
 ref: "Evil Tusk.md"
 toc: false

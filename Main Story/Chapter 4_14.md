@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-14 Le sanctuaire"
 permalink: /Main Story/Chapter 4_14/
 excerpt: "Chapitre 4 - 14. Era of Chaos  Histoire principale - Chapitre 4_14. 4-14 Le sanctuaire"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 4_14.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Il y a de nombreuses années, les Griffons ont joué un rôle essentiel dans la fondation d'Erathia. Ils sont désormais la clé de voûte de la restauration de ces terres.
 
- **Related to:** [Chapitre 4](/fr/Main Story/Chapter 4/)
+ **Related to:** [Histoire principale Chapitre 4](/fr/Main Story/Chapter 4/)
 
 ## Récompense
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Minerai ordinaire](/fr/Items/mat_6/){: .btn .btn--era2}, **50% 1x** [Minerai ordinaire](/fr/Items/mat_6/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Démon](/fr/units/Demon/) (Score: 3672, Level:15)  | [Servante des Abîmes](/fr/units/Pit Fiend/) (Score: 3672, Level:15)  | [Effrit](/fr/units/Efreeti/) (Score: 5685, Level:15)  | [Effrit](/fr/units/Efreeti/) (Score: 5685, Level:15)  |
+  | [Diablotin](/fr/units/Imp/) (Score: 3672, Level:15)  | [Effrit](/fr/units/Efreeti/) (Score: 5685, Level:15)  | - | - |
+  | - | - | - | - |
+  | - | - | - | - |
+
 

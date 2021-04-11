@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 Falaises des Griffons"
 permalink: /Main Story/Chapter 4/
 excerpt: "Chapitre 4. Era of Chaos  Histoire principale - Chapitre 4. Falaises des Griffons"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 4.md"
 toc: false
@@ -26,3 +26,39 @@ classes: wide
   | [4-13 La guilde des mercenaires](/fr/Main Story/Chapter 4_13/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Mercure de bonne qualité](/fr/Items/mat_14/){: .btn .btn--era3}, [Soufre ordinaire](/fr/Items/mat_9/){: .btn .btn--era2}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
   | [4-14 Le sanctuaire](/fr/Main Story/Chapter 4_14/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Soufre de bonne qualité](/fr/Items/mat_15/){: .btn .btn--era3}, [Minerai ordinaire](/fr/Items/mat_6/){: .btn .btn--era2}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
   | [4-15 Le nid du vent](/fr/Main Story/Chapter 4_15/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Minerai de bonne qualité](/fr/Items/mat_12/){: .btn .btn--era3}, [Bois ordinaire](/fr/Items/mat_7/){: .btn .btn--era2}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** EXP d'unité
+
+
+
+## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** EXP d'unité
+
+
+
+## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **350x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** EXP d'unité
+

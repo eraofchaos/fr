@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-7 Le réseau magique"
 permalink: /Main Story/Chapter 19_7/
 excerpt: "Chapitre 19 - 7. Era of Chaos  Histoire principale - Chapitre 19_7. 19-7 Le réseau magique"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 19_7.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** On trouve de nombreux monolithes anciens en Antagarich. Tout commandant se doit d'en connaître les emplacements et le fonctionnement.
 
- **Related to:** [Chapitre 19](/fr/Main Story/Chapter 19/)
+ **Related to:** [Histoire principale Chapitre 19](/fr/Main Story/Chapter 19/)
 
 ## Récompense
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Minerai mythique](/fr/Items/mat_61/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Bois légendaire](/fr/Items/mat_55/){: .btn .btn--era4}, **40% 1x** [Bois légendaire](/fr/Items/mat_55/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Bois légendaire +3](/fr/Items/mat_55/){: .btn .btn--era4}, **40% 1x** [Bois légendaire +3](/fr/Items/mat_55/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Élémentaire de pierre](/fr/units/Stone Elemental/) (Score: 105935, Level:73)  | [Archimage](/fr/units/Arch Mage/) (Score: 105935, Level:73)  | - | - |
+  | [Golem de fer](/fr/units/Iron Golem/) (Score: 105935, Level:73)  | [Djinn](/fr/units/Genie/) (Score: 105935, Level:73)  | - | - |
+  | [Golem de fer](/fr/units/Iron Golem/) (Score: 105935, Level:73)  | - | - | - |
+  | [Spadassin](/fr/units/Swordsman/) (Score: 105935, Level:73)  | [Élémentaire de glace](/fr/units/Ice Elemental/) (Score: 105935, Level:73)  | - | - |
+
 

@@ -2,7 +2,7 @@
 title: "Artefact - Manteau du roi des Non-Morts - Amulette du fossoyeur"
 permalink: /artifacts/Amulet of the Undertaker/
 excerpt: "Era of Chaos  Manteau du roi des Non-Morts - Amulette du fossoyeur. Un charme protecteur utilisé par une Liche. Composant du Manteau du roi des Non-Morts."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Amulet of the Undertaker.md"
 toc: false

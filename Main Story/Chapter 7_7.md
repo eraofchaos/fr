@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-7 Se lever"
 permalink: /Main Story/Chapter 7_7/
 excerpt: "Chapitre 7 - 7. Era of Chaos  Histoire principale - Chapitre 7_7. 7-7 Se lever"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 7_7.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Description:** Une fois cet obstacle franchi, nous devrions arriver en territoire humain. Là-bas, les humains prospèrent et les forces humaines les plus puissantes sont rassemblées.
 
- **Related to:** [Chapitre 7](/fr/Main Story/Chapter 7/)
+ **Related to:** [Histoire principale Chapitre 7](/fr/Main Story/Chapter 7/)
 
 ## Récompense
 
  **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Minerai de qualité supérieure](/fr/Items/mat_19/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Minerai de qualité supérieure +1](/fr/Items/mat_19/){: .btn .btn--era3}
 
  **Drop 2:** **60% 0x** [Bois de bonne qualité](/fr/Items/mat_13/){: .btn .btn--era3}, **40% 1x** [Bois de bonne qualité](/fr/Items/mat_13/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Lancier](/fr/units/Pikeman/) (Score: 12517, Level:25)  | - | - | - |
+  | [Lancier](/fr/units/Pikeman/) (Score: 8247, Level:25)  | [Grand Arbalétrier](/fr/units/Marksman/) (Score: 8247, Level:25)  | [Grand Arbalétrier](/fr/units/Marksman/) (Score: 8247, Level:25)  | - |
+  | [Lancier](/fr/units/Pikeman/) (Score: 8247, Level:25)  | [Spadassin](/fr/units/Swordsman/) (Score: 8247, Level:25)  | - | - |
+
 

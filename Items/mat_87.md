@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Cristal d'âme"
+title: "Item - Materials - Cristal d'âme +3"
 permalink: /Items/mat_87/
-excerpt: "Era of Chaos  Cristal d'âme"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Cristal d'âme +3"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_87.md"
 toc: false

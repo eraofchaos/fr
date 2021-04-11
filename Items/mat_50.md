@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soufre fantastique"
+title: "Item - Materials - Soufre fantastique +2"
 permalink: /Items/mat_50/
-excerpt: "Era of Chaos  Soufre fantastique"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Soufre fantastique +2"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_50.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemmes éternelles"
+title: "Item - Materials - Gemmes éternelles +1"
 permalink: /Items/mat_72/
-excerpt: "Era of Chaos  Gemmes éternelles"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemmes éternelles +1"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_72.md"
 toc: false

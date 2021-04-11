@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mercure rare"
+title: "Item - Materials - Mercure rare +1"
 permalink: /Items/mat_42/
-excerpt: "Era of Chaos  Mercure rare"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mercure rare +1"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_42.md"
 toc: false

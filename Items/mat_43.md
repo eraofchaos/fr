@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soufre rare"
+title: "Item - Materials - Soufre rare +1"
 permalink: /Items/mat_43/
-excerpt: "Era of Chaos  Soufre rare"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Soufre rare +1"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_43.md"
 toc: false

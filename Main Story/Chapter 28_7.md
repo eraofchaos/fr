@@ -2,7 +2,7 @@
 title: "Histoire principale -  - "
 permalink: /Main Story/Chapter 28_7/
 excerpt: " - 7. Era of Chaos  Histoire principale - _7. "
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 28_7.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Description:** 
 
- **Related to:** [](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 
  **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Minerai flamboyant](/fr/Items/mat_96/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Minerai flamboyant +5](/fr/Items/mat_96/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Bois stellaire](/fr/Items/mat_90/){: .btn .btn--era5}, **40% 1x** [Bois stellaire](/fr/Items/mat_90/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Bois stellaire +4](/fr/Items/mat_90/){: .btn .btn--era5}, **40% 1x** [Bois stellaire +4](/fr/Items/mat_90/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Squelette](/fr/units/Skeleton/) (Score: 574788, Level:142)  | - | - | - |
+  | [Minotaure](/fr/units/Minotaur/) (Score: 574788, Level:142)  | [Dragon squelette](/fr/units/Bone Dragon/) (Score: 574788, Level:142)  | [Servante des Abîmes](/fr/units/Pit Fiend/) (Score: 574788, Level:142)  | - |
+  | [Minotaure](/fr/units/Minotaur/) (Score: 574788, Level:142)  | [Dragon squelette](/fr/units/Bone Dragon/) (Score: 574788, Level:142)  | - | - |
+  | [Squelette](/fr/units/Skeleton/) (Score: 574788, Level:142)  | - | - | - |
+
 

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-9 La meute en crise"
 permalink: /Main Story/Chapter 13_9/
 excerpt: "Chapitre 13 - 9. Era of Chaos  Histoire principale - Chapitre 13_9. 13-9 La meute en crise"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 13_9.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Description:** Une meute de loups. J'ai peur qu'ils fassent de nous des proies.
 
- **Related to:** [Chapitre 13](/fr/Main Story/Chapter 13/)
+ **Related to:** [Histoire principale Chapitre 13](/fr/Main Story/Chapter 13/)
 
 ## Récompense
 
  **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Mercure rare](/fr/Items/mat_42/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Mercure rare +1](/fr/Items/mat_42/){: .btn .btn--era4}
 
  **Drop 2:** **60% 0x** [Soufre exceptionnel](/fr/Items/mat_36/){: .btn .btn--era4}, **40% 1x** [Soufre exceptionnel](/fr/Items/mat_36/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Ogre](/fr/units/Ogre/) (Score: 47061, Level:49)  | [Dragon squelette](/fr/units/Bone Dragon/) (Score: 47061, Level:49)  | [Orque](/fr/units/Orc/) (Score: 47061, Level:49)  | [Orque](/fr/units/Orc/) (Score: 47061, Level:49)  |
+  | [Ogre](/fr/units/Ogre/) (Score: 47061, Level:49)  | [Rock](/fr/units/Roc/) (Score: 47061, Level:49)  | - | - |
+  | - | - | - | - |
+  | [Ogre](/fr/units/Ogre/) (Score: 47061, Level:49)  | [Squelette](/fr/units/Skeleton/) (Score: 47061, Level:49)  | - | - |
+
 

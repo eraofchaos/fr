@@ -2,7 +2,7 @@
 title: "Artefact - Arc du tireur d'élite"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Era of Chaos  Arc du tireur d'élite. Arc du tireur d'élite Une relique sacrée forgée par les Elfes à partir de trésors. Augmente l'attaque à distance."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Bow of the Sharpshooter.md"
 toc: false

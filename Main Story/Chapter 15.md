@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 15 Un front uni"
 permalink: /Main Story/Chapter 15/
 excerpt: "Chapitre 15. Era of Chaos  Histoire principale - Chapitre 15. Un front uni"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 15.md"
 toc: false
@@ -11,18 +11,60 @@ classes: wide
 
   | Nom |  Première récompense de complétion | Récompense |
   |:------------|:------------|:------------| 
-  | [15-1 Les derniers mots du démon](/fr/Main Story/Chapter 15_1/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-2 La guerre déferle à nouveau](/fr/Main Story/Chapter 15_2/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Bois fantastique](/fr/Items/mat_48/){: .btn .btn--era4}, [Mercure rare](/fr/Items/mat_42/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-3 À la recherche de la paix](/fr/Main Story/Chapter 15_3/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Mercure fantastique](/fr/Items/mat_49/){: .btn .btn--era4}, [Soufre rare](/fr/Items/mat_43/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-4 Un nouveau départ](/fr/Main Story/Chapter 15_4/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Soufre fantastique](/fr/Items/mat_50/){: .btn .btn--era4}, [Minerai rare](/fr/Items/mat_40/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-5 Au service de la paix](/fr/Main Story/Chapter 15_5/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-6 L'autel du démon](/fr/Main Story/Chapter 15_6/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Cristal fantastique](/fr/Items/mat_52/){: .btn .btn--era4}, [Gemmes rares](/fr/Items/mat_44/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-7 L'autel du mort](/fr/Main Story/Chapter 15_7/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Minerai fantastique](/fr/Items/mat_47/){: .btn .btn--era4}, [Bois rare](/fr/Items/mat_41/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-8 Prélude à la guerre](/fr/Main Story/Chapter 15_8/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Bois fantastique](/fr/Items/mat_48/){: .btn .btn--era4}, [Mercure rare](/fr/Items/mat_42/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-9 Comme on se retrouve](/fr/Main Story/Chapter 15_9/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Mercure fantastique](/fr/Items/mat_49/){: .btn .btn--era4}, [Soufre rare](/fr/Items/mat_43/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-10 Les hommes changent](/fr/Main Story/Chapter 15_10/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Soufre fantastique](/fr/Items/mat_50/){: .btn .btn--era4}, [Minerai rare](/fr/Items/mat_40/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-11 Invoquer le démon](/fr/Main Story/Chapter 15_11/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-12 La crise](/fr/Main Story/Chapter 15_12/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Cristal fantastique](/fr/Items/mat_52/){: .btn .btn--era4}, [Gemmes rares](/fr/Items/mat_44/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-13 L'autel de la bataille](/fr/Main Story/Chapter 15_13/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Soufre fantastique](/fr/Items/mat_50/){: .btn .btn--era4}, [Minerai rare](/fr/Items/mat_40/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-14 Surgit le démon](/fr/Main Story/Chapter 15_14/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
-  | [15-15 L'ultime bataille](/fr/Main Story/Chapter 15_15/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Cristal fantastique](/fr/Items/mat_52/){: .btn .btn--era4}, [Gemmes rares](/fr/Items/mat_44/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-1 Les derniers mots du démon](/fr/Main Story/Chapter 15_1/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques +2](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare +1](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-2 La guerre déferle à nouveau](/fr/Main Story/Chapter 15_2/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Bois fantastique +2](/fr/Items/mat_48/){: .btn .btn--era4}, [Mercure rare +1](/fr/Items/mat_42/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-3 À la recherche de la paix](/fr/Main Story/Chapter 15_3/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Mercure fantastique +2](/fr/Items/mat_49/){: .btn .btn--era4}, [Soufre rare +1](/fr/Items/mat_43/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-4 Un nouveau départ](/fr/Main Story/Chapter 15_4/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Soufre fantastique +2](/fr/Items/mat_50/){: .btn .btn--era4}, [Minerai rare +1](/fr/Items/mat_40/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-5 Au service de la paix](/fr/Main Story/Chapter 15_5/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques +2](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare +1](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-6 L'autel du démon](/fr/Main Story/Chapter 15_6/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Cristal fantastique +2](/fr/Items/mat_52/){: .btn .btn--era4}, [Gemmes rares +1](/fr/Items/mat_44/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-7 L'autel du mort](/fr/Main Story/Chapter 15_7/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Minerai fantastique +2](/fr/Items/mat_47/){: .btn .btn--era4}, [Bois rare +1](/fr/Items/mat_41/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-8 Prélude à la guerre](/fr/Main Story/Chapter 15_8/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Bois fantastique +2](/fr/Items/mat_48/){: .btn .btn--era4}, [Mercure rare +1](/fr/Items/mat_42/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-9 Comme on se retrouve](/fr/Main Story/Chapter 15_9/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Mercure fantastique +2](/fr/Items/mat_49/){: .btn .btn--era4}, [Soufre rare +1](/fr/Items/mat_43/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-10 Les hommes changent](/fr/Main Story/Chapter 15_10/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Soufre fantastique +2](/fr/Items/mat_50/){: .btn .btn--era4}, [Minerai rare +1](/fr/Items/mat_40/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-11 Invoquer le démon](/fr/Main Story/Chapter 15_11/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques +2](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare +1](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-12 La crise](/fr/Main Story/Chapter 15_12/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Cristal fantastique +2](/fr/Items/mat_52/){: .btn .btn--era4}, [Gemmes rares +1](/fr/Items/mat_44/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-13 L'autel de la bataille](/fr/Main Story/Chapter 15_13/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Soufre fantastique +2](/fr/Items/mat_50/){: .btn .btn--era4}, [Minerai rare +1](/fr/Items/mat_40/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-14 Surgit le démon](/fr/Main Story/Chapter 15_14/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Gemmes fantastiques +2](/fr/Items/mat_51/){: .btn .btn--era4}, [Cristal rare +1](/fr/Items/mat_45/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+  | [15-15 L'ultime bataille](/fr/Main Story/Chapter 15_15/) | [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3} | [Cristal fantastique +2](/fr/Items/mat_52/){: .btn .btn--era4}, [Gemmes rares +1](/fr/Items/mat_44/){: .btn .btn--era4}, [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3} |
+
+
+## Terminé Chapitre 15
+
+ **Reward:** [Solmyr](/fr/heroes/Solmyr/)
+
+
+
+## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **15 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** EXP d'unité
+
+
+
+## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **20 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **80000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **8000x** EXP d'unité
+
+
+
+## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_603
+
+ Reward 2: **25 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **100000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **10000x** EXP d'unité
+

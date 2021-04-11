@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche. Puissance du Dragon patriarche Une relique sacrée forgée par la puissance du Roi Dragon à partir d'objets précieux. Réduit les dégâts des sorts."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Power of the Dragon Father.md"
 toc: false

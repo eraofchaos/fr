@@ -2,7 +2,7 @@
 title: "Artefact - Fer à cheval porte-bonheur - Scarabée enchanté"
 permalink: /artifacts/Ladybird of Luck/
 excerpt: "Era of Chaos  Fer à cheval porte-bonheur - Scarabée enchanté. Une statue lumineuse qui représente un oiseau. Composant du Fer à cheval porte-bonheur."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Ladybird of Luck.md"
 toc: false

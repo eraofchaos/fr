@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mercure d'âme"
+title: "Item - Materials - Mercure d'âme +3"
 permalink: /Items/mat_84/
-excerpt: "Era of Chaos  Mercure d'âme"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mercure d'âme +3"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_84.md"
 toc: false

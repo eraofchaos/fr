@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Crâne de cristal"
 permalink: /artifacts/Crystal Skull/
 excerpt: "Era of Chaos  Pomme d'Éden - Crâne de cristal. Un crâne de cristal façonné par une civilisation inconnue. Il peut sonder le cœur des hommes."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Crystal Skull.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Bois d'âme"
+title: "Item - Materials - Bois d'âme +3"
 permalink: /Items/mat_83/
-excerpt: "Era of Chaos  Bois d'âme"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Bois d'âme +3"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_83.md"
 toc: false

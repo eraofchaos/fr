@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Épée d'Éden"
 permalink: /artifacts/Sword of Eden/
 excerpt: "Era of Chaos  Pomme d'Éden - Épée d'Éden. Une épée forgée par la Première Civilisation. Celui qui la manie peut invoquer la foudre pour terrasser ses ennemis."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Sword of Eden.md"
 toc: false

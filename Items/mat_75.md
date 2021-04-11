@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Minerai mystérieux"
+title: "Item - Materials - Minerai mystérieux +2"
 permalink: /Items/mat_75/
-excerpt: "Era of Chaos  Minerai mystérieux"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Minerai mystérieux +2"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_75.md"
 toc: false

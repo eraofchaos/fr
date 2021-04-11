@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-10 Les champignons"
 permalink: /Main Story/Chapter 25_10/
 excerpt: "Chapitre 25 - 10. Era of Chaos  Histoire principale - Chapitre 25_10. 25-10 Les champignons"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 25_10.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Description:** La nourriture comestible est rare sous terre. Les champignons sont l'alimentation de base des habitants souterrains et l'ingrédient principal de tout brassage.
 
- **Related to:** [Chapitre 25](/fr/Main Story/Chapter 25/)
+ **Related to:** [Histoire principale Chapitre 25](/fr/Main Story/Chapter 25/)
 
 ## Récompense
 
  **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Soufre d'âme](/fr/Items/mat_85/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Soufre d'âme +3](/fr/Items/mat_85/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerai mystérieux](/fr/Items/mat_75/){: .btn .btn--era5}, **40% 1x** [Minerai mystérieux](/fr/Items/mat_75/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Minerai mystérieux +2](/fr/Items/mat_75/){: .btn .btn--era5}, **40% 1x** [Minerai mystérieux +2](/fr/Items/mat_75/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Vidomina](/fr/heroes/Vidomina/) (Score: 100000, Level:96)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Troglodyte](/fr/units/Troglodyte/) (Score: 367616, Level:98)  | [Troglodyte](/fr/units/Troglodyte/) (Score: 367616, Level:98)  |
+  | - | - | [Squelette](/fr/units/Skeleton/) (Score: 367616, Level:98)  | [Œil maléfique](/fr/units/Beholder/) (Score: 367616, Level:98)  |
+  | - | - | [Squelette](/fr/units/Skeleton/) (Score: 367616, Level:98)  | [Œil maléfique](/fr/units/Beholder/) (Score: 367616, Level:98)  |
+  | - | - | [Troglodyte](/fr/units/Troglodyte/) (Score: 367616, Level:98)  | - |
+
 

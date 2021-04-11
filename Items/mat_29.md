@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soufre précieux"
+title: "Item - Materials - Soufre précieux +2"
 permalink: /Items/mat_29/
-excerpt: "Era of Chaos  Soufre précieux"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Soufre précieux +2"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_29.md"
 toc: false

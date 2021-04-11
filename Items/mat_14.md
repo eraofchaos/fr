@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure de bonne qualité"
 permalink: /Items/mat_14/
 excerpt: "Era of Chaos  Mercure de bonne qualité"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_14.md"
 toc: false

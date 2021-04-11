@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-14 L'attaque du Cavalier"
 permalink: /Main Story/Chapter 11_14/
 excerpt: "Chapitre 11 - 14. Era of Chaos  Histoire principale - Chapitre 11_14. 11-14 L'attaque du Cavalier"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 11_14.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Nous devons détourner l'attention de Crag Hack sur son ennemi au nord et faire en sorte que ses troupes partent avec lui.
 
- **Related to:** [Chapitre 11](/fr/Main Story/Chapter 11/)
+ **Related to:** [Histoire principale Chapitre 11](/fr/Main Story/Chapter 11/)
 
 ## Récompense
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Gemmes exceptionnelles](/fr/Items/mat_37/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Cristal précieux](/fr/Items/mat_31/){: .btn .btn--era3}, **40% 1x** [Cristal précieux](/fr/Items/mat_31/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Cristal précieux +2](/fr/Items/mat_31/){: .btn .btn--era3}, **40% 1x** [Cristal précieux +2](/fr/Items/mat_31/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Spadassin](/fr/units/Swordsman/) (Score: 34861, Level:44)  | [Pégase](/fr/units/Pegasus/) (Score: 32803, Level:44)  | - | - |
+  | [Spadassin](/fr/units/Swordsman/) (Score: 34861, Level:44)  | [Elfe sylvaine](/fr/units/Wood Elf/) (Score: 40961, Level:44)  | - | - |
+  | [Spadassin](/fr/units/Swordsman/) (Score: 34861, Level:44)  | [Elfe sylvaine](/fr/units/Wood Elf/) (Score: 34099, Level:44)  | - | - |
+  | [Spadassin](/fr/units/Swordsman/) (Score: 34861, Level:44)  | - | - | - |
+
 

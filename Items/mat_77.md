@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mercure mystérieux"
+title: "Item - Materials - Mercure mystérieux +2"
 permalink: /Items/mat_77/
-excerpt: "Era of Chaos  Mercure mystérieux"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mercure mystérieux +2"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_77.md"
 toc: false

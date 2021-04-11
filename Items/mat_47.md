@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Minerai fantastique"
+title: "Item - Materials - Minerai fantastique +2"
 permalink: /Items/mat_47/
-excerpt: "Era of Chaos  Minerai fantastique"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Minerai fantastique +2"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_47.md"
 toc: false

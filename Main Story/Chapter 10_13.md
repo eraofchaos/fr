@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-13 Une crise se prépare"
 permalink: /Main Story/Chapter 10_13/
 excerpt: "Chapitre 10 - 13. Era of Chaos  Histoire principale - Chapitre 10_13. 10-13 Une crise se prépare"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: fr
 ref: "Chapter 10_13.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Il paraît plutôt méfiant, mais une alliance est peut-être possible. Nous verrons bien si ce conseiller va réussir à convaincre Kendal d'accepter notre offre.
 
- **Related to:** [Chapitre 10](/fr/Main Story/Chapter 10/)
+ **Related to:** [Histoire principale Chapitre 10](/fr/Main Story/Chapter 10/)
 
 ## Récompense
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Mercure exceptionnel](/fr/Items/mat_35/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Soufre précieux](/fr/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Soufre précieux](/fr/Items/mat_29/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Soufre précieux +2](/fr/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Soufre précieux +2](/fr/Items/mat_29/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Chevaucheur de loup](/fr/units/Wolf Rider/) (Score: 24949, Level:42)  | [Rock](/fr/units/Roc/) (Score: 24796, Level:42)  | [Rock](/fr/units/Roc/) (Score: 24796, Level:42)  | [Rock](/fr/units/Roc/) (Score: 24796, Level:42)  |
+  | [Ogre](/fr/units/Ogre/) (Score: 24491, Level:42)  | [Cyclope](/fr/units/Cyclops/) (Score: 30668, Level:42)  | - | - |
+  | [Gobelin](/fr/units/Goblin/) (Score: 24491, Level:42)  | - | - | - |
+  | [Chevaucheur de loup](/fr/units/Wolf Rider/) (Score: 24949, Level:42)  | - | - | - |
+
 

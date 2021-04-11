@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Cristal mystérieux"
+title: "Item - Materials - Cristal mystérieux +2"
 permalink: /Items/mat_80/
-excerpt: "Era of Chaos  Cristal mystérieux"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Cristal mystérieux +2"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_80.md"
 toc: false

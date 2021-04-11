@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soufre légendaire"
+title: "Item - Materials - Soufre légendaire +3"
 permalink: /Items/mat_57/
-excerpt: "Era of Chaos  Soufre légendaire"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Soufre légendaire +3"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_57.md"
 toc: false

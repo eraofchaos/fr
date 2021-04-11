@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soufre de qualité supérieure"
+title: "Item - Materials - Soufre de qualité supérieure +1"
 permalink: /Items/mat_22/
-excerpt: "Era of Chaos  Soufre de qualité supérieure"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Soufre de qualité supérieure +1"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_22.md"
 toc: false

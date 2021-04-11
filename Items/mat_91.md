@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mercure stellaire"
+title: "Item - Materials - Mercure stellaire +4"
 permalink: /Items/mat_91/
-excerpt: "Era of Chaos  Mercure stellaire"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mercure stellaire +4"
+last_modified_at: 2021-04-11
 locale: fr
 ref: "mat_91.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal ordinaire"
 permalink: /Items/mat_11/
 excerpt: "Era of Chaos  Cristal ordinaire"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "mat_11.md"
 toc: false

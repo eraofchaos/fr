@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois fantastique +2"
 permalink: /Items/mat_48/
 excerpt: "Era of Chaos  Bois fantastique +2"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "mat_48.md"
 toc: false

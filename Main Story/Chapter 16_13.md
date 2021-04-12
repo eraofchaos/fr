@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-13 Piéger la bête"
 permalink: /Main Story/Chapter 16_13/
 excerpt: "Chapitre 16 - 13. Era of Chaos  Histoire principale - Chapitre 16_13. 16-13 Piéger la bête"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 16_13.md"
 toc: false

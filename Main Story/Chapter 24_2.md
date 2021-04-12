@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-2 Des informations inattendues"
 permalink: /Main Story/Chapter 24_2/
 excerpt: "Chapitre 24 - 2. Era of Chaos  Histoire principale - Chapitre 24_2. 24-2 Des informations inattendues"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 24_2.md"
 toc: false

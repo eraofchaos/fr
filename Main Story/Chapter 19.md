@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 Affaires neutres"
 permalink: /Main Story/Chapter 19/
 excerpt: "Chapitre 19. Era of Chaos  Histoire principale - Chapitre 19. Affaires neutres"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 19.md"
 toc: false

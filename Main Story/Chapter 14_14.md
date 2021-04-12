@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-14 La forteresse des Belluaires"
 permalink: /Main Story/Chapter 14_14/
 excerpt: "Chapitre 14 - 14. Era of Chaos  Histoire principale - Chapitre 14_14. 14-14 La forteresse des Belluaires"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 14_14.md"
 toc: false

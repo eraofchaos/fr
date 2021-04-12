@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-7 Se débarrasser de l'ennemi"
 permalink: /Main Story/Chapter 12_7/
 excerpt: "Chapitre 12 - 7. Era of Chaos  Histoire principale - Chapitre 12_7. 12-7 Se débarrasser de l'ennemi"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 12_7.md"
 toc: false

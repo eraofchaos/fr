@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-4 Le dieu Dragon"
 permalink: /Main Story/Chapter 22_4/
 excerpt: "Chapitre 22 - 4. Era of Chaos  Histoire principale - Chapitre 22_4. 22-4 Le dieu Dragon"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 22_4.md"
 toc: false

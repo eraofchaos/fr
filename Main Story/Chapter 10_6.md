@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-6 La chasse aux fragments"
 permalink: /Main Story/Chapter 10_6/
 excerpt: "Chapitre 10 - 6. Era of Chaos  Histoire principale - Chapitre 10_6. 10-6 La chasse aux fragments"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 10_6.md"
 toc: false

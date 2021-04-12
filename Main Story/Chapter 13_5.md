@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-5 Répercussions"
 permalink: /Main Story/Chapter 13_5/
 excerpt: "Chapitre 13 - 5. Era of Chaos  Histoire principale - Chapitre 13_5. 13-5 Répercussions"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 13_5.md"
 toc: false

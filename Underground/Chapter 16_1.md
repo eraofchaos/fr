@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 16 - 16-1 Ruse mortelle"
 permalink: /Underground/Chapter 16_1/
 excerpt: "Chapitre 16 - 1. Era of Chaos  Souterrain - Chapitre 16_1. 16-1 Ruse mortelle"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 16_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-5 Lugubre labyrinthe"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Chapitre 26 - 5. Era of Chaos  Histoire principale - Chapitre 26_5. 26-5 Lugubre labyrinthe"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 26_5.md"
 toc: false

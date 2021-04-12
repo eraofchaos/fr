@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure stellaire +4"
 permalink: /Items/mat_91/
 excerpt: "Era of Chaos  Mercure stellaire +4"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "mat_91.md"
 toc: false

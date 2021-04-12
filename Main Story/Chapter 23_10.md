@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-10 Les habitudes nocives des Dragons"
 permalink: /Main Story/Chapter 23_10/
 excerpt: "Chapitre 23 - 10. Era of Chaos  Histoire principale - Chapitre 23_10. 23-10 Les habitudes nocives des Dragons"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 23_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes de bonne qualité"
 permalink: /Items/mat_16/
 excerpt: "Era of Chaos  Gemmes de bonne qualité"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "mat_16.md"
 toc: false

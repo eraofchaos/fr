@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-8 La ceinture magique"
 permalink: /Main Story/Chapter 18_8/
 excerpt: "Chapitre 18 - 8. Era of Chaos  Histoire principale - Chapitre 18_8. 18-8 La ceinture magique"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 18_8.md"
 toc: false

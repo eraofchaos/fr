@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 1 - 1-2 Traces de magie noire"
 permalink: /Underground/Chapter 1_2/
 excerpt: "Chapitre 1 - 2. Era of Chaos  Souterrain - Chapitre 1_2. 1-2 Traces de magie noire"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 1_2.md"
 toc: false

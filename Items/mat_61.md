@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai mythique"
 permalink: /Items/mat_61/
 excerpt: "Era of Chaos  Minerai mythique"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "mat_61.md"
 toc: false

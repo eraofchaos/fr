@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-2 Portail de communications"
 permalink: /Main Story/Chapter 26_2/
 excerpt: "Chapitre 26 - 2. Era of Chaos  Histoire principale - Chapitre 26_2. 26-2 Portail de communications"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 26_2.md"
 toc: false

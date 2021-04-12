@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 19 - 19-4 Vérité magique"
 permalink: /Underground/Chapter 19_4/
 excerpt: "Chapitre 19 - 4. Era of Chaos  Souterrain - Chapitre 19_4. 19-4 Vérité magique"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 19_4.md"
 toc: false

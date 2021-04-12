@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-4 Le raid"
 permalink: /Main Story/Chapter 7_4/
 excerpt: "Chapitre 7 - 4. Era of Chaos  Histoire principale - Chapitre 7_4. 7-4 Le raid"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 7_4.md"
 toc: false

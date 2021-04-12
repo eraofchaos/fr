@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-4 Le manteau du géant"
 permalink: /Main Story/Chapter 16_4/
 excerpt: "Chapitre 16 - 4. Era of Chaos  Histoire principale - Chapitre 16_4. 16-4 Le manteau du géant"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 16_4.md"
 toc: false

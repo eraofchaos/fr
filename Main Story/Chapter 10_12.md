@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-12 Guerre civile au Bastion"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Chapitre 10 - 12. Era of Chaos  Histoire principale - Chapitre 10_12. 10-12 Guerre civile au Bastion"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 10_12.md"
 toc: false

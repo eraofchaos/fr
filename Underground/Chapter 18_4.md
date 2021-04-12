@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 18 - 18-4 Le doute du Dragon"
 permalink: /Underground/Chapter 18_4/
 excerpt: "Chapitre 18 - 4. Era of Chaos  Souterrain - Chapitre 18_4. 18-4 Le doute du Dragon"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 18_4.md"
 toc: false

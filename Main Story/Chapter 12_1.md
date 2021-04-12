@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-1 L'accord interdit"
 permalink: /Main Story/Chapter 12_1/
 excerpt: "Chapitre 12 - 1. Era of Chaos  Histoire principale - Chapitre 12_1. 12-1 L'accord interdit"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 12_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-7 Le pourboire du sage"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "Chapitre 26 - 7. Era of Chaos  Histoire principale - Chapitre 26_7. 26-7 Le pourboire du sage"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 26_7.md"
 toc: false

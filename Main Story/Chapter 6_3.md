@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-3 À l'aube de la guerre"
 permalink: /Main Story/Chapter 6_3/
 excerpt: "Chapitre 6 - 3. Era of Chaos  Histoire principale - Chapitre 6_3. 6-3 À l'aube de la guerre"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: fr
 ref: "Chapter 6_3.md"
 toc: false

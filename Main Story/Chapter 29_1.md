@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-1 Le manoir hanté"
 permalink: /Main Story/Chapter 29_1/
-excerpt: " - 1. Era of Chaos  Histoire principale - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 1. Era of Chaos  Histoire principale - Chapitre 29_1. 29-1 Le manoir hanté"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-1 Le manoir hanté
 
- **Description:** 
+ **Description:** Une maison isolée et hantée, par les fenêtres de laquelle s'échappe une lueur rouge. Il s'agit de la demeure du célèbre seigneur buveur de sang.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

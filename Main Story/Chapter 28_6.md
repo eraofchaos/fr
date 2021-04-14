@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-6 La mine d'or abandonnée"
 permalink: /Main Story/Chapter 28_6/
-excerpt: " - 6. Era of Chaos  Histoire principale - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 6. Era of Chaos  Histoire principale - Chapitre 28_6. 28-6 La mine d'or abandonnée"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-6 La mine d'or abandonnée
 
- **Description:** 
+ **Description:** Le minerai d'or est une ressource essentielle en temps de guerre, mais cette mine d'or semble avoir été abandonnée. Il n'y reste que quelques outils.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-15 La cité du crépuscule"
 permalink: /Main Story/Chapter 28_15/
-excerpt: " - 15. Era of Chaos  Histoire principale - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 15. Era of Chaos  Histoire principale - Chapitre 28_15. 28-15 La cité du crépuscule"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-15 La cité du crépuscule
 
- **Description:** 
+ **Description:** La pierre grise, telle un dragon vieillissant : puissante, mais en plein déclin.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/fr/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

@@ -2,7 +2,7 @@
 title: "Adjudant Gelu"
 permalink: /heroes/Adjutant Gelu/
 excerpt: "Era of Chaos  Adjudant Gelu"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Gelu.md"
 toc: false

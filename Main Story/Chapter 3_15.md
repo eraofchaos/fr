@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-15 La cité du péché"
 permalink: /Main Story/Chapter 3_15/
 excerpt: "Chapitre 3 - 15. Era of Chaos  Histoire principale - Chapitre 3_15. 3-15 La cité du péché"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 3_15.md"
 toc: false

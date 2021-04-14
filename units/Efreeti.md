@@ -3,7 +3,7 @@ title: "Effrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Effrit"
 toc: true
@@ -169,6 +169,7 @@ toc: true
 ### Bonus de héros
 * [Rashka](/fr/heroes/Rashka/)  ->   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-4 L'inattendu"
 permalink: /Main Story/Chapter 14_4/
 excerpt: "Chapitre 14 - 4. Era of Chaos  Histoire principale - Chapitre 14_4. 14-4 L'inattendu"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 14_4.md"
 toc: false

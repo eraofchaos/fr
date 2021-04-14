@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Star 3"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Démone de glace](/fr/units/Ice Demon/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 10 | [Dompteur de requins](/fr/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Chevaucheur de requins  |
   | 11 | [Berserker](/fr/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Hurleur macabre  |
-  | 12 | [Farfadet](/fr/units/Leprechaun/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
+  | 12 | [Farfadet](/fr/units/Leprechaun/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
   | 13 | [Troll](/fr/units/Troll/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 14 | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 15 | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |

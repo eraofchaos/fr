@@ -2,11 +2,37 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 17  Semaine de la Crique
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **26 Apr** | **3x [Élémentaire de mer](/fr/Items/unt_275/)**  | Une escouade d'Élémentaires de mer a rejoint votre armée et vous renforce ! |
+  | **27 Apr** | **3x [Pirates de Regna](/fr/Items/unt_273/)**  | Une escouade de Pirates de Regna a rejoint votre armée et vous renforce ! |
+  | **28 Apr** | **100x <i class="fas fa-gem"/>**  | Les créatures du port des pirates vous offrent un petit amas de diamants ! |
+  | **29 Apr** | **3x [Coffre de faction (Crique)](/fr/Items/con_1278/)**  | Votre compagnie du port vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
+  | **30 Apr** | **3x [Runes de groupement (Crique)](/fr/Items/con_868/)**  | Votre compagnie du port vous a rapporté un certain nombre de runes de grande valeur ! |
+  | **1 May** | **1x [Tortue dragon](/fr/Items/unt_278/)**  | Une escouade de Tortues dragons a rejoint votre armée et vous renforce ! |
+  | **2 May** | **1x [Jetons de Héros universel](/fr/Items/her_358/)**  | Les créatures de la crique des pirates vous offrent un jeton de Héros universel ! |
+
+
+#### 2021 Week 16  Semaine du Bastion
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Apr** | **5x [Gobelin](/fr/Items/unt_217/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
+  | **20 Apr** | **5x [Chevaucheur de loup](/fr/Items/unt_218/)**  | Une escouade de Chevaucheurs de loup a rejoint votre armée et vous renforce ! |
+  | **21 Apr** | **100x <i class="fas fa-gem"/>**  | Les Orques sous votre commandement ont pillé un tas de diamants pour vous ! |
+  | **22 Apr** | **5x [Orque](/fr/Items/unt_219/)**  | Une escouade d'Orques a rejoint votre armée et vous renforce ! |
+  | **23 Apr** | **3x [Ogre](/fr/Items/unt_220/)**  | Une escouade d'Ogres a rejoint votre armée et vous renforce ! |
+  | **24 Apr** | **3x [Cyclope](/fr/Items/unt_222/)**  | Une escouade de Cyclopes a rejoint votre armée et vous renforce ! |
+  | **25 Apr** | **5x [Crag Hack](/fr/Items/her_375/)**  | Vos expéditions incessantes ont attiré l'attention du héros Crag Hack. Il souhaite rejoindre votre armée ! |
+
 
 #### 2021 Week 15  Semaine du Conflux
 

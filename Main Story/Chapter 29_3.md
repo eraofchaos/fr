@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-3 La bibliothèque abandonnée"
 permalink: /Main Story/Chapter 29_3/
-excerpt: " - 3. Era of Chaos  Histoire principale - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 3. Era of Chaos  Histoire principale - Chapitre 29_3. 29-3 La bibliothèque abandonnée"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-3 La bibliothèque abandonnée
 
- **Description:** 
+ **Description:** Vous êtes entré dans cette bibliothèque dans l'espoir d'y acquérir de nouvelles connaissances. Elle est hélas complètement vide, vous n'y trouverez rien ni personne.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

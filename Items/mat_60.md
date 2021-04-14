@@ -2,7 +2,7 @@
 title: "Item - Materials - Répertoire des essences +3"
 permalink: /Items/mat_60/
 excerpt: "Era of Chaos  Répertoire des essences +3"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "mat_60.md"
 toc: false

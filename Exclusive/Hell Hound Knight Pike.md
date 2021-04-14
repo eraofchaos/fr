@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Pic du Chevalier"
+title: "Exclusif - Pic du Chevalier (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Chien de l'Enfer Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Hell Hound Pic du Chevalier.md"
 toc: false

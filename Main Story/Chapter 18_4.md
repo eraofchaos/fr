@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-4 Quelques informations"
 permalink: /Main Story/Chapter 18_4/
 excerpt: "Chapitre 18 - 4. Era of Chaos  Histoire principale - Chapitre 18_4. 18-4 Quelques informations"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 18_4.md"
 toc: false

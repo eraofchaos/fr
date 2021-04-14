@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-2 Le tombeau de la Liche"
 permalink: /Main Story/Chapter 29_2/
-excerpt: " - 2. Era of Chaos  Histoire principale - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 2. Era of Chaos  Histoire principale - Chapitre 29_2. 29-2 Le tombeau de la Liche"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-2 Le tombeau de la Liche
 
- **Description:** 
+ **Description:** Lorsqu'un nécromancien se transforme en Liche, il construit souvent son propre tombeau afin de protéger le réceptacle qui abrite son âme.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

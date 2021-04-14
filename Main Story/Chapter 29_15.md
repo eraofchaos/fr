@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-15 Le gouffre de Rochenoire"
 permalink: /Main Story/Chapter 29_15/
-excerpt: " - 15. Era of Chaos  Histoire principale - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 15. Era of Chaos  Histoire principale - Chapitre 29_15. 29-15 Le gouffre de Rochenoire"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-15 Le gouffre de Rochenoire
 
- **Description:** 
+ **Description:** Une énorme fissure a déchiré la terre. Le château du gouffre de Rochenoire s'élève fièrement en son milieu, occupé par des troupes.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/fr/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

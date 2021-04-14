@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Gog"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 * **R**  (R)
 
 ### Bonus de héros
+* [Dracon](/fr/heroes/Dracon/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent

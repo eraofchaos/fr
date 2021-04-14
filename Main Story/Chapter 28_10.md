@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-10 Le cor de la victoire"
 permalink: /Main Story/Chapter 28_10/
-excerpt: " - 10. Era of Chaos  Histoire principale - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 10. Era of Chaos  Histoire principale - Chapitre 28_10. 28-10 Le cor de la victoire"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-10 Le cor de la victoire
 
- **Description:** 
+ **Description:** Lorsque l'armée royale d'Erathia a réussi petit à petit à chasser ses ennemis de la région est de son continent, l'annonce de sa victoire a également été relayée par les Elfes d'Avlee.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/fr/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

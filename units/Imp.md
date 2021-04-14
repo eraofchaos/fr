@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Diablotin"
 toc: true
@@ -166,6 +166,7 @@ toc: true
 ### Bonus de héros
 * [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/fr/heroes/Nymus/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

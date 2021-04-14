@@ -3,7 +3,7 @@ title: "Sorcière maléfique"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons."
 unitID: 709
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Sorcière maléfique"
 toc: true
@@ -32,7 +32,7 @@ toc: true
 
  **Short description:** Renvoie les sorts. Bonus de domaine.
 
- **Position :** Renvoie les sorts. Bonus de domaine.
+ **Position :** Renvoie les dégâts de sort. Envoie une onde de choc qui étourdit les ennemis. Le domaine augmente l'esquive.
 
 ## Stats de base
  **Base HP: 6000.0**

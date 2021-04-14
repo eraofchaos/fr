@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-5 Misert"
 permalink: /Main Story/Chapter 28_5/
-excerpt: " - 5. Era of Chaos  Histoire principale - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 5. Era of Chaos  Histoire principale - Chapitre 28_5. 28-5 Misert"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-5 Misert
 
- **Description:** 
+ **Description:** Le fort des humains situé à l'orée du bois est occupé par les Seigneurs de guerre du Donjon et leur sert désormais de centre de commandement.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/fr/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

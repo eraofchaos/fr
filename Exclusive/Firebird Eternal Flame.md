@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Flamme éternelle"
+title: "Exclusif - Flamme éternelle (Firebird)"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Flamme éternelle. Flamme éternelle. Era of Chaos Exclusif Flamme éternelle. Oiseau de feu Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Firebird Flamme éternelle.md"
 toc: false

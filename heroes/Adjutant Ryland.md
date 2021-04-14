@@ -2,7 +2,7 @@
 title: "Adjudant Ryland"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Era of Chaos  Adjudant Ryland"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Ryland.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | Niveau d'Adjudant | Extra effect | Puissance d'Adjudant  |
   |:---|:-------|:------------|
   | **10** | Augmente la DÉF d'un Héros allié de 20 (tous les Héros). | **+1500** |
-  | **20** | <Rempart amélioré> : augmente la valeur du bouclier de 100 points supplémentaires. | - |
+  | **20** | <Rempart amélioré> : augmente la valeur du blocage de 100 points supplémentaires. | - |
   | **30** | Augmente l'ATQ d'un Héros allié de 40 (tous les Héros). | **+1500** |
   | **40** | <Rempart amélioré> : augmente les soins reçus de 10 % supplémentaires. L'effet est doublé pour le Garde sylvanien. | - |
 

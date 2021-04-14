@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-11 Le tombeau du guerrier"
 permalink: /Main Story/Chapter 29_11/
-excerpt: " - 11. Era of Chaos  Histoire principale - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 11. Era of Chaos  Histoire principale - Chapitre 29_11. 29-11 Le tombeau du guerrier"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-11 Le tombeau du guerrier
 
- **Description:** 
+ **Description:** Un célèbre guerrier était enterré ici. À contrecœur, vos hommes ont accepté de pénétrer dans le tombeau. Ils n'y ont rien trouvé et leur moral en a pris un coup.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

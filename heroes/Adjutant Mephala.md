@@ -2,7 +2,7 @@
 title: "Adjudant Mephala"
 permalink: /heroes/Adjutant Mephala/
 excerpt: "Era of Chaos  Adjudant Mephala"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Mephala.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Compétence d'Adjudant:**  Formation défensive 
 
- **Description:** Augmente la valeur du bouclier des unités défensives alliées de <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+ **Description:** Augmente la valeur du blocage des unités défensives alliées de <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

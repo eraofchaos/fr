@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-15 Pierre-à-Pont"
 permalink: /Main Story/Chapter 18_15/
 excerpt: "Chapitre 18 - 15. Era of Chaos  Histoire principale - Chapitre 18_15. 18-15 Pierre-à-Pont"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 18_15.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Miracle"
+title: "Exclusif - Miracle (Regnan Archer)"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Era of Chaos Miracle. Miracle. Era of Chaos Exclusif Miracle. Arbalétrière de Regna Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Regnan Archer Miracle.md"
 toc: false

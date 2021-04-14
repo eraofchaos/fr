@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 24 - 24-1 Terre gelée"
 permalink: /Underground/Chapter 24_1/
 excerpt: "Chapitre 24 - 1. Era of Chaos  Souterrain - Chapitre 24_1. 24-1 Terre gelée"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 24_1.md"
 toc: false

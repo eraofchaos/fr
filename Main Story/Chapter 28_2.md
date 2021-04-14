@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-2 La puissance de la forêt"
 permalink: /Main Story/Chapter 28_2/
-excerpt: " - 2. Era of Chaos  Histoire principale - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 2. Era of Chaos  Histoire principale - Chapitre 28_2. 28-2 La puissance de la forêt"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-2 La puissance de la forêt
 
- **Description:** 
+ **Description:** Lors des batailles dans la forêt, toutes les factions doivent redouter les puissantes unités du Rempart. Même les démons sont terrorisés par la rapidité avec laquelle elles se déplacent dans les bois.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

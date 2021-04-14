@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Bouclier iris"
+title: "Exclusif - Bouclier iris (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Spadassin Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Swordsman Bouclier iris.md"
 toc: false

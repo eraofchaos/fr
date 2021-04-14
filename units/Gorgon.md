@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Gorgone"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de la Gorgone est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### Compétence normale 3 : Malédiction sauvage
- **Description:** <span style="color: #645252;font-size:20px">Diminue les coups critiques des ennemis proches de la Gorgone de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Réduit les coups critiques des cibles proches de la Gorgone de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">

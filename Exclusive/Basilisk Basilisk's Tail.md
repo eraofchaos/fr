@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Queue de Basilic"
+title: "Exclusif - Queue de Basilic (Basilisk)"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Queue de Basilic. Queue de Basilic. Era of Chaos Exclusif Queue de Basilic. Basilic Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Basilisk Queue de Basilic.md"
 toc: false

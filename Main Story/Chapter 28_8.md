@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-8 L'imposante masse de rochers"
 permalink: /Main Story/Chapter 28_8/
-excerpt: " - 8. Era of Chaos  Histoire principale - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 8. Era of Chaos  Histoire principale - Chapitre 28_8. 28-8 L'imposante masse de rochers"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-8 L'imposante masse de rochers
 
- **Description:** 
+ **Description:** Une imposante pile de rochers. Afin d'éviter la guerre, les Nains artisans ont démoli la grotte pour se protéger de la bataille à venir.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

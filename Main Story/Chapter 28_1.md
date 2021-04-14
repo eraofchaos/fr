@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-1 Dans les abîmes"
 permalink: /Main Story/Chapter 28_1/
-excerpt: " - 1. Era of Chaos  Histoire principale - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 1. Era of Chaos  Histoire principale - Chapitre 28_1. 28-1 Dans les abîmes"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-1 Dans les abîmes
 
- **Description:** 
+ **Description:** Les Seigneurs de guerre du Donjon ont construit un immense réseau souterrain qui permet à l'ennemi de battre en retraite et de se ravitailler. Il va être difficile de les faire sortir de leur refuge.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

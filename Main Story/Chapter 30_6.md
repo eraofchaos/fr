@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-6 L'arbre mort et la tablette en pierre"
 permalink: /Main Story/Chapter 30_6/
-excerpt: " - 6. Era of Chaos  Histoire principale - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 6. Era of Chaos  Histoire principale - Chapitre 30_6. 30-6 L'arbre mort et la tablette en pierre"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-6 L'arbre mort et la tablette en pierre
 
- **Description:** 
+ **Description:** Une longue période de sécheresse a causé la perte de la flore entourant le volcan. L'aspect de cette tablette en pierre couverte de plantes flétries est particulièrement étrange.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

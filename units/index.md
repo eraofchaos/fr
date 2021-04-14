@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "index.md"
 toc: false
@@ -50,7 +50,7 @@ classes: wide
   | 28 | [Démone de glace](/fr/units/Ice Demon/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 29 | [Effrit](/fr/units/Efreeti/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultan Effrit  |
   | 30 | [Elfe sylvaine](/fr/units/Wood Elf/) | À distance | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Grand Elfe  |
-  | 31 | [Farfadet](/fr/units/Leprechaun/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
+  | 31 | [Farfadet](/fr/units/Leprechaun/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
   | 32 | [Fée](/fr/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
   | 33 | [Garde sylvanien](/fr/units/Dendroid Guard/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldat sylvanien  |
   | 34 | [Gargouille](/fr/units/Stone Gargoyle/) | Offensive | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |

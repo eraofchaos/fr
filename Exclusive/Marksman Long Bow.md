@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Arc long"
+title: "Exclusif - Arc long (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Grand Arbalétrier Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Marksman Arc long.md"
 toc: false

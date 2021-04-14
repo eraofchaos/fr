@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-7 Les mines de soufre"
 permalink: /Main Story/Chapter 30_7/
-excerpt: " - 7. Era of Chaos  Histoire principale - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 7. Era of Chaos  Histoire principale - Chapitre 30_7. 30-7 Les mines de soufre"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-7 Les mines de soufre
 
- **Description:** 
+ **Description:** Le soufre abonde près du magma, mais des forces de l'Hadès protègent actuellement cet endroit.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

@@ -2,7 +2,7 @@
 title: "Histoire principale"
 permalink: /Main Story/
 excerpt: "Histoire principale. Era of Chaos  Histoire principale."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "index.md"
 toc: false
@@ -172,8 +172,8 @@ classes: wide
 
   | Nom |  Description | 
   |:------------|:------------| 
-  | [](/fr/Main Story/Chapter 28/) | Tunnels et Troglodytes | 
-  | [](/fr/Main Story/Chapter 29/) |  | 
-  | [](/fr/Main Story/Chapter 30/) |  | 
+  | [Chapitre 28](/fr/Main Story/Chapter 28/) | Tunnels et Troglodytes | 
+  | [Chapitre 29](/fr/Main Story/Chapter 29/) | Pacte avec le Démon | 
+  | [Chapitre 30](/fr/Main Story/Chapter 30/) | Salut du roi | 
 
 

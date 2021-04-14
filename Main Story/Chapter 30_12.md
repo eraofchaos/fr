@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-12 Le champ de tir de boules de feu"
 permalink: /Main Story/Chapter 30_12/
-excerpt: " - 12. Era of Chaos  Histoire principale - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 12. Era of Chaos  Histoire principale - Chapitre 30_12. 30-12 Le champ de tir de boules de feu"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-12 Le champ de tir de boules de feu
 
- **Description:** 
+ **Description:** Les Gogs sont des maîtres innés des flammes. Ils utilisent leurs prisonniers pour s'entraîner à lancer des boules de feu.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

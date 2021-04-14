@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Queue de Wivern"
+title: "Exclusif - Queue de Wivern (Wyvern)"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Queue de Wivern. Queue de Wivern. Era of Chaos Exclusif Queue de Wivern. Wivern Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Wyvern Queue de Wivern.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-9 La cabane de chasse"
 permalink: /Main Story/Chapter 29_9/
-excerpt: " - 9. Era of Chaos  Histoire principale - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 9. Era of Chaos  Histoire principale - Chapitre 29_9. 29-9 La cabane de chasse"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-9 La cabane de chasse
 
- **Description:** 
+ **Description:** Une cabane dans laquelle résident les chasseurs. Habituellement, des animaux sauvages se baladent dans les environs. Cette cabane n'est occupée que pendant le Temps des moissons.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

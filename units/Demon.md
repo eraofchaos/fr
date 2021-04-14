@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Démon"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 ### Bonus de héros
 * [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/fr/heroes/Nymus/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

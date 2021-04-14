@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-3 La complainte"
 permalink: /Main Story/Chapter 8_3/
 excerpt: "Chapitre 8 - 3. Era of Chaos  Histoire principale - Chapitre 8_3. 8-3 La complainte"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 8_3.md"
 toc: false

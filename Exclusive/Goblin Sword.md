@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Épée"
+title: "Exclusif - Épée (Goblin)"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gobelin Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Goblin Épée.md"
 toc: false

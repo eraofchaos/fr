@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-14 Le temple de haut niveau"
 permalink: /Main Story/Chapter 29_14/
-excerpt: " - 14. Era of Chaos  Histoire principale - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 14. Era of Chaos  Histoire principale - Chapitre 29_14. 29-14 Le temple de haut niveau"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-14 Le temple de haut niveau
 
- **Description:** 
+ **Description:** Ce qui était à l'origine une église a disparu derrière l'aura de la forêt maléfique et les corps qui y étaient enterrés sont sortis de leurs tombes.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

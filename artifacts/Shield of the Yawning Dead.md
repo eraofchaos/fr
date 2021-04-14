@@ -2,7 +2,7 @@
 title: "Artefact - Armure du Damné - Écu des ténèbres"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "Era of Chaos  Armure du Damné - Écu des ténèbres. Un bouclier fait d'os de Non-Morts. Composant de l'Armure du Damné."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Shield of the Yawning Dead.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Progéniture venimeuse"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces démons sont nés des flammes et des ombres des tréfonds de l'enfer. La légende raconte que ce sont les effroyables cauchemars qui calcinent les champs de bataille de leurs flammes karmiques du péché."
 unitID: 509
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Progéniture venimeuse"
 toc: true
@@ -256,7 +256,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Exécution intrépide
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt; : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Pour chaque Chef de sanctuaire sur le champ de bataille, la DÉF du Paladin suprême augmente de 15 %. Le sanctuaire restaure 10 % de PV lors des 3 premières invocations.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt;</span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du Sanctuaire. Pour chaque Chef de sanctuaire sur le champ de bataille, la DÉF du Paladin suprême augmente de 15 %. Le Paladin suprême restaure 10 % de PV lors des 3 premières invocations.
 
 ### 2nd Skill (or 1st): Gloire du sanctuaire
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt; : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Les trois premières invocations augmentent les dégâts et la résistance aux dégâts de vos unités de 10 % pendant 30 secondes. Le Paladin suprême invoque un Chef du sanctuaire la première fois qu'il apparaît sur le champ de bataille.</span>

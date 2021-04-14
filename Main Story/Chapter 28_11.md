@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-11 Les charniers"
 permalink: /Main Story/Chapter 28_11/
-excerpt: " - 11. Era of Chaos  Histoire principale - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 11. Era of Chaos  Histoire principale - Chapitre 28_11. 28-11 Les charniers"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-11 Les charniers
 
- **Description:** 
+ **Description:** Vous passez près d'un charnier qui renferme des corps sous l'effet d'un puissant maléfice. Lorsque des êtres vivants passent à proximité, les Squelettes sortent de leur sépulture.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

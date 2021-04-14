@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-12 Le temple abandonné"
 permalink: /Main Story/Chapter 28_12/
-excerpt: " - 12. Era of Chaos  Histoire principale - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 12. Era of Chaos  Histoire principale - Chapitre 28_12. 28-12 Le temple abandonné"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-12 Le temple abandonné
 
- **Description:** 
+ **Description:** Une église abandonnée. Après qu'un nécromancien a occupé la zone et utilisé son ignoble magie, l'église est devenue un temple dédié à l'enrôlement des Squelettes.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

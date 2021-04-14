@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Même s'il est dans un monde totalement différent, Ezio s'accroche à ses convictions. Il agit dans l'ombre pour servir la lumière."
 heroID: 61901
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Ezio"
 toc: true

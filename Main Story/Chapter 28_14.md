@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-14 Le sanctuaire sacré"
 permalink: /Main Story/Chapter 28_14/
-excerpt: " - 14. Era of Chaos  Histoire principale - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 14. Era of Chaos  Histoire principale - Chapitre 28_14. 28-14 Le sanctuaire sacré"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-14 Le sanctuaire sacré
 
- **Description:** 
+ **Description:** Le sanctuaire sacré assure depuis toujours la protection des Héros contre les quêtes ennemies.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

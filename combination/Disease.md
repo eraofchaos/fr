@@ -2,7 +2,7 @@
 title: "Infos combinaison for Maladie"
 permalink: /combination/Disease/
 excerpt: "Infos combinaison - Maladie. Units and Heroes Formation."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Maladie.md"
 toc: false

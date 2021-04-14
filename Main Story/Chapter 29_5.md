@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-5 Le village aux trèfles"
 permalink: /Main Story/Chapter 29_5/
-excerpt: " - 5. Era of Chaos  Histoire principale - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 5. Era of Chaos  Histoire principale - Chapitre 29_5. 29-5 Le village aux trèfles"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-5 Le village aux trèfles
 
- **Description:** 
+ **Description:** Cette pitoyable ville frontalière était autrefois un village d'Elfes sylvaines, mais une armée de démons y est désormais stationnée.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/fr/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

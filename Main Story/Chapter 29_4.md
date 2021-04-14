@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-4 L'autel du sang"
 permalink: /Main Story/Chapter 29_4/
-excerpt: " - 4. Era of Chaos  Histoire principale - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 4. Era of Chaos  Histoire principale - Chapitre 29_4. 29-4 L'autel du sang"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-4 L'autel du sang
 
- **Description:** 
+ **Description:** Vous avez détruit un autel du sang. Les adeptes y viennent souvent pour lancer des sorts maléfiques.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Faux du diable"
+title: "Exclusif - Faux du diable (Devil)"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Faux du diable. Faux du diable. Era of Chaos Exclusif Faux du diable. Diable Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Devil Faux du diable.md"
 toc: false

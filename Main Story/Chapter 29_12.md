@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-12 La falaise du Dragon vert"
 permalink: /Main Story/Chapter 29_12/
-excerpt: " - 12. Era of Chaos  Histoire principale - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 12. Era of Chaos  Histoire principale - Chapitre 29_12. 29-12 La falaise du Dragon vert"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-12 La falaise du Dragon vert
 
- **Description:** 
+ **Description:** Un nid de Dragon vert se trouve au sommet d'une immense falaise. Il est abandonné depuis longtemps et ne contient plus qu'un tas d'os.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

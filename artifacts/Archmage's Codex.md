@@ -2,7 +2,7 @@
 title: "Artefact - Codex de l'Archimage"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Era of Chaos  Codex de l'Archimage. Codex de l'Archimage Enregistre des sorts des arcanes. Renforce les unités à distance et les Lanceur de sorts."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Archmage's Codex.md"
 toc: false

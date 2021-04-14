@@ -2,7 +2,7 @@
 title: "Adjudant Vidomina"
 permalink: /heroes/Adjutant Vidomina/
 excerpt: "Era of Chaos  Adjudant Vidomina"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Vidomina.md"
 toc: false

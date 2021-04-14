@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-3 Descendre en piqué ou prendre son envol"
 permalink: /Main Story/Chapter 28_3/
-excerpt: " - 3. Era of Chaos  Histoire principale - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 3. Era of Chaos  Histoire principale - Chapitre 28_3. 28-3 Descendre en piqué ou prendre son envol"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-3 Descendre en piqué ou prendre son envol
 
- **Description:** 
+ **Description:** Bien que les Manticores soient originaires du souterrain, elles sont dotées d'ailes aussi larges que terrifiantes. C'est cette particularité anatomique qui leur permet d'effectuer des attaques en piqué.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

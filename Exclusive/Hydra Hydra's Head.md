@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Tête d'Hydre"
+title: "Exclusif - Tête d'Hydre (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Tête d'Hydre. Tête d'Hydre. Era of Chaos Exclusif Tête d'Hydre. Hydre Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Hydra Tête d'Hydre.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-10 La ville de la Chance"
 permalink: /Main Story/Chapter 29_10/
-excerpt: " - 10. Era of Chaos  Histoire principale - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 10. Era of Chaos  Histoire principale - Chapitre 29_10. 29-10 La ville de la Chance"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-10 La ville de la Chance
 
- **Description:** 
+ **Description:** Cette ville du Rempart appelée Chance semble avoir réussi à sortir de la guerre intacte.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/fr/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

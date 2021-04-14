@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-12 L'unité secrète"
 permalink: /Main Story/Chapter 18_12/
 excerpt: "Chapitre 18 - 12. Era of Chaos  Histoire principale - Chapitre 18_12. 18-12 L'unité secrète"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 18_12.md"
 toc: false

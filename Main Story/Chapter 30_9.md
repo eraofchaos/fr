@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-9 La raffinerie de mercure"
 permalink: /Main Story/Chapter 30_9/
-excerpt: " - 9. Era of Chaos  Histoire principale - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 9. Era of Chaos  Histoire principale - Chapitre 30_9. 30-9 La raffinerie de mercure"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-9 La raffinerie de mercure
 
- **Description:** 
+ **Description:** Le mercure est l'un des éléments essentiels à la pratique de l'alchimie. Par conséquent, de nombreux alchimistes possèdent leur propre raffinerie de mercure, y compris les sorciers maléfiques qui étudient l'alchimie.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

@@ -2,7 +2,7 @@
 title: "Adjudant Gem"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Era of Chaos  Adjudant Gem"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Gem.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Compétence d'Adjudant:**  Refuge naturel 
 
- **Description:** Lorsque des unités du Rempart alliées reçoivent un <span style="color: #48b946;font-size:20px">bouclier</span><span style="color: black">, augmente la valeur du bouclier de <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Description:** Lorsque des unités alliées du Rempart reçoivent un <span style="color: #48b946;font-size:20px">bouclier</span><span style="color: black">, augmente la valeur du blocage de <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

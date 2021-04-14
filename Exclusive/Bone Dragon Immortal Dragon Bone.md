@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Os de dragon immortel"
+title: "Exclusif - Os de dragon immortel (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Os de dragon immortel. Os de dragon immortel. Era of Chaos Exclusif Os de dragon immortel. Dragon squelette Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Bone Dragon Os de dragon immortel.md"
 toc: false

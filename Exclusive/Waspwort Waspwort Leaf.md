@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Feuille de Guêpier"
+title: "Exclusif - Feuille de Guêpier (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Feuille de Guêpier. Feuille de Guêpier. Era of Chaos Exclusif Feuille de Guêpier. Guêpier Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Waspwort Feuille de Guêpier.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | ? | <Feuille vénéneuse> : Lorsque des créatures invoquées alliées meurent, le Guêpier s'empare de Feuilles de Guêpier pour empoisonner les unités ennemies, ce qui leur inflige Paralysie pendant 5 secondes. En parallèle, il les purifie pour supprimer 1 niveau de bonus. |
   | **4x** <i class="fas fa-star"/> | ? | Augmente ses dégâts d'unité de 6 % pour chaque unité de la Forteresse présente sur le champ de bataille. |
   | **5x** <i class="fas fa-star"/> | ? | La première fois que les PV du Guêpier tombent en dessous de 33 %, la résistance aux dégâts d'unité augmente de 40 % pendant 7 secondes. L'effet ne peut pas être dissipé. Inflige également Étourdissement aux unités ennemies dans une zone réduite autour de lui pendant 5 secondes. |
-  | **6x** <i class="fas fa-star"/> | ? | <Corrosion venimeuse> : Lorsque le Guêpier porte un coup critique, il a 20 % de chance d'infliger 40 % de dégâts supplémentaires et de diminuer la résistance aux dégâts de 7 % ainsi que la valeur de bouclier de 70 pendant 8 secondes. L'effet peut se cumuler jusqu'à 3 fois. |
+  | **6x** <i class="fas fa-star"/> | ? | <Corrosion venimeuse> Lorsque le Guêpier porte un coup critique, il a 20 % de chance d'infliger 40 % de dégâts supplémentaires et de diminuer la résistance aux dégâts de 7 % ainsi que la valeur du blocage de 70 pendant 8 secondes. L'effet peut se cumuler jusqu'à 3 fois. |
 
 
 ## Améliorer

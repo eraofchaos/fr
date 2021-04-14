@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-15 La cité du soufre et des flammes"
 permalink: /Main Story/Chapter 23_15/
 excerpt: "Chapitre 23 - 15. Era of Chaos  Histoire principale - Chapitre 23_15. 23-15 La cité du soufre et des flammes"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 23_15.md"
 toc: false

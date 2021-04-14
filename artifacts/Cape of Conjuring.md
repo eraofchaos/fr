@@ -2,7 +2,7 @@
 title: "Artefact - Anneau du Mage - Cape de constance"
 permalink: /artifacts/Cape of Conjuring/
 excerpt: "Era of Chaos  Anneau du Mage - Cape de constance. Une cape qui crépite de puissance magique. Composant de l'Anneau du Mage."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Cape of Conjuring.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois légendaire +3"
 permalink: /Items/mat_55/
 excerpt: "Era of Chaos  Bois légendaire +3"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "mat_55.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-2 Le tourbillon magique"
 permalink: /Main Story/Chapter 27_2/
 excerpt: "Chapitre 27 - 2. Era of Chaos  Histoire principale - Chapitre 27_2. 27-2 Le tourbillon magique"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 27_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-12 Le duel souterrain"
 permalink: /Main Story/Chapter 12_12/
 excerpt: "Chapitre 12 - 12. Era of Chaos  Histoire principale - Chapitre 12_12. 12-12 Le duel souterrain"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 12_12.md"
 toc: false

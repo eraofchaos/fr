@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Revyaratan"
 toc: true

@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre d'âme +3"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Soufre d'âme +3"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "mat_85.md"
 toc: false

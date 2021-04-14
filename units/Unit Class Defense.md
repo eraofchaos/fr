@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Unit Class Defense"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | [Ogre](/fr/units/Ogre/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre Mage  |
   | 4 | [Démon](/fr/units/Demon/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Garde de l'Hadès  |
   | 5 | [Béhémoth](/fr/units/Behemoth/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Béhémoth royal  |
-  | 6 | [Farfadet](/fr/units/Leprechaun/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
+  | 6 | [Farfadet](/fr/units/Leprechaun/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
   | 7 | [Golem de fer](/fr/units/Iron Golem/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Golem d'or  |
   | 8 | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 9 | [Cauchemar](/fr/units/Nightmare/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Roi Cauchemar  |

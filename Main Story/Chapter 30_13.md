@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-13 La terre carbonisée par la lave"
 permalink: /Main Story/Chapter 30_13/
-excerpt: " - 13. Era of Chaos  Histoire principale - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 13. Era of Chaos  Histoire principale - Chapitre 30_13. 30-13 La terre carbonisée par la lave"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-13 La terre carbonisée par la lave
 
- **Description:** 
+ **Description:** Une forte odeur sulfurée émane de la terre brûlée à proximité de la lave. Le soufre en feu émet une flamme verdâtre et une odeur âcre.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

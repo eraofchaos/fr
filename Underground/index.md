@@ -2,7 +2,7 @@
 title: "Souterrain"
 permalink: /Underground/
 excerpt: "Souterrain. Era of Chaos  Souterrain."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "index.md"
 toc: false
@@ -38,3 +38,6 @@ classes: wide
   | **25** | [Souterrain Chapitre 25 - Les Terres du sommeil](/fr/Underground/Chapitre 25/) | **96** | Le chemin vers Welnin est semé d'embûches. Si nous voulons réaliser notre rêve d'indépendance, nous devons d'abord éviter Erathia et atteindre Welnin pour y établir une base. | 
   | **26** | [Souterrain Chapitre 26 - Le son du destin](/fr/Underground/Chapitre 26/) | **100** | L'artefact a atteint Welnin. Toutefois, les armées d'Erathia et d'Avlee sont elles aussi arrivées. La guerre peut éclater à tout moment. | 
   | **27** | [Souterrain Chapitre 27 - La voie du pèlerin](/fr/Underground/Chapitre 27/) | **104** | - | 
+  | **28** | [Souterrain Chapitre 28 - Tunnels et Troglodytes](/fr/Underground/Chapitre 28/) | **106** | - | 
+  | **29** | [Souterrain Chapitre 29 - Pacte avec le Démon](/fr/Underground/Chapitre 29/) | **108** | - | 
+  | **30** | [Souterrain Chapitre 30 - Salut du roi](/fr/Underground/Chapitre 30/) | **110** | - | 

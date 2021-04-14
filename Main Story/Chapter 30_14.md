@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-14 Le quartier général de l'Hadès"
 permalink: /Main Story/Chapter 30_14/
-excerpt: " - 14. Era of Chaos  Histoire principale - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 14. Era of Chaos  Histoire principale - Chapitre 30_14. 30-14 Le quartier général de l'Hadès"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-14 Le quartier général de l'Hadès
 
- **Description:** 
+ **Description:** Les Effrits vivent dans les Enfers et agissent en qualité de conseillers militaires pour aider les armées de l'Hadès à élaborer des stratégies de combat.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

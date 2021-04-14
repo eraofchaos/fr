@@ -2,7 +2,7 @@
 title: "Artefact - Hache de férocité - Vareuse du roi cyclope"
 permalink: /artifacts/Tunic of the Cyclops King/
 excerpt: "Era of Chaos  Hache de férocité - Vareuse du roi cyclope. Une tunique perdue par un Cyclope nageur. Composant de la Hache de férocité."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Tunic of the Cyclops King.md"
 toc: false

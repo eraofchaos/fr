@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Queue de scorpion"
+title: "Exclusif - Queue de scorpion (Manticore)"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Queue de scorpion. Queue de scorpion. Era of Chaos Exclusif Queue de scorpion. Manticore Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Manticore Queue de scorpion.md"
 toc: false

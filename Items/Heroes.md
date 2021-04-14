@@ -2,7 +2,7 @@
 title: "Item - Heroes"
 permalink: /Items/Heroes/
 excerpt: "Heroes in Era of Chaos"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Heroes.md"
 toc: false
@@ -75,88 +75,89 @@ classes: wide
   | 61 | [Guérison](/fr/Items/her_430/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Guérison |
   | 62 | [Halo d'épines](/fr/Items/her_501/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Halo d'épines |
   | 63 | [Hypnose](/fr/Items/her_440/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Hypnose |
-  | 64 | [Implosion](/fr/Items/her_457/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Implosion |
-  | 65 | [Inversion d'énergie](/fr/Items/her_433/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Inversion d'énergie |
-  | 66 | [Jeddite](/fr/Items/her_391/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Jeddite rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 67 | [Jenova](/fr/Items/her_365/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Jenova rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 68 | [Jetons de Héros universel](/fr/Items/her_358/){: .btn .btn--era5} | Event related | Grâce à ces jetons dotés d'une formidable magie, améliorez le rang de n'importe quel Héros. |
-  | 69 | [Kassandra](/fr/Items/her_399/){: .btn .btn--era5} | Hero Soul | Récupérez 30 jetons pour que Kassandra rejoigne votre équipe. Les jetons vous permettent également d'améliorer son rang. |
-  | 70 | [Kendal](/fr/Items/her_363/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Kendal rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 71 | [Kilgor](/fr/Items/her_374/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Kilgor rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 72 | [Korbac](/fr/Items/her_394/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Korbac rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 73 | [Lien de vie](/fr/Items/her_429/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Lien de vie |
-  | 74 | [Luna](/fr/Items/her_378/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Luna rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 75 | [Magie reconstituée](/fr/Items/her_482/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Magie reconstituée |
-  | 76 | [Malédiction](/fr/Items/her_410/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Malédiction |
-  | 77 | [Maître des armes](/fr/Items/her_503/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maître des armes |
-  | 78 | [Maître des armures](/fr/Items/her_502/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maître des armures |
-  | 79 | [Maître des sorts](/fr/Items/her_489/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maître des sorts |
-  | 80 | [Maîtrise de l'air](/fr/Items/her_492/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maîtrise de l'air |
-  | 81 | [Maîtrise de l'eau](/fr/Items/her_481/){: .btn .btn--era4} | Skill | Jeton utilisé pour assembler le Livre de sort - Fils de la terre |
-  | 82 | [Maîtrise de la terre](/fr/Items/her_499/){: .btn .btn--era4} | Skill | Jeton utilisé pour assembler le Livre de sort - Maîtrise de la terre |
-  | 83 | [Maîtrise du feu](/fr/Items/her_477/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maîtrise du feu |
-  | 84 | [Mephala](/fr/Items/her_367/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mephala rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 85 | [Mise à mort](/fr/Items/her_469/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Mise à mort |
-  | 86 | [Monere](/fr/Items/her_379/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Monere rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 87 | [Mullich](/fr/Items/her_360/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mullich rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 88 | [Mur de flammes](/fr/Items/her_407/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de flammes |
-  | 89 | [Mur de glace](/fr/Items/her_419/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de glace |
-  | 90 | [Mur de pierre](/fr/Items/her_463/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de pierre |
-  | 91 | [Mur de vent](/fr/Items/her_436/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de vent |
-  | 92 | [Mutare](/fr/Items/her_389/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mutare rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 93 | [Mutare (dragon)](/fr/Items/her_390/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mutare (dragon) rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 94 | [Mélodia](/fr/Items/her_364/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mélodia rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 95 | [Mémoire des sorts](/fr/Items/her_491/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mémoire des sorts |
-  | 96 | [Nécromancie](/fr/Items/her_460/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Nécromancie |
-  | 97 | [Nécrophage](/fr/Items/her_444/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Nécrophage |
-  | 98 | [Obscurité totale](/fr/Items/her_409/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Obscurité totale |
-  | 99 | [Onde mortelle](/fr/Items/her_456/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Onde mortelle |
-  | 100 | [Orage](/fr/Items/her_445/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Orage |
-  | 101 | [Peter Lee](/fr/Items/her_397/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que PeterLee rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 102 | [Piège de lave](/fr/Items/her_475/){: .btn .btn--era5} | Skill |  |
-  | 103 | [Pluie de météores](/fr/Items/her_455/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Pluie de météores |
-  | 104 | [Portail de feu](/fr/Items/her_412/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Portail de feu |
-  | 105 | [Pourfendeur](/fr/Items/her_402/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Pourfendeur |
-  | 106 | [Profondeurs silencieuses](/fr/Items/her_484/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Profondeurs silencieuses |
-  | 107 | [Protection divine](/fr/Items/her_418/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Protection divine |
-  | 108 | [Précision](/fr/Items/her_439/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Précision |
-  | 109 | [Préparation adéquate](/fr/Items/her_486/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Préparation adéquate |
-  | 110 | [Pétrification](/fr/Items/her_471/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Pétrification |
-  | 111 | [Quiétude](/fr/Items/her_487/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Quiétude |
-  | 112 | [Rashka](/fr/Items/her_384/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Rashka rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 113 | [Refroidissement](/fr/Items/her_494/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Refroidissement |
-  | 114 | [Roland](/fr/Items/her_362/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Roland rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 115 | [Ruée tactique](/fr/Items/her_450/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Ruée tactique |
-  | 116 | [Ryland](/fr/Items/her_368/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Ryland rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 117 | [Résonance forestière](/fr/Items/her_465/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Résonance forestière |
-  | 118 | [Résurrection](/fr/Items/her_459/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Résurrection |
-  | 119 | [Sables mouvants](/fr/Items/her_454/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Sables mouvants |
-  | 120 | [Sandro](/fr/Items/her_371/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Sandro rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 121 | [Sandro (humain)](/fr/Items/her_373/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Sandro (humain) rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 122 | [Seigneur Haart](/fr/Items/her_370/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que le Seigneur Haart rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 123 | [Sephinroth](/fr/Items/her_392/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Sephinroth rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 124 | [Septième sens](/fr/Items/her_495/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Septième sens |
-  | 125 | [Shiva](/fr/Items/her_376/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Shiva rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 126 | [Solmyr](/fr/Items/her_386/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Solmyr rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 127 | [Souffle du Dragon](/fr/Items/her_405/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Souffle du Dragon |
-  | 128 | [Spécialité sanguine](/fr/Items/her_483/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Spécialité sanguine |
-  | 129 | [Suppression de mana](/fr/Items/her_480/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Suppression de mana |
-  | 130 | [Tazar](/fr/Items/her_393/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Tazar rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 131 | [Terre cristallisée](/fr/Items/her_474/){: .btn .btn--era5} | Skill |  |
-  | 132 | [Terre de feu](/fr/Items/her_416/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Terre de feu |
-  | 133 | [Trait de feu](/fr/Items/her_479/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Trait de feu |
-  | 134 | [Téléportation](/fr/Items/her_426/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Téléportation |
-  | 135 | [Vent hurlant](/fr/Items/her_498/){: .btn .btn--era4} | Skill |  |
-  | 136 | [Vent royal](/fr/Items/her_434/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Vent royal |
-  | 137 | [Vidomina](/fr/Items/her_372/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Vidomina rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 138 | [Wystan](/fr/Items/her_395/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Wystan rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 139 | [Xeron](/fr/Items/her_383/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Xeron rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 140 | [Yog](/fr/Items/her_377/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Yog rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 141 | [Zydar](/fr/Items/her_385/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Zydar rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
-  | 142 | [Écho de l'abîme](/fr/Items/her_415/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Écho de l'abîme |
-  | 143 | [Éclair de foudre](/fr/Items/her_443/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Éclair de foudre |
-  | 144 | [Éclair de glace](/fr/Items/her_422/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Éclair de glace |
-  | 145 | [Élémentaire d'air](/fr/Items/her_448/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Élémentaire d'air |
-  | 146 | [Élémentaire d'eau](/fr/Items/her_427/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Élémentaire d'eau |
-  | 147 | [Élémentaire de feu](/fr/Items/her_411/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Élémentaire de feu |
-  | 148 | [Élémentaire de terre](/fr/Items/her_461/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Sort de terre |
+  | 64 | [Héros Nymus](/fr/Items/her_2131/){: .btn .btn--era5} | Hero Soul | Récupérez 30 jetons pour que Nymus rejoigne votre équipe. Les jetons vous permettent également d'améliorer son rang. |
+  | 65 | [Implosion](/fr/Items/her_457/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Implosion |
+  | 66 | [Inversion d'énergie](/fr/Items/her_433/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Inversion d'énergie |
+  | 67 | [Jeddite](/fr/Items/her_391/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Jeddite rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 68 | [Jenova](/fr/Items/her_365/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Jenova rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 69 | [Jetons de Héros universel](/fr/Items/her_358/){: .btn .btn--era5} | Event related | Grâce à ces jetons dotés d'une formidable magie, améliorez le rang de n'importe quel Héros. |
+  | 70 | [Kassandra](/fr/Items/her_399/){: .btn .btn--era5} | Hero Soul | Récupérez 30 jetons pour que Kassandra rejoigne votre équipe. Les jetons vous permettent également d'améliorer son rang. |
+  | 71 | [Kendal](/fr/Items/her_363/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Kendal rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 72 | [Kilgor](/fr/Items/her_374/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Kilgor rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 73 | [Korbac](/fr/Items/her_394/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Korbac rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 74 | [Lien de vie](/fr/Items/her_429/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Lien de vie |
+  | 75 | [Luna](/fr/Items/her_378/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Luna rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 76 | [Magie reconstituée](/fr/Items/her_482/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Magie reconstituée |
+  | 77 | [Malédiction](/fr/Items/her_410/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Malédiction |
+  | 78 | [Maître des armes](/fr/Items/her_503/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maître des armes |
+  | 79 | [Maître des armures](/fr/Items/her_502/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maître des armures |
+  | 80 | [Maître des sorts](/fr/Items/her_489/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maître des sorts |
+  | 81 | [Maîtrise de l'air](/fr/Items/her_492/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maîtrise de l'air |
+  | 82 | [Maîtrise de l'eau](/fr/Items/her_481/){: .btn .btn--era4} | Skill | Jeton utilisé pour assembler le Livre de sort - Fils de la terre |
+  | 83 | [Maîtrise de la terre](/fr/Items/her_499/){: .btn .btn--era4} | Skill | Jeton utilisé pour assembler le Livre de sort - Maîtrise de la terre |
+  | 84 | [Maîtrise du feu](/fr/Items/her_477/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Maîtrise du feu |
+  | 85 | [Mephala](/fr/Items/her_367/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mephala rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 86 | [Mise à mort](/fr/Items/her_469/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Mise à mort |
+  | 87 | [Monere](/fr/Items/her_379/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Monere rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 88 | [Mullich](/fr/Items/her_360/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mullich rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 89 | [Mur de flammes](/fr/Items/her_407/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de flammes |
+  | 90 | [Mur de glace](/fr/Items/her_419/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de glace |
+  | 91 | [Mur de pierre](/fr/Items/her_463/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de pierre |
+  | 92 | [Mur de vent](/fr/Items/her_436/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mur de vent |
+  | 93 | [Mutare](/fr/Items/her_389/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mutare rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 94 | [Mutare (dragon)](/fr/Items/her_390/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mutare (dragon) rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 95 | [Mélodia](/fr/Items/her_364/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Mélodia rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 96 | [Mémoire des sorts](/fr/Items/her_491/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Mémoire des sorts |
+  | 97 | [Nécromancie](/fr/Items/her_460/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Nécromancie |
+  | 98 | [Nécrophage](/fr/Items/her_444/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Nécrophage |
+  | 99 | [Obscurité totale](/fr/Items/her_409/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Obscurité totale |
+  | 100 | [Onde mortelle](/fr/Items/her_456/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Onde mortelle |
+  | 101 | [Orage](/fr/Items/her_445/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Orage |
+  | 102 | [Peter Lee](/fr/Items/her_397/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que PeterLee rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 103 | [Piège de lave](/fr/Items/her_475/){: .btn .btn--era5} | Skill |  |
+  | 104 | [Pluie de météores](/fr/Items/her_455/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Pluie de météores |
+  | 105 | [Portail de feu](/fr/Items/her_412/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Portail de feu |
+  | 106 | [Pourfendeur](/fr/Items/her_402/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Pourfendeur |
+  | 107 | [Profondeurs silencieuses](/fr/Items/her_484/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Profondeurs silencieuses |
+  | 108 | [Protection divine](/fr/Items/her_418/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Protection divine |
+  | 109 | [Précision](/fr/Items/her_439/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Précision |
+  | 110 | [Préparation adéquate](/fr/Items/her_486/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Préparation adéquate |
+  | 111 | [Pétrification](/fr/Items/her_471/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Pétrification |
+  | 112 | [Quiétude](/fr/Items/her_487/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Quiétude |
+  | 113 | [Rashka](/fr/Items/her_384/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Rashka rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 114 | [Refroidissement](/fr/Items/her_494/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Refroidissement |
+  | 115 | [Roland](/fr/Items/her_362/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Roland rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 116 | [Ruée tactique](/fr/Items/her_450/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Ruée tactique |
+  | 117 | [Ryland](/fr/Items/her_368/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Ryland rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 118 | [Résonance forestière](/fr/Items/her_465/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Résonance forestière |
+  | 119 | [Résurrection](/fr/Items/her_459/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Résurrection |
+  | 120 | [Sables mouvants](/fr/Items/her_454/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Sables mouvants |
+  | 121 | [Sandro](/fr/Items/her_371/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Sandro rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 122 | [Sandro (humain)](/fr/Items/her_373/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Sandro (humain) rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 123 | [Seigneur Haart](/fr/Items/her_370/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que le Seigneur Haart rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 124 | [Sephinroth](/fr/Items/her_392/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Sephinroth rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 125 | [Septième sens](/fr/Items/her_495/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Septième sens |
+  | 126 | [Shiva](/fr/Items/her_376/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Shiva rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 127 | [Solmyr](/fr/Items/her_386/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Solmyr rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 128 | [Souffle du Dragon](/fr/Items/her_405/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Souffle du Dragon |
+  | 129 | [Spécialité sanguine](/fr/Items/her_483/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Spécialité sanguine |
+  | 130 | [Suppression de mana](/fr/Items/her_480/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Suppression de mana |
+  | 131 | [Tazar](/fr/Items/her_393/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Tazar rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 132 | [Terre cristallisée](/fr/Items/her_474/){: .btn .btn--era5} | Skill |  |
+  | 133 | [Terre de feu](/fr/Items/her_416/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Terre de feu |
+  | 134 | [Trait de feu](/fr/Items/her_479/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Trait de feu |
+  | 135 | [Téléportation](/fr/Items/her_426/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Téléportation |
+  | 136 | [Vent hurlant](/fr/Items/her_498/){: .btn .btn--era4} | Skill |  |
+  | 137 | [Vent royal](/fr/Items/her_434/){: .btn .btn--era5} | Skill | Jeton utilisé pour composer le Livre de sort - Vent royal |
+  | 138 | [Vidomina](/fr/Items/her_372/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Vidomina rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 139 | [Wystan](/fr/Items/her_395/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Wystan rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 140 | [Xeron](/fr/Items/her_383/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Xeron rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 141 | [Yog](/fr/Items/her_377/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Yog rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 142 | [Zydar](/fr/Items/her_385/){: .btn .btn--era5} | Hero Soul | Récupérez 30 Jetons pour que Zydar rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang. |
+  | 143 | [Écho de l'abîme](/fr/Items/her_415/){: .btn .btn--era6} | Skill | Jeton utilisé pour composer le Livre de sort - Écho de l'abîme |
+  | 144 | [Éclair de foudre](/fr/Items/her_443/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Éclair de foudre |
+  | 145 | [Éclair de glace](/fr/Items/her_422/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Éclair de glace |
+  | 146 | [Élémentaire d'air](/fr/Items/her_448/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Élémentaire d'air |
+  | 147 | [Élémentaire d'eau](/fr/Items/her_427/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Élémentaire d'eau |
+  | 148 | [Élémentaire de feu](/fr/Items/her_411/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Élémentaire de feu |
+  | 149 | [Élémentaire de terre](/fr/Items/her_461/){: .btn .btn--era3} | Skill | Jeton utilisé pour composer le Livre de sort - Sort de terre |

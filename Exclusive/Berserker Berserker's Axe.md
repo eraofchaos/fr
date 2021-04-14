@@ -1,8 +1,8 @@
 ---
-title: "Exclusif - Hache de Berserker"
+title: "Exclusif - Hache de Berserker (Berserker)"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Hache de Berserker. Hache de Berserker. Era of Chaos Exclusif Hache de Berserker. Berserker Exclusif."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Berserker Hache de Berserker.md"
 toc: false

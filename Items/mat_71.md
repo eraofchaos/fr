@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre éternel +1"
 permalink: /Items/mat_71/
 excerpt: "Era of Chaos  Soufre éternel +1"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: fr
 ref: "mat_71.md"
 toc: false

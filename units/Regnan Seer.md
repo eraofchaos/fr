@@ -3,7 +3,7 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Oracle de Regna"
 toc: true

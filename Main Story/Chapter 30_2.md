@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-2 La cabane en ruines"
 permalink: /Main Story/Chapter 30_2/
-excerpt: " - 2. Era of Chaos  Histoire principale - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 2. Era of Chaos  Histoire principale - Chapitre 30_2. 30-2 La cabane en ruines"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-2 La cabane en ruines
 
- **Description:** 
+ **Description:** Un groupe de démons est en train de piller le territoire des Elfes. Cette cabane autrefois douillette a été réduite en ruines.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

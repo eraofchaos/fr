@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-7 L'adoration des Dieux"
 permalink: /Main Story/Chapter 28_7/
-excerpt: " - 7. Era of Chaos  Histoire principale - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 7. Era of Chaos  Histoire principale - Chapitre 28_7. 28-7 L'adoration des Dieux"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-7 L'adoration des Dieux
 
- **Description:** 
+ **Description:** Vous avez découvert un autel de haut niveau, mais il a perdu sa puissance. Vous devrez vous contenter de rebrousser chemin.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

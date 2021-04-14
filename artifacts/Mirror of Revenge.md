@@ -2,7 +2,7 @@
 title: "Artefact - Miroir vengeur"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Miroir vengeur. Miroir vengeur Un mage faible a utilisé des sorts interdits pour créer cet objet maudit afin de se venger. Cet artefact peut améliorer la puissance de combat de vos troupes."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Mirror of Revenge.md"
 toc: false
@@ -52,5 +52,5 @@ classes: wide
   | **8** | Augmente la résistance aux dégâts de toutes les unités alliées de 1,5 %. | 
   | **11** | Augmente le drain de vie de toutes les unités alliées de 1 %. | 
   | **14** | Augmente la résistance aux dégâts de toutes les unités alliées de 2,5 %. | 
-  | **17** | Augmente la valeur du bouclier de toutes les unités alliées de 50. | 
+  | **17** | Augmente la valeur du blocage de toutes les unités alliées de 50. | 
   | **20** | Augmente la DÉF contre les attaques perforantes de toutes les unités alliées de 100. | 

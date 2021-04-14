@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 28 - 28-13 L'atelier"
 permalink: /Main Story/Chapter 28_13/
-excerpt: " - 13. Era of Chaos  Histoire principale - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 28 - 13. Era of Chaos  Histoire principale - Chapitre 28_13. 28-13 L'atelier"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 28_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 28-13 L'atelier
 
- **Description:** 
+ **Description:** Les Nains sont des artisans de renom. Les Mages de la Tour des Mages leur rendaient souvent visite afin de leur commander des marionnettes de Golem de fer. Certains Golems de fer s'y trouvent encore et surveillent leur territoire.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 28/)
+ **Related to:** [Histoire principale Chapitre 28](/fr/Main Story/Chapter 28/)
 
 ## Récompense
 

@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 29 - 29-13 Le camp d'entraînement de mercenaires"
 permalink: /Main Story/Chapter 29_13/
-excerpt: " - 13. Era of Chaos  Histoire principale - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 29 - 13. Era of Chaos  Histoire principale - Chapitre 29_13. 29-13 Le camp d'entraînement de mercenaires"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 29_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 29-13 Le camp d'entraînement de mercenaires
 
- **Description:** 
+ **Description:** Vous êtes dans un camp d'entraînement de mercenaires, mais l'instructrice a disparu. Cela signifie bien entendu qu'il vous est impossible d'apprendre de nouvelles compétences de combat.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 29/)
+ **Related to:** [Histoire principale Chapitre 29](/fr/Main Story/Chapter 29/)
 
 ## Récompense
 

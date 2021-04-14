@@ -1,8 +1,8 @@
 ---
-title: "Histoire principale -  - "
+title: "Histoire principale - Chapitre 30 - 30-1 La source magique"
 permalink: /Main Story/Chapter 30_1/
-excerpt: " - 1. Era of Chaos  Histoire principale - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Chapitre 30 - 1. Era of Chaos  Histoire principale - Chapitre 30_1. 30-1 La source magique"
+last_modified_at: 2021-04-14
 locale: fr
 ref: "Chapter 30_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Détails
 
- **Nom:** 
+ **Nom:** 30-1 La source magique
 
- **Description:** 
+ **Description:** À la vue de la source, les troupes sont submergées par la soif, mais il faut désormais s'occuper des Chiens de l'Enfer qui la protègent.
 
- **Related to:** [Histoire principale ](/fr/Main Story/Chapter 30/)
+ **Related to:** [Histoire principale Chapitre 30](/fr/Main Story/Chapter 30/)
 
 ## Récompense
 

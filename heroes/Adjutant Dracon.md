@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjudant Dracon"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Dracon.md"
+QR: adhero_61202
 toc: false
 classes: wide
 ---

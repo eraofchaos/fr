@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjudant Jeddite"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Jeddite.md"
+QR: adhero_61401
 toc: false
 classes: wide
 ---

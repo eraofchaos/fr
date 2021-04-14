@@ -5,6 +5,7 @@ excerpt: "List of ALL Heroes in Era of Chaos"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "index.md"
+QR: heroes
 toc: false
 classes: wide
 ---
@@ -35,7 +36,7 @@ classes: wide
   | 23 | [Mutare](/fr/heroes/Mutare/) | Donjon | Seigneur de guerre | **R** |  Torrent du Donjon | R |
   | 24 | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) | Donjon | Seigneur de guerre | **SSR** |  Éveil du Dragon | SSR |
   | 25 | [Mélodia](/fr/heroes/Melodia/) | Rempart | Druidesse | **SSR-** |  Bonne fortune | R |
-  | 26 | [Nymus](/fr/heroes/Nymus/) | Hadès | Démoniaque | **SR** |  Fantôme infernal | R |
+  | 26 | [Nymus](/fr/heroes/Nymus/) | Hadès | Démoniaque | **SR** |  Fantôme infernal | R+ |
   | 27 | [PeterLee](/fr/heroes/Peter Lee/) | Crique | Pirate | **SR+** |  Levez les voiles | R+ |
   | 28 | [Rashka](/fr/heroes/Rashka/) | Hadès | Démoniaque | **SR** |  Seigneur du feu | R |
   | 29 | [Roland](/fr/heroes/Roland/) | Château | Chevalier | **SSR** |  Moral accru | SR+ |

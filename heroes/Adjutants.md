@@ -6,6 +6,7 @@ last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutants.md"
 toc: false
+QR: adheroes
 classes: wide
 ---
  Améliorez un Héros au niveau 4 étoiles pour débloquer.

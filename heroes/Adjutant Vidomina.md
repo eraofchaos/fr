@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjudant Vidomina"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Vidomina.md"
+QR: adhero_60502
 toc: false
 classes: wide
 ---

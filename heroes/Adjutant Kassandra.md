@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjudant Kassandra"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Kassandra.md"
+QR: adhero_62001
 toc: false
 classes: wide
 ---

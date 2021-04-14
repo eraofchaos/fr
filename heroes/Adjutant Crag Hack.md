@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjudant Crag Hack"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Crag Hack.md"
+QR: adhero_60602
 toc: false
 classes: wide
 ---

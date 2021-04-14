@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjudant Ryland"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Ryland.md"
+QR: adhero_60303
 toc: false
 classes: wide
 ---

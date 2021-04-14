@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjudant Shiva"
 last_modified_at: 2021-04-14
 locale: fr
 ref: "Adjutant Shiva.md"
+QR: adhero_60603
 toc: false
 classes: wide
 ---

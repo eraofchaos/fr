@@ -2,7 +2,7 @@
 title: "Piques dorsaux acérés"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "Era of Chaos Piques dorsaux acérés. Piques dorsaux acérés"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Sharp Back-spikes.md"
 toc: false

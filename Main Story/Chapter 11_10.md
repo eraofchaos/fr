@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-10 L'ombre du Dragon"
 permalink: /Main Story/Chapter 11_10/
 excerpt: "Chapitre 11 - 10. Era of Chaos  Histoire principale - Chapitre 11_10. 11-10 L'ombre du Dragon"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 11_10.md"
 toc: false

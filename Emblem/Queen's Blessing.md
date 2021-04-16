@@ -2,12 +2,15 @@
 title: "Emblème sacré - Bénédiction de la reine"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Era of Chaos Bénédiction de la reine. Bénédiction de la reine. Era of Chaos Emblème sacré Bénédiction de la reine. Era of Chaos Ordre Bénédiction de la reine"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Queen's Blessing.md"
 toc: false
+QR: rune_105
 classes: wide
 ---
+
+  ![Bénédiction de la reine](/images/r/rune_icon_105.png)
 
  **Nom:** Bénédiction de la reine
 

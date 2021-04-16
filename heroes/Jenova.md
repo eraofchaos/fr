@@ -4,11 +4,13 @@ permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. Toute petite, Jenova fut capturée et vendue par des Elfes noirs, avant d'être enfin libérée par une Licorne vengeresse. C'est ce jour qu'elle commença à vénérer ces mystérieuses créatures de la forêt et décida de passer le reste de sa vie à leurs côtés. Nul ne connaît mieux les Licornes que Jenova, qui sait parfaitement exploiter leur vitesse et leur puissance pour prendre un avantage tactique sur le champ de bataille."
 heroID: 60202
 QR: hero_60202
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Jenova"
 toc: true
 ---
+  ![Jenova](/images/h/h_Ylthin.jpg)
+
  **Description:** Toute petite, Jenova fut capturée et vendue par des Elfes noirs, avant d'être enfin libérée par une Licorne vengeresse. C'est ce jour qu'elle commença à vénérer ces mystérieuses créatures de la forêt et décida de passer le reste de sa vie à leurs côtés. Nul ne connaît mieux les Licornes que Jenova, qui sait parfaitement exploiter leur vitesse et leur puissance pour prendre un avantage tactique sur le champ de bataille.
 ## Détails
  **Profession:** Rôdeur

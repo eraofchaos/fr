@@ -2,13 +2,15 @@
 title: "Adjudant Tazar"
 permalink: /heroes/Adjutant Tazar/
 excerpt: "Era of Chaos  Adjudant Tazar"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Adjutant Tazar.md"
 QR: adhero_61501
 toc: false
 classes: wide
 ---
+  ![Tazar](/images/h/h_Tazar.jpg)
+
  [List of ALL Adjudants](/fr/heroes/Adjutants/) 
 
 ## Détails

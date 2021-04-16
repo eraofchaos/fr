@@ -3,11 +3,13 @@ title: "Œil maléfique"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Œil maléfique"
 toc: true
 ---
+  ![Œil maléfique](/images/u/ti_xieyan.jpg)
+
 ## General information
  **Description:** Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants.
 
@@ -169,6 +171,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Œil démoniaque](/images/u/tia_xieyan.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

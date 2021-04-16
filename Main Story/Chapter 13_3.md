@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-3 À l'aide"
 permalink: /Main Story/Chapter 13_3/
 excerpt: "Chapitre 13 - 3. Era of Chaos  Histoire principale - Chapitre 13_3. 13-3 À l'aide"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 13_3.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Momie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Momie"
 toc: true
 ---
+  ![Momie](/images/u/ti_munaiyi.jpg)
+
 ## General information
  **Description:** Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Roi Momie](/images/u/tia_munaiyi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

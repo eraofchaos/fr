@@ -3,11 +3,13 @@ title: "Moine"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Moine"
 toc: true
 ---
+  ![Moine](/images/u/ti_senglv.jpg)
+
 ## General information
  **Description:** Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat.
 
@@ -167,6 +169,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zélote](/images/u/tia_senglv.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

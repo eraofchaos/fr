@@ -2,7 +2,7 @@
 title: "Machette de loup-garou"
 permalink: /equipment/Werewolf's Machete/
 excerpt: "Era of Chaos Machette de loup-garou. Machette de loup-garou"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Werewolf's Machete.md"
 toc: false

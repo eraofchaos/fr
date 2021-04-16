@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 Sang du Dragon patriarche"
 permalink: /Main Story/Chapter 27/
 excerpt: "Chapitre 27. Era of Chaos  Histoire principale - Chapitre 27. Sang du Dragon patriarche"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 27.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** EXP d'unité
+ Reward 4:  **50000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **80000x** EXP d'unité
+ Reward 4:  **80000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **500000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** EXP d'unité
+ Reward 4:  **100000x** [EXP d'unité](/fr/Items/con_902/)
 

@@ -3,11 +3,13 @@ title: "Élémentaire de feu"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Élémentaire de feu"
 toc: true
 ---
+  ![Élémentaire de feu](/images/u/ti_liehuoyuansu.jpg)
+
 ## General information
  **Description:** Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Élémentaire d'énergie](/images/u/tia_liehuoyuansu.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

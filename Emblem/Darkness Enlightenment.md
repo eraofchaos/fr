@@ -2,12 +2,15 @@
 title: "Emblème sacré - Illumination des ténèbres"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Illumination des ténèbres. Illumination des ténèbres. Era of Chaos Emblème sacré Illumination des ténèbres. Era of Chaos Mauvais Illumination des ténèbres"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Darkness Enlightenment.md"
 toc: false
+QR: rune_506
 classes: wide
 ---
+
+  ![Illumination des ténèbres](/images/r/rune_icon_506.png)
 
  **Nom:** Illumination des ténèbres
 

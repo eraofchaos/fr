@@ -3,11 +3,13 @@ title: "Hydre"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Hydre"
 toc: true
 ---
+  ![Hydre](/images/u/ti_duotoulong.jpg)
+
 ## General information
  **Description:** Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Pyrohydre](/images/u/tia_duotoulong.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

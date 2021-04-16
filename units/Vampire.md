@@ -3,11 +3,13 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Vampire"
 toc: true
 ---
+  ![Vampire](/images/u/ti_xixuegui.jpg)
+
 ## General information
  **Description:** Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Seigneur Vampire](/images/u/tia_xixuegui.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

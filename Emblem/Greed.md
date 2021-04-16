@@ -2,12 +2,15 @@
 title: "Emblème sacré - Avarice"
 permalink: /Emblem/Greed/
 excerpt: "Era of Chaos Avarice. Avarice. Era of Chaos Emblème sacré Avarice. Era of Chaos Chaos Avarice"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Greed.md"
 toc: false
+QR: rune_404
 classes: wide
 ---
+
+  ![Avarice](/images/r/rune_icon_404.png)
 
  **Nom:** Avarice
 

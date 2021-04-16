@@ -3,11 +3,13 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Gog"
 toc: true
 ---
+  ![Gog](/images/u/ti_touhuoguai.jpg)
+
 ## General information
  **Description:** Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Magog](/images/u/tia_touhuoguai.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

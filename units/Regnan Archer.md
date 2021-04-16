@@ -3,11 +3,13 @@ title: "Arbalétrière de Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Arbalétrière de Regna"
 toc: true
 ---
+  ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg)
+
 ## General information
  **Description:** Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_baozang.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

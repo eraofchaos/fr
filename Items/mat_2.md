@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure de qualité inférieure"
 permalink: /Items/mat_2/
 excerpt: "Era of Chaos  Mercure de qualité inférieure"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "mat_2.md"
 toc: false

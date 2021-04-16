@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 Le jour et la nuit"
 permalink: /Main Story/Chapter 13/
 excerpt: "Chapitre 13. Era of Chaos  Histoire principale - Chapitre 13. Le jour et la nuit"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 13.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** EXP d'unité
+ Reward 4:  **5000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** EXP d'unité
+ Reward 4:  **8000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_602
+ Reward 1:  **1x** [Gargouille](/fr/units/Stone Gargoyle/)
 
  Reward 2: **20 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** EXP d'unité
+ Reward 4:  **10000x** [EXP d'unité](/fr/Items/con_902/)
 

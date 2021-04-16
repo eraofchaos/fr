@@ -3,11 +3,13 @@ title: "Druidesse"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Druidesse"
 toc: true
 ---
+  ![Druidesse](/images/u/ti_deluyi.jpg)
+
 ## General information
  **Description:** Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Archidruidesse](/images/u/tia_deluyi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

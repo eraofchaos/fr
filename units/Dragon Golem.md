@@ -3,13 +3,15 @@ title: "Golem dragon"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Golem dragon"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Golem dragon](/images/u/ti_kuileilong.jpg)
 
 ## General information
  **Description:** L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable.
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

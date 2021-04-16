@@ -4,11 +4,13 @@ permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Mélodia. Mélodia. Mélodia est une druidesse chanceuse, capable d'arracher des victoires miraculeuses dans les situations les plus désespérées. N'importe quelle troupe serait ravie de l'avoir à sa tête."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Melodia"
 toc: true
 ---
+  ![Mélodia](/images/h/h_Melodia.jpg)
+
  **Description:** Mélodia est une druidesse chanceuse, capable d'arracher des victoires miraculeuses dans les situations les plus désespérées. N'importe quelle troupe serait ravie de l'avoir à sa tête.
 ## Détails
  **Profession:** Druidesse

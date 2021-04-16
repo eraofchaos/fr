@@ -4,11 +4,13 @@ permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. Le Roi Roland a été sauvé des griffes des Kreegans par un groupe de guerriers. En signe de gratitude, il a rejoint l'armée d'Erathia en tant que général. C'est là qu'il a rencontré Catherine et combattu à ses côtés contre les envahisseurs."
 heroID: 60103
 QR: hero_60103
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Roland"
 toc: true
 ---
+  ![Roland](/images/h/h_Roland.jpg)
+
  **Description:** Le Roi Roland a été sauvé des griffes des Kreegans par un groupe de guerriers. En signe de gratitude, il a rejoint l'armée d'Erathia en tant que général. C'est là qu'il a rencontré Catherine et combattu à ses côtés contre les envahisseurs.
 ## Détails
  **Profession:** Chevalier

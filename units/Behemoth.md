@@ -3,11 +3,13 @@ title: "Béhémoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis."
 unitID: 407
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Béhémoth"
 toc: true
 ---
+  ![Béhémoth](/images/u/ti_bimeng.jpg)
+
 ## General information
  **Description:** Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Béhémoth royal](/images/u/tia_bimeng.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 28 - 28-1  Fête des haches"
 permalink: /Underground/Chapter 28_1/
 excerpt: "Chapitre 28 - 1. Era of Chaos  Souterrain - Chapitre 28_1. 28-1  Fête des haches"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 28_1.md"
 toc: false

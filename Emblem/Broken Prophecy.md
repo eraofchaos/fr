@@ -2,12 +2,15 @@
 title: "Emblème sacré - Prophétie brisée"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Era of Chaos Prophétie brisée. Prophétie brisée. Era of Chaos Emblème sacré Prophétie brisée. Era of Chaos Mauvais Prophétie brisée"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Broken Prophecy.md"
 toc: false
+QR: rune_503
 classes: wide
 ---
+
+  ![Prophétie brisée](/images/r/rune_icon_503.png)
 
  **Nom:** Prophétie brisée
 

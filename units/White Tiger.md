@@ -3,13 +3,15 @@ title: "Tigre blanc"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Tigre blanc déchaîne sa compétence Esprit du Tigre blanc pour percer les points faibles des défenses ennemies. Il active ses pouvoirs de pestilence pour retourner la situation en sa faveur sur le champ de bataille."
 unitID: 809
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Tigre blanc"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Tigre blanc](/images/u/ti_baihu.jpg)
 
 ## General information
  **Description:** Le Tigre blanc déchaîne sa compétence Esprit du Tigre blanc pour percer les points faibles des défenses ennemies. Il active ses pouvoirs de pestilence pour retourner la situation en sa faveur sur le champ de bataille.
@@ -187,6 +189,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

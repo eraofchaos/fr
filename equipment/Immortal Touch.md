@@ -2,7 +2,7 @@
 title: "Toucher immortel"
 permalink: /equipment/Immortal Touch/
 excerpt: "Era of Chaos Toucher immortel. Toucher immortel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Immortal Touch.md"
 toc: false

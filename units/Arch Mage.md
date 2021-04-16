@@ -3,11 +3,13 @@ title: "Archimage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Archimage"
 toc: true
 ---
+  ![Archimage](/images/u/ti_dafashi.jpg)
+
 ## General information
  **Description:** Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Archimage](/images/u/tia_dafashi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

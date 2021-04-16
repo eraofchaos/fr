@@ -2,12 +2,15 @@
 title: "Emblème sacré - Sanctuaire de Kosmos"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Era of Chaos Sanctuaire de Kosmos. Sanctuaire de Kosmos. Era of Chaos Emblème sacré Sanctuaire de Kosmos. Era of Chaos Ordre Sanctuaire de Kosmos"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Sanctuary of Kosmos.md"
 toc: false
+QR: rune_107
 classes: wide
 ---
+
+  ![Sanctuaire de Kosmos](/images/r/rune_icon_307.png)
 
  **Nom:** Sanctuaire de Kosmos
 

@@ -2,13 +2,15 @@
 title: "Adjudant Vidomina"
 permalink: /heroes/Adjutant Vidomina/
 excerpt: "Era of Chaos  Adjudant Vidomina"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Adjutant Vidomina.md"
 QR: adhero_60502
 toc: false
 classes: wide
 ---
+  ![Vidomina](/images/h/h_Vidomina.jpg)
+
  [List of ALL Adjudants](/fr/heroes/Adjutants/) 
 
 ## Détails

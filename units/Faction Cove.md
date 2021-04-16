@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Faction Cove"
 toc: false
@@ -15,14 +15,14 @@ classes: wide
 
  [Conflux](/fr/units/Faction Conflux/){: .btn .btn--primary} [Hadès](/fr/units/Faction Inferno/){: .btn .btn--success} [Donjon](/fr/units/Faction Dungeon/){: .btn .btn--warning} [Forteresse](/fr/units/Faction Fortress/){: .btn .btn--danger} [Rempart](/fr/units/Faction Rampart/){: .btn .btn--info} [Château](/fr/units/Faction Castle/){: .btn .btn--primary} [Tour](/fr/units/Faction Tower/){: .btn .btn--success} [Bastion](/fr/units/Faction Stronghold/){: .btn .btn--warning} [Crique](/fr/units/Faction Cove/){: .btn .btn--danger} [Armée neutre](/fr/units/Faction Neutral Army/){: .btn .btn--info} [Nécropole](/fr/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
-  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | [Oracle de Regna](/fr/units/Regnan Seer/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Élémentaire des marées  |
-  | 2 | [Revyaratan](/fr/units/Revyaratan/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstre marin ancestral  |
-  | 3 | [Dompteur de requins](/fr/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Chevaucheur de requins  |
-  | 4 | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
-  | 5 | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Élémentaire des marées  |
-  | 6 | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
-  | 7 | [Sirène](/fr/units/Mermaid/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 8 | [Tortue dragon](/fr/units/Dragon Turtle/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tortue dragon primaire  |
-  | 9 | [Pirates de Regna](/fr/units/Regnan Pirates/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Roi des pirates  |
+  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
+  | 1 | ![Oracle de Regna](/images/u/ti_haihou.jpg) | [Oracle de Regna](/fr/units/Regnan Seer/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Élémentaire des marées  |
+  | 2 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstre marin ancestral  |
+  | 3 | ![Dompteur de requins](/images/u/ti_xunshashi.jpg) | [Dompteur de requins](/fr/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Chevaucheur de requins  |
+  | 4 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 5 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Élémentaire des marées  |
+  | 6 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 7 | ![Sirène](/images/u/ti_meirenyu.jpg) | [Sirène](/fr/units/Mermaid/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
+  | 8 | ![Tortue dragon](/images/u/ti_longgui.jpg) | [Tortue dragon](/fr/units/Dragon Turtle/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tortue dragon primaire  |
+  | 9 | ![Pirates de Regna](/images/u/ti_haidao.jpg) | [Pirates de Regna](/fr/units/Regnan Pirates/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Roi des pirates  |

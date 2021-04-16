@@ -3,11 +3,13 @@ title: "Élémentaire de l'esprit"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Élémentaire de l'esprit"
 toc: true
 ---
+  ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg)
+
 ## General information
  **Description:** Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Élémentaire de magie](/images/u/tia_jingshenyuansu.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

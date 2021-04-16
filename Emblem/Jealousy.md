@@ -2,12 +2,15 @@
 title: "Emblème sacré - Envie"
 permalink: /Emblem/Jealousy/
 excerpt: "Era of Chaos Envie. Envie. Era of Chaos Emblème sacré Envie. Era of Chaos Chaos Envie"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Jealousy.md"
 toc: false
+QR: rune_401
 classes: wide
 ---
+
+  ![Envie](/images/r/rune_icon_401.png)
 
  **Nom:** Envie
 

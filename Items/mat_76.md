@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois mystérieux +2"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Bois mystérieux +2"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "mat_76.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Renforts"
 permalink: /Backup/
 excerpt: "Era of Chaos  Renforts - Les Mages peuvent créer un portail sur le champ de bataille qui fait apparaître 3 unités de renfort et génère une forte aura de sort. Vos ennemis seront terrifiés."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "index.md"
 toc: false

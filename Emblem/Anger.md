@@ -2,12 +2,15 @@
 title: "Emblème sacré - Colère"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Colère. Colère. Era of Chaos Emblème sacré Colère. Era of Chaos Chaos Colère"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Anger.md"
 toc: false
+QR: rune_403
 classes: wide
 ---
+
+  ![Colère](/images/r/rune_icon_403.png)
 
  **Nom:** Colère
 

@@ -3,11 +3,13 @@ title: "Farfadet"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !"
 unitID: 909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Farfadet"
 toc: true
 ---
+  ![Farfadet](/images/u/ti_conglinyaojing.jpg)
+
 ## General information
  **Description:** Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !
 
@@ -193,6 +195,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Maître Farfadet](/images/u/tia_conglinyaojing.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

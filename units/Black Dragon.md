@@ -3,11 +3,13 @@ title: "Dragon noir"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Dragon noir"
 toc: true
 ---
+  ![Dragon noir](/images/u/ti_heilong.jpg)
+
 ## General information
  **Description:** Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Roi Dragon noir](/images/u/tia_heilong.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

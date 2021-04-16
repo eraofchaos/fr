@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre mystérieux +2"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Soufre mystérieux +2"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "mat_78.md"
 toc: false

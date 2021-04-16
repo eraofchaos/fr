@@ -3,11 +3,13 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Berserker"
 toc: true
 ---
+  ![Berserker](/images/u/ti_kuangzhanshi.jpg)
+
 ## General information
  **Description:** Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches.
 
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Hurleur macabre](/images/u/tia_kuangzhanshi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

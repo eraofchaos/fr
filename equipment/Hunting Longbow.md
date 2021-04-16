@@ -2,7 +2,7 @@
 title: "Arc long de chasse"
 permalink: /equipment/Hunting Longbow/
 excerpt: "Era of Chaos Arc long de chasse. Arc long de chasse"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Hunting Longbow.md"
 toc: false

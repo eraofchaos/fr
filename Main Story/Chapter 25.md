@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 Loi de la jungle"
 permalink: /Main Story/Chapter 25/
 excerpt: "Chapitre 25. Era of Chaos  Histoire principale - Chapitre 25. Loi de la jungle"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 25.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** EXP d'unité
+ Reward 4:  **5000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** EXP d'unité
+ Reward 4:  **8000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** EXP d'unité
+ Reward 4:  **10000x** [EXP d'unité](/fr/Items/con_902/)
 

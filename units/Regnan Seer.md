@@ -3,13 +3,15 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Oracle de Regna"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Oracle de Regna](/images/u/ti_haihou.jpg)
 
 ## General information
  **Description:** Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis.
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Élémentaire des marées](/images/u/tia_shenv.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

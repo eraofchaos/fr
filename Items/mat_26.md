@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai précieux +2"
 permalink: /Items/mat_26/
 excerpt: "Era of Chaos  Minerai précieux +2"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "mat_26.md"
 toc: false

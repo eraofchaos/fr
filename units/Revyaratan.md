@@ -3,11 +3,13 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Revyaratan"
 toc: true
 ---
+  ![Revyaratan](/images/u/ti_haiguai.jpg)
+
 ## General information
  **Description:** Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage.
 
@@ -184,6 +186,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Monstre marin ancestral](/images/u/tia_haiguai.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

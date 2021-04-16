@@ -3,11 +3,13 @@ title: "Garde sylvanien"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Garde sylvanien"
 toc: true
 ---
+  ![Garde sylvanien](/images/u/ti_shuyao.jpg)
+
 ## General information
  **Description:** Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Soldat sylvanien](/images/u/tia_shuyao.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Demon)"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Démon Exclusif."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Demon Bouclier iris.md"
 toc: false

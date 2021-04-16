@@ -3,11 +3,13 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Manticore"
 toc: true
 ---
+  ![Manticore](/images/u/ti_shixie.jpg)
+
 ## General information
  **Description:** Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie.
 
@@ -168,6 +170,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Scorpicore](/images/u/tia_shixie.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

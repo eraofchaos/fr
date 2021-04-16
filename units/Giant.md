@@ -3,11 +3,13 @@ title: "Géant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
 unitID: 607
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Géant"
 toc: true
 ---
+  ![Géant](/images/u/ti_taitan.jpg)
+
 ## General information
  **Description:** Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Titan](/images/u/tia_taitan.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

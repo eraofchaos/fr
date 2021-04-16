@@ -3,11 +3,13 @@ title: "Elfe sylvaine"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches."
 unitID: 203
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Elfe sylvaine"
 toc: true
 ---
+  ![Elfe sylvaine](/images/u/ti_mujingling.jpg)
+
 ## General information
  **Description:** Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Grand Elfe](/images/u/tia_mujingling.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

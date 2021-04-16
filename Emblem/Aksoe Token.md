@@ -2,12 +2,15 @@
 title: "Emblème sacré - Jeton d'Aksoe"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Era of Chaos Jeton d'Aksoe. Jeton d'Aksoe. Era of Chaos Emblème sacré Jeton d'Aksoe. Era of Chaos Neutre Jeton d'Aksoe"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Aksoe Token.md"
 toc: false
+QR: rune_303
 classes: wide
 ---
+
+  ![Jeton d'Aksoe](/images/r/rune_icon_303.png)
 
  **Nom:** Jeton d'Aksoe
 

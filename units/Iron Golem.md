@@ -3,11 +3,13 @@ title: "Golem de fer"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
 unitID: 603
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Golem de fer"
 toc: true
 ---
+  ![Golem de fer](/images/u/ti_tieren.jpg)
+
 ## General information
  **Description:** Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Golem d'or](/images/u/tia_tieren.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

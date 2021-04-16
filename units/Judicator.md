@@ -3,11 +3,13 @@ title: "Adjudicatrice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Adjudicatrice"
 toc: true
 ---
+  ![Adjudicatrice](/images/u/ti_shenpanguan.jpg)
+
 ## General information
  **Description:** Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

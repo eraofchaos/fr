@@ -3,11 +3,13 @@ title: "Harpie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Harpie"
 toc: true
 ---
+  ![Harpie](/images/u/ti_yingshenren.jpg)
+
 ## General information
  **Description:** Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Harpie sinistre](/images/u/tia_yingshenren.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

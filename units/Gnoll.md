@@ -3,11 +3,13 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
 unitID: 801
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Gnoll"
 toc: true
 ---
+  ![Gnoll](/images/u/ti_langren.jpg)
+
 ## General information
  **Description:** Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Guerrier Gnoll](/images/u/tia_langren.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

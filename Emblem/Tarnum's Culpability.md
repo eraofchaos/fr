@@ -2,12 +2,15 @@
 title: "Emblème sacré - Culpabilité de Tarnum"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Era of Chaos Culpabilité de Tarnum. Culpabilité de Tarnum. Era of Chaos Emblème sacré Culpabilité de Tarnum. Era of Chaos Neutre Culpabilité de Tarnum"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Tarnum's Culpability.md"
 toc: false
+QR: rune_305
 classes: wide
 ---
+
+  ![Culpabilité de Tarnum](/images/r/rune_icon_305.png)
 
  **Nom:** Culpabilité de Tarnum
 

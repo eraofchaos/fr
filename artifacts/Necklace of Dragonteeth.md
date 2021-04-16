@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche - Collier dent de Dragon"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche - Collier dent de Dragon. Un collier béni par le Dragon sacré. Composant de la Puissance du Dragon patriarche."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Necklace of Dragonteeth.md"
 toc: false

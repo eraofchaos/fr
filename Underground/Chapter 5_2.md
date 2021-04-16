@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 5 - 5-2 L'armée approche"
 permalink: /Underground/Chapter 5_2/
 excerpt: "Chapitre 5 - 2. Era of Chaos  Souterrain - Chapitre 5_2. 5-2 L'armée approche"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 5_2.md"
 toc: false

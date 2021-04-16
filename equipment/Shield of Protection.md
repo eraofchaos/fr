@@ -2,7 +2,7 @@
 title: "Bouclier de protection"
 permalink: /equipment/Shield of Protection/
 excerpt: "Era of Chaos Bouclier de protection. Bouclier de protection"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Shield of Protection.md"
 toc: false

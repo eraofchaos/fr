@@ -3,11 +3,13 @@ title: "Squelette"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Squelette"
 toc: true
 ---
+  ![Squelette](/images/u/ti_kulouzhanshi.jpg)
+
 ## General information
  **Description:** Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Guerrier squelette](/images/u/tia_kulouzhanshi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

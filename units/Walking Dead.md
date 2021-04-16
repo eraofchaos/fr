@@ -3,11 +3,13 @@ title: "Trépassé"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Trépassé"
 toc: true
 ---
+  ![Trépassé](/images/u/ti_jiangshi.jpg)
+
 ## General information
  **Description:** Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zombie](/images/u/tia_jiangshi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

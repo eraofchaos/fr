@@ -2,12 +2,15 @@
 title: "Emblème sacré - Prophète vert"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Prophète vert. Prophète vert. Era of Chaos Emblème sacré Prophète vert. Era of Chaos Bonté Prophète vert"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Green Prophet.md"
 toc: false
+QR: rune_204
 classes: wide
 ---
+
+  ![Prophète vert](/images/r/rune_icon_204.png)
 
  **Nom:** Prophète vert
 

@@ -3,11 +3,13 @@ title: "Dragon squelette"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Dragon squelette"
 toc: true
 ---
+  ![Dragon squelette](/images/u/ti_gulong.jpg)
+
 ## General information
  **Description:** Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Dragon fantôme](/images/u/tia_gulong.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

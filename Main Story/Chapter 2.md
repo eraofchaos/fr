@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 Le retour de la Reine"
 permalink: /Main Story/Chapter 2/
 excerpt: "Chapitre 2. Era of Chaos  Histoire principale - Chapitre 2. Le retour de la Reine"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 2.md"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** EXP d'unité
+ Reward 4:  **1000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -43,5 +43,5 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** EXP d'unité
+ Reward 4:  **1500x** [EXP d'unité](/fr/Items/con_902/)
 

@@ -2,7 +2,7 @@
 title: "Programme"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Programme. Schedule for all near events and shop sales."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "index.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 4   | 14 Apr | 18 Apr | Pierre d'âme à durée limitée | Obtenez les pierres d'âme d'unité SSR les plus populaires grâce à l'événement Pierre d'âme à durée limitée. | [Pierre d'âme de Maître Farfadet](/fr/Items/unt_349/),  | 
   | 5   | 14 Apr | 18 Apr | Recrutement à durée limitée | Obtenez les unités SSR les plus populaires grâce à l'événement Recrutement à durée limitée. | [Farfadet](/fr/Items/unt_270/),  | 
   | 6   | 14 Apr | 18 Apr | Récompense de connexion | Connectez-vous chaque jour pendant l'évènement pour gagner des récompenses exceptionnelles. | [Farfadet](/fr/Items/unt_270/), [Runes de groupement (Conflux)](/fr/Items/con_791/), [Énorme potion d'EXP](/fr/Items/con_703/),  | 
-  | 7   | 14 Apr | 18 Apr | Récompense de recrutement | Récupérez et recrutez les unités indiquées pendant l'évènement pour gagner des récompenses supplémentaires. | [Démone de glace](/fr/Items/unt_269/), AVATARFRAME1091,  | 
+  | 7   | 14 Apr | 18 Apr | Récompense de recrutement | Récupérez et recrutez les unités indiquées pendant l'évènement pour gagner des récompenses supplémentaires. | [Démone de glace](/fr/Items/unt_269/),  AVATAR_FRAME_1091,  | 
   | 8   | 14 Apr | 18 Apr | Échange d'emblèmes | Durant cet évènement, échangez des tickets contre des Emblèmes sacrés rares. | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/), [Sanctuaire de Kosmos](/fr/Emblem/Sanctuary of Kosmos/), [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/), [Illumination des ténèbres](/fr/Emblem/Darkness Enlightenment/), [Colère](/fr/Emblem/Anger/),  | 
   | 9   | 14 Apr | 18 Apr | Échange exclusif | Échangez du Mithril du néant contre une arme exclusive d'unité pendant l'évènement. | [Jeton Sabre des limbes](/fr/Items/con_979/), [Jeton Épée Naga](/fr/Items/con_987/), [Jeton Queue de scorpion](/fr/Items/con_992/),  | 
   | 10   | 15 Apr | 19 Apr | Maître de l'exploration | Explorez la carte de guilde pour gagner des récompenses ! | [Jeton Mélopée des arcanes](/fr/Items/con_915/), [Coffre matériaux (rare)](/fr/Items/con_757/), [Coffre matériaux (basique)](/fr/Items/con_756/),  | 
@@ -36,7 +36,7 @@ classes: wide
   | 21   | 21 Apr | 25 Apr | Saisis ta chance | Des Emblèmes sacrés populaires vous attendent. Tentez votre chance ! |  | 
   | 22   | 21 Apr | 25 Apr | Échange d'emblèmes | Durant cet évènement, échangez des tickets contre des Emblèmes sacrés rares. | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/), [Sanctuaire de Kosmos](/fr/Emblem/Sanctuary of Kosmos/), [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/), [Illumination des ténèbres](/fr/Emblem/Darkness Enlightenment/), [Colère](/fr/Emblem/Anger/),  | 
   | 23   | 21 Apr | 25 Apr | Échange exclusif | Échangez du Mithril du néant contre une arme exclusive d'unité pendant l'évènement. | [Jeton Sabre des limbes](/fr/Items/con_979/), [Jeton Épée Naga](/fr/Items/con_987/), [Jeton Queue de scorpion](/fr/Items/con_992/),  | 
-  | 24   | 22 Apr | 26 Apr | Fête de guilde | Participez aux activités de guilde pendant l'évènement, et recevez des récompenses exceptionnelles ! | Pièce de guilde, Acier draconique, [Fiole d'énergie moyenne](/fr/Items/con_725/),  | 
+  | 24   | 22 Apr | 26 Apr | Fête de guilde | Participez aux activités de guilde pendant l'évènement, et recevez des récompenses exceptionnelles ! | [Pièce de guilde](/fr/Items/con_896/), [Acier draconique](/fr/Items/con_880/), [Fiole d'énergie moyenne](/fr/Items/con_725/),  | 
   | 25   | 23 Apr | 25 Apr | Fête élémentaire | Défis du Plan du Conflux disponibles +1 |  | 
   | 26   | 25 Apr | 28 Apr | Journal de navigation | La semaine de la Crique a commencé. Terminez une mission spéciale pour obtenir une récompense exclusive de la Crique ! (Les missions sont réinitialisées tous les jours.) | [Boussole en or](/fr/Items/con_815/), [Coffre de faction (Crique)](/fr/Items/con_1278/), [Clé d'or](/fr/Items/con_783/),  | 
   | 27   | 25 Apr | 28 Apr | Échange d'or | Obtenez deux fois plus d'or lorsque vous en achetez au comptoir commercial. |  | 
@@ -47,7 +47,7 @@ classes: wide
   | 32   | 28 Apr | 2 May | Acheteur unique | Choisissez une récompense une fois les conditions d'achat remplies. | [Mithril du néant](/fr/Items/con_817/), [Ticket d'échange d'Emblème sacré](/fr/Items/con_513/), [Pack Héros d'élite](/fr/Items/con_1883/), [Coffre de composants d'artefact premium](/fr/Items/con_1874/),  | 
   | 33   | 28 Apr | 2 May | Pacte à durée limitée | Les unités de Commandants ultra populaires sont disponibles pour une durée limitée. Vous n'avez plus qu'à les invoquer ! | [Oracle de Regna](/fr/Items/unt_279/),  | 
   | 34   | 28 Apr | 2 May | Récompense de connexion | Connectez-vous chaque jour pendant l'évènement pour gagner des récompenses exceptionnelles. | [Coffre de faction (Crique)](/fr/Items/con_1278/), [Runes de groupement (Crique)](/fr/Items/con_868/), [Énorme potion d'EXP](/fr/Items/con_703/),  | 
-  | 35   | 28 Apr | 2 May | Récompense de recrutement | Récupérez et recrutez les unités indiquées pendant l'évènement pour gagner des récompenses supplémentaires. | [Oracle de Regna](/fr/Items/unt_279/), AVATARFRAME1082,  | 
+  | 35   | 28 Apr | 2 May | Récompense de recrutement | Récupérez et recrutez les unités indiquées pendant l'évènement pour gagner des récompenses supplémentaires. | [Oracle de Regna](/fr/Items/unt_279/),  AVATAR_FRAME_1082,  | 
   | 36   | 28 Apr | 2 May | Échange d'emblèmes | Durant cet évènement, échangez des tickets contre des Emblèmes sacrés rares. | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/), [Sanctuaire de Kosmos](/fr/Emblem/Sanctuary of Kosmos/), [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/), [Illumination des ténèbres](/fr/Emblem/Darkness Enlightenment/), [Colère](/fr/Emblem/Anger/),  | 
   | 37   | 28 Apr | 2 May | Échange exclusif | Échangez du Mithril du néant contre une arme exclusive d'unité pendant l'évènement. | [Jeton Sabre des limbes](/fr/Items/con_979/), [Jeton Épée Naga](/fr/Items/con_987/), [Jeton Queue de scorpion](/fr/Items/con_992/),  | 
   | 38   | 28 Apr | 30 Apr | Ruée vers l'or | Obtenez le double d'or dans le Trésor des Nains. |  | 

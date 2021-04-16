@@ -2,12 +2,15 @@
 title: "Emblème sacré - Autonyme oublié"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Era of Chaos Autonyme oublié. Autonyme oublié. Era of Chaos Emblème sacré Autonyme oublié. Era of Chaos Mauvais Autonyme oublié"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Forgotten Autonym.md"
 toc: false
+QR: rune_501
 classes: wide
 ---
+
+  ![Autonyme oublié](/images/r/rune_icon_501.png)
 
  **Nom:** Autonyme oublié
 

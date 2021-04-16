@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-12 Le champ de tir de boules de feu"
 permalink: /Main Story/Chapter 30_12/
 excerpt: "Chapitre 30 - 12. Era of Chaos  Histoire principale - Chapitre 30_12. 30-12 Le champ de tir de boules de feu"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 30_12.md"
 toc: false

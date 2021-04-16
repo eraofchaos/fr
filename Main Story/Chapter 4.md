@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 Falaises des Griffons"
 permalink: /Main Story/Chapter 4/
 excerpt: "Chapitre 4. Era of Chaos  Histoire principale - Chapitre 4. Falaises des Griffons"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 4.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** EXP d'unité
+ Reward 4:  **1000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -48,7 +48,7 @@ classes: wide
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** EXP d'unité
+ Reward 4:  **1500x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -60,5 +60,5 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** EXP d'unité
+ Reward 4:  **2000x** [EXP d'unité](/fr/Items/con_902/)
 

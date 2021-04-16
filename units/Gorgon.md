@@ -3,11 +3,13 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Gorgone"
 toc: true
 ---
+  ![Gorgone](/images/u/ti_manniu.jpg)
+
 ## General information
  **Description:** D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais.
 
@@ -188,6 +190,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Grande Gorgone](/images/u/tia_manniu.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

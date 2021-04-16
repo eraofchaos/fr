@@ -4,11 +4,13 @@ permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaïde. Adelaïde. Alors qu'elle n'était qu'une jeune naufragée solitaire, Adelaïde est entrée par hasard sur le territoire des Elfes des neiges. Elle s'est entraînée pendant vingt ans à leurs côtés pour devenir la Mage la plus puissante du royaume avant de retourner en Erathia."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Adelaide"
 toc: true
 ---
+  ![Adelaïde](/images/h/h_Adelaide.jpg)
+
  **Description:** Alors qu'elle n'était qu'une jeune naufragée solitaire, Adelaïde est entrée par hasard sur le territoire des Elfes des neiges. Elle s'est entraînée pendant vingt ans à leurs côtés pour devenir la Mage la plus puissante du royaume avant de retourner en Erathia.
 ## Détails
  **Profession:** Clercs

@@ -3,11 +3,13 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Ogre"
 toc: true
 ---
+  ![Ogre](/images/u/ti_shirenmo.jpg)
+
 ## General information
  **Description:** Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ogre Mage](/images/u/tia_shirenmo.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

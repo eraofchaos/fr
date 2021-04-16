@@ -2,7 +2,7 @@
 title: "Chakram épineux"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "Era of Chaos Chakram épineux. Chakram épineux"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Thorn's Chakram.md"
 toc: false

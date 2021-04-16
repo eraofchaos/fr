@@ -3,11 +3,13 @@ title: "Minotaure"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare."
 unitID: 705
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Minotaure"
 toc: true
 ---
+  ![Minotaure](/images/u/ti_niutouguai.jpg)
+
 ## General information
  **Description:** Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Roi Minotaure](/images/u/tia_niutouguai.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

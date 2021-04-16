@@ -3,11 +3,13 @@ title: "Spadassin"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Spadassin"
 toc: true
 ---
+  ![Spadassin](/images/u/ti_shizijun.jpg)
+
 ## General information
  **Description:** Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Croisé](/images/u/tia_shizijun.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

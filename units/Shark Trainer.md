@@ -3,13 +3,15 @@ title: "Dompteur de requins"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues."
 unitID: 9909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Dompteur de requins"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Dompteur de requins](/images/u/ti_xunshashi.jpg)
 
 ## General information
  **Description:** Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues.
@@ -216,6 +218,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Chevaucheur de requins](/images/u/tia_xunshashi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

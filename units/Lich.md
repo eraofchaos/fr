@@ -3,11 +3,13 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Liche"
 toc: true
 ---
+  ![Liche](/images/u/ti_wuyao.jpg)
+
 ## General information
  **Description:** Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Grande Liche](/images/u/tia_wuyao.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

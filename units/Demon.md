@@ -3,11 +3,13 @@ title: "Démon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Démon"
 toc: true
 ---
+  ![Démon](/images/u/ti_changjiaoemo.jpg)
+
 ## General information
  **Description:** Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Garde de l'Hadès](/images/u/tia_changjiaoemo.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

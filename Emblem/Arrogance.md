@@ -2,12 +2,15 @@
 title: "Emblème sacré - Orgueil"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Orgueil. Orgueil. Era of Chaos Emblème sacré Orgueil. Era of Chaos Chaos Orgueil"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Arrogance.md"
 toc: false
+QR: rune_402
 classes: wide
 ---
+
+  ![Orgueil](/images/r/rune_icon_402.png)
 
  **Nom:** Orgueil
 

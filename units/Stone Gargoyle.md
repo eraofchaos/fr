@@ -3,11 +3,13 @@ title: "Gargouille"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat."
 unitID: 602
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Gargouille"
 toc: true
 ---
+  ![Gargouille](/images/u/ti_shixianggui.jpg)
+
 ## General information
  **Description:** Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat.
 
@@ -180,6 +182,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

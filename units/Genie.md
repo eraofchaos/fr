@@ -3,11 +3,13 @@ title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Djinn"
 toc: true
 ---
+  ![Djinn](/images/u/ti_shenguai.jpg)
+
 ## General information
  **Description:** Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Génie](/images/u/tia_shendeng.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

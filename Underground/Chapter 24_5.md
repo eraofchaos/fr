@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 24 - 24-5 Sans retour"
 permalink: /Underground/Chapter 24_5/
 excerpt: "Chapitre 24 - 5. Era of Chaos  Souterrain - Chapitre 24_5. 24-5 Sans retour"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 24_5.md"
 toc: false

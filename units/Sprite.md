@@ -3,11 +3,13 @@ title: "Fée"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
 unitID: 901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Fée"
 toc: true
 ---
+  ![Fée](/images/u/ti_mofaxianling.jpg)
+
 ## General information
  **Description:** Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse.
 
@@ -172,6 +174,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-13 Le découragement de l'Elfe"
 permalink: /Main Story/Chapter 24_13/
 excerpt: "Chapitre 24 - 13. Era of Chaos  Histoire principale - Chapitre 24_13. 24-13 Le découragement de l'Elfe"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 24_13.md"
 toc: false

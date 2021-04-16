@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-15 Courage"
 permalink: /Main Story/Chapter 8_15/
 excerpt: "Chapitre 8 - 15. Era of Chaos  Histoire principale - Chapitre 8_15. 8-15 Courage"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 8_15.md"
 toc: false

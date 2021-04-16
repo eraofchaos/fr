@@ -3,13 +3,15 @@ title: "Champion des ténèbres"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Champion des ténèbres"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Champion des ténèbres](/images/u/ti_sishen.jpg)
 
 ## General information
  **Description:** C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme.
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_gulong.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

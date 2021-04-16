@@ -2,12 +2,15 @@
 title: "Emblème sacré - Clé en pierre"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Era of Chaos Clé en pierre. Clé en pierre. Era of Chaos Emblème sacré Clé en pierre. Era of Chaos Neutre Clé en pierre"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Stone Key to the Gates.md"
 toc: false
+QR: rune_302
 classes: wide
 ---
+
+  ![Clé en pierre](/images/r/rune_icon_302.png)
 
  **Nom:** Clé en pierre
 

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 Les marécages"
 permalink: /Main Story/Chapter 10/
 excerpt: "Chapitre 10. Era of Chaos  Histoire principale - Chapitre 10. Les marécages"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 10.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **30000x** <i class="fas fa-coins"/>
 
- Reward 4:  **3000x** EXP d'unité
+ Reward 4:  **3000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** EXP d'unité
+ Reward 4:  **5000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** EXP d'unité
+ Reward 4:  **8000x** [EXP d'unité](/fr/Items/con_902/)
 

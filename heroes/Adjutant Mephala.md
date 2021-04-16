@@ -2,13 +2,15 @@
 title: "Adjudant Mephala"
 permalink: /heroes/Adjutant Mephala/
 excerpt: "Era of Chaos  Adjudant Mephala"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Adjutant Mephala.md"
 QR: adhero_60302
 toc: false
 classes: wide
 ---
+  ![Mephala](/images/h/h_Mephala.jpg)
+
  [List of ALL Adjudants](/fr/heroes/Adjutants/) 
 
 ## Détails

@@ -2,7 +2,7 @@
 title: "Armure foudroyante"
 permalink: /equipment/Lightning's armor/
 excerpt: "Era of Chaos Armure foudroyante. Armure foudroyante"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Lightning's armor.md"
 toc: false

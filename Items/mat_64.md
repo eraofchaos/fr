@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre mythique"
 permalink: /Items/mat_64/
 excerpt: "Era of Chaos  Soufre mythique"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "mat_64.md"
 toc: false

@@ -2,13 +2,15 @@
 title: "Adjudant Adelaïde"
 permalink: /heroes/Adjutant Adelaide/
 excerpt: "Era of Chaos  Adjudant Adelaïde"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Adjutant Adelaide.md"
 QR: adhero_60001
 toc: false
 classes: wide
 ---
+  ![Adelaïde](/images/h/h_Adelaide.jpg)
+
  [List of ALL Adjudants](/fr/heroes/Adjutants/) 
 
 ## Détails

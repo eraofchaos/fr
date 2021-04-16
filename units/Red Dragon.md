@@ -3,11 +3,13 @@ title: "Dragon rouge"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Dragon rouge"
 toc: true
 ---
+  ![Dragon rouge](/images/u/ti_chilong.jpg)
+
 ## General information
  **Description:** C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_heilong.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

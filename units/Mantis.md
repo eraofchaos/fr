@@ -3,13 +3,15 @@ title: "Mante religieuse"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ses gigantesques lames, tranchantes comme des rasoirs, témoignent de sa fierté de créature légendaire. Les elfes de Vori ont conféré à la Mante religieuse une vitalité de fer inébranlable."
 unitID: 209
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Mante religieuse"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Mante religieuse](/images/u/ti_tanglang.jpg)
 
 ## General information
  **Description:** Ses gigantesques lames, tranchantes comme des rasoirs, témoignent de sa fierté de créature légendaire. Les elfes de Vori ont conféré à la Mante religieuse une vitalité de fer inébranlable.
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_dujiaoshou.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

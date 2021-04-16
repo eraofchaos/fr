@@ -2,12 +2,15 @@
 title: "Emblème sacré - La voie de l'assassin"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos La voie de l'assassin. La voie de l'assassin. Era of Chaos Emblème sacré La voie de l'assassin. Era of Chaos Neutre La voie de l'assassin"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Path of an Assassin.md"
 toc: false
+QR: rune_307
 classes: wide
 ---
+
+  ![La voie de l'assassin](/images/r/rune_icon_107.png)
 
  **Nom:** La voie de l'assassin
 

@@ -4,11 +4,13 @@ permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu est un demi-Elfe, mais c'est aussi le guerrier le plus connu d'Erathia. Au service de la reine Catherine, il a été remarqué et promu par le général Morgan Kendal en personne."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Gelu"
 toc: true
 ---
+  ![Gelu](/images/h/h_Gelu.jpg)
+
  **Description:** Gelu est un demi-Elfe, mais c'est aussi le guerrier le plus connu d'Erathia. Au service de la reine Catherine, il a été remarqué et promu par le général Morgan Kendal en personne.
 ## Détails
  **Profession:** Rôdeur

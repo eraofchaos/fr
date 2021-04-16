@@ -2,7 +2,7 @@
 title: "Épaulières en or pur"
 permalink: /equipment/Pauldrons of Pure Gold/
 excerpt: "Era of Chaos Épaulières en or pur. Épaulières en or pur"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Pauldrons of Pure Gold.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-13 Des étables et des forêts"
 permalink: /Main Story/Chapter 3_13/
 excerpt: "Chapitre 3 - 13. Era of Chaos  Histoire principale - Chapitre 3_13. 3-13 Des étables et des forêts"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 3_13.md"
 toc: false

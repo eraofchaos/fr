@@ -2,7 +2,7 @@
 title: "Griffes de dragon magique"
 permalink: /equipment/Magic Dragon Claws/
 excerpt: "Era of Chaos Griffes de dragon magique. Griffes de dragon magique"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Magic Dragon Claws.md"
 toc: false

@@ -4,11 +4,13 @@ permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite est un homme mystérieux, qui maintient d'étroites relations avec des dirigeants importants de différentes nations. Mais personne ne sait rien sur son passé, il n'en parle jamais."
 heroID: 61401
 QR: hero_61401
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Jeddite"
 toc: true
 ---
+  ![Jeddite](/images/h/h_Jeddite.jpg)
+
  **Description:** Jeddite est un homme mystérieux, qui maintient d'étroites relations avec des dirigeants importants de différentes nations. Mais personne ne sait rien sur son passé, il n'en parle jamais.
 ## Détails
  **Profession:** Mage de guerre

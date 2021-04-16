@@ -2,12 +2,15 @@
 title: "Emblème sacré - Souffle du Roi Dragon"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Souffle du Roi Dragon. Souffle du Roi Dragon. Era of Chaos Emblème sacré Souffle du Roi Dragon. Era of Chaos Mauvais Souffle du Roi Dragon"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Dragon King's Breath.md"
 toc: false
+QR: rune_505
 classes: wide
 ---
+
+  ![Souffle du Roi Dragon](/images/r/rune_icon_505.png)
 
  **Nom:** Souffle du Roi Dragon
 

@@ -3,11 +3,13 @@ title: "Serpent de Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Serpent de Regna"
 toc: true
 ---
+  ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg)
+
 ## General information
  **Description:** Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi.
 
@@ -189,6 +191,9 @@ toc: true
 
 
 ## Awaking
+
+  ![](/images/u/tia_yurenyongshi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

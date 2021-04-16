@@ -3,11 +3,13 @@ title: "Pirates de Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Pirates de Regna"
 toc: true
 ---
+  ![Pirates de Regna](/images/u/ti_haidao.jpg)
+
 ## General information
  **Description:** Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Roi des pirates](/images/u/tia_haidao.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

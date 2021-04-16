@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 Ange gardien"
 permalink: /Main Story/Chapter 3/
 excerpt: "Chapitre 3. Era of Chaos  Histoire principale - Chapitre 3. Ange gardien"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 3.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** EXP d'unité
+ Reward 4:  **1000x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
@@ -48,17 +48,17 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** EXP d'unité
+ Reward 4:  **1500x** [EXP d'unité](/fr/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_201
+ Reward 1:  **1x** [Centaure](/fr/units/Centaur/)
 
  Reward 2: **5 x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** EXP d'unité
+ Reward 4:  **2000x** [EXP d'unité](/fr/Items/con_902/)
 

@@ -2,7 +2,7 @@
 title: "Corne ardente"
 permalink: /equipment/Horn of Scorching/
 excerpt: "Era of Chaos Corne ardente. Corne ardente"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Horn of Scorching.md"
 toc: false

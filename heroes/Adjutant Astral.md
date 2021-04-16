@@ -2,13 +2,15 @@
 title: "Adjudant Astral"
 permalink: /heroes/Adjutant Astral/
 excerpt: "Era of Chaos  Adjudant Astral"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Adjutant Astral.md"
 QR: adhero_61203
 toc: false
 classes: wide
 ---
+  ![Astral](/images/h/h_Astral.jpg)
+
  [List of ALL Adjudants](/fr/heroes/Adjutants/) 
 
 ## Détails

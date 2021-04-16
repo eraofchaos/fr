@@ -3,11 +3,13 @@ title: "Oiseau de feu"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Oiseau de feu"
 toc: true
 ---
+  ![Oiseau de feu](/images/u/ti_fenghuang.jpg)
+
 ## General information
  **Description:** L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Phoenix](/images/u/tia_fenghuang.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-11 La pierre d'apprentissage"
 permalink: /Main Story/Chapter 3_11/
 excerpt: "Chapitre 3 - 11. Era of Chaos  Histoire principale - Chapitre 3_11. 3-11 La pierre d'apprentissage"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 3_11.md"
 toc: false

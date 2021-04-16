@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-7 Une chance de survie"
 permalink: /Main Story/Chapter 5_7/
 excerpt: "Chapitre 5 - 7. Era of Chaos  Histoire principale - Chapitre 5_7. 5-7 Une chance de survie"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 5_7.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Basilic"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Basilic"
 toc: true
 ---
+  ![Basilic](/images/u/ti_xiyi.jpg)
+
 ## General information
  **Description:** Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_xiyi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** NO
 

@@ -2,7 +2,7 @@
 title: "Ceinture de puissance"
 permalink: /equipment/Mighty Belt/
 excerpt: "Era of Chaos Ceinture de puissance. Ceinture de puissance"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Mighty Belt.md"
 toc: false

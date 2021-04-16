@@ -3,11 +3,13 @@ title: "Élémentaire de glace"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Élémentaire de glace"
 toc: true
 ---
+  ![Élémentaire de glace](/images/u/ti_bingyuansu2.jpg)
+
 ## General information
  **Description:** Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Esprit de la neige silencieux](/images/u/tia_bingyuansu.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

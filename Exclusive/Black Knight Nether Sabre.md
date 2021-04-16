@@ -2,7 +2,7 @@
 title: "Exclusif - Sabre des limbes (Black Knight)"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Sabre des limbes. Sabre des limbes. Era of Chaos Exclusif Sabre des limbes. Chevalier noir Exclusif."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Black Knight Sabre des limbes.md"
 toc: false

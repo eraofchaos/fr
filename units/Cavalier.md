@@ -3,11 +3,13 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Cavalier"
 toc: true
 ---
+  ![Cavalier](/images/u/ti_qishi.jpg)
+
 ## General information
  **Description:** Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Chevaliers légendaires](/images/u/tia_qishi.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

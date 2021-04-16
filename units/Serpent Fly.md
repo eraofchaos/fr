@@ -3,11 +3,13 @@ title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Guêpe serpent"
 toc: true
 ---
+  ![Guêpe serpent](/images/u/ti_longying.jpg)
+
 ## General information
  **Description:** Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture.
 
@@ -192,6 +194,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Guêpe dragon](/images/u/tia_longying.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

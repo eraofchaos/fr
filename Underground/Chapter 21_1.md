@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 21 - 21-1 Cadeau de guerre"
 permalink: /Underground/Chapter 21_1/
 excerpt: "Chapitre 21 - 1. Era of Chaos  Souterrain - Chapitre 21_1. 21-1 Cadeau de guerre"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Chapter 21_1.md"
 toc: false

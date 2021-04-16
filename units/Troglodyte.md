@@ -3,11 +3,13 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Troglodyte"
 toc: true
 ---
+  ![Troglodyte](/images/u/ti_dongxueren.jpg)
+
 ## General information
  **Description:** Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Troglodyte des ténèbres](/images/u/tia_dongxueren.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

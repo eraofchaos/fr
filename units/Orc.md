@@ -3,11 +3,13 @@ title: "Orque"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: fr
 ref: "Orque"
 toc: true
 ---
+  ![Orque](/images/u/ti_shourentoufushou.jpg)
+
 ## General information
  **Description:** Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Commandant Orque](/images/u/tia_banshouren.jpg)
+
 ### Awaking Détails
  **Is it possible right now?** YES
 

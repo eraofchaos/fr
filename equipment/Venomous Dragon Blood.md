@@ -2,7 +2,7 @@
 title: "Sang de dragon empoisonné"
 permalink: /equipment/Venomous Dragon Blood/
 excerpt: "Era of Chaos Sang de dragon empoisonné. Sang de dragon empoisonné"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Venomous Dragon Blood.md"
 toc: false

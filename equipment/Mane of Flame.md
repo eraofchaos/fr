@@ -2,7 +2,7 @@
 title: "Crinière enflammée"
 permalink: /equipment/Mane of Flame/
 excerpt: "Era of Chaos Crinière enflammée. Crinière enflammée"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Mane of Flame.md"
 toc: false

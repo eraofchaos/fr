@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-3 Le hall de la quiétude"
 permalink: /Main Story/Chapter 27_3/
 excerpt: "Chapitre 27 - 3. Era of Chaos  Histoire principale - Chapitre 27_3. 27-3 Le hall de la quiétude"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 27_3.md"
 toc: false

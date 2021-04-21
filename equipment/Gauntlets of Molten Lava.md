@@ -2,7 +2,7 @@
 title: "Gantelets de lave en fusion"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Era of Chaos Gantelets de lave en fusion. Gantelets de lave en fusion"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Gauntlets of Molten Lava.md"
 toc: false

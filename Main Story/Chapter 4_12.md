@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-12 La tour de la griffe"
 permalink: /Main Story/Chapter 4_12/
 excerpt: "Chapitre 4 - 12. Era of Chaos  Histoire principale - Chapitre 4_12. 4-12 La tour de la griffe"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 4_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Épaulières du rituel"
 permalink: /equipment/Pauldrons of Ritual/
 excerpt: "Era of Chaos Épaulières du rituel. Épaulières du rituel"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Pauldrons of Ritual.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Noyau de l'étoile polaire"
 permalink: /equipment/Core of the Pole Star/
 excerpt: "Era of Chaos Noyau de l'étoile polaire. Noyau de l'étoile polaire"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Core of the Pole Star.md"
 toc: false

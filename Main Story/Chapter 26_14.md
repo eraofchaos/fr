@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-14 Une reproduction isolée"
 permalink: /Main Story/Chapter 26_14/
 excerpt: "Chapitre 26 - 14. Era of Chaos  Histoire principale - Chapitre 26_14. 26-14 Une reproduction isolée"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 26_14.md"
 toc: false

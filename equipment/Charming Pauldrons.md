@@ -2,7 +2,7 @@
 title: "Épaulières ensorcelées"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "Era of Chaos Épaulières ensorcelées. Épaulières ensorcelées"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Charming Pauldrons.md"
 toc: false

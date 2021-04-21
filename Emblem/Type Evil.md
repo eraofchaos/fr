@@ -2,7 +2,7 @@
 title: "Emblème sacré - Mauvais"
 permalink: /Emblem/Type Evil/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Era of Chaos Emblème sacré Mauvais. Era of Chaos Mauvais"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "typeMauvais.md"
 toc: false

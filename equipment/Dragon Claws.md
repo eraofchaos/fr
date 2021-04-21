@@ -2,7 +2,7 @@
 title: "Griffes de dragon"
 permalink: /equipment/Dragon Claws/
 excerpt: "Era of Chaos Griffes de dragon. Griffes de dragon"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Dragon Claws.md"
 toc: false

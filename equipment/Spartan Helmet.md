@@ -2,7 +2,7 @@
 title: "Casque spartiate"
 permalink: /equipment/Spartan Helmet/
 excerpt: "Era of Chaos Casque spartiate. Casque spartiate"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Spartan Helmet.md"
 toc: false

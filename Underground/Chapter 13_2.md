@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 13 - 13-2 Un pouvoir obscur"
 permalink: /Underground/Chapter 13_2/
 excerpt: "Chapitre 13 - 2. Era of Chaos  Souterrain - Chapitre 13_2. 13-2 Un pouvoir obscur"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 13_2.md"
 toc: false

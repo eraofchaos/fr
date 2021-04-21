@@ -3,7 +3,7 @@ title: "Spadassin"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Spadassin"
 toc: true

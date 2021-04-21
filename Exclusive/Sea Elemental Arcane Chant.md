@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Sea Elemental)"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Élémentaire de mer Exclusif."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Sea Elemental Mélopée des arcanes.md"
 toc: false

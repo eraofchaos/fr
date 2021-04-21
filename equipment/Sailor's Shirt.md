@@ -2,7 +2,7 @@
 title: "Chemise de marin"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "Era of Chaos Chemise de marin. Chemise de marin"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Sailor's Shirt.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Répertoire des armes +1"
 permalink: /Items/mat_25/
 excerpt: "Era of Chaos  Répertoire des armes +1"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "mat_25.md"
 toc: false

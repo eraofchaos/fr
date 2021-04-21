@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-10 Dérober la nourriture des loups"
 permalink: /Main Story/Chapter 17_10/
 excerpt: "Chapitre 17 - 10. Era of Chaos  Histoire principale - Chapitre 17_10. 17-10 Dérober la nourriture des loups"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 17_10.md"
 toc: false

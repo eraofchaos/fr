@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-10 La prison de la résistance"
 permalink: /Main Story/Chapter 27_10/
 excerpt: "Chapitre 27 - 10. Era of Chaos  Histoire principale - Chapitre 27_10. 27-10 La prison de la résistance"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 27_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-6 Le roi doré"
 permalink: /Main Story/Chapter 16_6/
 excerpt: "Chapitre 16 - 6. Era of Chaos  Histoire principale - Chapitre 16_6. 16-6 Le roi doré"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 16_6.md"
 toc: false

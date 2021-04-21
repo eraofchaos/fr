@@ -2,7 +2,7 @@
 title: "Mâchoire fatale"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "Era of Chaos Mâchoire fatale. Mâchoire fatale"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Fatal Jaw Weapon.md"
 toc: false

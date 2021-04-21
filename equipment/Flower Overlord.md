@@ -2,7 +2,7 @@
 title: "Seigneur des fleurs"
 permalink: /equipment/Flower Overlord/
 excerpt: "Era of Chaos Seigneur des fleurs. Seigneur des fleurs"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Flower Overlord.md"
 toc: false

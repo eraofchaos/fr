@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 24 - 24-2 Fournaise enflammée"
 permalink: /Underground/Chapter 24_2/
 excerpt: "Chapitre 24 - 2. Era of Chaos  Souterrain - Chapitre 24_2. 24-2 Fournaise enflammée"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 24_2.md"
 toc: false

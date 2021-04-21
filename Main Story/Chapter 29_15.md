@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-15 Le gouffre de Rochenoire"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Chapitre 29 - 15. Era of Chaos  Histoire principale - Chapitre 29_15. 29-15 Le gouffre de Rochenoire"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 29_15.md"
 toc: false

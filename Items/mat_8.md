@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure ordinaire"
 permalink: /Items/mat_8/
 excerpt: "Era of Chaos  Mercure ordinaire"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "mat_8.md"
 toc: false

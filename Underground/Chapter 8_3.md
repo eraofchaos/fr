@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 8 - 8-3 Une visite au nécromancien"
 permalink: /Underground/Chapter 8_3/
 excerpt: "Chapitre 8 - 3. Era of Chaos  Souterrain - Chapitre 8_3. 8-3 Une visite au nécromancien"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 8_3.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 18  Semaine de l'Hadès
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **3 May** | **5x [Diablotin](/fr/Items/unt_226/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
+  | **4 May** | **5x [Gog](/fr/Items/unt_227/)**  | Une escouade de Gogs a rejoint votre armée et vous renforce ! |
+  | **5 May** | **3x [Chien de l'Enfer](/fr/Items/unt_228/)**  | Une escouade de Chiens de l'Enfer a rejoint votre armée et vous renforce ! |
+  | **6 May** | **5x [Coffre (Hadès)](/fr/Items/con_1273/)**  | Votre compagnie de l'Hadès vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
+  | **7 May** | **3x [Démon](/fr/Items/unt_229/)**  | Une escouade de Démons a rejoint votre armée et vous renforce ! |
+  | **8 May** | **3x [Servante des Abîmes](/fr/Items/unt_230/)**  | Une escouade de Servantes des Abîmes a rejoint votre armée et vous renforce ! |
+  | **9 May** | **5x [Rashka](/fr/Items/her_384/)**  | Le Héros Rashka s'intéresse à votre extension et souhaiterait rejoindre votre faction ! |
+
 
 #### 2021 Week 17  Semaine de la Crique
 

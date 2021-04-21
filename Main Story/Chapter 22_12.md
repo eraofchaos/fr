@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-12 La magie draconienne"
 permalink: /Main Story/Chapter 22_12/
 excerpt: "Chapitre 22 - 12. Era of Chaos  Histoire principale - Chapitre 22_12. 22-12 La magie draconienne"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 22_12.md"
 toc: false

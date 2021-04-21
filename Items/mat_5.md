@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal de qualité inférieure"
 permalink: /Items/mat_5/
 excerpt: "Era of Chaos  Cristal de qualité inférieure"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "mat_5.md"
 toc: false

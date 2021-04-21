@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-7 La tour venteuse"
 permalink: /Main Story/Chapter 4_7/
 excerpt: "Chapitre 4 - 7. Era of Chaos  Histoire principale - Chapitre 4_7. 4-7 La tour venteuse"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 4_7.md"
 toc: false

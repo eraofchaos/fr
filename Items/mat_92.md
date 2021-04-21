@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre stellaire +4"
 permalink: /Items/mat_92/
 excerpt: "Era of Chaos  Soufre stellaire +4"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "mat_92.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "index.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 |  **12x** [Ferveur](/fr/Items/con_954/)(Un objet servant à défier des boss pendant l'événement Attaque de la Crique.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** [Catherine - Ailes du Triomphe](/fr/Items/con_1032/)(Permet d'obtenir le skin Ailes du Triomphe de Catherine) |  **2500x** [Shekel](/fr/Items/con_950/)  | **1** |
   | 3 |  **10x** [Peter Lee](/fr/Items/her_397/)(Récupérez 30 Jetons pour que PeterLee rejoigne votre équipe. Les Jetons vous permettent également d'améliorer son rang.) |  **2500x** [Shekel](/fr/Items/con_950/)  | **3** |
-  | 4 |  **10x** [Âme d'unité SSR](/fr/Items/con_535/)(Récupérez-en 80 pour obtenir une unité d'aptitude SSR aléatoire (sauf le Chevalier noir, l'Assassin et les Guerriers spartiates).) |  **3800x** [Shekel](/fr/Items/con_950/)  | **4** |
+  | 4 |  **10x** [Âme d'unité SSR](/fr/Items/con_535/)(Récupérez-en 80 pour obtenir une unité d'aptitude SSR aléatoire (sauf l'Assassin et les Guerriers spartiates).) |  **3800x** [Shekel](/fr/Items/con_950/)  | **4** |
   | 5 |  **10x** [Âme d'unité SR](/fr/Items/con_534/)(Récupérez-en 30 pour obtenir une de ces unités à 2 étoiles au hasard : Griffon, Spadassin, Moine, Cavalier, Nain, Elfe sylvaine, Pégase, Garde sylvanien, Licorne, Orque, Ogre, Rock, Cyclope, Revenante, Vampire, Chien de l'Enfer, Démon, Servante des Abîmes, Effrit, Gargouille, Golem de fer, Mage,Pirates de Regna, Élémentaire de tempête, Élémentaire de glace, Harpie, Minotaure ou Homme-lézard.) |  **1000x** [Shekel](/fr/Items/con_950/)  | **3** |
   | 6 |  **1x** [Coffre de composants d'artefact premium](/fr/Items/con_1740/)(À utiliser pour obtenir au choix : 1 coffre de composants (Roi Dragon), 1 coffre de composants (Givre) ou 1 coffre de composants céleste.) |  **13500x** [Shekel](/fr/Items/con_950/)  | **1** |
   | 7 |  **1x** [Pack de composants (Artefact premium)](/fr/Items/con_1433/)(À utiliser pour obtenir au choix : coffre de composants (Œil de faucon) ou coffre de composants (Titan) x1.) |  **3800x** [Shekel](/fr/Items/con_950/)  | **1** |

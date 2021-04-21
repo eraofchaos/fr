@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Exclusif Stronghold. Exclusif Stronghold. List of Exclusif Stronghold in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Exclusive Stronghold"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 1  | [Gobelin](/fr/units/Goblin/) | [Épée](/fr/Exclusive/Goblin Sword/) | - | Assaut | [Jeton Épée](/fr/Items/con_912/) | - |
   | 2  | [Chevaucheur de loup](/fr/units/Wolf Rider/) | [Pic du Chevalier](/fr/Exclusive/Wolf Rider Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/fr/Items/con_916/) | - |
   | 3  | [Orque](/fr/units/Orc/) | [Arc long](/fr/Exclusive/Orc Long Bow/) | - | Assaut | [Jeton Arc long](/fr/Items/con_914/) | - |
-  | 4  | [Ogre](/fr/units/Ogre/) | [Bouclier iris](/fr/Exclusive/Ogre Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/fr/Items/con_913/) | - |
+  | 4  | [Ogre](/fr/units/Ogre/) | [Bouclier iris](/fr/Exclusive/Ogre Iris Shield/) | + | Assaut | [Jeton Bouclier iris](/fr/Items/con_913/) | - |
   | 5  | [Rock](/fr/units/Roc/) | [Mélopée des arcanes](/fr/Exclusive/Roc Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/fr/Items/con_915/) | - |
   | 6  | [Cyclope](/fr/units/Cyclops/) | [Arc long](/fr/Exclusive/Cyclops Long Bow/) | + | Assaut | [Jeton Arc long](/fr/Items/con_914/) | - |
   | 7  | [Béhémoth](/fr/units/Behemoth/) | [Esprit sanguinaire](/fr/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Soutien | [Jeton Esprit sanguinaire](/fr/Items/con_982/) | [Skin spécial Esprit sanguinaire](/fr/Items/con_650/) |

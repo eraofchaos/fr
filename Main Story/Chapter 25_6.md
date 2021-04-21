@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-6 Le seigneur elfique"
 permalink: /Main Story/Chapter 25_6/
 excerpt: "Chapitre 25 - 6. Era of Chaos  Histoire principale - Chapitre 25_6. 25-6 Le seigneur elfique"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 25_6.md"
 toc: false

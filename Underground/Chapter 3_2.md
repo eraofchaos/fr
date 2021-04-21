@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 3 - 3-2 La marque du Dragon"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Chapitre 3 - 2. Era of Chaos  Souterrain - Chapitre 3_2. 3-2 La marque du Dragon"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 3_2.md"
 toc: false

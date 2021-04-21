@@ -2,7 +2,7 @@
 title: "Épine toxique"
 permalink: /equipment/Toxic Thorn/
 excerpt: "Era of Chaos Épine toxique. Épine toxique"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Toxic Thorn.md"
 toc: false

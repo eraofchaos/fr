@@ -2,7 +2,7 @@
 title: "Artefact - Puits de magie"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Era of Chaos  Puits de magie. Puits de magie Un objet magique conçu pour combattre les démons. Accélère la régénération des points de sort."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Wizard's Well.md"
 toc: false

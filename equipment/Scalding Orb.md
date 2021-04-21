@@ -2,7 +2,7 @@
 title: "Orbe brûlant"
 permalink: /equipment/Scalding Orb/
 excerpt: "Era of Chaos Orbe brûlant. Orbe brûlant"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Scalding Orb.md"
 toc: false

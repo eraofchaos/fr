@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 15 - 15-1 Sculpture du démon"
 permalink: /Underground/Chapter 15_1/
 excerpt: "Chapitre 15 - 1. Era of Chaos  Souterrain - Chapitre 15_1. 15-1 Sculpture du démon"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 15_1.md"
 toc: false

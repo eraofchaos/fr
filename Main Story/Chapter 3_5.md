@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-5 Le château fantôme"
 permalink: /Main Story/Chapter 3_5/
 excerpt: "Chapitre 3 - 5. Era of Chaos  Histoire principale - Chapitre 3_5. 3-5 Le château fantôme"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 3_5.md"
 toc: false

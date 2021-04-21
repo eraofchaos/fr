@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-11 La terre des brumes"
 permalink: /Main Story/Chapter 11_11/
 excerpt: "Chapitre 11 - 11. Era of Chaos  Histoire principale - Chapitre 11_11. 11-11 La terre des brumes"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 11_11.md"
 toc: false

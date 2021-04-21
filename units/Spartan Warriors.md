@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Guerriers spartiates"
 toc: true

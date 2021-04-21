@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal de qualité supérieure +1"
 permalink: /Items/mat_24/
 excerpt: "Era of Chaos  Cristal de qualité supérieure +1"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "mat_24.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 18 Pacte avec le diable"
 permalink: /Underground/Chapter 18/
 excerpt: "Chapitre 18 Pacte avec le diable. Era of Chaos  Souterrain - Chapitre 18. Pacte avec le diable"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 18.md"
 toc: false

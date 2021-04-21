@@ -2,7 +2,7 @@
 title: "Faction Altar for Nécropole"
 permalink: /FactionAltar/DROP_104/
 excerpt: "Era of Chaos  Faction Altar for Nécropole. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "DROP_104.md"
 toc: false
@@ -19,17 +19,17 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pack Nécropole (édition limitée)](/fr/Items/con_2102/)
+  **Drop by Luck (10x spin): 30x** [Pack Nécropole (édition limitée)](/fr/Items/con_2138/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2102/) |
-  | 2 | **12%** | **2x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2102/) |
-  | 3 | **12%** | **3x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2102/) |
-  | 4 | **12%** | **5x** |  **18%** [Revenante](/fr/Items/unt_210/),  **62%** [Vampire](/fr/Items/unt_211/),  **18%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  |
-  | 5 | **12%** | **3x** |  **18%** [Revenante](/fr/Items/unt_210/),  **62%** [Vampire](/fr/Items/unt_211/),  **18%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  |
+  | 1 | **25%** | **1x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2138/) |
+  | 2 | **12%** | **2x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2138/) |
+  | 3 | **12%** | **3x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2138/) |
+  | 4 | **12%** | **5x** |  **15%** [Revenante](/fr/Items/unt_210/),  **52%** [Vampire](/fr/Items/unt_211/),  **15%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  **15%** [Pierre d'âme de Spectre](/fr/Items/unt_299/),  |
+  | 5 | **12%** | **3x** |  **15%** [Revenante](/fr/Items/unt_210/),  **52%** [Vampire](/fr/Items/unt_211/),  **15%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  **15%** [Pierre d'âme de Spectre](/fr/Items/unt_299/),  |
   | 6 | **12%** | **5x** |  **25%** [Squelette](/fr/Items/unt_208/),  **25%** [Trépassé](/fr/Items/unt_209/),  **25%** [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/),  **25%** [Pierre d'âme de Zombie](/fr/Items/unt_298/),  |
 
 
@@ -37,19 +37,19 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2102/) |
-  | 2 | **11%** | **5x** |  **18%** [Revenante](/fr/Items/unt_210/),  **62%** [Vampire](/fr/Items/unt_211/),  **18%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  |
-  | 3 | **11%** | **3x** |  **18%** [Revenante](/fr/Items/unt_210/),  **62%** [Vampire](/fr/Items/unt_211/),  **18%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  |
+  | 1 | **55%** | **1x** | [Pack Nécropole (édition limitée)](/fr/Items/con_2138/) |
+  | 2 | **11%** | **5x** |  **15%** [Revenante](/fr/Items/unt_210/),  **52%** [Vampire](/fr/Items/unt_211/),  **15%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  **15%** [Pierre d'âme de Spectre](/fr/Items/unt_299/),  |
+  | 3 | **11%** | **3x** |  **15%** [Revenante](/fr/Items/unt_210/),  **52%** [Vampire](/fr/Items/unt_211/),  **15%** [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/),  **15%** [Pierre d'âme de Spectre](/fr/Items/unt_299/),  |
   | 4 | **11%** | **5x** |  **25%** [Squelette](/fr/Items/unt_208/),  **25%** [Trépassé](/fr/Items/unt_209/),  **25%** [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/),  **25%** [Pierre d'âme de Zombie](/fr/Items/unt_298/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pack Nécropole (édition limitée)](/fr/Items/con_2102/)
+  **Drop by 10x spin: X** [Pack Nécropole (édition limitée)](/fr/Items/con_2138/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/), [Pierre d'âme de Zombie](/fr/Items/unt_298/), [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/), [Pierre d'âme de Dragon fantôme](/fr/Items/unt_303/) | [Squelette](/fr/Items/unt_208/), [Trépassé](/fr/Items/unt_209/), [Revenante](/fr/Items/unt_210/), [Vampire](/fr/Items/unt_211/), [Dragon squelette](/fr/Items/unt_214/) |
+  | [Pierre d'âme de Guerrier squelette](/fr/Items/unt_297/), [Pierre d'âme de Zombie](/fr/Items/unt_298/), [Pierre d'âme de Spectre](/fr/Items/unt_299/), [Pierre d'âme de Seigneur Vampire](/fr/Items/unt_300/), [Pierre d'âme de Dragon fantôme](/fr/Items/unt_303/), [Pierre d'âme de Chevalier de l'Effroi](/fr/Items/unt_302/) | [Squelette](/fr/Items/unt_208/), [Trépassé](/fr/Items/unt_209/), [Revenante](/fr/Items/unt_210/), [Vampire](/fr/Items/unt_211/), [Dragon squelette](/fr/Items/unt_214/), [Chevalier noir](/fr/Items/unt_213/) |
 
 
 

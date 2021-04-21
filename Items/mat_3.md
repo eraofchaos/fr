@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre de qualité inférieure"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Soufre de qualité inférieure"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "mat_3.md"
 toc: false

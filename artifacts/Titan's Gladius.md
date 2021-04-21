@@ -2,7 +2,7 @@
 title: "Artefact - Tonnerre des Titans - Glaive des Titans"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Era of Chaos  Tonnerre des Titans - Glaive des Titans. Une épée maniée par un Géant d'autrefois. Composant du Tonnerre des Titans."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Titan's Gladius.md"
 toc: false

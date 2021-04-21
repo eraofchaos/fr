@@ -2,7 +2,7 @@
 title: "Avatar - Fête semi-annuelle"
 permalink: /Avatars/Semi-annual Celebration/
 excerpt: "Era of Chaos  Fête semi-annuelle"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Semi-annual Celebration.md"
 toc: false

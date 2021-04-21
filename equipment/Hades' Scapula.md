@@ -2,7 +2,7 @@
 title: "Scapula de l'Hadès"
 permalink: /equipment/Hades' Scapula/
 excerpt: "Era of Chaos Scapula de l'Hadès. Scapula de l'Hadès"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Hades' Scapula.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Servante des Abîmes"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage."
 unitID: 505
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Servante des Abîmes"
 toc: true

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-4 L'avant-garde de l'occupation"
 permalink: /Main Story/Chapter 11_4/
 excerpt: "Chapitre 11 - 4. Era of Chaos  Histoire principale - Chapitre 11_4. 11-4 L'avant-garde de l'occupation"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 11_4.md"
 toc: false

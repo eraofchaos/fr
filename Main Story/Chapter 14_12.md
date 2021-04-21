@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-12 Mystère résolu"
 permalink: /Main Story/Chapter 14_12/
 excerpt: "Chapitre 14 - 12. Era of Chaos  Histoire principale - Chapitre 14_12. 14-12 Mystère résolu"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: fr
 ref: "Chapter 14_12.md"
 toc: false

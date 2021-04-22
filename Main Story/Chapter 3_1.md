@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-1 Le tombeau du guerrier"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "Chapitre 3 - 1. Era of Chaos  Histoire principale - Chapitre 3_1. 3-1 Le tombeau du guerrier"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 3_1.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Gemmes ordinaires](/fr/Items/mat_10/){: .btn .btn--era2}
+ **Drop 1:** **100% 1x** [Gemmes ordinaires](/ItemsFR/mat_10/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Cristal de qualité inférieure](/fr/Items/mat_5/){: .btn .btn--era1}, **60% 1x** [Cristal de qualité inférieure](/fr/Items/mat_5/){: .btn .btn--era1}, **20% 2x** [Cristal de qualité inférieure](/fr/Items/mat_5/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Cristal de qualité inférieure](/ItemsFR/mat_5/){: .btn .btn--era1}, **60% 1x** [Cristal de qualité inférieure](/ItemsFR/mat_5/){: .btn .btn--era1}, **20% 2x** [Cristal de qualité inférieure](/ItemsFR/mat_5/){: .btn .btn--era1}
 
 
 ## Fight against Team

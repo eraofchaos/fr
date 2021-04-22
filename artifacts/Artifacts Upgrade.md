@@ -2,16 +2,16 @@
 title: "Artefact Upgrade Costs"
 permalink: /artifacts/Artifacts Upgrade/
 excerpt: "Era of Chaos  Artifacts upgrade cost. Récupérez des artefacts pour améliorer les caractéristiques de vos Héros et déverrouiller de puissantes compétences."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Artifacts Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Pierre artificielle](/fr/Items/art_188/)
+  First upgrade ingredient:[Pierre artificielle](/ItemsFR/art_188/)
 
-  Second upgrade ingredient:[Cristal de sort](/fr/Items/art_189/)
+  Second upgrade ingredient:[Cristal de sort](/ItemsFR/art_189/)
 
   |  Level  | [Green Artifacts](/fr/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Artifacts](/fr/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Artifacts](/fr/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Artifacts](/fr/artifacts/Orange Artifacts/){: .btn .btn--era5} |
   |:--------|:-------|:-------|:-------|:-------|

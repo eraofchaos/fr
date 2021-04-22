@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 10 - 10-1 Attente dans l'obscurité"
 permalink: /Underground/Chapter 10_1/
 excerpt: "Chapitre 10 - 1. Era of Chaos  Souterrain - Chapitre 10_1. 10-1 Attente dans l'obscurité"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 10_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Diablotin](/fr/Items/unt_226/){: .btn .btn--era3}, **67% 1x** [Diablotin](/fr/Items/unt_226/){: .btn .btn--era3}
+ **Drop 1:** **33% 0x** [Diablotin](/ItemsFR/unt_226/){: .btn .btn--era3}, **67% 1x** [Diablotin](/ItemsFR/unt_226/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Répertoire des essences +1](/fr/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Répertoire des essences +1](/ItemsFR/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

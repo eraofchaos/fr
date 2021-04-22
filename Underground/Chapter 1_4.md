@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 1 - 1-4 Course contre la mort"
 permalink: /Underground/Chapter 1_4/
 excerpt: "Chapitre 1 - 4. Era of Chaos  Souterrain - Chapitre 1_4. 1-4 Course contre la mort"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 1_4.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **80% 1x** [Bois ordinaire](/fr/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Bois ordinaire](/fr/Items/mat_7/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Bois ordinaire](/ItemsFR/mat_7/){: .btn .btn--era2}, **20% 2x** [Bois ordinaire](/ItemsFR/mat_7/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Mercure de qualité inférieure](/fr/Items/mat_2/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Mercure de qualité inférieure](/ItemsFR/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

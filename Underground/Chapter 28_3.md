@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 28 - 28-3  Aspirations célestes"
 permalink: /Underground/Chapter 28_3/
 excerpt: "Chapitre 28 - 3. Era of Chaos  Souterrain - Chapitre 28_3. 28-3  Aspirations célestes"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 28_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Harpie](/fr/Items/unt_245/){: .btn .btn--era4}, **67% 1x** [Harpie](/fr/Items/unt_245/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Harpie](/ItemsFR/unt_245/){: .btn .btn--era4}, **67% 1x** [Harpie](/ItemsFR/unt_245/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

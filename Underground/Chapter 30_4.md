@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 30 - 30-4  Nul ne passera"
 permalink: /Underground/Chapter 30_4/
 excerpt: "Chapitre 30 - 4. Era of Chaos  Souterrain - Chapitre 30_4. 30-4  Nul ne passera"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 30_4.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Carapace](/fr/Items/her_452/){: .btn .btn--era3}, **50% 1x** [Carapace](/fr/Items/her_452/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Carapace](/ItemsFR/her_452/){: .btn .btn--era3}, **50% 1x** [Carapace](/ItemsFR/her_452/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

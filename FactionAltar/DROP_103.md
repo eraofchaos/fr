@@ -2,7 +2,7 @@
 title: "Faction Altar for Bastion"
 permalink: /FactionAltar/DROP_103/
 excerpt: "Era of Chaos  Faction Altar for Bastion. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "DROP_103.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pack Bastion (édition limitée)](/fr/Items/con_2140/)
+  **Drop by Luck (10x spin): 30x** [Pack Bastion (édition limitée)](/ItemsFR/con_2140/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pack Bastion (édition limitée)](/fr/Items/con_2140/) |
-  | 2 | **12%** | **2x** | [Pack Bastion (édition limitée)](/fr/Items/con_2140/) |
-  | 3 | **12%** | **3x** | [Pack Bastion (édition limitée)](/fr/Items/con_2140/) |
-  | 4 | **12%** | **5x** |  **22%** [Ogre](/fr/Items/unt_220/),  **22%** [Orque](/fr/Items/unt_219/),  **6%** [Rock](/fr/Items/unt_221/),  **22%** [Cyclope](/fr/Items/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/fr/Items/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/fr/Items/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/fr/Items/unt_310/),  |
-  | 5 | **12%** | **3x** |  **22%** [Ogre](/fr/Items/unt_220/),  **22%** [Orque](/fr/Items/unt_219/),  **6%** [Rock](/fr/Items/unt_221/),  **22%** [Cyclope](/fr/Items/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/fr/Items/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/fr/Items/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/fr/Items/unt_310/),  |
-  | 6 | **12%** | **5x** |  **25%** [Gobelin](/fr/Items/unt_217/),  **25%** [Chevaucheur de loup](/fr/Items/unt_218/),  **25%** [Pierre d'âme de Hobgobelin](/fr/Items/unt_305/),  **25%** [Pierre d'âme de Pillard](/fr/Items/unt_306/),  |
+  | 1 | **25%** | **1x** | [Pack Bastion (édition limitée)](/ItemsFR/con_2140/) |
+  | 2 | **12%** | **2x** | [Pack Bastion (édition limitée)](/ItemsFR/con_2140/) |
+  | 3 | **12%** | **3x** | [Pack Bastion (édition limitée)](/ItemsFR/con_2140/) |
+  | 4 | **12%** | **5x** |  **22%** [Ogre](/ItemsFR/unt_220/),  **22%** [Orque](/ItemsFR/unt_219/),  **6%** [Rock](/ItemsFR/unt_221/),  **22%** [Cyclope](/ItemsFR/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/ItemsFR/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/ItemsFR/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/ItemsFR/unt_310/),  |
+  | 5 | **12%** | **3x** |  **22%** [Ogre](/ItemsFR/unt_220/),  **22%** [Orque](/ItemsFR/unt_219/),  **6%** [Rock](/ItemsFR/unt_221/),  **22%** [Cyclope](/ItemsFR/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/ItemsFR/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/ItemsFR/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/ItemsFR/unt_310/),  |
+  | 6 | **12%** | **5x** |  **25%** [Gobelin](/ItemsFR/unt_217/),  **25%** [Chevaucheur de loup](/ItemsFR/unt_218/),  **25%** [Pierre d'âme de Hobgobelin](/ItemsFR/unt_305/),  **25%** [Pierre d'âme de Pillard](/ItemsFR/unt_306/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pack Bastion (édition limitée)](/fr/Items/con_2140/) |
-  | 2 | **11%** | **5x** |  **22%** [Ogre](/fr/Items/unt_220/),  **22%** [Orque](/fr/Items/unt_219/),  **6%** [Rock](/fr/Items/unt_221/),  **22%** [Cyclope](/fr/Items/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/fr/Items/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/fr/Items/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/fr/Items/unt_310/),  |
-  | 3 | **11%** | **3x** |  **22%** [Ogre](/fr/Items/unt_220/),  **22%** [Orque](/fr/Items/unt_219/),  **6%** [Rock](/fr/Items/unt_221/),  **22%** [Cyclope](/fr/Items/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/fr/Items/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/fr/Items/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/fr/Items/unt_310/),  |
-  | 4 | **11%** | **5x** |  **25%** [Gobelin](/fr/Items/unt_217/),  **25%** [Chevaucheur de loup](/fr/Items/unt_218/),  **25%** [Pierre d'âme de Hobgobelin](/fr/Items/unt_305/),  **25%** [Pierre d'âme de Pillard](/fr/Items/unt_306/),  |
+  | 1 | **55%** | **1x** | [Pack Bastion (édition limitée)](/ItemsFR/con_2140/) |
+  | 2 | **11%** | **5x** |  **22%** [Ogre](/ItemsFR/unt_220/),  **22%** [Orque](/ItemsFR/unt_219/),  **6%** [Rock](/ItemsFR/unt_221/),  **22%** [Cyclope](/ItemsFR/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/ItemsFR/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/ItemsFR/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/ItemsFR/unt_310/),  |
+  | 3 | **11%** | **3x** |  **22%** [Ogre](/ItemsFR/unt_220/),  **22%** [Orque](/ItemsFR/unt_219/),  **6%** [Rock](/ItemsFR/unt_221/),  **22%** [Cyclope](/ItemsFR/unt_222/),  **6%** [Pierre d'âme d'Ogre Mage](/ItemsFR/unt_308/),  **6%** [Pierre d'âme de Rock foudroyant](/ItemsFR/unt_309/),  **13%** [Pierre d'âme de Roi Cyclope](/ItemsFR/unt_310/),  |
+  | 4 | **11%** | **5x** |  **25%** [Gobelin](/ItemsFR/unt_217/),  **25%** [Chevaucheur de loup](/ItemsFR/unt_218/),  **25%** [Pierre d'âme de Hobgobelin](/ItemsFR/unt_305/),  **25%** [Pierre d'âme de Pillard](/ItemsFR/unt_306/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pack Bastion (édition limitée)](/fr/Items/con_2140/)
+  **Drop by 10x spin: X** [Pack Bastion (édition limitée)](/ItemsFR/con_2140/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pierre d'âme de Hobgobelin](/fr/Items/unt_305/), [Pierre d'âme de Pillard](/fr/Items/unt_306/), [Pierre d'âme de Commandant Orque](/fr/Items/unt_307/), [Pierre d'âme d'Ogre Mage](/fr/Items/unt_308/), [Pierre d'âme de Rock foudroyant](/fr/Items/unt_309/), [Pierre d'âme de Roi Cyclope](/fr/Items/unt_310/), [Pierre d'âme de Béhémoth royal](/fr/Items/unt_311/), [Pierre d'âme de Hurleur macabre](/fr/Items/unt_312/) | [Gobelin](/fr/Items/unt_217/), [Chevaucheur de loup](/fr/Items/unt_218/), [Orque](/fr/Items/unt_219/), [Ogre](/fr/Items/unt_220/), [Rock](/fr/Items/unt_221/), [Cyclope](/fr/Items/unt_222/), [Béhémoth](/fr/Items/unt_223/), [Berserker](/fr/Items/unt_224/) |
+  | [Pierre d'âme de Hobgobelin](/ItemsFR/unt_305/), [Pierre d'âme de Pillard](/ItemsFR/unt_306/), [Pierre d'âme de Commandant Orque](/ItemsFR/unt_307/), [Pierre d'âme d'Ogre Mage](/ItemsFR/unt_308/), [Pierre d'âme de Rock foudroyant](/ItemsFR/unt_309/), [Pierre d'âme de Roi Cyclope](/ItemsFR/unt_310/), [Pierre d'âme de Béhémoth royal](/ItemsFR/unt_311/), [Pierre d'âme de Hurleur macabre](/ItemsFR/unt_312/) | [Gobelin](/ItemsFR/unt_217/), [Chevaucheur de loup](/ItemsFR/unt_218/), [Orque](/ItemsFR/unt_219/), [Ogre](/ItemsFR/unt_220/), [Rock](/ItemsFR/unt_221/), [Cyclope](/ItemsFR/unt_222/), [Béhémoth](/ItemsFR/unt_223/), [Berserker](/ItemsFR/unt_224/) |
 
 
 

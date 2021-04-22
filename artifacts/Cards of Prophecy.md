@@ -2,7 +2,7 @@
 title: "Artefact - Fer à cheval porte-bonheur - Cartes du destin"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Era of Chaos  Fer à cheval porte-bonheur - Cartes du destin. Une carte de divination empreinte d'une puissante magie. Composant du Fer à cheval porte-bonheur."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Cards of Prophecy.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Fer à cheval porte-bonheur](/fr/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 1x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Cartes du destin](/fr/Items/art_110/)
+ **Related Item**: [Cartes du destin](/ItemsFR/art_110/)
 
  **Quality:** [Green Artifact Components](/fr/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

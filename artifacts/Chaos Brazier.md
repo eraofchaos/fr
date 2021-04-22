@@ -2,7 +2,7 @@
 title: "Artefact - Miroir vengeur - Brasier du chaos"
 permalink: /artifacts/Chaos Brazier/
 excerpt: "Era of Chaos  Miroir vengeur - Brasier du chaos. Un objet pouvant contenir une puissante magie de feu. Composant du Miroir vengeur."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chaos Brazier.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Miroir vengeur](/fr/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Brasier du chaos](/fr/Items/art_140/)
+ **Related Item**: [Brasier du chaos](/ItemsFR/art_140/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

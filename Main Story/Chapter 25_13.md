@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-13 Légendes de Nighon"
 permalink: /Main Story/Chapter 25_13/
 excerpt: "Chapitre 25 - 13. Era of Chaos  Histoire principale - Chapitre 25_13. 25-13 Légendes de Nighon"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 25_13.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Soufre d'âme +3](/fr/Items/mat_85/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Soufre d'âme +3](/ItemsFR/mat_85/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerai mystérieux +2](/fr/Items/mat_75/){: .btn .btn--era5}, **40% 1x** [Minerai mystérieux +2](/fr/Items/mat_75/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Minerai mystérieux +2](/ItemsFR/mat_75/){: .btn .btn--era5}, **40% 1x** [Minerai mystérieux +2](/ItemsFR/mat_75/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

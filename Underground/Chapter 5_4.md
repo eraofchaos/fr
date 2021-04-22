@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 5 - 5-4 La Guerre de Restauration"
 permalink: /Underground/Chapter 5_4/
 excerpt: "Chapitre 5 - 4. Era of Chaos  Souterrain - Chapitre 5_4. 5-4 La Guerre de Restauration"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 5_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Répertoire des armes +1](/fr/Items/mat_25/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Répertoire des armes +1](/ItemsFR/mat_25/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Répertoire des armes](/fr/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Répertoire des armes](/fr/Items/mat_18/){: .btn .btn--era3}
+ **Drop 4:** **30% 0x** [Répertoire des armes](/ItemsFR/mat_18/){: .btn .btn--era3}, **70% 1x** [Répertoire des armes](/ItemsFR/mat_18/){: .btn .btn--era3}
 
 
 ## Fight against Team

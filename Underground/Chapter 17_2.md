@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 17 - 17-2 Souvenir du Mage"
 permalink: /Underground/Chapter 17_2/
 excerpt: "Chapitre 17 - 2. Era of Chaos  Souterrain - Chapitre 17_2. 17-2 Souvenir du Mage"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 17_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificat de légende](/fr/Items/mat_67/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificat de légende](/ItemsFR/mat_67/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Répertoire des essences +3](/fr/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences +3](/fr/Items/mat_60/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Répertoire des essences +3](/ItemsFR/mat_60/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences +3](/ItemsFR/mat_60/){: .btn .btn--era4}
 
 
 ## Fight against Team

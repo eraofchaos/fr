@@ -2,7 +2,7 @@
 title: "Artefact - Armure du Damné - Épée flamboyante"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "Era of Chaos  Armure du Damné - Épée flamboyante. Une épée qui renferme une puissance ténébreuse. Composant de l'Armure du Damné."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Sword of Hellfire.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Épée flamboyante](/fr/Items/art_121/)
+ **Related Item**: [Épée flamboyante](/ItemsFR/art_121/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre - Bâton d'Ogre"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "Era of Chaos  Épée de givre - Bâton d'Ogre. Un bâton vénéré par les Ogres. Composant de l'Épée de givre."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Ogre's Staff.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Épée de givre](/fr/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Bâton d'Ogre](/fr/Items/art_163/)
+ **Related Item**: [Bâton d'Ogre](/ItemsFR/art_163/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

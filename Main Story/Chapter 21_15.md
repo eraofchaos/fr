@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-15 Uraque"
 permalink: /Main Story/Chapter 21_15/
 excerpt: "Chapitre 21 - 15. Era of Chaos  Histoire principale - Chapitre 21_15. 21-15 Uraque"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 21_15.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal éternel +1](/fr/Items/mat_73/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Cristal éternel +1](/ItemsFR/mat_73/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Gemmes mythiques](/fr/Items/mat_65/){: .btn .btn--era5}, **40% 1x** [Gemmes mythiques](/fr/Items/mat_65/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Gemmes mythiques](/ItemsFR/mat_65/){: .btn .btn--era5}, **40% 1x** [Gemmes mythiques](/ItemsFR/mat_65/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

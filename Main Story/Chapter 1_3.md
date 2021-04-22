@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 1 - 1-3 La fontaine de Jouvence"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Chapitre 1 - 3. Era of Chaos  Histoire principale - Chapitre 1_3. 1-3 La fontaine de Jouvence"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Mercure de qualité inférieure](/fr/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercure de qualité inférieure](/fr/Items/mat_2/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Mercure de qualité inférieure](/ItemsFR/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercure de qualité inférieure](/ItemsFR/mat_2/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Bois de qualité inférieure](/fr/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Bois de qualité inférieure](/fr/Items/mat_1/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Bois de qualité inférieure](/ItemsFR/mat_1/){: .btn .btn--era1}, **20% 2x** [Bois de qualité inférieure](/ItemsFR/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

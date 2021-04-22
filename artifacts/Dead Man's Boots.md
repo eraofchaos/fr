@@ -2,7 +2,7 @@
 title: "Artefact - Manteau du roi des Non-Morts - Bottes du passeur"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "Era of Chaos  Manteau du roi des Non-Morts - Bottes du passeur. Des bottes qui rendent leur porteur rapide comme le vent. Composant du Manteau du roi des Non-Morts."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Dead Man's Boots.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Bottes du passeur](/fr/Items/art_131/)
+ **Related Item**: [Bottes du passeur](/ItemsFR/art_131/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Armure miraculeuse"
 permalink: /artifacts/Armor of Wonders/
 excerpt: "Era of Chaos  Alliance angélique - Armure miraculeuse. Une armure qui a été témoin de l'apogée de l'Empire. Composant de l'Alliance angélique."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Armor of Wonders.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Armure miraculeuse](/fr/Items/art_153/)
+ **Related Item**: [Armure miraculeuse](/ItemsFR/art_153/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

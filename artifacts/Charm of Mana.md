@@ -2,7 +2,7 @@
 title: "Artefact - Puits de magie - Amulette de mana"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Era of Chaos  Puits de magie - Amulette de mana. Un charme qui renforce la magie. Composant du Puits de magie."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Charm of Mana.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Puits de magie](/fr/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Amulette de mana](/fr/Items/art_112/)
+ **Related Item**: [Amulette de mana](/ItemsFR/art_112/)
 
  **Quality:** [Blue Artifact Components](/fr/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

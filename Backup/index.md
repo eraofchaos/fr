@@ -2,7 +2,7 @@
 title: "Renforts"
 permalink: /Backup/
 excerpt: "Era of Chaos  Renforts - Les Mages peuvent créer un portail sur le champ de bataille qui fait apparaître 3 unités de renfort et génère une forte aura de sort. Vos ennemis seront terrifiés."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "index.md"
 toc: false
@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Capacité de champ de bataille | Compétence globale | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Parchemin d'énergie](/fr/Items/con_830/) | **5x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 2 | **2x** [Parchemin d'énergie](/fr/Items/con_830/) | **10x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 3 | **3x** [Parchemin d'énergie](/fr/Items/con_830/) | **15x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 4 | **4x** [Parchemin d'énergie](/fr/Items/con_830/) | **20x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 5 | **5x** [Parchemin d'énergie](/fr/Items/con_830/) | **25x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 6 | **9x** [Parchemin d'énergie](/fr/Items/con_830/) | **45x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 7 | **12x** [Parchemin d'énergie](/fr/Items/con_830/) | **60x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 8 | **20x** [Parchemin d'énergie](/fr/Items/con_830/) | **100x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 9 | **30x** [Parchemin d'énergie](/fr/Items/con_830/) | **150x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 10 | **40x** [Parchemin d'énergie](/fr/Items/con_830/) | **200x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 11 | **50x** [Parchemin d'énergie](/fr/Items/con_830/) | **250x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 12 | **60x** [Parchemin d'énergie](/fr/Items/con_830/) | **300x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 13 | **100x** [Parchemin d'énergie](/fr/Items/con_830/) | **500x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 14 | **160x** [Parchemin d'énergie](/fr/Items/con_830/) | **800x** [Parchemin d'énergie](/fr/Items/con_830/) | 
-  | 15 | **200x** [Parchemin d'énergie](/fr/Items/con_830/) | **1000x** [Parchemin d'énergie](/fr/Items/con_830/) | 
+  | 1 | **1x** [Parchemin d'énergie](/ItemsFR/con_830/) | **5x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 2 | **2x** [Parchemin d'énergie](/ItemsFR/con_830/) | **10x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 3 | **3x** [Parchemin d'énergie](/ItemsFR/con_830/) | **15x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 4 | **4x** [Parchemin d'énergie](/ItemsFR/con_830/) | **20x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 5 | **5x** [Parchemin d'énergie](/ItemsFR/con_830/) | **25x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 6 | **9x** [Parchemin d'énergie](/ItemsFR/con_830/) | **45x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 7 | **12x** [Parchemin d'énergie](/ItemsFR/con_830/) | **60x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 8 | **20x** [Parchemin d'énergie](/ItemsFR/con_830/) | **100x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 9 | **30x** [Parchemin d'énergie](/ItemsFR/con_830/) | **150x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 10 | **40x** [Parchemin d'énergie](/ItemsFR/con_830/) | **200x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 11 | **50x** [Parchemin d'énergie](/ItemsFR/con_830/) | **250x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 12 | **60x** [Parchemin d'énergie](/ItemsFR/con_830/) | **300x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 13 | **100x** [Parchemin d'énergie](/ItemsFR/con_830/) | **500x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 14 | **160x** [Parchemin d'énergie](/ItemsFR/con_830/) | **800x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
+  | 15 | **200x** [Parchemin d'énergie](/ItemsFR/con_830/) | **1000x** [Parchemin d'énergie](/ItemsFR/con_830/) | 
 
 
 ## Règles

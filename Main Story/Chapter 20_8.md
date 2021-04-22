@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-8 Guilde des mages"
 permalink: /Main Story/Chapter 20_8/
 excerpt: "Chapitre 20 - 8. Era of Chaos  Histoire principale - Chapitre 20_8. 20-8 Guilde des mages"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 20_8.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Bois éternel +1](/fr/Items/mat_69/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Bois éternel +1](/ItemsFR/mat_69/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Mercure mythique](/fr/Items/mat_63/){: .btn .btn--era5}, **40% 1x** [Mercure mythique](/fr/Items/mat_63/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Mercure mythique](/ItemsFR/mat_63/){: .btn .btn--era5}, **40% 1x** [Mercure mythique](/ItemsFR/mat_63/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

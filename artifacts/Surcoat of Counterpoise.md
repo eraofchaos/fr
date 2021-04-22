@@ -2,7 +2,7 @@
 title: "Artefact - Pierre runique antimagie - Cape d'harmonie"
 permalink: /artifacts/Surcoat of Counterpoise/
 excerpt: "Era of Chaos  Pierre runique antimagie - Cape d'harmonie. Une cape ornée du symbole du yin et du yang. Composant de la Pierre runique antimagie."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Surcoat of Counterpoise.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pierre runique antimagie](/fr/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Cape d'harmonie](/fr/Items/art_119/)
+ **Related Item**: [Cape d'harmonie](/ItemsFR/art_119/)
 
  **Quality:** [Blue Artifact Components](/fr/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

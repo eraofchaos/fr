@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre - Hache du Minotaure"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "Era of Chaos  Épée de givre - Hache du Minotaure. Une hache que les Taurens se transmettent de génération en génération. Composant de l'Épée de givre."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Minotaur's Battleaxe.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Épée de givre](/fr/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Hache du Minotaure](/fr/Items/art_161/)
+ **Related Item**: [Hache du Minotaure](/ItemsFR/art_161/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

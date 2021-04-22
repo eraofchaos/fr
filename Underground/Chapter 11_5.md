@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 11 - 11-5 Combat contre les Non-Morts"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Chapitre 11 - 5. Era of Chaos  Souterrain - Chapitre 11_5. 11-5 Combat contre les Non-Morts"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 11_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Elfe sylvaine](/fr/Items/unt_201/){: .btn .btn--era4}, **67% 1x** [Elfe sylvaine](/fr/Items/unt_201/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Elfe sylvaine](/ItemsFR/unt_201/){: .btn .btn--era4}, **67% 1x** [Elfe sylvaine](/ItemsFR/unt_201/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Répertoire des essences +1](/fr/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Répertoire des essences +1](/ItemsFR/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

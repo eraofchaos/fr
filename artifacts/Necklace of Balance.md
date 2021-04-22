@@ -2,7 +2,7 @@
 title: "Artefact - Miroir vengeur - Collier d'équilibre"
 permalink: /artifacts/Necklace of Balance/
 excerpt: "Era of Chaos  Miroir vengeur - Collier d'équilibre. Un objet permettant de contrôler et de réguler la magie pendant la fusion de pouvoirs magiques. Composant du Miroir vengeur."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Necklace of Balance.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Miroir vengeur](/fr/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Collier d'équilibre](/fr/Items/art_142/)
+ **Related Item**: [Collier d'équilibre](/ItemsFR/art_142/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

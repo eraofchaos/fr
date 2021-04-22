@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-4 Le vieil homme empoisonné"
 permalink: /Main Story/Chapter 23_4/
 excerpt: "Chapitre 23 - 4. Era of Chaos  Histoire principale - Chapitre 23_4. 23-4 Le vieil homme empoisonné"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 23_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Soufre mystérieux +2](/fr/Items/mat_78/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Soufre mystérieux +2](/ItemsFR/mat_78/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerai éternel +1](/fr/Items/mat_68/){: .btn .btn--era5}, **40% 1x** [Minerai éternel +1](/fr/Items/mat_68/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Minerai éternel +1](/ItemsFR/mat_68/){: .btn .btn--era5}, **40% 1x** [Minerai éternel +1](/ItemsFR/mat_68/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

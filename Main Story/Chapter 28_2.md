@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-2 La puissance de la forêt"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Chapitre 28 - 2. Era of Chaos  Histoire principale - Chapitre 28_2. 28-2 La puissance de la forêt"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 28_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Bois flamboyant +5](/fr/Items/mat_97/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Bois flamboyant +5](/ItemsFR/mat_97/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Mercure stellaire +4](/fr/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Mercure stellaire +4](/fr/Items/mat_91/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Mercure stellaire +4](/ItemsFR/mat_91/){: .btn .btn--era5}, **40% 1x** [Mercure stellaire +4](/ItemsFR/mat_91/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

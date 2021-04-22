@@ -2,7 +2,7 @@
 title: "Artefact - Élixir de vie - Anneau de vie"
 permalink: /artifacts/Ring of Life/
 excerpt: "Era of Chaos  Élixir de vie - Anneau de vie. Un anneau qui donne une grande vitalité à son porteur. Composant de l'Élixir de vie."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Ring of Life.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Élixir de vie](/fr/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 1x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Anneau de vie](/fr/Items/art_107/)
+ **Related Item**: [Anneau de vie](/ItemsFR/art_107/)
 
  **Quality:** [Green Artifact Components](/fr/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

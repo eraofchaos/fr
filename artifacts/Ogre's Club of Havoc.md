@@ -2,7 +2,7 @@
 title: "Artefact - Hache de férocité - Gourdin massacreur"
 permalink: /artifacts/Ogre's Club of Havoc/
 excerpt: "Era of Chaos  Hache de férocité - Gourdin massacreur. Un gourdin volé à un capitaine Ogre dans une taverne de voyageurs. Composant de la Hache de férocité."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Ogre's Club of Havoc.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Hache de férocité](/fr/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Gourdin massacreur](/fr/Items/art_125/)
+ **Related Item**: [Gourdin massacreur](/ItemsFR/art_125/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

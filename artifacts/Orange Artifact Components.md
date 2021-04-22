@@ -2,7 +2,7 @@
 title: "Orange Artifact Components"
 permalink: /artifacts/Orange Artifact Components/
 excerpt: "Era of Chaos  List of all Orange Artifact Components . Récupérez des artefacts pour améliorer les caractéristiques de vos Héros et déverrouiller de puissantes compétences."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Orange Artifact Components.md"
 toc: false

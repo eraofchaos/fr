@@ -2,7 +2,7 @@
 title: "Backup - Bénédiction de Luna"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Era of Chaos  Bénédiction de Luna"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Blessing of Luna.md"
 toc: false
@@ -56,47 +56,47 @@ classes: wide
 
  **Capacité de champ de bataille Power:** 1060
 
- **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/fr/Items/con_830/)
+ **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/ItemsFR/con_830/)
 
   |  Level  | Level up | Description | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">3 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 2 | **2x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">4 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 3 | **3x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">5 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 4 | **4x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">6 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 5 | **5x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">7 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 6 | **9x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">8 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 7 | **12x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">9 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 8 | **20x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">10 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 9 | **30x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">11 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 10 | **40x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">12 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 11 | **50x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">13 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 12 | **60x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">14 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 13 | **100x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">15 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 14 | **160x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">16 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
-  | 15 | **200x** [Parchemin d'énergie](/fr/Items/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">17 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 1 | **1x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">3 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 2 | **2x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">4 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 3 | **3x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">5 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 4 | **4x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">6 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 5 | **5x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">7 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 6 | **9x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">8 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 7 | **12x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">9 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 8 | **20x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">10 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 9 | **30x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">11 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 10 | **40x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">12 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 11 | **50x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">13 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 12 | **60x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">14 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 13 | **100x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">15 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 14 | **160x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">16 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
+  | 15 | **200x** [Parchemin d'énergie](/ItemsFR/con_830/) | La résistance aux dégâts de toutes les unités alliées est augmentée de <span style="color: #1ca216;font-size:16px">17 %</span><span style="color: black"> si la formation est déployée pendant la bataille | 
 
 
 ## Compétence globale - **Puissance énergétique** 
 
  **Compétence globale Power:** 1076
 
- **Compétence globale Unlock:** 10x [Parchemin d'énergie](/fr/Items/con_830/)
+ **Compétence globale Unlock:** 10x [Parchemin d'énergie](/ItemsFR/con_830/)
 
   |  Level  | Level up | Description | 
   |:-----|:----|:----------| 
-  | 1 | **5x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">2</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">2 %</span><span style="color: black"> | 
-  | 2 | **10x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">4</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">4 %</span><span style="color: black"> | 
-  | 3 | **15x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">6</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">6 %</span><span style="color: black"> | 
-  | 4 | **20x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">8</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">8 %</span><span style="color: black"> | 
-  | 5 | **25x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">10</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">10 %</span><span style="color: black"> | 
-  | 6 | **45x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">12</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">12 %</span><span style="color: black"> | 
-  | 7 | **60x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">14</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">14 %</span><span style="color: black"> | 
-  | 8 | **100x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">16</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">16 %</span><span style="color: black"> | 
-  | 9 | **150x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">18</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">18 %</span><span style="color: black"> | 
-  | 10 | **200x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">20</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">20 %</span><span style="color: black"> | 
-  | 11 | **250x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">22</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">22 %</span><span style="color: black"> | 
-  | 12 | **300x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">24</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">24 %</span><span style="color: black"> | 
-  | 13 | **500x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">26</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">26 %</span><span style="color: black"> | 
-  | 14 | **800x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">28</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">28 %</span><span style="color: black"> | 
-  | 15 | **1000x** [Parchemin d'énergie](/fr/Items/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">30</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">30 %</span><span style="color: black"> | 
+  | 1 | **5x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">2</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">2 %</span><span style="color: black"> | 
+  | 2 | **10x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">4</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">4 %</span><span style="color: black"> | 
+  | 3 | **15x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">6</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">6 %</span><span style="color: black"> | 
+  | 4 | **20x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">8</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">8 %</span><span style="color: black"> | 
+  | 5 | **25x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">10</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">10 %</span><span style="color: black"> | 
+  | 6 | **45x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">12</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">12 %</span><span style="color: black"> | 
+  | 7 | **60x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">14</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">14 %</span><span style="color: black"> | 
+  | 8 | **100x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">16</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">16 %</span><span style="color: black"> | 
+  | 9 | **150x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">18</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">18 %</span><span style="color: black"> | 
+  | 10 | **200x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">20</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">20 %</span><span style="color: black"> | 
+  | 11 | **250x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">22</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">22 %</span><span style="color: black"> | 
+  | 12 | **300x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">24</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">24 %</span><span style="color: black"> | 
+  | 13 | **500x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">26</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">26 %</span><span style="color: black"> | 
+  | 14 | **800x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">28</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">28 %</span><span style="color: black"> | 
+  | 15 | **1000x** [Parchemin d'énergie](/ItemsFR/con_830/) | Augmente la DÉF des Héros de <span style="color: #1ca216;font-size:16px">30</span><span style="color: black"> et les dégâts des sorts de terre de <span style="color: #1ca216;font-size:16px">30 %</span><span style="color: black"> | 

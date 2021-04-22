@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 - 2-5 Trouver des alliés"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Chapitre 2 - 5. Era of Chaos  Souterrain - Chapitre 2_5. 2-5 Trouver des alliés"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 2_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Spadassin](/fr/Items/unt_193/){: .btn .btn--era4}, **33% 1x** [Spadassin](/fr/Items/unt_193/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Spadassin](/ItemsFR/unt_193/){: .btn .btn--era4}, **33% 1x** [Spadassin](/ItemsFR/unt_193/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Répertoire des armes](/fr/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Répertoire des armes](/ItemsFR/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Cristal ordinaire](/fr/Items/mat_11/){: .btn .btn--era2}, **70% 1x** [Cristal ordinaire](/fr/Items/mat_11/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Cristal ordinaire](/ItemsFR/mat_11/){: .btn .btn--era2}, **70% 1x** [Cristal ordinaire](/ItemsFR/mat_11/){: .btn .btn--era2}
 
 
 ## Fight against Team

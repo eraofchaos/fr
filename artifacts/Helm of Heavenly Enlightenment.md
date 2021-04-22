@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Heaume de l'illumination"
 permalink: /artifacts/Helm of Heavenly Enlightenment/
 excerpt: "Era of Chaos  Alliance angélique - Heaume de l'illumination. Une couronne bénie par les dieux. Composant de l'Alliance angélique."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Helm of Heavenly Enlightenment.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Heaume de l'illumination](/fr/Items/art_152/)
+ **Related Item**: [Heaume de l'illumination](/ItemsFR/art_152/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

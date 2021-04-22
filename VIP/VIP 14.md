@@ -2,7 +2,7 @@
 title: "VIP - VIP 14"
 permalink: /VIP/VIP 14/
 excerpt: "Era of Chaos  Système VIP. VIP 14"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "VIP 14.md"
 toc: false
@@ -30,7 +30,7 @@ classes: wide
 
 ## Détails
 
- **Reward:** **1x** [Pack premium V14](/fr/Items/con_1310/)
+ **Reward:** **1x** [Pack premium V14](/ItemsFR/con_1310/)
 
  **EXP:** 150000
 

@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre - Trident des abysses"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "Era of Chaos  Épée de givre - Trident des abysses. Une arme utilisée par Poséidon. Composant de l'Épée de givre."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Deep-Sea Trident.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Épée de givre](/fr/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Trident des abysses](/fr/Items/art_160/)
+ **Related Item**: [Trident des abysses](/ItemsFR/art_160/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

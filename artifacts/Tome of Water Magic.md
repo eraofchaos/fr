@@ -2,7 +2,7 @@
 title: "Artefact - Chapeau des sages - Traité de l'eau"
 permalink: /artifacts/Tome of Water Magic/
 excerpt: "Era of Chaos  Chapeau des sages - Traité de l'eau. Un livre de sort portant sur la pratique avancée de la magie de l'eau. Il vous a été remis par Adelaïde. Composant du Chapeau des sages."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Tome of Water Magic.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Chapeau des sages](/fr/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Traité de l'eau](/fr/Items/art_179/)
+ **Related Item**: [Traité de l'eau](/ItemsFR/art_179/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

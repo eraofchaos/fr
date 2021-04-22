@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 24 - 24-3 Puissance d'éclair"
 permalink: /Underground/Chapter 24_3/
 excerpt: "Chapitre 24 - 3. Era of Chaos  Souterrain - Chapitre 24_3. 24-3 Puissance d'éclair"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 24_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Rock](/fr/Items/unt_221/){: .btn .btn--era4}, **67% 1x** [Rock](/fr/Items/unt_221/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Rock](/ItemsFR/unt_221/){: .btn .btn--era4}, **67% 1x** [Rock](/ItemsFR/unt_221/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificat de légende +3](/fr/Items/mat_88/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificat de légende +3](/ItemsFR/mat_88/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificat de légende +2](/fr/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificat de légende +2](/fr/Items/mat_81/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificat de légende +2](/ItemsFR/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificat de légende +2](/ItemsFR/mat_81/){: .btn .btn--era5}
 
 
 ## Fight against Team

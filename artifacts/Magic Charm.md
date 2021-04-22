@@ -2,7 +2,7 @@
 title: "Artefact - Puits de magie - Charme magique"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Puits de magie - Charme magique. Un charme imprégné d'énergie magique. Composant du Puits de magie."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Magic Charm.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Puits de magie](/fr/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Charme magique](/fr/Items/art_113/)
+ **Related Item**: [Charme magique](/ItemsFR/art_113/)
 
  **Quality:** [Blue Artifact Components](/fr/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

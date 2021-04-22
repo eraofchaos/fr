@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-9 Sablier diabolique"
 permalink: /Main Story/Chapter 10_9/
 excerpt: "Chapitre 10 - 9. Era of Chaos  Histoire principale - Chapitre 10_9. 10-9 Sablier diabolique"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 10_9.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Mercure exceptionnel](/fr/Items/mat_35/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Mercure exceptionnel](/ItemsFR/mat_35/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Soufre précieux +2](/fr/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Soufre précieux +2](/fr/Items/mat_29/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Soufre précieux +2](/ItemsFR/mat_29/){: .btn .btn--era3}, **40% 1x** [Soufre précieux +2](/ItemsFR/mat_29/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

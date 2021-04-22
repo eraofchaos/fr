@@ -2,7 +2,7 @@
 title: "Artefact - Œil de faucon vivant - Guetteur"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Era of Chaos  Œil de faucon vivant - Guetteur. Une sculpture représentant un aventurier aux yeux rougeoyants. Composant de l'Œil de faucon vivant."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Stoic Watchman.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Œil de faucon vivant](/fr/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Guetteur](/fr/Items/art_133/)
+ **Related Item**: [Guetteur](/ItemsFR/art_133/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

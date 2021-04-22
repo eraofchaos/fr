@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Bouclier cœur de lion"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "Era of Chaos  Alliance angélique - Bouclier cœur de lion. Le symbole de la puissance militaire des Griffons. Composant de l'Alliance angélique."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Lion's Shield of Courage.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Bouclier cœur de lion](/fr/Items/art_151/)
+ **Related Item**: [Bouclier cœur de lion](/ItemsFR/art_151/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

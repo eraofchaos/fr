@@ -2,7 +2,7 @@
 title: "Artefact - Lame d'Armageddon - Épée de chevalier"
 permalink: /artifacts/Knight Sword/
 excerpt: "Era of Chaos  Lame d'Armageddon - Épée de chevalier. Une épée utilisée par les Héros du château. Composant de la Lame d'Armageddon."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Knight Sword.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Épée de chevalier](/fr/Items/art_166/)
+ **Related Item**: [Épée de chevalier](/ItemsFR/art_166/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

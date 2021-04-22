@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-5 Kerr, le roi barbare"
 permalink: /Main Story/Chapter 21_5/
 excerpt: "Chapitre 21 - 5. Era of Chaos  Histoire principale - Chapitre 21_5. 21-5 Kerr, le roi barbare"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 21_5.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Gemmes éternelles +1](/fr/Items/mat_72/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Gemmes éternelles +1](/ItemsFR/mat_72/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Cristal mythique](/fr/Items/mat_66/){: .btn .btn--era5}, **40% 1x** [Cristal mythique](/fr/Items/mat_66/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Cristal mythique](/ItemsFR/mat_66/){: .btn .btn--era5}, **40% 1x** [Cristal mythique](/ItemsFR/mat_66/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

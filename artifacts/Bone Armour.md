@@ -2,7 +2,7 @@
 title: "Artefact - Armure du Damné - Armure en os"
 permalink: /artifacts/Bone Armour/
 excerpt: "Era of Chaos  Armure du Damné - Armure en os. Un bouclier fait d'os extrêmement durs. Composant de l'Armure du Damné."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Bone Armour.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Armure en os](/fr/Items/art_124/)
+ **Related Item**: [Armure en os](/ItemsFR/art_124/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

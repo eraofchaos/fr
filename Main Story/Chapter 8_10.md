@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-10 La cité au fond du lac"
 permalink: /Main Story/Chapter 8_10/
 excerpt: "Chapitre 8 - 10. Era of Chaos  Histoire principale - Chapitre 8_10. 8-10 La cité au fond du lac"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 8_10.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Soufre précieux +2](/fr/Items/mat_29/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Soufre précieux +2](/ItemsFR/mat_29/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Minerai de qualité supérieure +1](/fr/Items/mat_19/){: .btn .btn--era3}, **40% 1x** [Minerai de qualité supérieure +1](/fr/Items/mat_19/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Minerai de qualité supérieure +1](/ItemsFR/mat_19/){: .btn .btn--era3}, **40% 1x** [Minerai de qualité supérieure +1](/ItemsFR/mat_19/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

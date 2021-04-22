@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche - Bouclier Dragon"
 permalink: /artifacts/Dragon Scale Shield/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche - Bouclier Dragon. Un bouclier imprégné de la magie du Roi Dragon. Composant de la Puissance du Dragon patriarche."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Dragon Scale Shield.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Puissance du Dragon patriarche](/fr/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Bouclier Dragon](/fr/Items/art_144/)
+ **Related Item**: [Bouclier Dragon](/ItemsFR/art_144/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

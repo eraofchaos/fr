@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 30 - 30-2  Festin sanglant"
 permalink: /Underground/Chapter 30_2/
 excerpt: "Chapitre 30 - 2. Era of Chaos  Souterrain - Chapitre 30_2. 30-2  Festin sanglant"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 30_2.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Résonance forestière](/fr/Items/her_465/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Résonance forestière](/ItemsFR/her_465/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificat légendaire +5](/fr/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificat légendaire +5](/ItemsFR/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

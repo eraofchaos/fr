@@ -2,7 +2,7 @@
 title: "Artefact - Chapeau des sages - Traité du feu"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "Era of Chaos  Chapeau des sages - Traité du feu. Un livre de sort portant sur la pratique avancée de la magie de feu. Luna aimait le lire pour s'endormir. Composant du Chapeau des sages."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Tome of Fire Magic.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Chapeau des sages](/fr/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Traité du feu](/fr/Items/art_178/)
+ **Related Item**: [Traité du feu](/ItemsFR/art_178/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

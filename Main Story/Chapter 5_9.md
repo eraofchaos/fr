@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-9 Identité secrète"
 permalink: /Main Story/Chapter 5_9/
 excerpt: "Chapitre 5 - 9. Era of Chaos  Histoire principale - Chapitre 5_9. 5-9 Identité secrète"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 5_9.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Mercure de bonne qualité](/fr/Items/mat_14/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Mercure de bonne qualité](/ItemsFR/mat_14/){: .btn .btn--era3}
 
- **Drop 2:** **50% 0x** [Soufre ordinaire](/fr/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Soufre ordinaire](/fr/Items/mat_9/){: .btn .btn--era2}
+ **Drop 2:** **50% 0x** [Soufre ordinaire](/ItemsFR/mat_9/){: .btn .btn--era2}, **50% 1x** [Soufre ordinaire](/ItemsFR/mat_9/){: .btn .btn--era2}
 
- **Drop 3:** **50% 0x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}, **50% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

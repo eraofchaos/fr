@@ -2,7 +2,7 @@
 title: "Artefact - Anneau du Mage - Bague de constance"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "Era of Chaos  Anneau du Mage - Bague de constance. Un anneau mystérieux imprégné d'une puissante magie. Composant de l'Anneau du Mage."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Ring of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Anneau du Mage](/fr/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Bague de constance](/fr/Items/art_116/)
+ **Related Item**: [Bague de constance](/ItemsFR/art_116/)
 
  **Quality:** [Blue Artifact Components](/fr/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

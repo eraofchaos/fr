@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Boule de cristal"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Era of Chaos  Pomme d'Éden - Boule de cristal. Une boule de cristal brillante. Selon la légende, elle permet de lire l'avenir."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Crystal Ball.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Boule de cristal](/fr/Items/art_183/)
+ **Related Item**: [Boule de cristal](/ItemsFR/art_183/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

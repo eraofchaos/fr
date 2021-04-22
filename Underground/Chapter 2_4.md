@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 - 2-4 Se regrouper et renaître"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Chapitre 2 - 4. Era of Chaos  Souterrain - Chapitre 2_4. 2-4 Se regrouper et renaître"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 2_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Répertoire des armes](/fr/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Répertoire des armes](/ItemsFR/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Bois ordinaire](/fr/Items/mat_7/){: .btn .btn--era2}, **70% 1x** [Bois ordinaire](/fr/Items/mat_7/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Bois ordinaire](/ItemsFR/mat_7/){: .btn .btn--era2}, **70% 1x** [Bois ordinaire](/ItemsFR/mat_7/){: .btn .btn--era2}
 
 
 ## Fight against Team

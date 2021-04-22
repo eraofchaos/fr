@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 1 - 1-1 Dans le souterrain"
 permalink: /Underground/Chapter 1_1/
 excerpt: "Chapitre 1 - 1. Era of Chaos  Souterrain - Chapitre 1_1. 1-1 Dans le souterrain"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 1_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Lancier](/fr/Items/unt_190/){: .btn .btn--era3}, **50% 1x** [Lancier](/fr/Items/unt_190/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Lancier](/ItemsFR/unt_190/){: .btn .btn--era3}, **50% 1x** [Lancier](/ItemsFR/unt_190/){: .btn .btn--era3}
 
- **Drop 2:** **80% 1x** [Gemmes ordinaires](/fr/Items/mat_10/){: .btn .btn--era2}, **20% 2x** [Gemmes ordinaires](/fr/Items/mat_10/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Gemmes ordinaires](/ItemsFR/mat_10/){: .btn .btn--era2}, **20% 2x** [Gemmes ordinaires](/ItemsFR/mat_10/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Cristal de qualité inférieure](/fr/Items/mat_5/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Cristal de qualité inférieure](/ItemsFR/mat_5/){: .btn .btn--era1}
 
 
 ## Fight against Team

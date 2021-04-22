@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Ankh"
 permalink: /artifacts/Ankh/
 excerpt: "Era of Chaos  Pomme d'Éden - Ankh. Un objet en forme de croix qui confère l'immortalité. Nul ne sait ce qu'il est advenu de son ancien propriétaire."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Ankh.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Ankh](/fr/Items/art_184/)
+ **Related Item**: [Ankh](/ItemsFR/art_184/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

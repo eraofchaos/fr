@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-15 Céleste"
 permalink: /Main Story/Chapter 19_15/
 excerpt: "Chapitre 19 - 15. Era of Chaos  Histoire principale - Chapitre 19_15. 19-15 Céleste"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 19_15.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal mythique](/fr/Items/mat_66/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Cristal mythique](/ItemsFR/mat_66/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Gemmes légendaires +3](/fr/Items/mat_58/){: .btn .btn--era4}, **40% 1x** [Gemmes légendaires +3](/fr/Items/mat_58/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Gemmes légendaires +3](/ItemsFR/mat_58/){: .btn .btn--era4}, **40% 1x** [Gemmes légendaires +3](/ItemsFR/mat_58/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

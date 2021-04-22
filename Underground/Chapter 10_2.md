@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 10 - 10-2 En quête de la tombe"
 permalink: /Underground/Chapter 10_2/
 excerpt: "Chapitre 10 - 2. Era of Chaos  Souterrain - Chapitre 10_2. 10-2 En quête de la tombe"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 10_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Répertoire des essences +1](/fr/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Répertoire des essences +1](/ItemsFR/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}, **50% 1x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

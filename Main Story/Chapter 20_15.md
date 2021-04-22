@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-15 Groya"
 permalink: /Main Story/Chapter 20_15/
 excerpt: "Chapitre 20 - 15. Era of Chaos  Histoire principale - Chapitre 20_15. 20-15 Groya"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 20_15.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Minerai éternel +1](/fr/Items/mat_68/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Minerai éternel +1](/ItemsFR/mat_68/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Bois mythique](/fr/Items/mat_62/){: .btn .btn--era5}, **40% 1x** [Bois mythique](/fr/Items/mat_62/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Bois mythique](/ItemsFR/mat_62/){: .btn .btn--era5}, **40% 1x** [Bois mythique](/ItemsFR/mat_62/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

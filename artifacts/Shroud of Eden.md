@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Suaire d'Éden"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Era of Chaos  Pomme d'Éden - Suaire d'Éden. Le légendaire Suaire d'Éden. Il n'existe aucun moyen de vérifier son authenticité."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Shroud of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Suaire d'Éden](/fr/Items/art_187/)
+ **Related Item**: [Suaire d'Éden](/ItemsFR/art_187/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

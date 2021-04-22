@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Sandales sacrées"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "Era of Chaos  Alliance angélique - Sandales sacrées. Une relique sacrée qui a été créée en l'honneur de l'unification d'Erathia. Composant de l'Alliance angélique."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Sandals of the Saint.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Sandales sacrées](/fr/Items/art_154/)
+ **Related Item**: [Sandales sacrées](/ItemsFR/art_154/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

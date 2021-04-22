@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche - Lame ardente"
 permalink: /artifacts/Red Dragon Flame Tongue/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche - Lame ardente. Une épée faite de cristaux de Dragon de feu. Composant de la Puissance du Dragon patriarche."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Red Dragon Flame Tongue.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Puissance du Dragon patriarche](/fr/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Lame ardente](/fr/Items/art_146/)
+ **Related Item**: [Lame ardente](/ItemsFR/art_146/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

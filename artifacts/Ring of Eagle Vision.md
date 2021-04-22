@@ -2,7 +2,7 @@
 title: "Artefact - Œil de faucon vivant - Anneau de vue perçante"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Era of Chaos  Œil de faucon vivant - Anneau de vue perçante. Un anneau secret orné d'yeux. Composant de l'Œil de faucon vivant."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Ring of Eagle Vision.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Œil de faucon vivant](/fr/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Anneau de vue perçante](/fr/Items/art_135/)
+ **Related Item**: [Anneau de vue perçante](/ItemsFR/art_135/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

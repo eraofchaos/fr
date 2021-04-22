@@ -2,7 +2,7 @@
 title: "Artefact - Chapeau des sages - Traité de l'air"
 permalink: /artifacts/Tome of Air Magic/
 excerpt: "Era of Chaos  Chapeau des sages - Traité de l'air. Un livre de sort portant sur la pratique avancée de la magie de l'air. Vous sentez la présence de l'Élémentaire d'air en le lisant. Composant du Chapeau des sages."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Tome of Air Magic.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Chapeau des sages](/fr/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Traité de l'air](/fr/Items/art_180/)
+ **Related Item**: [Traité de l'air](/ItemsFR/art_180/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

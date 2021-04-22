@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 18 - 18-3 Restriction de race"
 permalink: /Underground/Chapter 18_3/
 excerpt: "Chapitre 18 - 3. Era of Chaos  Souterrain - Chapitre 18_3. 18-3 Restriction de race"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 18_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Chien de l'Enfer](/fr/Items/unt_228/){: .btn .btn--era4}, **67% 1x** [Chien de l'Enfer](/fr/Items/unt_228/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Chien de l'Enfer](/ItemsFR/unt_228/){: .btn .btn--era4}, **67% 1x** [Chien de l'Enfer](/ItemsFR/unt_228/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificat de légende +1](/fr/Items/mat_74/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificat de légende +1](/ItemsFR/mat_74/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificat de légende](/fr/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificat de légende](/fr/Items/mat_67/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificat de légende](/ItemsFR/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificat de légende](/ItemsFR/mat_67/){: .btn .btn--era5}
 
 
 ## Fight against Team

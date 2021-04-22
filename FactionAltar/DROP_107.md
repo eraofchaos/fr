@@ -2,7 +2,7 @@
 title: "Faction Altar for Donjon"
 permalink: /FactionAltar/DROP_107/
 excerpt: "Era of Chaos  Faction Altar for Donjon. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "DROP_107.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pack Donjon (édition limitée)](/fr/Items/con_2107/)
+  **Drop by Luck (10x spin): 30x** [Pack Donjon (édition limitée)](/ItemsFR/con_2107/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pack Donjon (édition limitée)](/fr/Items/con_2107/) |
-  | 2 | **12%** | **2x** | [Pack Donjon (édition limitée)](/fr/Items/con_2107/) |
-  | 3 | **12%** | **3x** | [Pack Donjon (édition limitée)](/fr/Items/con_2107/) |
-  | 4 | **12%** | **5x** |  **30%** [Harpie](/fr/Items/unt_245/),  **9%** [Minotaure](/fr/Items/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/fr/Items/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/fr/Items/unt_329/),  |
-  | 5 | **12%** | **3x** |  **30%** [Harpie](/fr/Items/unt_245/),  **9%** [Minotaure](/fr/Items/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/fr/Items/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/fr/Items/unt_329/),  |
-  | 6 | **12%** | **5x** |  **50%** [Troglodyte](/fr/Items/unt_244/),  **50%** [Pierre d'âme de Troglodyte des ténèbres](/fr/Items/unt_328/),  |
+  | 1 | **25%** | **1x** | [Pack Donjon (édition limitée)](/ItemsFR/con_2107/) |
+  | 2 | **12%** | **2x** | [Pack Donjon (édition limitée)](/ItemsFR/con_2107/) |
+  | 3 | **12%** | **3x** | [Pack Donjon (édition limitée)](/ItemsFR/con_2107/) |
+  | 4 | **12%** | **5x** |  **30%** [Harpie](/ItemsFR/unt_245/),  **9%** [Minotaure](/ItemsFR/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/ItemsFR/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/ItemsFR/unt_329/),  |
+  | 5 | **12%** | **3x** |  **30%** [Harpie](/ItemsFR/unt_245/),  **9%** [Minotaure](/ItemsFR/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/ItemsFR/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/ItemsFR/unt_329/),  |
+  | 6 | **12%** | **5x** |  **50%** [Troglodyte](/ItemsFR/unt_244/),  **50%** [Pierre d'âme de Troglodyte des ténèbres](/ItemsFR/unt_328/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pack Donjon (édition limitée)](/fr/Items/con_2107/) |
-  | 2 | **11%** | **5x** |  **30%** [Harpie](/fr/Items/unt_245/),  **9%** [Minotaure](/fr/Items/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/fr/Items/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/fr/Items/unt_329/),  |
-  | 3 | **11%** | **3x** |  **30%** [Harpie](/fr/Items/unt_245/),  **9%** [Minotaure](/fr/Items/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/fr/Items/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/fr/Items/unt_329/),  |
-  | 4 | **11%** | **5x** |  **50%** [Troglodyte](/fr/Items/unt_244/),  **50%** [Pierre d'âme de Troglodyte des ténèbres](/fr/Items/unt_328/),  |
+  | 1 | **55%** | **1x** | [Pack Donjon (édition limitée)](/ItemsFR/con_2107/) |
+  | 2 | **11%** | **5x** |  **30%** [Harpie](/ItemsFR/unt_245/),  **9%** [Minotaure](/ItemsFR/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/ItemsFR/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/ItemsFR/unt_329/),  |
+  | 3 | **11%** | **3x** |  **30%** [Harpie](/ItemsFR/unt_245/),  **9%** [Minotaure](/ItemsFR/unt_248/),  **30%** [Pierre d'âme de Roi Minotaure](/ItemsFR/unt_332/),  **30%** [Pierre d'âme de Harpie sinistre](/ItemsFR/unt_329/),  |
+  | 4 | **11%** | **5x** |  **50%** [Troglodyte](/ItemsFR/unt_244/),  **50%** [Pierre d'âme de Troglodyte des ténèbres](/ItemsFR/unt_328/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pack Donjon (édition limitée)](/fr/Items/con_2107/)
+  **Drop by 10x spin: X** [Pack Donjon (édition limitée)](/ItemsFR/con_2107/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pierre d'âme de Troglodyte des ténèbres](/fr/Items/unt_328/), [Pierre d'âme de Roi Minotaure](/fr/Items/unt_332/), [Pierre d'âme de Roi Dragon noir](/fr/Items/unt_334/), [Pierre d'âme de Harpie sinistre](/fr/Items/unt_329/) | [Troglodyte](/fr/Items/unt_244/), [Harpie](/fr/Items/unt_245/), [Minotaure](/fr/Items/unt_248/), [Dragon noir](/fr/Items/unt_250/), [Dragon rouge](/fr/Items/unt_251/) |
+  | [Pierre d'âme de Troglodyte des ténèbres](/ItemsFR/unt_328/), [Pierre d'âme de Roi Minotaure](/ItemsFR/unt_332/), [Pierre d'âme de Roi Dragon noir](/ItemsFR/unt_334/), [Pierre d'âme de Harpie sinistre](/ItemsFR/unt_329/) | [Troglodyte](/ItemsFR/unt_244/), [Harpie](/ItemsFR/unt_245/), [Minotaure](/ItemsFR/unt_248/), [Dragon noir](/ItemsFR/unt_250/), [Dragon rouge](/ItemsFR/unt_251/) |
 
 
 

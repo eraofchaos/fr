@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-15 L'invasion diabolique"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Chapitre 17 - 15. Era of Chaos  Histoire principale - Chapitre 17_15. 17-15 L'invasion diabolique"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 17_15.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal légendaire +3](/fr/Items/mat_59/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Cristal légendaire +3](/ItemsFR/mat_59/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Gemmes fantastiques +2](/fr/Items/mat_51/){: .btn .btn--era4}, **40% 1x** [Gemmes fantastiques +2](/fr/Items/mat_51/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Gemmes fantastiques +2](/ItemsFR/mat_51/){: .btn .btn--era4}, **40% 1x** [Gemmes fantastiques +2](/ItemsFR/mat_51/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

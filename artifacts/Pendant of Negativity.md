@@ -2,7 +2,7 @@
 title: "Artefact - Codex de l'Archimage - Pendentif d'isolation"
 permalink: /artifacts/Pendant of Negativity/
 excerpt: "Era of Chaos  Codex de l'Archimage - Pendentif d'isolation. Un bibelot en forme d'éclair et qui en possède les pouvoirs. L'un des Codex de l'Archimage."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Pendant of Negativity.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Codex de l'Archimage](/fr/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Pendentif d'isolation](/fr/Items/art_136/)
+ **Related Item**: [Pendentif d'isolation](/ItemsFR/art_136/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

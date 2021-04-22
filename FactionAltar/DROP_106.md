@@ -2,7 +2,7 @@
 title: "Faction Altar for Tour"
 permalink: /FactionAltar/DROP_106/
 excerpt: "Era of Chaos  Faction Altar for Tour. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "DROP_106.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pack Tour (édition limitée)](/fr/Items/con_2110/)
+  **Drop by Luck (10x spin): 30x** [Pack Tour (édition limitée)](/ItemsFR/con_2110/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pack Tour (édition limitée)](/fr/Items/con_2110/) |
-  | 2 | **12%** | **2x** | [Pack Tour (édition limitée)](/fr/Items/con_2110/) |
-  | 3 | **12%** | **3x** | [Pack Tour (édition limitée)](/fr/Items/con_2110/) |
-  | 4 | **12%** | **5x** |  **23%** [Gargouille](/fr/Items/unt_236/),  **23%** [Golem de fer](/fr/Items/unt_237/),  **23%** [Mage](/fr/Items/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/fr/Items/unt_322/),  **6%** [Pierre d'âme d'Archimage](/fr/Items/unt_323/),  |
-  | 5 | **12%** | **3x** |  **23%** [Gargouille](/fr/Items/unt_236/),  **23%** [Golem de fer](/fr/Items/unt_237/),  **23%** [Mage](/fr/Items/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/fr/Items/unt_322/),  **6%** [Pierre d'âme d'Archimage](/fr/Items/unt_323/),  |
-  | 6 | **12%** | **5x** |  **100%** [Lutin](/fr/Items/unt_235/),  |
+  | 1 | **25%** | **1x** | [Pack Tour (édition limitée)](/ItemsFR/con_2110/) |
+  | 2 | **12%** | **2x** | [Pack Tour (édition limitée)](/ItemsFR/con_2110/) |
+  | 3 | **12%** | **3x** | [Pack Tour (édition limitée)](/ItemsFR/con_2110/) |
+  | 4 | **12%** | **5x** |  **23%** [Gargouille](/ItemsFR/unt_236/),  **23%** [Golem de fer](/ItemsFR/unt_237/),  **23%** [Mage](/ItemsFR/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/ItemsFR/unt_322/),  **6%** [Pierre d'âme d'Archimage](/ItemsFR/unt_323/),  |
+  | 5 | **12%** | **3x** |  **23%** [Gargouille](/ItemsFR/unt_236/),  **23%** [Golem de fer](/ItemsFR/unt_237/),  **23%** [Mage](/ItemsFR/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/ItemsFR/unt_322/),  **6%** [Pierre d'âme d'Archimage](/ItemsFR/unt_323/),  |
+  | 6 | **12%** | **5x** |  **100%** [Lutin](/ItemsFR/unt_235/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pack Tour (édition limitée)](/fr/Items/con_2110/) |
-  | 2 | **11%** | **5x** |  **23%** [Gargouille](/fr/Items/unt_236/),  **23%** [Golem de fer](/fr/Items/unt_237/),  **23%** [Mage](/fr/Items/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/fr/Items/unt_322/),  **6%** [Pierre d'âme d'Archimage](/fr/Items/unt_323/),  |
-  | 3 | **11%** | **3x** |  **23%** [Gargouille](/fr/Items/unt_236/),  **23%** [Golem de fer](/fr/Items/unt_237/),  **23%** [Mage](/fr/Items/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/fr/Items/unt_322/),  **6%** [Pierre d'âme d'Archimage](/fr/Items/unt_323/),  |
-  | 4 | **11%** | **5x** |  **100%** [Lutin](/fr/Items/unt_235/),  |
+  | 1 | **55%** | **1x** | [Pack Tour (édition limitée)](/ItemsFR/con_2110/) |
+  | 2 | **11%** | **5x** |  **23%** [Gargouille](/ItemsFR/unt_236/),  **23%** [Golem de fer](/ItemsFR/unt_237/),  **23%** [Mage](/ItemsFR/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/ItemsFR/unt_322/),  **6%** [Pierre d'âme d'Archimage](/ItemsFR/unt_323/),  |
+  | 3 | **11%** | **3x** |  **23%** [Gargouille](/ItemsFR/unt_236/),  **23%** [Golem de fer](/ItemsFR/unt_237/),  **23%** [Mage](/ItemsFR/unt_238/),  **23%** [Pierre d'âme de Golem d'or](/ItemsFR/unt_322/),  **6%** [Pierre d'âme d'Archimage](/ItemsFR/unt_323/),  |
+  | 4 | **11%** | **5x** |  **100%** [Lutin](/ItemsFR/unt_235/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pack Tour (édition limitée)](/fr/Items/con_2110/)
+  **Drop by 10x spin: X** [Pack Tour (édition limitée)](/ItemsFR/con_2110/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pierre d'âme de Golem d'or](/fr/Items/unt_322/), [Pierre d'âme d'Archimage](/fr/Items/unt_323/), [Pierre d'âme de Reine Naga](/fr/Items/unt_325/), [Pierre d'âme de Titan](/fr/Items/unt_326/) | [Lutin](/fr/Items/unt_235/), [Gargouille](/fr/Items/unt_236/), [Golem de fer](/fr/Items/unt_237/), [Mage](/fr/Items/unt_238/), [Naga](/fr/Items/unt_240/), [Géant ](/fr/Items/unt_241/) |
+  | [Pierre d'âme de Golem d'or](/ItemsFR/unt_322/), [Pierre d'âme d'Archimage](/ItemsFR/unt_323/), [Pierre d'âme de Reine Naga](/ItemsFR/unt_325/), [Pierre d'âme de Titan](/ItemsFR/unt_326/) | [Lutin](/ItemsFR/unt_235/), [Gargouille](/ItemsFR/unt_236/), [Golem de fer](/ItemsFR/unt_237/), [Mage](/ItemsFR/unt_238/), [Naga](/ItemsFR/unt_240/), [Géant ](/ItemsFR/unt_241/) |
 
 
 

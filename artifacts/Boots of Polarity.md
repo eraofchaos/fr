@@ -2,7 +2,7 @@
 title: "Artefact - Pierre runique antimagie - Bottes du tigre"
 permalink: /artifacts/Boots of Polarity/
 excerpt: "Era of Chaos  Pierre runique antimagie - Bottes du tigre. Des bottes ornées du symbole du yin et du yang. Composant de la Pierre runique antimagie."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Boots of Polarity.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pierre runique antimagie](/fr/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Bottes du tigre](/fr/Items/art_120/)
+ **Related Item**: [Bottes du tigre](/ItemsFR/art_120/)
 
  **Quality:** [Blue Artifact Components](/fr/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

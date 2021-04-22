@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-14 L'armure du Dragon"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Chapitre 5 - 14. Era of Chaos  Histoire principale - Chapitre 5_14. 5-14 L'armure du Dragon"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 5_14.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Gemmes de bonne qualité](/fr/Items/mat_16/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Gemmes de bonne qualité](/ItemsFR/mat_16/){: .btn .btn--era3}
 
- **Drop 2:** **50% 0x** [Cristal ordinaire](/fr/Items/mat_11/){: .btn .btn--era2}, **50% 1x** [Cristal ordinaire](/fr/Items/mat_11/){: .btn .btn--era2}
+ **Drop 2:** **50% 0x** [Cristal ordinaire](/ItemsFR/mat_11/){: .btn .btn--era2}, **50% 1x** [Cristal ordinaire](/ItemsFR/mat_11/){: .btn .btn--era2}
 
- **Drop 3:** **50% 0x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}, **50% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

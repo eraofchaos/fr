@@ -2,7 +2,7 @@
 title: "Faction Altar for Château"
 permalink: /FactionAltar/DROP_101/
 excerpt: "Era of Chaos  Faction Altar for Château. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "DROP_101.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pack Château (édition limitée)](/fr/Items/con_2139/)
+  **Drop by Luck (10x spin): 30x** [Pack Château (édition limitée)](/ItemsFR/con_2139/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pack Château (édition limitée)](/fr/Items/con_2139/) |
-  | 2 | **12%** | **2x** | [Pack Château (édition limitée)](/fr/Items/con_2139/) |
-  | 3 | **12%** | **3x** | [Pack Château (édition limitée)](/fr/Items/con_2139/) |
-  | 4 | **12%** | **5x** |  **19%** [Griffon](/fr/Items/unt_192/),  **5%** [Spadassin](/fr/Items/unt_193/),  **19%** [Moine](/fr/Items/unt_194/),  **19%** [Cavalier ](/fr/Items/unt_195/),  **5%** [Pierre d'âme de Croisé](/fr/Items/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/fr/Items/unt_287/),  **5%** [Pierre d'âme de Zélote](/fr/Items/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/),  |
-  | 5 | **12%** | **3x** |  **19%** [Griffon](/fr/Items/unt_192/),  **5%** [Spadassin](/fr/Items/unt_193/),  **19%** [Moine](/fr/Items/unt_194/),  **19%** [Cavalier ](/fr/Items/unt_195/),  **5%** [Pierre d'âme de Croisé](/fr/Items/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/fr/Items/unt_287/),  **5%** [Pierre d'âme de Zélote](/fr/Items/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/),  |
-  | 6 | **12%** | **5x** |  **25%** [Lancier](/fr/Items/unt_190/),  **25%** [Grand Arbalétrier](/fr/Items/unt_191/),  **25%** [Pierre d'âme de Hallebardier](/fr/Items/unt_282/),  **25%** [Pierre d'âme de Maître Arbalétrier](/fr/Items/unt_283/),  |
+  | 1 | **25%** | **1x** | [Pack Château (édition limitée)](/ItemsFR/con_2139/) |
+  | 2 | **12%** | **2x** | [Pack Château (édition limitée)](/ItemsFR/con_2139/) |
+  | 3 | **12%** | **3x** | [Pack Château (édition limitée)](/ItemsFR/con_2139/) |
+  | 4 | **12%** | **5x** |  **19%** [Griffon](/ItemsFR/unt_192/),  **5%** [Spadassin](/ItemsFR/unt_193/),  **19%** [Moine](/ItemsFR/unt_194/),  **19%** [Cavalier ](/ItemsFR/unt_195/),  **5%** [Pierre d'âme de Croisé](/ItemsFR/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/ItemsFR/unt_287/),  **5%** [Pierre d'âme de Zélote](/ItemsFR/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/ItemsFR/unt_284/),  |
+  | 5 | **12%** | **3x** |  **19%** [Griffon](/ItemsFR/unt_192/),  **5%** [Spadassin](/ItemsFR/unt_193/),  **19%** [Moine](/ItemsFR/unt_194/),  **19%** [Cavalier ](/ItemsFR/unt_195/),  **5%** [Pierre d'âme de Croisé](/ItemsFR/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/ItemsFR/unt_287/),  **5%** [Pierre d'âme de Zélote](/ItemsFR/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/ItemsFR/unt_284/),  |
+  | 6 | **12%** | **5x** |  **25%** [Lancier](/ItemsFR/unt_190/),  **25%** [Grand Arbalétrier](/ItemsFR/unt_191/),  **25%** [Pierre d'âme de Hallebardier](/ItemsFR/unt_282/),  **25%** [Pierre d'âme de Maître Arbalétrier](/ItemsFR/unt_283/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pack Château (édition limitée)](/fr/Items/con_2139/) |
-  | 2 | **11%** | **5x** |  **19%** [Griffon](/fr/Items/unt_192/),  **5%** [Spadassin](/fr/Items/unt_193/),  **19%** [Moine](/fr/Items/unt_194/),  **19%** [Cavalier ](/fr/Items/unt_195/),  **5%** [Pierre d'âme de Croisé](/fr/Items/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/fr/Items/unt_287/),  **5%** [Pierre d'âme de Zélote](/fr/Items/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/),  |
-  | 3 | **11%** | **3x** |  **19%** [Griffon](/fr/Items/unt_192/),  **5%** [Spadassin](/fr/Items/unt_193/),  **19%** [Moine](/fr/Items/unt_194/),  **19%** [Cavalier ](/fr/Items/unt_195/),  **5%** [Pierre d'âme de Croisé](/fr/Items/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/fr/Items/unt_287/),  **5%** [Pierre d'âme de Zélote](/fr/Items/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/),  |
-  | 4 | **11%** | **5x** |  **25%** [Lancier](/fr/Items/unt_190/),  **25%** [Grand Arbalétrier](/fr/Items/unt_191/),  **25%** [Pierre d'âme de Hallebardier](/fr/Items/unt_282/),  **25%** [Pierre d'âme de Maître Arbalétrier](/fr/Items/unt_283/),  |
+  | 1 | **55%** | **1x** | [Pack Château (édition limitée)](/ItemsFR/con_2139/) |
+  | 2 | **11%** | **5x** |  **19%** [Griffon](/ItemsFR/unt_192/),  **5%** [Spadassin](/ItemsFR/unt_193/),  **19%** [Moine](/ItemsFR/unt_194/),  **19%** [Cavalier ](/ItemsFR/unt_195/),  **5%** [Pierre d'âme de Croisé](/ItemsFR/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/ItemsFR/unt_287/),  **5%** [Pierre d'âme de Zélote](/ItemsFR/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/ItemsFR/unt_284/),  |
+  | 3 | **11%** | **3x** |  **19%** [Griffon](/ItemsFR/unt_192/),  **5%** [Spadassin](/ItemsFR/unt_193/),  **19%** [Moine](/ItemsFR/unt_194/),  **19%** [Cavalier ](/ItemsFR/unt_195/),  **5%** [Pierre d'âme de Croisé](/ItemsFR/unt_285/),  **19%** [Pierre d'âme de Chevalier légendaire](/ItemsFR/unt_287/),  **5%** [Pierre d'âme de Zélote](/ItemsFR/unt_286/),  **5%** [Pierre d'âme de Griffon sanctifié](/ItemsFR/unt_284/),  |
+  | 4 | **11%** | **5x** |  **25%** [Lancier](/ItemsFR/unt_190/),  **25%** [Grand Arbalétrier](/ItemsFR/unt_191/),  **25%** [Pierre d'âme de Hallebardier](/ItemsFR/unt_282/),  **25%** [Pierre d'âme de Maître Arbalétrier](/ItemsFR/unt_283/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pack Château (édition limitée)](/fr/Items/con_2139/)
+  **Drop by 10x spin: X** [Pack Château (édition limitée)](/ItemsFR/con_2139/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pierre d'âme de Hallebardier](/fr/Items/unt_282/), [Pierre d'âme de Maître Arbalétrier](/fr/Items/unt_283/), [Pierre d'âme de Griffon sanctifié](/fr/Items/unt_284/), [Pierre d'âme de Croisé](/fr/Items/unt_285/), [Pierre d'âme de Zélote](/fr/Items/unt_286/), [Pierre d'âme de Chevalier légendaire](/fr/Items/unt_287/), [Pierre d'âme d'Archange](/fr/Items/unt_288/), [Pierre d'âme de Paladin suprême](/fr/Items/unt_289/) | [Lancier](/fr/Items/unt_190/), [Grand Arbalétrier](/fr/Items/unt_191/), [Griffon](/fr/Items/unt_192/), [Spadassin](/fr/Items/unt_193/), [Moine](/fr/Items/unt_194/), [Cavalier ](/fr/Items/unt_195/), [Ange](/fr/Items/unt_196/), [Paladin](/fr/Items/unt_197/) |
+  | [Pierre d'âme de Hallebardier](/ItemsFR/unt_282/), [Pierre d'âme de Maître Arbalétrier](/ItemsFR/unt_283/), [Pierre d'âme de Griffon sanctifié](/ItemsFR/unt_284/), [Pierre d'âme de Croisé](/ItemsFR/unt_285/), [Pierre d'âme de Zélote](/ItemsFR/unt_286/), [Pierre d'âme de Chevalier légendaire](/ItemsFR/unt_287/), [Pierre d'âme d'Archange](/ItemsFR/unt_288/), [Pierre d'âme de Paladin suprême](/ItemsFR/unt_289/) | [Lancier](/ItemsFR/unt_190/), [Grand Arbalétrier](/ItemsFR/unt_191/), [Griffon](/ItemsFR/unt_192/), [Spadassin](/ItemsFR/unt_193/), [Moine](/ItemsFR/unt_194/), [Cavalier ](/ItemsFR/unt_195/), [Ange](/ItemsFR/unt_196/), [Paladin](/ItemsFR/unt_197/) |
 
 
 

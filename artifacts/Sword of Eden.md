@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Épée d'Éden"
 permalink: /artifacts/Sword of Eden/
 excerpt: "Era of Chaos  Pomme d'Éden - Épée d'Éden. Une épée forgée par la Première Civilisation. Celui qui la manie peut invoquer la foudre pour terrasser ses ennemis."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Sword of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Épée d'Éden](/fr/Items/art_185/)
+ **Related Item**: [Épée d'Éden](/ItemsFR/art_185/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

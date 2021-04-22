@@ -2,7 +2,7 @@
 title: "Artefact - Arc du tireur d'élite - Flèches angéliques"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Era of Chaos  Arc du tireur d'élite - Flèches angéliques. Des flèches magiques confectionnées par les Elfes. Composant de l'Arc du tireur d'élite."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Angel Feather Arrows.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Arc du tireur d'élite](/fr/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Flèches angéliques](/fr/Items/art_104/)
+ **Related Item**: [Flèches angéliques](/ItemsFR/art_104/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

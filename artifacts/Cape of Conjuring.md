@@ -2,7 +2,7 @@
 title: "Artefact - Anneau du Mage - Cape de constance"
 permalink: /artifacts/Cape of Conjuring/
 excerpt: "Era of Chaos  Anneau du Mage - Cape de constance. Une cape qui crépite de puissance magique. Composant de l'Anneau du Mage."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Cape of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Anneau du Mage](/fr/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Cape de constance](/fr/Items/art_117/)
+ **Related Item**: [Cape de constance](/ItemsFR/art_117/)
 
  **Quality:** [Blue Artifact Components](/fr/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

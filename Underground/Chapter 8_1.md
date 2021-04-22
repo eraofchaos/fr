@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 8 - 8-1 Stratégie"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Chapitre 8 - 1. Era of Chaos  Souterrain - Chapitre 8_1. 8-1 Stratégie"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 8_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Gobelin](/fr/Items/unt_217/){: .btn .btn--era3}, **67% 1x** [Gobelin](/fr/Items/unt_217/){: .btn .btn--era3}
+ **Drop 1:** **33% 0x** [Gobelin](/ItemsFR/unt_217/){: .btn .btn--era3}, **67% 1x** [Gobelin](/ItemsFR/unt_217/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Répertoire des armes +2](/fr/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Répertoire des armes +2](/fr/Items/mat_32/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Répertoire des armes +2](/ItemsFR/mat_32/){: .btn .btn--era3}, **50% 1x** [Répertoire des armes +2](/ItemsFR/mat_32/){: .btn .btn--era3}
 
 
 ## Fight against Team

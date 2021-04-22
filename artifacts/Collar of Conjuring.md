@@ -2,7 +2,7 @@
 title: "Artefact - Anneau du Mage - Collier de constance"
 permalink: /artifacts/Collar of Conjuring/
 excerpt: "Era of Chaos  Anneau du Mage - Collier de constance. Renforce la puissance magique de son porteur. Composant de l'Anneau du Mage."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Collar of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Anneau du Mage](/fr/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Collier de constance](/fr/Items/art_115/)
+ **Related Item**: [Collier de constance](/ItemsFR/art_115/)
 
  **Quality:** [Blue Artifact Components](/fr/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

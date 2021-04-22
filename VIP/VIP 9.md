@@ -2,7 +2,7 @@
 title: "VIP - VIP 9"
 permalink: /VIP/VIP 9/
 excerpt: "Era of Chaos  Système VIP. VIP 9"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "VIP 9.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
 ## Détails
 
- **Reward:** **1x** [Pack premium V9](/fr/Items/con_1305/)
+ **Reward:** **1x** [Pack premium V9](/ItemsFR/con_1305/)
 
  **EXP:** 10000
 

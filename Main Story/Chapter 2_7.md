@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-7 Le voleur de chevaux"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Chapitre 2 - 7. Era of Chaos  Histoire principale - Chapitre 2_7. 2-7 Le voleur de chevaux"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 2_7.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Bois ordinaire](/fr/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Bois ordinaire](/fr/Items/mat_7/){: .btn .btn--era2}
+ **Drop 1:** **80% 1x** [Bois ordinaire](/ItemsFR/mat_7/){: .btn .btn--era2}, **20% 2x** [Bois ordinaire](/ItemsFR/mat_7/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Mercure de qualité inférieure](/fr/Items/mat_2/){: .btn .btn--era1}, **60% 1x** [Mercure de qualité inférieure](/fr/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercure de qualité inférieure](/fr/Items/mat_2/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Mercure de qualité inférieure](/ItemsFR/mat_2/){: .btn .btn--era1}, **60% 1x** [Mercure de qualité inférieure](/ItemsFR/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercure de qualité inférieure](/ItemsFR/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

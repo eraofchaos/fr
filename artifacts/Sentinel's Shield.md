@@ -2,7 +2,7 @@
 title: "Artefact - Tonnerre des Titans - Bouclier sentinelle"
 permalink: /artifacts/Sentinel's Shield/
 excerpt: "Era of Chaos  Tonnerre des Titans - Bouclier sentinelle. Un bouclier imprégné de puissance sacrée. Composant du Tonnerre des Titans."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Sentinel's Shield.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Tonnerre des Titans](/fr/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Bouclier sentinelle](/fr/Items/art_157/)
+ **Related Item**: [Bouclier sentinelle](/ItemsFR/art_157/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

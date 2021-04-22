@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Épée de justice"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Era of Chaos  Alliance angélique - Épée de justice. Une épée offerte aux hommes par les dieux. Composant de l'Alliance angélique."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Sword of Judgement.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Épée de justice](/fr/Items/art_150/)
+ **Related Item**: [Épée de justice](/ItemsFR/art_150/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

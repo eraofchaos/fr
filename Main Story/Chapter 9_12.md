@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-12 Une avancée victorieuse"
 permalink: /Main Story/Chapter 9_12/
 excerpt: "Chapitre 9 - 12. Era of Chaos  Histoire principale - Chapitre 9_12. 9-12 Une avancée victorieuse"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 9_12.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal précieux +2](/fr/Items/mat_31/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Cristal précieux +2](/ItemsFR/mat_31/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Gemmes de qualité supérieure +1](/fr/Items/mat_23/){: .btn .btn--era3}, **40% 1x** [Gemmes de qualité supérieure +1](/fr/Items/mat_23/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Gemmes de qualité supérieure +1](/ItemsFR/mat_23/){: .btn .btn--era3}, **40% 1x** [Gemmes de qualité supérieure +1](/ItemsFR/mat_23/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Artefact - Manteau du roi des Non-Morts - Cape d'harmonie"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "Era of Chaos  Manteau du roi des Non-Morts - Cape d'harmonie. La précieuse cape d'un Vampire. Composant du Manteau du roi des Non-Morts."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Vampire's Cowl.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Cape d'harmonie](/fr/Items/art_130/)
+ **Related Item**: [Cape d'harmonie](/ItemsFR/art_130/)
 
  **Quality:** [Violet Artifact Components](/fr/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

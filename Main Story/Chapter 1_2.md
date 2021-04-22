@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 1 - 1-2 Le château en ruines"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Chapitre 1 - 2. Era of Chaos  Histoire principale - Chapitre 1_2. 1-2 Le château en ruines"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 1_2.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Récompense
 
- **Drop 1:** **80% 1x** [Bois de qualité inférieure](/fr/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Bois de qualité inférieure](/fr/Items/mat_1/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Bois de qualité inférieure](/ItemsFR/mat_1/){: .btn .btn--era1}, **20% 2x** [Bois de qualité inférieure](/ItemsFR/mat_1/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Soufre de qualité inférieure](/fr/Items/mat_3/){: .btn .btn--era1}, **20% 2x** [Soufre de qualité inférieure](/fr/Items/mat_3/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Soufre de qualité inférieure](/ItemsFR/mat_3/){: .btn .btn--era1}, **20% 2x** [Soufre de qualité inférieure](/ItemsFR/mat_3/){: .btn .btn--era1}
 
 
 ## Fight against Team

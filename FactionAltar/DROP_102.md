@@ -2,7 +2,7 @@
 title: "Faction Altar for Rempart"
 permalink: /FactionAltar/DROP_102/
 excerpt: "Era of Chaos  Faction Altar for Rempart. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "DROP_102.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pack Rempart (édition limitée)](/fr/Items/con_2101/)
+  **Drop by Luck (10x spin): 30x** [Pack Rempart (édition limitée)](/ItemsFR/con_2101/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pack Rempart (édition limitée)](/fr/Items/con_2101/) |
-  | 2 | **12%** | **2x** | [Pack Rempart (édition limitée)](/fr/Items/con_2101/) |
-  | 3 | **12%** | **3x** | [Pack Rempart (édition limitée)](/fr/Items/con_2101/) |
-  | 4 | **12%** | **5x** |  **4%** [Nain](/fr/Items/unt_200/),  **14%** [Elfe sylvaine](/fr/Items/unt_201/),  **14%** [Pégase](/fr/Items/unt_202/),  **14%** [Garde sylvanien](/fr/Items/unt_203/),  **14%** [Licorne](/fr/Items/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/fr/Items/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/fr/Items/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/fr/Items/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/fr/Items/unt_294/),  |
-  | 5 | **12%** | **3x** |  **4%** [Nain](/fr/Items/unt_200/),  **14%** [Elfe sylvaine](/fr/Items/unt_201/),  **14%** [Pégase](/fr/Items/unt_202/),  **14%** [Garde sylvanien](/fr/Items/unt_203/),  **14%** [Licorne](/fr/Items/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/fr/Items/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/fr/Items/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/fr/Items/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/fr/Items/unt_294/),  |
-  | 6 | **12%** | **5x** |  **76%** [Centaure](/fr/Items/unt_199/),  **23%** [Pierre d'âme de Capitaine Centaure](/fr/Items/unt_290/),  |
+  | 1 | **25%** | **1x** | [Pack Rempart (édition limitée)](/ItemsFR/con_2101/) |
+  | 2 | **12%** | **2x** | [Pack Rempart (édition limitée)](/ItemsFR/con_2101/) |
+  | 3 | **12%** | **3x** | [Pack Rempart (édition limitée)](/ItemsFR/con_2101/) |
+  | 4 | **12%** | **5x** |  **4%** [Nain](/ItemsFR/unt_200/),  **14%** [Elfe sylvaine](/ItemsFR/unt_201/),  **14%** [Pégase](/ItemsFR/unt_202/),  **14%** [Garde sylvanien](/ItemsFR/unt_203/),  **14%** [Licorne](/ItemsFR/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/ItemsFR/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/ItemsFR/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/ItemsFR/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/ItemsFR/unt_294/),  |
+  | 5 | **12%** | **3x** |  **4%** [Nain](/ItemsFR/unt_200/),  **14%** [Elfe sylvaine](/ItemsFR/unt_201/),  **14%** [Pégase](/ItemsFR/unt_202/),  **14%** [Garde sylvanien](/ItemsFR/unt_203/),  **14%** [Licorne](/ItemsFR/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/ItemsFR/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/ItemsFR/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/ItemsFR/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/ItemsFR/unt_294/),  |
+  | 6 | **12%** | **5x** |  **76%** [Centaure](/ItemsFR/unt_199/),  **23%** [Pierre d'âme de Capitaine Centaure](/ItemsFR/unt_290/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pack Rempart (édition limitée)](/fr/Items/con_2101/) |
-  | 2 | **11%** | **5x** |  **4%** [Nain](/fr/Items/unt_200/),  **14%** [Elfe sylvaine](/fr/Items/unt_201/),  **14%** [Pégase](/fr/Items/unt_202/),  **14%** [Garde sylvanien](/fr/Items/unt_203/),  **14%** [Licorne](/fr/Items/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/fr/Items/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/fr/Items/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/fr/Items/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/fr/Items/unt_294/),  |
-  | 3 | **11%** | **3x** |  **4%** [Nain](/fr/Items/unt_200/),  **14%** [Elfe sylvaine](/fr/Items/unt_201/),  **14%** [Pégase](/fr/Items/unt_202/),  **14%** [Garde sylvanien](/fr/Items/unt_203/),  **14%** [Licorne](/fr/Items/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/fr/Items/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/fr/Items/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/fr/Items/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/fr/Items/unt_294/),  |
-  | 4 | **11%** | **5x** |  **76%** [Centaure](/fr/Items/unt_199/),  **23%** [Pierre d'âme de Capitaine Centaure](/fr/Items/unt_290/),  |
+  | 1 | **55%** | **1x** | [Pack Rempart (édition limitée)](/ItemsFR/con_2101/) |
+  | 2 | **11%** | **5x** |  **4%** [Nain](/ItemsFR/unt_200/),  **14%** [Elfe sylvaine](/ItemsFR/unt_201/),  **14%** [Pégase](/ItemsFR/unt_202/),  **14%** [Garde sylvanien](/ItemsFR/unt_203/),  **14%** [Licorne](/ItemsFR/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/ItemsFR/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/ItemsFR/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/ItemsFR/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/ItemsFR/unt_294/),  |
+  | 3 | **11%** | **3x** |  **4%** [Nain](/ItemsFR/unt_200/),  **14%** [Elfe sylvaine](/ItemsFR/unt_201/),  **14%** [Pégase](/ItemsFR/unt_202/),  **14%** [Garde sylvanien](/ItemsFR/unt_203/),  **14%** [Licorne](/ItemsFR/unt_204/),  **14%** [Pierre d'âme de Grand Elfe](/ItemsFR/unt_291/),  **4%** [Pierre d'âme de Pégase d'argent](/ItemsFR/unt_292/),  **14%** [Pierre d'âme de Soldat sylvanien](/ItemsFR/unt_293/),  **4%** [Pierre d'âme de Licorne de guerre](/ItemsFR/unt_294/),  |
+  | 4 | **11%** | **5x** |  **76%** [Centaure](/ItemsFR/unt_199/),  **23%** [Pierre d'âme de Capitaine Centaure](/ItemsFR/unt_290/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pack Rempart (édition limitée)](/fr/Items/con_2101/)
+  **Drop by 10x spin: X** [Pack Rempart (édition limitée)](/ItemsFR/con_2101/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pierre d'âme de Capitaine Centaure](/fr/Items/unt_290/), [Pierre d'âme de Grand Elfe](/fr/Items/unt_291/), [Pierre d'âme de Pégase d'argent](/fr/Items/unt_292/), [Pierre d'âme de Soldat sylvanien](/fr/Items/unt_293/), [Pierre d'âme de Licorne de guerre](/fr/Items/unt_294/), [Pierre d'âme de Dragon d'or](/fr/Items/unt_295/) | [Centaure](/fr/Items/unt_199/), [Nain](/fr/Items/unt_200/), [Elfe sylvaine](/fr/Items/unt_201/), [Pégase](/fr/Items/unt_202/), [Garde sylvanien](/fr/Items/unt_203/), [Licorne](/fr/Items/unt_204/), [Dragon vert](/fr/Items/unt_205/) |
+  | [Pierre d'âme de Capitaine Centaure](/ItemsFR/unt_290/), [Pierre d'âme de Grand Elfe](/ItemsFR/unt_291/), [Pierre d'âme de Pégase d'argent](/ItemsFR/unt_292/), [Pierre d'âme de Soldat sylvanien](/ItemsFR/unt_293/), [Pierre d'âme de Licorne de guerre](/ItemsFR/unt_294/), [Pierre d'âme de Dragon d'or](/ItemsFR/unt_295/) | [Centaure](/ItemsFR/unt_199/), [Nain](/ItemsFR/unt_200/), [Elfe sylvaine](/ItemsFR/unt_201/), [Pégase](/ItemsFR/unt_202/), [Garde sylvanien](/ItemsFR/unt_203/), [Licorne](/ItemsFR/unt_204/), [Dragon vert](/ItemsFR/unt_205/) |
 
 
 

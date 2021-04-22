@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-6 L'arbre mort et la tablette en pierre"
 permalink: /Main Story/Chapter 30_6/
 excerpt: "Chapitre 30 - 6. Era of Chaos  Histoire principale - Chapitre 30_6. 30-6 L'arbre mort et la tablette en pierre"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 30_6.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal flamboyant +5](/fr/Items/mat_101/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Cristal flamboyant +5](/ItemsFR/mat_101/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Gemmes stellaires +4](/fr/Items/mat_93/){: .btn .btn--era5}, **40% 1x** [Gemmes stellaires +4](/fr/Items/mat_93/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Gemmes stellaires +4](/ItemsFR/mat_93/){: .btn .btn--era5}, **40% 1x** [Gemmes stellaires +4](/ItemsFR/mat_93/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

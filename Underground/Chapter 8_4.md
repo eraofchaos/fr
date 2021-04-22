@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 8 - 8-4 Ressusciter les morts"
 permalink: /Underground/Chapter 8_4/
 excerpt: "Chapitre 8 - 4. Era of Chaos  Souterrain - Chapitre 8_4. 8-4 Ressusciter les morts"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 8_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Répertoire des essences](/fr/Items/mat_39/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Répertoire des essences](/ItemsFR/mat_39/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Répertoire des armes +2](/fr/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Répertoire des armes +2](/fr/Items/mat_32/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Répertoire des armes +2](/ItemsFR/mat_32/){: .btn .btn--era3}, **50% 1x** [Répertoire des armes +2](/ItemsFR/mat_32/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Artefact - Tonnerre des Titans - Heaume spirituel"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Era of Chaos  Tonnerre des Titans - Heaume spirituel. Un casque porté par le dieu du tonnerre. Composant du Tonnerre des Titans."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Thunder Helmet.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Tonnerre des Titans](/fr/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Heaume spirituel](/fr/Items/art_158/)
+ **Related Item**: [Heaume spirituel](/ItemsFR/art_158/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

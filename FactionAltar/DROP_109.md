@@ -2,7 +2,7 @@
 title: "Faction Altar for Conflux"
 permalink: /FactionAltar/DROP_109/
 excerpt: "Era of Chaos  Faction Altar for Conflux. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "DROP_109.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pack Élémentaire (édition limitée)](/fr/Items/con_2141/)
+  **Drop by Luck (10x spin): 30x** [Pack Élémentaire (édition limitée)](/ItemsFR/con_2141/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pack Élémentaire (édition limitée)](/fr/Items/con_2141/) |
-  | 2 | **12%** | **2x** | [Pack Élémentaire (édition limitée)](/fr/Items/con_2141/) |
-  | 3 | **12%** | **3x** | [Pack Élémentaire (édition limitée)](/fr/Items/con_2141/) |
-  | 4 | **12%** | **5x** |  **31%** [Élémentaire de tempête](/fr/Items/unt_263/),  **31%** [Élémentaire de glace](/fr/Items/unt_264/),  **9%** [Oiseau de feu](/fr/Items/unt_268/),  **9%** [Pierre d'âme de Phoenix](/fr/Items/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/fr/Items/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/fr/Items/unt_345/),  |
-  | 5 | **12%** | **3x** |  **31%** [Élémentaire de tempête](/fr/Items/unt_263/),  **31%** [Élémentaire de glace](/fr/Items/unt_264/),  **9%** [Oiseau de feu](/fr/Items/unt_268/),  **9%** [Pierre d'âme de Phoenix](/fr/Items/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/fr/Items/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/fr/Items/unt_345/),  |
-  | 6 | **12%** | **5x** |  **100%** [Fée](/fr/Items/unt_262/),  |
+  | 1 | **25%** | **1x** | [Pack Élémentaire (édition limitée)](/ItemsFR/con_2141/) |
+  | 2 | **12%** | **2x** | [Pack Élémentaire (édition limitée)](/ItemsFR/con_2141/) |
+  | 3 | **12%** | **3x** | [Pack Élémentaire (édition limitée)](/ItemsFR/con_2141/) |
+  | 4 | **12%** | **5x** |  **31%** [Élémentaire de tempête](/ItemsFR/unt_263/),  **31%** [Élémentaire de glace](/ItemsFR/unt_264/),  **9%** [Oiseau de feu](/ItemsFR/unt_268/),  **9%** [Pierre d'âme de Phoenix](/ItemsFR/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/ItemsFR/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/ItemsFR/unt_345/),  |
+  | 5 | **12%** | **3x** |  **31%** [Élémentaire de tempête](/ItemsFR/unt_263/),  **31%** [Élémentaire de glace](/ItemsFR/unt_264/),  **9%** [Oiseau de feu](/ItemsFR/unt_268/),  **9%** [Pierre d'âme de Phoenix](/ItemsFR/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/ItemsFR/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/ItemsFR/unt_345/),  |
+  | 6 | **12%** | **5x** |  **100%** [Fée](/ItemsFR/unt_262/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pack Élémentaire (édition limitée)](/fr/Items/con_2141/) |
-  | 2 | **11%** | **5x** |  **31%** [Élémentaire de tempête](/fr/Items/unt_263/),  **31%** [Élémentaire de glace](/fr/Items/unt_264/),  **9%** [Oiseau de feu](/fr/Items/unt_268/),  **9%** [Pierre d'âme de Phoenix](/fr/Items/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/fr/Items/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/fr/Items/unt_345/),  |
-  | 3 | **11%** | **3x** |  **31%** [Élémentaire de tempête](/fr/Items/unt_263/),  **31%** [Élémentaire de glace](/fr/Items/unt_264/),  **9%** [Oiseau de feu](/fr/Items/unt_268/),  **9%** [Pierre d'âme de Phoenix](/fr/Items/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/fr/Items/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/fr/Items/unt_345/),  |
-  | 4 | **11%** | **5x** |  **100%** [Fée](/fr/Items/unt_262/),  |
+  | 1 | **55%** | **1x** | [Pack Élémentaire (édition limitée)](/ItemsFR/con_2141/) |
+  | 2 | **11%** | **5x** |  **31%** [Élémentaire de tempête](/ItemsFR/unt_263/),  **31%** [Élémentaire de glace](/ItemsFR/unt_264/),  **9%** [Oiseau de feu](/ItemsFR/unt_268/),  **9%** [Pierre d'âme de Phoenix](/ItemsFR/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/ItemsFR/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/ItemsFR/unt_345/),  |
+  | 3 | **11%** | **3x** |  **31%** [Élémentaire de tempête](/ItemsFR/unt_263/),  **31%** [Élémentaire de glace](/ItemsFR/unt_264/),  **9%** [Oiseau de feu](/ItemsFR/unt_268/),  **9%** [Pierre d'âme de Phoenix](/ItemsFR/unt_348/),  **9%** [Pierre d'âme de Rage foudroyante](/ItemsFR/unt_344/),  **9%** [Pierre d'âme d'Esprit de la neige silencieux](/ItemsFR/unt_345/),  |
+  | 4 | **11%** | **5x** |  **100%** [Fée](/ItemsFR/unt_262/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pack Élémentaire (édition limitée)](/fr/Items/con_2141/)
+  **Drop by 10x spin: X** [Pack Élémentaire (édition limitée)](/ItemsFR/con_2141/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pierre d'âme de Rage foudroyante](/fr/Items/unt_344/), [Pierre d'âme d'Esprit de la neige silencieux](/fr/Items/unt_345/), [Pierre d'âme d'Élémentaire de magie](/fr/Items/unt_347/), [Pierre d'âme de Phoenix](/fr/Items/unt_348/), [Pierre d'âme de Maître Farfadet](/fr/Items/unt_349/) | [Fée](/fr/Items/unt_262/), [Élémentaire de tempête](/fr/Items/unt_263/), [Élémentaire de glace](/fr/Items/unt_264/), [Élémentaire de l'esprit](/fr/Items/unt_267/), [Oiseau de feu](/fr/Items/unt_268/), [Farfadet](/fr/Items/unt_270/) |
+  | [Pierre d'âme de Rage foudroyante](/ItemsFR/unt_344/), [Pierre d'âme d'Esprit de la neige silencieux](/ItemsFR/unt_345/), [Pierre d'âme d'Élémentaire de magie](/ItemsFR/unt_347/), [Pierre d'âme de Phoenix](/ItemsFR/unt_348/), [Pierre d'âme de Maître Farfadet](/ItemsFR/unt_349/) | [Fée](/ItemsFR/unt_262/), [Élémentaire de tempête](/ItemsFR/unt_263/), [Élémentaire de glace](/ItemsFR/unt_264/), [Élémentaire de l'esprit](/ItemsFR/unt_267/), [Oiseau de feu](/ItemsFR/unt_268/), [Farfadet](/ItemsFR/unt_270/) |
 
 
 

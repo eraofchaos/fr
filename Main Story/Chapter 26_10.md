@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-10 Le pilier de l'Œil maléfique"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "Chapitre 26 - 10. Era of Chaos  Histoire principale - Chapitre 26_10. 26-10 Le pilier de l'Œil maléfique"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Chapter 26_10.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Récompense
 
- **Première récompense de complétion:** [Clé d'argent](/fr/Items/con_693/){: .btn .btn--era3}
+ **Première récompense de complétion:** [Clé d'argent](/ItemsFR/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Soufre stellaire +4](/fr/Items/mat_92/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Soufre stellaire +4](/ItemsFR/mat_92/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerai d'âme +3](/fr/Items/mat_82/){: .btn .btn--era5}, **40% 1x** [Minerai d'âme +3](/fr/Items/mat_82/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Minerai d'âme +3](/ItemsFR/mat_82/){: .btn .btn--era5}, **40% 1x** [Minerai d'âme +3](/ItemsFR/mat_82/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Parchemins de sorts](/fr/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

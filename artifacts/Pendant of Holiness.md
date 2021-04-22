@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Pendentif de pureté"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "Era of Chaos  Alliance angélique - Pendentif de pureté. Le collier d'un Ange. Composant de l'Alliance angélique."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: fr
 ref: "Pendant of Holiness.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essence d'artefact](/fr/Items/con_905/)
+ **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 
- **Related Item**: [Pendentif de pureté](/fr/Items/art_155/)
+ **Related Item**: [Pendentif de pureté](/ItemsFR/art_155/)
 
  **Quality:** [Orange Artifact Components](/fr/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

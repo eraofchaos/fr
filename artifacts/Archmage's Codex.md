@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Pendentif d'isolation](/fr/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Bâton d'interruption](/fr/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
-  |   | **Codex de l'Archimage** |  | 
-  | [Manteau d'abjuration](/fr/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   | [Anneau d'éclat](/fr/artifacts/Ring of Flares/){: .btn .btn--era4} | 
+  |  [Pendentif d'isolation](/fr/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   |  [Bâton d'interruption](/fr/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
+  |   | ![Codex de l'Archimage](/images/t/icon_artifact_34.png) **Codex de l'Archimage** |  | 
+  |  [Manteau d'abjuration](/fr/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   |  [Anneau d'éclat](/fr/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Détails

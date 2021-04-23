@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Armure en os](/images/t/artifact_40304.png)
+
 
 
 ## Détails
 
  **Description:** Un bouclier fait d'os extrêmement durs. Composant de l'Armure du Damné.
 
- **Part of Artifact:** [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armure du Damné](/images/t/icon_artifact_30.png) [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

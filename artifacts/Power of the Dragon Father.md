@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Jambières Dragon](/fr/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Collier dent de Dragon](/fr/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
-  | [Bouclier Dragon](/fr/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | **Puissance du Dragon patriarche** | [Couronne croc de Dragon](/fr/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
-  | [Lame ardente](/fr/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Armure Dragon](/fr/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+  |  [Jambières Dragon](/fr/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   |  [Collier dent de Dragon](/fr/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
+  |  [Bouclier Dragon](/fr/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | ![Puissance du Dragon patriarche](/images/t/icon_artifact_40.png) **Puissance du Dragon patriarche** |  [Couronne croc de Dragon](/fr/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  |  [Lame ardente](/fr/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Armure Dragon](/fr/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
 
 
 ## Détails

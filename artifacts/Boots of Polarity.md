@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Bottes du tigre](/images/t/artifact_40233.png)
+
 
 
 ## Détails
 
  **Description:** Des bottes ornées du symbole du yin et du yang. Composant de la Pierre runique antimagie.
 
- **Part of Artifact:** [Pierre runique antimagie](/fr/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Pierre runique antimagie](/images/t/icon_artifact_23.png) [Pierre runique antimagie](/fr/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 

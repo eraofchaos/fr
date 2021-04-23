@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Épée flamboyante](/images/t/artifact_40301.png)
+
 
 
 ## Détails
 
  **Description:** Une épée qui renferme une puissance ténébreuse. Composant de l'Armure du Damné.
 
- **Part of Artifact:** [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armure du Damné](/images/t/icon_artifact_30.png) [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

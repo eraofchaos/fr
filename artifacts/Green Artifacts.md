@@ -13,8 +13,8 @@ classes: wide
 
   |  Nr  |    Artifact    | Pieces |  Level | Description   |
   |:-----|:---------------|:------:|:------:|:--------------:|
-  | 1   | [Élixir de vie](/fr/artifacts/Elixir of Life/){: .btn .btn--era2} | 3 | 1 | Une relique sacrée qui renferme une immense force vitale. Augmente les PV d'une armée. |
-  | 2   | [Fer à cheval porte-bonheur](/fr/artifacts/Lucky Horseshoe/){: .btn .btn--era2} | 3 | 1 | Une relique sacrée qui déborde de puissance. Augmente l'attaque d'une armée. |
+  | 1   | ![Élixir de vie](/images/t/icon_artifact_11.png) [Élixir de vie](/fr/artifacts/Elixir of Life/){: .btn .btn--era2} | 3 | 1 | Une relique sacrée qui renferme une immense force vitale. Augmente les PV d'une armée. |
+  | 2   | ![Fer à cheval porte-bonheur](/images/t/icon_artifact_12.png) [Fer à cheval porte-bonheur](/fr/artifacts/Lucky Horseshoe/){: .btn .btn--era2} | 3 | 1 | Une relique sacrée qui déborde de puissance. Augmente l'attaque d'une armée. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/fr/artifacts/Artifacts Upgrade/)

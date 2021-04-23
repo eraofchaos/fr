@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Épée flamboyante](/fr/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | [Armure en os](/fr/artifacts/Bone Armour/){: .btn .btn--era4} | 
-  |   | **Armure du Damné** |  | 
-  | [Écu des ténèbres](/fr/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | [Casque noir](/fr/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Épée flamboyante](/images/t/artifact_40301.png) [Épée flamboyante](/fr/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armure en os](/images/t/artifact_40301.png) [Armure en os](/fr/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  |   | ![Armure du Damné](/images/t/icon_artifact_30.png) **Armure du Damné** |  | 
+  | ![Écu des ténèbres](/images/t/artifact_40301.png) [Écu des ténèbres](/fr/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Casque noir](/images/t/artifact_40301.png) [Casque noir](/fr/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Détails

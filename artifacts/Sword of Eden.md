@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Une épée forgée par la Première Civilisation. Celui qui la manie peut invoquer la foudre pour terrasser ses ennemis.
 
- **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Pomme d'Éden](/images/t/icon_artifact_49.png) [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Collier de constance](/fr/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | [Bague de constance](/fr/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
-  |   | **Anneau du Mage** |  | 
-  |   | [Cape de constance](/fr/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  | ![Collier de constance](/images/t/artifact_40221.png) [Collier de constance](/fr/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Bague de constance](/images/t/artifact_40221.png) [Bague de constance](/fr/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  |   | ![Anneau du Mage](/images/t/icon_artifact_22.png) **Anneau du Mage** |  | 
+  |   | ![Cape de constance](/images/t/artifact_40221.png) [Cape de constance](/fr/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Détails

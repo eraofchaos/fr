@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Bague de constance](/images/t/artifact_40222.png)
+
 
 
 ## Détails
 
  **Description:** Un anneau mystérieux imprégné d'une puissante magie. Composant de l'Anneau du Mage.
 
- **Part of Artifact:** [Anneau du Mage](/fr/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Anneau du Mage](/images/t/icon_artifact_22.png) [Anneau du Mage](/fr/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 

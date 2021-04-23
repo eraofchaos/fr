@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Hache des sommets](/images/t/artifact_40444.png)
+
 
 
 ## Détails
 
  **Description:** Une relique abandonnée par le roi des Nains après la bataille d'Enroth. Composant de la Lame d'Armageddon.
 
- **Part of Artifact:** [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lame d'Armageddon](/images/t/icon_artifact_44.png) [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

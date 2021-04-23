@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Anneau de vitalité](/fr/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | [Anneau de vie](/fr/artifacts/Ring of Life/){: .btn .btn--era2} | 
-  |   | **Élixir de vie** |  | 
-  |   | [Potion d'énergie](/fr/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  | ![Anneau de vitalité](/images/t/artifact_40111.png) [Anneau de vitalité](/fr/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anneau de vie](/images/t/artifact_40111.png) [Anneau de vie](/fr/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  |   | ![Élixir de vie](/images/t/icon_artifact_11.png) **Élixir de vie** |  | 
+  |   | ![Potion d'énergie](/images/t/artifact_40111.png) [Potion d'énergie](/fr/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Détails

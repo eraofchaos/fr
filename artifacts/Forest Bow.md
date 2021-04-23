@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Arc sylvestre](/images/t/artifact_40442.png)
+
 
 
 ## Détails
 
  **Description:** Un arc fréquemment utilisé par les Elfes sylvaines. Composant de la Lame d'Armageddon.
 
- **Part of Artifact:** [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lame d'Armageddon](/images/t/icon_artifact_44.png) [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

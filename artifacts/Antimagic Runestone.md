@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Talisman de turbulence](/fr/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | [Cape d'harmonie](/fr/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
-  |   | **Pierre runique antimagie** |  | 
-  |   | [Bottes du tigre](/fr/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  | ![Talisman de turbulence](/images/t/artifact_40231.png) [Talisman de turbulence](/fr/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Cape d'harmonie](/images/t/artifact_40231.png) [Cape d'harmonie](/fr/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  |   | ![Pierre runique antimagie](/images/t/icon_artifact_23.png) **Pierre runique antimagie** |  | 
+  |   | ![Bottes du tigre](/images/t/artifact_40231.png) [Bottes du tigre](/fr/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Détails

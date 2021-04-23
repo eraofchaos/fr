@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Bouclier cœur de lion](/fr/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | [Pendentif de pureté](/fr/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  | [Épée de justice](/fr/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Alliance angélique** | [Armure miraculeuse](/fr/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  | [Heaume de l'illumination](/fr/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | [Sandales sacrées](/fr/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Bouclier cœur de lion](/fr/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Pendentif de pureté](/fr/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  |  [Épée de justice](/fr/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alliance angélique](/images/t/icon_artifact_41.png) **Alliance angélique** |  [Armure miraculeuse](/fr/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  |  [Heaume de l'illumination](/fr/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandales sacrées](/fr/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Détails

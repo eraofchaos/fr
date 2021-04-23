@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Traité de l'eau](/images/t/artifact_40462.png)
+
 
 
 ## Détails
 
  **Description:** Un livre de sort portant sur la pratique avancée de la magie de l'eau. Il vous a été remis par Adelaïde. Composant du Chapeau des sages.
 
- **Part of Artifact:** [Chapeau des sages](/fr/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Chapeau des sages](/images/t/icon_artifact_46.png) [Chapeau des sages](/fr/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 

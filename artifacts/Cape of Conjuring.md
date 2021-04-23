@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Cape de constance](/images/t/artifact_40223.png)
+
 
 
 ## Détails
 
  **Description:** Une cape qui crépite de puissance magique. Composant de l'Anneau du Mage.
 
- **Part of Artifact:** [Anneau du Mage](/fr/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Anneau du Mage](/images/t/icon_artifact_22.png) [Anneau du Mage](/fr/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 

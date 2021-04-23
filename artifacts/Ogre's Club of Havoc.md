@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Gourdin massacreur](/images/t/artifact_40311.png)
+
 
 
 ## Détails
 
  **Description:** Un gourdin volé à un capitaine Ogre dans une taverne de voyageurs. Composant de la Hache de férocité.
 
- **Part of Artifact:** [Hache de férocité](/fr/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Hache de férocité](/images/t/icon_artifact_31.png) [Hache de férocité](/fr/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

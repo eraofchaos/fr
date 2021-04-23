@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Oiseau moqueur](/fr/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Anneau de vue perçante](/fr/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |  [Oiseau moqueur](/fr/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Anneau de vue perçante](/fr/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
   |   | **Œil de faucon vivant** |  | 
-  | [Guetteur](/fr/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Médaille de vérité](/fr/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  |  [Guetteur](/fr/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Médaille de vérité](/fr/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Détails

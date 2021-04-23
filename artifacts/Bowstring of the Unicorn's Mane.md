@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Corde Immaculée](/images/t/artifact_40103.png)
+
 
 
 ## Détails
 
  **Description:** Une crinière offerte aux Elfes par une bête sacrée. Composant de l'Arc du tireur d'élite.
 
- **Part of Artifact:** [Arc du tireur d'élite](/fr/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Arc du tireur d'élite](/images/t/icon_artifact_10.png) [Arc du tireur d'élite](/fr/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Traité de l'air](/images/t/artifact_40463.png)
+
 
 
 ## Détails
 
  **Description:** Un livre de sort portant sur la pratique avancée de la magie de l'air. Vous sentez la présence de l'Élémentaire d'air en le lisant. Composant du Chapeau des sages.
 
- **Part of Artifact:** [Chapeau des sages](/fr/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Chapeau des sages](/images/t/icon_artifact_46.png) [Chapeau des sages](/fr/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 

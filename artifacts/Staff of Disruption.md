@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Un bâton renfermant un puissant pouvoir. L'un des Codex de l'Archimage.
 
- **Part of Artifact:** [Codex de l'Archimage](/fr/artifacts/Archmage's Codex/){: .btn .btn--era4}
+ **Part of Artifact:** ![Codex de l'Archimage](/images/t/icon_artifact_34.png) [Codex de l'Archimage](/fr/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

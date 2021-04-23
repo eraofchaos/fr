@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Arc elfique](/images/t/artifact_40101.png)
+
 
 
 ## Détails
 
  **Description:** Un arc long taillé dans du bois par les Elfes. Composant de l'Arc du tireur d'élite.
 
- **Part of Artifact:** [Arc du tireur d'élite](/fr/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Arc du tireur d'élite](/images/t/icon_artifact_10.png) [Arc du tireur d'élite](/fr/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

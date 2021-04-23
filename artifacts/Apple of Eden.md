@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Boule de cristal](/fr/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Suaire d'Éden](/fr/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
-  | [Crâne de cristal](/fr/artifacts/Crystal Skull/){: .btn .btn--era5} | **Pomme d'Éden** | [Épée d'Éden](/fr/artifacts/Sword of Eden/){: .btn .btn--era5} | 
-  | [Ankh](/fr/artifacts/Ankh/){: .btn .btn--era5} |   | [Le Bâton](/fr/artifacts/Staff of Eden/){: .btn .btn--era5} | 
+  |  [Boule de cristal](/fr/artifacts/Crystal Ball/){: .btn .btn--era5} |   |  [Suaire d'Éden](/fr/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
+  |  [Crâne de cristal](/fr/artifacts/Crystal Skull/){: .btn .btn--era5} | ![Pomme d'Éden](/images/t/icon_artifact_49.png) **Pomme d'Éden** |  [Épée d'Éden](/fr/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  |  [Ankh](/fr/artifacts/Ankh/){: .btn .btn--era5} |   |  [Le Bâton](/fr/artifacts/Staff of Eden/){: .btn .btn--era5} | 
 
 
 ## Détails

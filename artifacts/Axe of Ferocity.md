@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Gourdin massacreur](/fr/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Vareuse du roi cyclope](/fr/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
-  |   | **Hache de férocité** |  | 
-  | [Targe de la dévastation](/fr/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Couronne suprême](/fr/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Gourdin massacreur](/images/t/artifact_40311.png) [Gourdin massacreur](/fr/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Vareuse du roi cyclope](/images/t/artifact_40311.png) [Vareuse du roi cyclope](/fr/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  |   | ![Hache de férocité](/images/t/icon_artifact_31.png) **Hache de férocité** |  | 
+  | ![Targe de la dévastation](/images/t/artifact_40311.png) [Targe de la dévastation](/fr/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Couronne suprême](/images/t/artifact_40311.png) [Couronne suprême](/fr/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Détails

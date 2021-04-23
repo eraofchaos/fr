@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Amulette de mana](/fr/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Charme magique](/fr/artifacts/Magic Charm/){: .btn .btn--era3} | 
-  |   | **Puits de magie** |  | 
-  |   | [Orbe mystique de mana](/fr/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  | ![Amulette de mana](/images/t/artifact_40211.png) [Amulette de mana](/fr/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Charme magique](/images/t/artifact_40211.png) [Charme magique](/fr/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  |   | ![Puits de magie](/images/t/icon_artifact_21.png) **Puits de magie** |  | 
+  |   | ![Orbe mystique de mana](/images/t/artifact_40211.png) [Orbe mystique de mana](/fr/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Détails

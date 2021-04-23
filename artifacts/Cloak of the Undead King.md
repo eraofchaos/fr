@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Amulette du fossoyeur](/fr/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | [Cape d'harmonie](/fr/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
-  |   | **Manteau du roi des Non-Morts** |  | 
-  |   | [Bottes du passeur](/fr/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  | ![Amulette du fossoyeur](/images/t/artifact_40321.png) [Amulette du fossoyeur](/fr/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Cape d'harmonie](/images/t/artifact_40321.png) [Cape d'harmonie](/fr/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  |   | ![Manteau du roi des Non-Morts](/images/t/icon_artifact_32.png) **Manteau du roi des Non-Morts** |  | 
+  |   | ![Bottes du passeur](/images/t/artifact_40321.png) [Bottes du passeur](/fr/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Détails

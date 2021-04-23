@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Un crâne de cristal façonné par une civilisation inconnue. Il peut sonder le cœur des hommes.
 
- **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Pomme d'Éden](/images/t/icon_artifact_49.png) [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

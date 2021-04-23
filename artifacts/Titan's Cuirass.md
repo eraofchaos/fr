@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Une armure faite du minerai d'un météore. Composant du Tonnerre des Titans.
 
- **Part of Artifact:** [Tonnerre des Titans](/fr/artifacts/Titan's Thunder/){: .btn .btn--era5}
+ **Part of Artifact:** ![Tonnerre des Titans](/images/t/icon_artifact_42.png) [Tonnerre des Titans](/fr/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 

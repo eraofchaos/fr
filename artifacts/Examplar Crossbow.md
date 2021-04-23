@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Arbalète exemplaire](/images/t/artifact_40446.png)
+
 
 
 ## Détails
 
  **Description:** Un artefact utilisé par le Héros Gelu dans sa jeunesse. Composant de la Lame d'Armageddon.
 
- **Part of Artifact:** [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lame d'Armageddon](/images/t/icon_artifact_44.png) [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

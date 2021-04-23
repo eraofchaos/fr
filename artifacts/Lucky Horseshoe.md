@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Trèfle à 4 feuilles](/fr/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | [Cartes du destin](/fr/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
-  |   | **Fer à cheval porte-bonheur** |  | 
-  |   | [Scarabée enchanté](/fr/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  | ![Trèfle à 4 feuilles](/images/t/artifact_40121.png) [Trèfle à 4 feuilles](/fr/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Cartes du destin](/images/t/artifact_40121.png) [Cartes du destin](/fr/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  |   | ![Fer à cheval porte-bonheur](/images/t/icon_artifact_12.png) **Fer à cheval porte-bonheur** |  | 
+  |   | ![Scarabée enchanté](/images/t/artifact_40121.png) [Scarabée enchanté](/fr/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Détails

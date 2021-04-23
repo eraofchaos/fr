@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Targe de la dévastation](/images/t/artifact_40312.png)
+
 
 
 ## Détails
 
  **Description:** Butin pris sur le cadavre d'un lieutenant Ogre. Composant de la Hache de férocité.
 
- **Part of Artifact:** [Hache de férocité](/fr/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Hache de férocité](/images/t/icon_artifact_31.png) [Hache de férocité](/fr/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

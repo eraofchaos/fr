@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Un objet en forme de croix qui confère l'immortalité. Nul ne sait ce qu'il est advenu de son ancien propriétaire.
 
- **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Pomme d'Éden](/images/t/icon_artifact_49.png) [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Marteau de Guerrier](/images/t/artifact_40445.png)
+
 
 
 ## Détails
 
  **Description:** Un marteau d'armes caché sur la crête du Géant. Composant de la Lame d'Armageddon.
 
- **Part of Artifact:** [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lame d'Armageddon](/images/t/icon_artifact_44.png) [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

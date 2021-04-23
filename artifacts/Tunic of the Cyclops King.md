@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Vareuse du roi cyclope](/images/t/artifact_40314.png)
+
 
 
 ## Détails
 
  **Description:** Une tunique perdue par un Cyclope nageur. Composant de la Hache de férocité.
 
- **Part of Artifact:** [Hache de férocité](/fr/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Hache de férocité](/images/t/icon_artifact_31.png) [Hache de férocité](/fr/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

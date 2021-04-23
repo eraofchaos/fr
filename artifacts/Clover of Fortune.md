@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Trèfle à 4 feuilles](/images/t/artifact_40121.png)
+
 
 
 ## Détails
 
  **Description:** Un trèfle qui apporte la chance à celui qui le détient. Composant du Fer à cheval porte-bonheur.
 
- **Part of Artifact:** [Fer à cheval porte-bonheur](/fr/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
+ **Part of Artifact:** ![Fer à cheval porte-bonheur](/images/t/icon_artifact_12.png) [Fer à cheval porte-bonheur](/fr/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Essence d'artefact](/ItemsFR/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Épée de chevalier](/images/t/artifact_40441.png)
+
 
 
 ## Détails
 
  **Description:** Une épée utilisée par les Héros du château. Composant de la Lame d'Armageddon.
 
- **Part of Artifact:** [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lame d'Armageddon](/images/t/icon_artifact_44.png) [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

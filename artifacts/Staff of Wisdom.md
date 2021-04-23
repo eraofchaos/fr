@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Bâton de sagesse](/images/t/artifact_40443.png)
+
 
 
 ## Détails
 
  **Description:** Une relique qui protège le Bouclier de glace. Composant de la Lame d'Armageddon.
 
- **Part of Artifact:** [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lame d'Armageddon](/images/t/icon_artifact_44.png) [Lame d'Armageddon](/fr/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

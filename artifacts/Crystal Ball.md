@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Une boule de cristal brillante. Selon la légende, elle permet de lire l'avenir.
 
- **Part of Artifact:** [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Pomme d'Éden](/images/t/icon_artifact_49.png) [Pomme d'Éden](/fr/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

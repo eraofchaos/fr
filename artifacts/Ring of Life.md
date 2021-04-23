@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Anneau de vie](/images/t/artifact_40112.png)
+
 
 
 ## Détails
 
  **Description:** Un anneau qui donne une grande vitalité à son porteur. Composant de l'Élixir de vie.
 
- **Part of Artifact:** [Élixir de vie](/fr/artifacts/Elixir of Life/){: .btn .btn--era2}
+ **Part of Artifact:** ![Élixir de vie](/images/t/icon_artifact_11.png) [Élixir de vie](/fr/artifacts/Elixir of Life/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Essence d'artefact](/ItemsFR/con_905/)
 

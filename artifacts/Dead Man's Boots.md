@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Bottes du passeur](/images/t/artifact_40323.png)
+
 
 
 ## Détails
 
  **Description:** Des bottes qui rendent leur porteur rapide comme le vent. Composant du Manteau du roi des Non-Morts.
 
- **Part of Artifact:** [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Manteau du roi des Non-Morts](/images/t/icon_artifact_32.png) [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

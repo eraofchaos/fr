@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Hache du Minotaure](/fr/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Bâton des Limbes](/fr/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  | [Trident des abysses](/fr/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Épée de givre** | [Bâton d'Ogre](/fr/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  | [Bâton de flétrissement](/fr/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Bouclier cristallin](/fr/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  |  [Hache du Minotaure](/fr/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Bâton des Limbes](/fr/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  |  [Trident des abysses](/fr/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Épée de givre** |  [Bâton d'Ogre](/fr/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  |  [Bâton de flétrissement](/fr/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Bouclier cristallin](/fr/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Détails

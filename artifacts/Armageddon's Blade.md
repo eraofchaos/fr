@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Arc sylvestre](/fr/artifacts/Forest Bow/){: .btn .btn--era5} |   | [Arbalète exemplaire](/fr/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | [Épée de chevalier](/fr/artifacts/Knight Sword/){: .btn .btn--era5} | **Lame d'Armageddon** | [Hache des sommets](/fr/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | [Bâton de sagesse](/fr/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | [Marteau de Guerrier](/fr/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Arc sylvestre](/images/t/artifact_40441.png) [Arc sylvestre](/fr/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Arbalète exemplaire](/images/t/artifact_40441.png) [Arbalète exemplaire](/fr/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Épée de chevalier](/images/t/artifact_40441.png) [Épée de chevalier](/fr/artifacts/Knight Sword/){: .btn .btn--era5} | ![Lame d'Armageddon](/images/t/icon_artifact_44.png) **Lame d'Armageddon** | ![Hache des sommets](/images/t/artifact_40441.png) [Hache des sommets](/fr/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Bâton de sagesse](/images/t/artifact_40441.png) [Bâton de sagesse](/fr/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Marteau de Guerrier](/images/t/artifact_40441.png) [Marteau de Guerrier](/fr/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Détails

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Une épée faite de cristaux de Dragon de feu. Composant de la Puissance du Dragon patriarche.
 
- **Part of Artifact:** [Puissance du Dragon patriarche](/fr/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
+ **Part of Artifact:** ![Puissance du Dragon patriarche](/images/t/icon_artifact_40.png) [Puissance du Dragon patriarche](/fr/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

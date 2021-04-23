@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Cape d'harmonie](/images/t/artifact_40322.png)
+
 
 
 ## Détails
 
  **Description:** La précieuse cape d'un Vampire. Composant du Manteau du roi des Non-Morts.
 
- **Part of Artifact:** [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Manteau du roi des Non-Morts](/images/t/icon_artifact_32.png) [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

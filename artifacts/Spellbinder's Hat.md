@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Traité du feu](/fr/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | [Traité de la terre](/fr/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
-  |   | **Chapeau des sages** |  | 
-  | [Traité de l'eau](/fr/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | [Traité de l'air](/fr/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Traité du feu](/images/t/artifact_40461.png) [Traité du feu](/fr/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Traité de la terre](/images/t/artifact_40461.png) [Traité de la terre](/fr/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  |   | ![Chapeau des sages](/images/t/icon_artifact_46.png) **Chapeau des sages** |  | 
+  | ![Traité de l'eau](/images/t/artifact_40461.png) [Traité de l'eau](/fr/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Traité de l'air](/images/t/artifact_40461.png) [Traité de l'air](/fr/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Détails

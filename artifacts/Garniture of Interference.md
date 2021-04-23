@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Talisman de turbulence](/images/t/artifact_40231.png)
+
 
 
 ## Détails
 
  **Description:** Un collier orné du symbole du yin et du yang. Composant de la Pierre runique antimagie.
 
- **Part of Artifact:** [Pierre runique antimagie](/fr/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Pierre runique antimagie](/images/t/icon_artifact_23.png) [Pierre runique antimagie](/fr/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Arc elfique](/fr/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | [Flèches angéliques](/fr/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
-  |   | **Arc du tireur d'élite** |  | 
-  |   | [Corde Immaculée](/fr/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  | ![Arc elfique](/images/t/artifact_40101.png) [Arc elfique](/fr/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Flèches angéliques](/images/t/artifact_40101.png) [Flèches angéliques](/fr/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  |   | ![Arc du tireur d'élite](/images/t/icon_artifact_10.png) **Arc du tireur d'élite** |  | 
+  |   | ![Corde Immaculée](/images/t/artifact_40101.png) [Corde Immaculée](/fr/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Détails

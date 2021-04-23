@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Écu des ténèbres](/images/t/artifact_40302.png)
+
 
 
 ## Détails
 
  **Description:** Un bouclier fait d'os de Non-Morts. Composant de l'Armure du Damné.
 
- **Part of Artifact:** [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armure du Damné](/images/t/icon_artifact_30.png) [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

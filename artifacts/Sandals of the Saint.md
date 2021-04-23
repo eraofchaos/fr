@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Une relique sacrée qui a été créée en l'honneur de l'unification d'Erathia. Composant de l'Alliance angélique.
 
- **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
+ **Part of Artifact:** ![Alliance angélique](/images/t/icon_artifact_41.png) [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

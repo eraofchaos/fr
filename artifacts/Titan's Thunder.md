@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Glaive des Titans](/fr/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Cuirasse des Titans](/fr/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
-  |   | **Tonnerre des Titans** |  | 
-  | [Bouclier sentinelle](/fr/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Heaume spirituel](/fr/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
+  |  [Glaive des Titans](/fr/artifacts/Titan's Gladius/){: .btn .btn--era5} |   |  [Cuirasse des Titans](/fr/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
+  |   | ![Tonnerre des Titans](/images/t/icon_artifact_42.png) **Tonnerre des Titans** |  | 
+  |  [Bouclier sentinelle](/fr/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   |  [Heaume spirituel](/fr/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
 
 
 ## Détails

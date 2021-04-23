@@ -47,7 +47,7 @@ classes: wide
   | 34 | ![Sephinroth](/images/h/h_Sephinroth.jpg) | [Sephinroth](/fr/heroes/Sephinroth/) | Donjon | Mage de guerre | **R** |  Regard de cristal | R |
   | 35 | ![Shiva](/images/h/h_Shiwa.jpg) | [Shiva](/fr/heroes/Shiva/) | Bastion | Barbare | **R** |  Porteur du tonnerre | R |
   | 36 | ![Solmyr](/images/h/h_Solmyr.jpg) | [Solmyr](/fr/heroes/Solmyr/) | Tour | Magicien | **SR+** |  Foudre terrible | SR |
-  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/fr/heroes/Tazar/) | Forteresse | Maître des bêtes | **SSR** |  Rage sanguinaire | SR |
+  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/fr/heroes/Tazar/) | Forteresse | Maître des bêtes | **SSR** |  Rage sanguinaire | SSR |
   | 38 | ![Vidomina](/images/h/h_Vidomina.jpg) | [Vidomina](/fr/heroes/Vidomina/) | Nécropole | Nécromancien | **SR+** |  Nécromancien | R |
   | 39 | ![Wystan](/images/h/h_Wystan.jpg) | [Wystan](/fr/heroes/Wystan/) | Forteresse | Maître des bêtes | **R** |  Chasseur des marais | R |
   | 40 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/fr/heroes/Xeron/) | Hadès | Démoniaque | **SSR** |  Archidiable | SSR |

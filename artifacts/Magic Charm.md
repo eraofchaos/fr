@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Charme magique](/images/t/artifact_40212.png)
+
 
 
 ## Détails
 
  **Description:** Un charme imprégné d'énergie magique. Composant du Puits de magie.
 
- **Part of Artifact:** [Puits de magie](/fr/artifacts/Wizard's Well/){: .btn .btn--era3}
+ **Part of Artifact:** ![Puits de magie](/images/t/icon_artifact_21.png) [Puits de magie](/fr/artifacts/Wizard's Well/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essence d'artefact](/ItemsFR/con_905/)
 

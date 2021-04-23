@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Amulette du fossoyeur](/images/t/artifact_40321.png)
+
 
 
 ## Détails
 
  **Description:** Un charme protecteur utilisé par une Liche. Composant du Manteau du roi des Non-Morts.
 
- **Part of Artifact:** [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Manteau du roi des Non-Morts](/images/t/icon_artifact_32.png) [Manteau du roi des Non-Morts](/fr/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

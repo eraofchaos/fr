@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Une armure qui a été témoin de l'apogée de l'Empire. Composant de l'Alliance angélique.
 
- **Part of Artifact:** [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
+ **Part of Artifact:** ![Alliance angélique](/images/t/icon_artifact_41.png) [Alliance angélique](/fr/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essence d'artefact](/ItemsFR/con_905/)
 

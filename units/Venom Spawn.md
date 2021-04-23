@@ -3,7 +3,7 @@ title: "Progéniture venimeuse"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces démons sont nés des flammes et des ombres des tréfonds de l'enfer. La légende raconte que ce sont les effroyables cauchemars qui calcinent les champs de bataille de leurs flammes karmiques du péché."
 unitID: 509
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Progéniture venimeuse"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/fr/Items/unt_234/)
+ **Unit Soul:** [Tool_3509](/ItemsFR/unt_234/)
 
  **Short description:** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
 
@@ -235,7 +235,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

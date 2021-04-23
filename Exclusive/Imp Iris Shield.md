@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Imp)"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Diablotin Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Imp Bouclier iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Diablotin](/fr/units/Imp/) 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Langue de feu> : Le Diablotin inflige des dégâts équivalents à 300 % de son ATQ ainsi que Brûlure pendant 6 secondes. Le temps de recharge est de 20 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la résistance magique du Diablotin de 25 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la DÉF du Diablotin de 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Armure vaillante> : Lorsque les PV du Diablotin tombent à 60 % et 30 % pour la première fois, il reçoit un bouclier égal à 20 % de ses PV max et sa ténacité augmente de 150 pendant 20 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente les PV du Diablotin de 20 % et sa ténacité de 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la résistance aux dégâts d'unité du Diablotin de 2 % et sa ténacité de 30 à chaque fois qu'une unité de l'Hadès est déployée. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Forme flexible> : À chaque esquive du Diablotin, a 25 % de chance de récupérer une quantité de PV égale à 3 % de ses PV max et d'augmenter l'ATQ de 5 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 250 %. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Langue de feu> : Le Diablotin inflige des dégâts équivalents à 300 % de son ATQ ainsi que Brûlure pendant 6 secondes. Le temps de recharge est de 20 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la résistance magique du Diablotin de 25 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la DÉF du Diablotin de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Armure vaillante> : Lorsque les PV du Diablotin tombent à 60 % et 30 % pour la première fois, il reçoit un bouclier égal à 20 % de ses PV max et sa ténacité augmente de 150 pendant 20 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente les PV du Diablotin de 20 % et sa ténacité de 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la résistance aux dégâts d'unité du Diablotin de 2 % et sa ténacité de 30 à chaque fois qu'une unité de l'Hadès est déployée. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Forme flexible> : À chaque esquive du Diablotin, a 25 % de chance de récupérer une quantité de PV égale à 3 % de ses PV max et d'augmenter l'ATQ de 5 % pendant 5 secondes. L'effet peut se cumuler jusqu'à 250 %. |
 
 
 ## Améliorer

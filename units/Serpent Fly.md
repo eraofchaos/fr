@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Guêpe serpent"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Guêpe serpent](/fr/Items/unt_255/)
+ **Unit Soul:** [Guêpe serpent](/ItemsFR/unt_255/)
 
  **Short description:** Affaiblit et contrôle la ligne arrière.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -190,7 +190,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

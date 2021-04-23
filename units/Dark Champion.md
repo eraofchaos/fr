@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Champion des ténèbres"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Champion des ténèbres](/fr/Items/unt_216/)
+ **Unit Soul:** [Champion des ténèbres](/ItemsFR/unt_216/)
 
  **Short description:** Exécute. Invincibilité dans son propre domaine.
 
@@ -177,7 +177,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

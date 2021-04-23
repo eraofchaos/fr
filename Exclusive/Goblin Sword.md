@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Goblin)"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gobelin Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Goblin Épée.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Gobelin](/fr/units/Goblin/) 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Épée](/fr/Items/con_912/) | <Ébouleur> : Le Gobelin inflige des dégâts équivalents à 300 % de son ATQ toutes les 15 secondes et inflige Saignement à sa cible pendant 7 secondes. Si l'unité cible est victime de Surchauffe, sa DÉF est réduite de 15 % pendant 5 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/fr/Items/con_912/) | Augmente les PV du Gobelin de 20 % et son esquive de 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/fr/Items/con_912/) | Augmente les coups critiques du Gobelin de 150 face à des unités qui ont moins de 70 % de leurs PV. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/fr/Items/con_912/) | <Pris de court> : Lorsque l'attaque du Gobelin est esquivée, le Gobelin inflige des dégâts équivalents à 100 % de son ATQ et diminue la DÉF de la cible de 4 % pendant 8 secondes. Le temps de recharge est de 2 secondes. L'effet peut se cumuler jusqu'à 4 fois. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/fr/Items/con_912/) | Augmente la vitesse d'attaque du Gobelin de 15 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/fr/Items/con_912/) | Augmente les dégâts d'unité de 4 % pour chaque unité du Bastion présente sur le champ de bataille. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/fr/Items/con_912/) | <Ébouleur déchaîné> : Lorsque le Gobelin assène un coup critique, il a 5 % de chance de déclencher <Ébouleur>. Le temps de recharge est de 4 secondes. |
+  |  Réveil  | **100x** [Jeton Épée](/ItemsFR/con_912/) | <Ébouleur> : Le Gobelin inflige des dégâts équivalents à 300 % de son ATQ toutes les 15 secondes et inflige Saignement à sa cible pendant 7 secondes. Si l'unité cible est victime de Surchauffe, sa DÉF est réduite de 15 % pendant 5 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/ItemsFR/con_912/) | Augmente les PV du Gobelin de 20 % et son esquive de 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/ItemsFR/con_912/) | Augmente les coups critiques du Gobelin de 150 face à des unités qui ont moins de 70 % de leurs PV. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/ItemsFR/con_912/) | <Pris de court> : Lorsque l'attaque du Gobelin est esquivée, le Gobelin inflige des dégâts équivalents à 100 % de son ATQ et diminue la DÉF de la cible de 4 % pendant 8 secondes. Le temps de recharge est de 2 secondes. L'effet peut se cumuler jusqu'à 4 fois. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/ItemsFR/con_912/) | Augmente la vitesse d'attaque du Gobelin de 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/ItemsFR/con_912/) | Augmente les dégâts d'unité de 4 % pour chaque unité du Bastion présente sur le champ de bataille. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/ItemsFR/con_912/) | <Ébouleur déchaîné> : Lorsque le Gobelin assène un coup critique, il a 5 % de chance de déclencher <Ébouleur>. Le temps de recharge est de 4 secondes. |
 
 
 ## Améliorer

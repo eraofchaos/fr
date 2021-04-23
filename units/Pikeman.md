@@ -3,7 +3,7 @@ title: "Lancier"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Lancier"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Lancier](/fr/Items/unt_190/)
+ **Unit Soul:** [Lancier](/ItemsFR/unt_190/)
 
  **Unit description:** Nuée de lances : inflige des dégâts aux unités ennemies et les étourdit.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

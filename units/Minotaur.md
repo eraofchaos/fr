@@ -3,7 +3,7 @@ title: "Minotaure"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare."
 unitID: 705
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Minotaure"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Minotaure](/fr/Items/unt_248/)
+ **Unit Soul:** [Minotaure](/ItemsFR/unt_248/)
 
  **Unit description:** Tourbillon : inflige des dégâts de zone et diminue la vitesse d'ATQ.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

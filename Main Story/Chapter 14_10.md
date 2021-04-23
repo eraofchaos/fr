@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-10 Manipulation dans l'ombre"
 permalink: /Main Story/Chapter 14_10/
 excerpt: "Chapitre 14 - 10. Era of Chaos  Histoire principale - Chapitre 14_10. 14-10 Manipulation dans l'ombre"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 14_10.md"
 toc: false

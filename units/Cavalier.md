@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Cavalier"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Cavalier ](/fr/Items/unt_195/)
+ **Unit Soul:** [Cavalier ](/ItemsFR/unt_195/)
 
  **Unit description:** Joute : inflige des dégâts conséquents et étourdit l'ennemi si elle est utilisée comme première attaque.
 
@@ -88,7 +88,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 
 * ?!? 
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Wivern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Wivern"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Wivern](/fr/Items/unt_258/)
+ **Unit Soul:** [Wivern](/ItemsFR/unt_258/)
 
  **Short description:** Attaques de mêlée puissantes. Toxique.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Queue de Wivern](/fr/Items/con_996/)
+ **Item to Rang supérieur:** [Jeton Queue de Wivern](/ItemsFR/con_996/)
 
- **Skin:** [Skin spécial Queue de Wivern](/fr/Items/con_664/)
+ **Skin:** [Skin spécial Queue de Wivern](/ItemsFR/con_664/)
 
 
 ## Emblèmes sacrés recommandés
@@ -172,7 +172,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

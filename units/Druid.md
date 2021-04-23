@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Druidesse"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Druidesse](/fr/Items/unt_206/)
+ **Unit Soul:** [Druidesse](/ItemsFR/unt_206/)
 
  **Unit description:** Chromosphère sylvestre : immunise les unités situées dans son cercle magique contre les dégâts magiques.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bâton de renouveau](/fr/Items/con_977/)
+ **Item to Rang supérieur:** [Jeton Bâton de renouveau](/ItemsFR/con_977/)
 
- **Skin:** [Skin spécial Bâton de renouveau](/fr/Items/con_645/)
+ **Skin:** [Skin spécial Bâton de renouveau](/ItemsFR/con_645/)
 
 
 ## Emblèmes sacrés recommandés
@@ -174,7 +174,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

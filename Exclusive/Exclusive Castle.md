@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Exclusif Castle. Exclusif Castle. List of Exclusif Castle in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Exclusive Castle"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Lancier](/fr/units/Pikeman/) | [Épée](/fr/Exclusive/Pikeman Sword/) | - | Assaut | [Jeton Épée](/fr/Items/con_912/) | - |
-  | 2  | [Grand Arbalétrier](/fr/units/Marksman/) | [Arc long](/fr/Exclusive/Marksman Long Bow/) | - | Assaut | [Jeton Arc long](/fr/Items/con_914/) | - |
-  | 3  | [Griffon](/fr/units/Griffin/) | [Pic du Chevalier](/fr/Exclusive/Griffin Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/fr/Items/con_916/) | - |
-  | 4  | [Spadassin](/fr/units/Swordsman/) | [Bouclier iris](/fr/Exclusive/Swordsman Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/fr/Items/con_913/) | - |
-  | 5  | [Moine](/fr/units/Monk/) | [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/fr/Items/con_915/) | - |
-  | 6  | [Cavalier](/fr/units/Cavalier/) | [Pic du Chevalier](/fr/Exclusive/Cavalier Knight Pike/) | + | Assaut | [Jeton Pic du Chevalier](/fr/Items/con_916/) | - |
-  | 7  | [Ange](/fr/units/Angel/) | [Durandel](/fr/Exclusive/Angel Durandel/) | - | Soutien | [Jeton Durandel](/fr/Items/con_973/) | [Skin spécial Durandel](/fr/Items/con_641/) |
-  | 8  | [Paladin](/fr/units/Paladin/) | [](/fr/Exclusive/Paladin /) | - | Soutien | [Jeton Intrépide](/fr/Items/con_974/) | [Skin spécial Intrépide](/fr/Items/con_642/) |
-  | 9  | [Adjudicatrice](/fr/units/Judicator/) | [](/fr/Exclusive/Judicator /) | - | Capitale | [Étendard spirituel Radiance sainte](/fr/Items/con_975/) | [Tool_210909](/fr/Items/con_643/) |
+  | 1  | [Lancier](/fr/units/Pikeman/) | [Épée](/fr/Exclusive/Pikeman Sword/) | - | Assaut | [Jeton Épée](/ItemsFR/con_912/) | - |
+  | 2  | [Grand Arbalétrier](/fr/units/Marksman/) | [Arc long](/fr/Exclusive/Marksman Long Bow/) | - | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
+  | 3  | [Griffon](/fr/units/Griffin/) | [Pic du Chevalier](/fr/Exclusive/Griffin Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
+  | 4  | [Spadassin](/fr/units/Swordsman/) | [Bouclier iris](/fr/Exclusive/Swordsman Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
+  | 5  | [Moine](/fr/units/Monk/) | [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
+  | 6  | [Cavalier](/fr/units/Cavalier/) | [Pic du Chevalier](/fr/Exclusive/Cavalier Knight Pike/) | + | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
+  | 7  | [Ange](/fr/units/Angel/) | [Durandel](/fr/Exclusive/Angel Durandel/) | - | Soutien | [Jeton Durandel](/ItemsFR/con_973/) | [Skin spécial Durandel](/ItemsFR/con_641/) |
+  | 8  | [Paladin](/fr/units/Paladin/) | [](/fr/Exclusive/Paladin /) | - | Soutien | [Jeton Intrépide](/ItemsFR/con_974/) | [Skin spécial Intrépide](/ItemsFR/con_642/) |
+  | 9  | [Adjudicatrice](/fr/units/Judicator/) | [](/fr/Exclusive/Judicator /) | - | Capitale | [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) | [Tool_210909](/ItemsFR/con_643/) |

@@ -3,7 +3,7 @@ title: "Golem de fer"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
 unitID: 603
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Golem de fer"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Golem de fer](/fr/Items/unt_237/)
+ **Unit Soul:** [Golem de fer](/ItemsFR/unt_237/)
 
  **Unit description:** Résonance métallique : active un bouclier protecteur pour les unités alliées.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * réduction des dégâts d'unité
 * Résistance magique
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

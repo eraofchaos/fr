@@ -3,7 +3,7 @@ title: "Golem dragon"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Golem dragon"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Golem dragon](/fr/Items/unt_243/)
+ **Unit Soul:** [Golem dragon](/ItemsFR/unt_243/)
 
  **Short description:** Défense ultime.
 
@@ -176,7 +176,7 @@ toc: true
 * réduction des dégâts d'unité
 * Résistance magique
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

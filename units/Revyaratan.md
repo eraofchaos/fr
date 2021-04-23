@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Revyaratan"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Revyaratan](/fr/Items/unt_280/)
+ **Unit Soul:** [Revyaratan](/ItemsFR/unt_280/)
 
  **Short description:** Kraken des profondeurs. Ne peut pas ressusciter.
 
@@ -182,7 +182,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

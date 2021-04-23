@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Spadassin Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Swordsman Bouclier iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Spadassin](/fr/units/Swordsman/) 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Fracas de bouclier> : Le Spadassin ralentit une unité ennemie une fois toutes les 18 secondes et diminue sa résistance aux dégâts d'unité de 15 % pendant 7 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente les PV de 20 % et l'esquive de 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la DÉF de 20 % pendant 5 secondes en cas d'Exaltation. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Récupération des dégâts> : Lorsque l'unité du Spadassin subit des dégâts dépassant 8 % de ses PV max en une seule attaque, elle récupère une quantité de PV équivalente à 150 % de son ATQ. Le temps de recharge est de 10 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la ténacité de 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente sa résistance aux dégâts de 4 % pour chaque unité du Château présente sur le champ de bataille. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Chasse au dragon> : La résistance aux dégâts du Spadassin augmente de 20 % face à des unités de 1 et de 4 combattants. Les unités adjacentes dans une zone réduite bénéficient également d'une augmentation de 20 % de leur vitesse d'attaque. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Fracas de bouclier> : Le Spadassin ralentit une unité ennemie une fois toutes les 18 secondes et diminue sa résistance aux dégâts d'unité de 15 % pendant 7 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente les PV de 20 % et l'esquive de 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la DÉF de 20 % pendant 5 secondes en cas d'Exaltation. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Récupération des dégâts> : Lorsque l'unité du Spadassin subit des dégâts dépassant 8 % de ses PV max en une seule attaque, elle récupère une quantité de PV équivalente à 150 % de son ATQ. Le temps de recharge est de 10 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la ténacité de 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente sa résistance aux dégâts de 4 % pour chaque unité du Château présente sur le champ de bataille. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Chasse au dragon> : La résistance aux dégâts du Spadassin augmente de 20 % face à des unités de 1 et de 4 combattants. Les unités adjacentes dans une zone réduite bénéficient également d'une augmentation de 20 % de leur vitesse d'attaque. |
 
 
 ## Améliorer

@@ -3,7 +3,7 @@ title: "Lutin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Lutin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Lutin](/fr/Items/unt_235/)
+ **Unit Soul:** [Lutin](/ItemsFR/unt_235/)
 
  **Unit description:** Boule de fer magique : augmente considérablement l'ATQ et la vitesse d'ATQ.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

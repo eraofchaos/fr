@@ -3,7 +3,7 @@ title: "Chevalier noir"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chevalier noir"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Chevalier noir](/fr/Items/unt_213/)
+ **Unit Soul:** [Chevalier noir](/ItemsFR/unt_213/)
 
  **Unit description:** Frappe fatale : inflige des dégâts colossaux et inflige Démotivation.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Sabre des limbes](/fr/Items/con_979/)
+ **Item to Rang supérieur:** [Jeton Sabre des limbes](/ItemsFR/con_979/)
 
- **Skin:** [Peau spéciale Sabre des limbes](/fr/Items/con_647/)
+ **Skin:** [Peau spéciale Sabre des limbes](/ItemsFR/con_647/)
 
 
 ## Emblèmes sacrés recommandés
@@ -180,7 +180,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

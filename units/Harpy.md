@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Harpie"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Harpie](/fr/Items/unt_245/)
+ **Unit Soul:** [Harpie](/ItemsFR/unt_245/)
 
  **Unit description:** Griffe tranchante de la Harpie : peut infliger des dégâts à plusieurs ennemis.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -169,7 +169,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusif -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Era of Chaos . . Era of Chaos Exclusif . Oracle de Regna Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Regnan Seer .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusif for Unit:** [Oracle de Regna](/fr/units/Regnan Seer/) 
 
- **Item to Rang supérieur:** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/)
+ **Item to Rang supérieur:** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/)
 
- **Skin:** [Tool_2990709](/fr/Items/con_674/)
+ **Skin:** [Tool_2990709](/ItemsFR/con_674/)
 
  **Type:** Capitale
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/) |  |
+  |  Réveil  | **100x** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/) |  |
 
 
 ## Améliorer

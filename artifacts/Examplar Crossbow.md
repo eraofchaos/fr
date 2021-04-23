@@ -2,7 +2,7 @@
 title: "Artefact - Lame d'Armageddon - Arbalète exemplaire"
 permalink: /artifacts/Examplar Crossbow/
 excerpt: "Era of Chaos  Lame d'Armageddon - Arbalète exemplaire. Un artefact utilisé par le Héros Gelu dans sa jeunesse. Composant de la Lame d'Armageddon."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Examplar Crossbow.md"
 toc: false

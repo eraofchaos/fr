@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Chien de l'Enfer Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Hell Hound Pic du Chevalier.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Chien de l'Enfer](/fr/units/Hell Hound/) 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Le Chien de l'Enfer attaque avec ses 3 têtes, augmentant sa vitesse d'attaque de 300 %, mais diminuant ses dégâts d'unité de 20 %. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente les dégâts d'unité du Chien de l'Enfer de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente les dégâts critiques de 5 % pendant 3 secondes chaque fois que le Chien de l'Enfer attaque. L'effet peut se cumuler jusqu'à 10 fois. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Mort vivant>: Lorsque les PV du Chien de l'Enfer tombent sous la barre des 66 % et 33 % pour la première fois, il sacrifie une de ses têtes pour dissiper tous les statuts anormaux et s'en immuniser, augmentant son esquive de 2 000 et sa ténacité de 1 000 pendant 5 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Embrasement> : Le Chien de l'Enfer inflige continuellement Brûlure aux ennemis dans une zone déterminée autour de lui tout en diminuant leur ténacité de 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Chaque fois que le Chien de l'Enfer attaque, il diminue la résistance aux dégâts de l'unité cible de 3 % pendant 3 secondes. L'effet peut se cumuler jusqu'à 8 fois. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Lorsque <Mort vivant> se déclenche, la tête mourante émet un hurlement infernal, augmentant la vitesse d'attaque de toutes les unités de l'Hadès alliées de 100 % pendant 3 secondes et diminuant la DÉF de toutes les unités ennemies dans une large zone autour de lui de 30 % pendant 10 secondes. |
+  |  Réveil  | **100x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Le Chien de l'Enfer attaque avec ses 3 têtes, augmentant sa vitesse d'attaque de 300 %, mais diminuant ses dégâts d'unité de 20 %. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente les dégâts d'unité du Chien de l'Enfer de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente les dégâts critiques de 5 % pendant 3 secondes chaque fois que le Chien de l'Enfer attaque. L'effet peut se cumuler jusqu'à 10 fois. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | <Mort vivant>: Lorsque les PV du Chien de l'Enfer tombent sous la barre des 66 % et 33 % pour la première fois, il sacrifie une de ses têtes pour dissiper tous les statuts anormaux et s'en immuniser, augmentant son esquive de 2 000 et sa ténacité de 1 000 pendant 5 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | <Embrasement> : Le Chien de l'Enfer inflige continuellement Brûlure aux ennemis dans une zone déterminée autour de lui tout en diminuant leur ténacité de 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Chaque fois que le Chien de l'Enfer attaque, il diminue la résistance aux dégâts de l'unité cible de 3 % pendant 3 secondes. L'effet peut se cumuler jusqu'à 8 fois. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Lorsque <Mort vivant> se déclenche, la tête mourante émet un hurlement infernal, augmentant la vitesse d'attaque de toutes les unités de l'Hadès alliées de 100 % pendant 3 secondes et diminuant la DÉF de toutes les unités ennemies dans une large zone autour de lui de 30 % pendant 10 secondes. |
 
 
 ## Améliorer

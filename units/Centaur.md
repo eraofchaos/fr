@@ -3,7 +3,7 @@ title: "Centaure"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Centaure"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Centaure](/fr/Items/unt_199/)
+ **Unit Soul:** [Centaure](/ItemsFR/unt_199/)
 
  **Unit description:** Choc guerrier : inflige des dégâts aux unités les plus proches et les ralentit.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

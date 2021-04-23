@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Lancier Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Pikeman Épée.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Lancier](/fr/units/Pikeman/) 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Épée](/fr/Items/con_912/) | <Lance sacrée> : Le Lancier inflige des dégâts équivalents à 400 % de son ATQ une fois toutes les 15 secondes et diminue la DÉF de la cible de 4 % pendant 7 secondes. L'effet peut se cumuler jusqu'à 4 fois. Si l'unité cible est étourdie, sa ténacité est également réduite de 150 pendant 6 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/fr/Items/con_912/) | Augmente la vitesse d'attaque du Lancier de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/fr/Items/con_912/) | Augmente la ténacité du Lancier de 150. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/fr/Items/con_912/) | <Assaut zélé> : Déclenche <Lance sacrée> une fois de plus en cas d'Exaltation du Lancier. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/fr/Items/con_912/) | Augmente les dégâts des coups critiques du Lancier de 15 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/fr/Items/con_912/) | Augmente la DÉF de 3 % et l'esquive de 30 pour chaque unité du Château présente sur le champ de bataille. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/fr/Items/con_912/) | <Vaillance> : Lorsque les attaques du Lancier sont esquivées, toutes les unités alliées sur son chemin bénéficient d'une augmentation de 20 % des dégâts infligés par les coups critiques et de la vitesse d'attaque pendant 12 secondes. Le temps de recharge est de 20 secondes. |
+  |  Réveil  | **100x** [Jeton Épée](/ItemsFR/con_912/) | <Lance sacrée> : Le Lancier inflige des dégâts équivalents à 400 % de son ATQ une fois toutes les 15 secondes et diminue la DÉF de la cible de 4 % pendant 7 secondes. L'effet peut se cumuler jusqu'à 4 fois. Si l'unité cible est étourdie, sa ténacité est également réduite de 150 pendant 6 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/ItemsFR/con_912/) | Augmente la vitesse d'attaque du Lancier de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/ItemsFR/con_912/) | Augmente la ténacité du Lancier de 150. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/ItemsFR/con_912/) | <Assaut zélé> : Déclenche <Lance sacrée> une fois de plus en cas d'Exaltation du Lancier. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/ItemsFR/con_912/) | Augmente les dégâts des coups critiques du Lancier de 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/ItemsFR/con_912/) | Augmente la DÉF de 3 % et l'esquive de 30 pour chaque unité du Château présente sur le champ de bataille. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/ItemsFR/con_912/) | <Vaillance> : Lorsque les attaques du Lancier sont esquivées, toutes les unités alliées sur son chemin bénéficient d'une augmentation de 20 % des dégâts infligés par les coups critiques et de la vitesse d'attaque pendant 12 secondes. Le temps de recharge est de 20 secondes. |
 
 
 ## Améliorer

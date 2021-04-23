@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Naga"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Naga](/fr/Items/unt_240/)
+ **Unit Soul:** [Naga](/ItemsFR/unt_240/)
 
  **Unit description:** Danse tranchante : inflige des dégâts de zone et diminue la DÉF.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Épée Naga](/fr/Items/con_987/)
+ **Item to Rang supérieur:** [Jeton Épée Naga](/ItemsFR/con_987/)
 
- **Skin:** [Peau spéciale Épée Naga](/fr/Items/con_655/)
+ **Skin:** [Peau spéciale Épée Naga](/ItemsFR/con_655/)
 
 
 ## Emblèmes sacrés recommandés
@@ -177,7 +177,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

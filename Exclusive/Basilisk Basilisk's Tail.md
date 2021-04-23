@@ -2,7 +2,7 @@
 title: "Exclusif - Queue de Basilic (Basilisk)"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Queue de Basilic. Queue de Basilic. Era of Chaos Exclusif Queue de Basilic. Basilic Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Basilisk Queue de Basilic.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusif for Unit:** [Basilic](/fr/units/Basilisk/) 
 
- **Item to Rang supérieur:** [Jeton Queue de Basilic](/fr/Items/con_994/)
+ **Item to Rang supérieur:** [Jeton Queue de Basilic](/ItemsFR/con_994/)
 
- **Skin:** [Peau spéciale Énergie de feu](/fr/Items/con_662/)
+ **Skin:** [Peau spéciale Énergie de feu](/ItemsFR/con_662/)
 
  **Type:** À distance
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Queue de Basilic](/fr/Items/con_994/) | Lorsqu'une attaque touche une unité cible, a 8 % de chance d'infliger en plus des dégâts équivalents à 100 % de son ATQ et de pétrifier la cible pendant 3 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Queue de Basilic](/fr/Items/con_994/) | Augmente les PV et la résistance aux dégâts d'unité du Basilic de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Queue de Basilic](/fr/Items/con_994/) | Après que les attaques du Basilic déclenchent l'effet d'éveil, sa DÉF augmente de 20 % pendant 3 secondes. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Queue de Basilic](/fr/Items/con_994/) | Lorsque la cible est abattue, <Miasme pestilentiel> absorbe une quantité de PV égale à 30 % de ses propres PV pendant 20 secondes. L'effet n'est pas cumulable. La première fois que ses PV passent en dessous de 30 %, <Miasme pestilentiel> s'active. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Queue de Basilic](/fr/Items/con_994/) | Augmente la ténacité du Basilic de 500. Lorsque des Héros alliés lancent des sorts de terre, le Basilic gagne un <Miasme pestilentiel> égal à 10 % de ses PV max pendant 20 secondes. Le temps de recharge est de 10 secondes. Lorsque <Miasme pestilentiel> est actif, il augmente la résistance aux dégâts d'unité du Basilic de 10 % pendant 20 secondes. L'effet peut se cumuler jusqu'à 3 fois. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Queue de Basilic](/fr/Items/con_994/) | <Queue sectionnée> : Lorsque les PV de l'unité tombent à 50 %, le Basilic abandonne sa queue pour s'échapper et est immunisé contre tous les dégâts pendant 5 secondes. Cette compétence ne peut se déclencher qu'une fois par bataille. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Queue de Basilic](/fr/Items/con_994/) | <Siège> : Inflige des dégâts équivalents à 15 % de ses PV max à l'unité cible et inflige Étourdissement pendant 3 secondes. Le temps de recharge est de 13 secondes. Pendant les 5 secondes où <Queue sectionnée> est active, ses dégâts d'unité augmentent de 100 %, sa pénétration de 500, et sa vitesse d'attaque de 200 %. Après <Queue sectionnée>, la résistance aux dégâts augmente de 15 %, et il est impossible d'utiliser <Siège>. |
+  |  Réveil  | **100x** [Jeton Queue de Basilic](/ItemsFR/con_994/) | Lorsqu'une attaque touche une unité cible, a 8 % de chance d'infliger en plus des dégâts équivalents à 100 % de son ATQ et de pétrifier la cible pendant 3 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Queue de Basilic](/ItemsFR/con_994/) | Augmente les PV et la résistance aux dégâts d'unité du Basilic de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Queue de Basilic](/ItemsFR/con_994/) | Après que les attaques du Basilic déclenchent l'effet d'éveil, sa DÉF augmente de 20 % pendant 3 secondes. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Queue de Basilic](/ItemsFR/con_994/) | Lorsque la cible est abattue, <Miasme pestilentiel> absorbe une quantité de PV égale à 30 % de ses propres PV pendant 20 secondes. L'effet n'est pas cumulable. La première fois que ses PV passent en dessous de 30 %, <Miasme pestilentiel> s'active. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Queue de Basilic](/ItemsFR/con_994/) | Augmente la ténacité du Basilic de 500. Lorsque des Héros alliés lancent des sorts de terre, le Basilic gagne un <Miasme pestilentiel> égal à 10 % de ses PV max pendant 20 secondes. Le temps de recharge est de 10 secondes. Lorsque <Miasme pestilentiel> est actif, il augmente la résistance aux dégâts d'unité du Basilic de 10 % pendant 20 secondes. L'effet peut se cumuler jusqu'à 3 fois. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Queue de Basilic](/ItemsFR/con_994/) | <Queue sectionnée> : Lorsque les PV de l'unité tombent à 50 %, le Basilic abandonne sa queue pour s'échapper et est immunisé contre tous les dégâts pendant 5 secondes. Cette compétence ne peut se déclencher qu'une fois par bataille. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Queue de Basilic](/ItemsFR/con_994/) | <Siège> : Inflige des dégâts équivalents à 15 % de ses PV max à l'unité cible et inflige Étourdissement pendant 3 secondes. Le temps de recharge est de 13 secondes. Pendant les 5 secondes où <Queue sectionnée> est active, ses dégâts d'unité augmentent de 100 %, sa pénétration de 500, et sa vitesse d'attaque de 200 %. Après <Queue sectionnée>, la résistance aux dégâts augmente de 15 %, et il est impossible d'utiliser <Siège>. |
 
 
 ## Améliorer

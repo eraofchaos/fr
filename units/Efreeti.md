@@ -3,7 +3,7 @@ title: "Effrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Effrit"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Effrit](/fr/Items/unt_231/)
+ **Unit Soul:** [Effrit](/ItemsFR/unt_231/)
 
  **Unit description:** Boule de feu : inflige des dégâts colossaux aux ennemis et les brûle.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

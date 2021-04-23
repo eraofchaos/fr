@@ -3,7 +3,7 @@ title: "Cyclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Cyclope"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Cyclope](/fr/Items/unt_222/)
+ **Unit Soul:** [Cyclope](/ItemsFR/unt_222/)
 
  **Unit description:** Pierre de feu : inflige de très lourds dégâts à toutes les troupes ennemies sur son chemin.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -183,7 +183,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

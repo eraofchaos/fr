@@ -3,7 +3,7 @@ title: "Orque"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Orque"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Orque](/fr/Items/unt_219/)
+ **Unit Soul:** [Orque](/ItemsFR/unt_219/)
 
  **Unit description:** Exécution : inflige des dégâts supplémentaires aux ennemis qui ont moins de 30 % de PV.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

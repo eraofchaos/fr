@@ -3,7 +3,7 @@ title: "Œil maléfique"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Œil maléfique"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Œil maléfique](/fr/Items/unt_246/)
+ **Unit Soul:** [Œil maléfique](/ItemsFR/unt_246/)
 
  **Unit description:** Contrôle mental : immobilise les ennemis et leur fait perdre progressivement des PV.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Regard ténébreux](/fr/Items/con_990/)
+ **Item to Rang supérieur:** [Jeton Regard ténébreux](/ItemsFR/con_990/)
 
- **Skin:** [Skin spécial Regard ténébreux](/fr/Items/con_658/)
+ **Skin:** [Skin spécial Regard ténébreux](/ItemsFR/con_658/)
 
 
 ## Emblèmes sacrés recommandés
@@ -167,7 +167,7 @@ toc: true
 * dégâts d'unité
 * Résistance magique
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

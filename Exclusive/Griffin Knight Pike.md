@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier (Griffin)"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Griffon Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Griffin Pic du Chevalier.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Griffon](/fr/units/Griffin/) 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Coup de bec> : Le Griffon mord l'unité cible, lui infligeant des dégâts équivalents à 150 % de sa propre ATQ. Inflige Saignement, diminue la précision de 300 et la vitesse d'attaque de 20 % pendant 8 secondes. Le temps de recharge est de 20 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente les dégâts d'unité du Griffon de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente l'esquive du Griffon de 500. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Roulade aérienne> : La ténacité du Griffon augmente de 50 chaque fois qu'il réussit à esquiver et inflige à l'unité cible des dégâts équivalents à 75 % de son ATQ. La ténacité peut se cumuler jusqu'à 500. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente la résistance aux dégâts d'unité du Griffon de 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente la ténacité du Griffon de 500 au début de la bataille. La ténacité diminuera de 20 toutes les 2 secondes, jusqu'à atteindre un niveau plancher de 100. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Instinct animal> : Le Griffon gagne Exaltation 10 secondes après le début de la bataille. Lorsqu'une unité cible est tuée, Griffin gagne Exaltation pendant 10 secondes et récupère 20 % de ses PV max. |
+  |  Réveil  | **100x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | <Coup de bec> : Le Griffon mord l'unité cible, lui infligeant des dégâts équivalents à 150 % de sa propre ATQ. Inflige Saignement, diminue la précision de 300 et la vitesse d'attaque de 20 % pendant 8 secondes. Le temps de recharge est de 20 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente les dégâts d'unité du Griffon de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente l'esquive du Griffon de 500. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | <Roulade aérienne> : La ténacité du Griffon augmente de 50 chaque fois qu'il réussit à esquiver et inflige à l'unité cible des dégâts équivalents à 75 % de son ATQ. La ténacité peut se cumuler jusqu'à 500. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente la résistance aux dégâts d'unité du Griffon de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente la ténacité du Griffon de 500 au début de la bataille. La ténacité diminuera de 20 toutes les 2 secondes, jusqu'à atteindre un niveau plancher de 100. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | <Instinct animal> : Le Griffon gagne Exaltation 10 secondes après le début de la bataille. Lorsqu'une unité cible est tuée, Griffin gagne Exaltation pendant 10 secondes et récupère 20 % de ses PV max. |
 
 
 ## Améliorer

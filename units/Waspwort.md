@@ -3,7 +3,7 @@ title: "Guêpier"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
 unitID: 808
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Guêpier"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Guêpier](/fr/Items/unt_260/)
+ **Unit Soul:** [Guêpier](/ItemsFR/unt_260/)
 
  **Short description:** DPS et contrôle.
 
@@ -176,7 +176,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

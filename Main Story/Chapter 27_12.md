@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-12 Le Dragon patriarche"
 permalink: /Main Story/Chapter 27_12/
 excerpt: "Chapitre 27 - 12. Era of Chaos  Histoire principale - Chapitre 27_12. 27-12 Le Dragon patriarche"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 27_12.md"
 toc: false

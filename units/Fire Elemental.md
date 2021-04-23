@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Élémentaire de feu](/fr/Items/unt_265/)
+ **Unit Soul:** [Élémentaire de feu](/ItemsFR/unt_265/)
 
  **Short description:** Brûle les ennemis et provoque de grosses explosions.
 
@@ -81,9 +81,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Énergie de feu](/fr/Items/con_998/)
+ **Item to Rang supérieur:** [Jeton Énergie de feu](/ItemsFR/con_998/)
 
- **Skin:** [Peau spéciale Énergie de feu](/fr/Items/con_666/)
+ **Skin:** [Peau spéciale Énergie de feu](/ItemsFR/con_666/)
 
 
 ## Emblèmes sacrés recommandés
@@ -174,7 +174,7 @@ toc: true
 * Vitesse d'attaque
 * Esquive d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

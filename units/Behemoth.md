@@ -3,7 +3,7 @@ title: "Béhémoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis."
 unitID: 407
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Béhémoth"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Béhémoth](/fr/Items/unt_223/)
+ **Unit Soul:** [Béhémoth](/ItemsFR/unt_223/)
 
  **Unit description:** Rugissement : réduit considérablement l'attaque de l'ennemi et l'étourdit.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Esprit sanguinaire](/fr/Items/con_982/)
+ **Item to Rang supérieur:** [Jeton Esprit sanguinaire](/ItemsFR/con_982/)
 
- **Skin:** [Skin spécial Esprit sanguinaire](/fr/Items/con_650/)
+ **Skin:** [Skin spécial Esprit sanguinaire](/ItemsFR/con_650/)
 
 
 ## Emblèmes sacrés recommandés
@@ -180,7 +180,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

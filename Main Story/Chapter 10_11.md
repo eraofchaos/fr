@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-11 S'imprégner de l'esprit"
 permalink: /Main Story/Chapter 10_11/
 excerpt: "Chapitre 10 - 11. Era of Chaos  Histoire principale - Chapitre 10_11. 10-11 S'imprégner de l'esprit"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 10_11.md"
 toc: false

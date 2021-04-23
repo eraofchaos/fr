@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Dragon rouge"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Dragon rouge](/fr/Items/unt_251/)
+ **Unit Soul:** [Dragon rouge](/ItemsFR/unt_251/)
 
  **Short description:** Seigneur dragon au rugissement assourdissant.
 
@@ -180,7 +180,7 @@ toc: true
 * dégâts d'unité
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

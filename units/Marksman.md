@@ -3,7 +3,7 @@ title: "Grand Arbalétrier"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis."
 unitID: 102
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Grand Arbalétrier"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Grand Arbalétrier](/fr/Items/unt_191/)
+ **Unit Soul:** [Grand Arbalétrier](/ItemsFR/unt_191/)
 
  **Unit description:** Flèche explosive : inflige des dégâts conséquents aux unités ennemies.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

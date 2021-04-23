@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Élémentaire de glace](/fr/Items/unt_264/)
+ **Unit Soul:** [Élémentaire de glace](/ItemsFR/unt_264/)
 
  **Short description:** Aura et mur de glace.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

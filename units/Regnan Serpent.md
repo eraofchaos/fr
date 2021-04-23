@@ -3,7 +3,7 @@ title: "Serpent de Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Serpent de Regna"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Serpent de Regna](/fr/Items/unt_276/)
+ **Unit Soul:** [Serpent de Regna](/ItemsFR/unt_276/)
 
  **Unit description:** Piétinement des abysses : contrôle les effets de zone, décourage l'ennemi et réduit ses coups critiques.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Marées diurnes](/fr/Items/con_1003/)
+ **Item to Rang supérieur:** [Jeton Marées diurnes](/ItemsFR/con_1003/)
 
- **Skin:** [Skin spécial Marées diurnes](/fr/Items/con_671/)
+ **Skin:** [Skin spécial Marées diurnes](/ItemsFR/con_671/)
 
 
 ## Emblèmes sacrés recommandés
@@ -187,7 +187,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

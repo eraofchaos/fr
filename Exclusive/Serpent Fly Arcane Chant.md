@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Guêpe serpent Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Serpent Fly Mélopée des arcanes.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Guêpe serpent](/fr/units/Serpent Fly/) 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Lorsque la cible est abattue, la Guêpe serpent devient folle, ce qui augmente sa vitesse d'ATQ de 100 % pendant 20 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Lorsqu'elle attaque, la Guêpe serpent a 30 % de chance d'infliger <Saignement> à sa cible. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Le drain de vie de la Guêpe serpent augmente de 15 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Lorsque la cible est abattue, <Miasme pestilentiel> absorbe une quantité de PV égale à 30 % de ses propres PV pendant 20 secondes. L'effet n'est pas cumulable. La première fois que ses PV passent en dessous de 30 %, <Miasme pestilentiel> s'active. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente l'ATQ de la Guêpe serpent de 20 % et sa vitesse d'ATQ de 10 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente les dégâts critiques de la Guêpe serpent de 25 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Invoque une guêpe toutes les 20 secondes, pour une durée de 30 secondes. |
+  |  Réveil  | **100x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Lorsque la cible est abattue, la Guêpe serpent devient folle, ce qui augmente sa vitesse d'ATQ de 100 % pendant 20 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Lorsqu'elle attaque, la Guêpe serpent a 30 % de chance d'infliger <Saignement> à sa cible. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Le drain de vie de la Guêpe serpent augmente de 15 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Lorsque la cible est abattue, <Miasme pestilentiel> absorbe une quantité de PV égale à 30 % de ses propres PV pendant 20 secondes. L'effet n'est pas cumulable. La première fois que ses PV passent en dessous de 30 %, <Miasme pestilentiel> s'active. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Augmente l'ATQ de la Guêpe serpent de 20 % et sa vitesse d'ATQ de 10 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Augmente les dégâts critiques de la Guêpe serpent de 25 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Invoque une guêpe toutes les 20 secondes, pour une durée de 30 secondes. |
 
 
 ## Améliorer

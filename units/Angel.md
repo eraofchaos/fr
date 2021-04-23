@@ -3,7 +3,7 @@ title: "Ange"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Ange"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Ange](/fr/Items/unt_196/)
+ **Unit Soul:** [Ange](/ItemsFR/unt_196/)
 
  **Unit description:** Condamnation : inflige des dégâts colossaux à 3 unités ennemies et les étourdit.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Durandel](/fr/Items/con_973/)
+ **Item to Rang supérieur:** [Jeton Durandel](/ItemsFR/con_973/)
 
- **Skin:** [Skin spécial Durandel](/fr/Items/con_641/)
+ **Skin:** [Skin spécial Durandel](/ItemsFR/con_641/)
 
 
 ## Emblèmes sacrés recommandés
@@ -173,7 +173,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

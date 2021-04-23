@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Guerriers spartiates"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Guerriers spartiates](/fr/Items/unt_272/)
+ **Unit Soul:** [Guerriers spartiates](/ItemsFR/unt_272/)
 
  **Short description:** Le bouclier étourdit les ennemis. La mort renforce les alliés.
 
@@ -165,7 +165,7 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

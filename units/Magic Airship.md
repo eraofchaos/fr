@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Aéronef magique"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Aéronef magique](/fr/Items/unt_242/)
+ **Unit Soul:** [Aéronef magique](/ItemsFR/unt_242/)
 
  **Short description:** Confère des bonus de DPS en ligne arrière.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Étoile polaire](/fr/Items/con_989/)
+ **Item to Rang supérieur:** [Jeton Étoile polaire](/ItemsFR/con_989/)
 
- **Skin:** [Skin spécial Étoile polaire](/fr/Items/con_657/)
+ **Skin:** [Skin spécial Étoile polaire](/ItemsFR/con_657/)
 
 
 ## Emblèmes sacrés recommandés
@@ -174,7 +174,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

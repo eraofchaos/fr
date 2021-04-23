@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-5 L'armée approche"
 permalink: /Main Story/Chapter 12_5/
 excerpt: "Chapitre 12 - 5. Era of Chaos  Histoire principale - Chapitre 12_5. 12-5 L'armée approche"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 12_5.md"
 toc: false

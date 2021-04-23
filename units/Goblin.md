@@ -3,7 +3,7 @@ title: "Gobelin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
 unitID: 401
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Gobelin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Gobelin](/fr/Items/unt_217/)
+ **Unit Soul:** [Gobelin](/ItemsFR/unt_217/)
 
  **Unit description:** Tempête guerrière : inflige des dégâts à 3 unités ennemies à proximité.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

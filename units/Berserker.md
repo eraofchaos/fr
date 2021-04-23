@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Berserker"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Berserker](/fr/Items/unt_224/)
+ **Unit Soul:** [Berserker](/ItemsFR/unt_224/)
 
  **Unit description:** Tempête guerrière : inflige des dégâts à 3 unités ennemies à proximité.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Hache de Berserker](/fr/Items/con_983/)
+ **Item to Rang supérieur:** [Jeton Hache de Berserker](/ItemsFR/con_983/)
 
- **Skin:** [Skin spécial Hache de Berserker](/fr/Items/con_651/)
+ **Skin:** [Skin spécial Hache de Berserker](/ItemsFR/con_651/)
 
 
 ## Emblèmes sacrés recommandés
@@ -183,7 +183,7 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

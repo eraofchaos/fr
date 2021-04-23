@@ -3,7 +3,7 @@ title: "Chien de l'Enfer"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage."
 unitID: 503
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chien de l'Enfer"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Chien de l'Enfer](/fr/Items/unt_228/)
+ **Unit Soul:** [Chien de l'Enfer](/ItemsFR/unt_228/)
 
  **Unit description:** Carnage : transforme chaque coup en coup critique pendant une courte durée.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Ogre Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Ogre Bouclier iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Ogre](/fr/units/Ogre/) 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | Invoque un cercle de sacrifice toutes les 30 secondes, infligeant une quantité de dégâts égale à 1,5 % des PV max aux unités ennemies dans le cercle, et restaurant aux unités alliées dans le cercle une quantité de PV égale à 5 % de leur ATQ toutes les 15 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | La résistance aux dégâts de l'Ogre augmente de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | Lorsque l'Ogre utilise Carnage, les dégâts de toutes les unités alliées augmentent de 10 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | Lorsque l'Ogre est déployé, la vitesse d'ATQ des unités alliées du Bastion augmente de 10 %. La DÉF de l'Ogre augmente également de 10 %. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | La ténacité de l'Ogre augmente de 500. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Lorsque l'Ogre est déployé, la DÉF de toutes les unités ennemies diminue de 10 %, mais leur résistance magique augmente de 100 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | La DÉF de l'Ogre augmente de 5 % pour chaque unité défensive déployée. Ses PV augmentent de 1 000 pour chaque unité du Bastion déployée. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Invoque un cercle de sacrifice toutes les 30 secondes, infligeant une quantité de dégâts égale à 1,5 % des PV max aux unités ennemies dans le cercle, et restaurant aux unités alliées dans le cercle une quantité de PV égale à 5 % de leur ATQ toutes les 15 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La résistance aux dégâts de l'Ogre augmente de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Lorsque l'Ogre utilise Carnage, les dégâts de toutes les unités alliées augmentent de 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Lorsque l'Ogre est déployé, la vitesse d'ATQ des unités alliées du Bastion augmente de 10 %. La DÉF de l'Ogre augmente également de 10 %. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La ténacité de l'Ogre augmente de 500. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Lorsque l'Ogre est déployé, la DÉF de toutes les unités ennemies diminue de 10 %, mais leur résistance magique augmente de 100 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La DÉF de l'Ogre augmente de 5 % pour chaque unité défensive déployée. Ses PV augmentent de 1 000 pour chaque unité du Bastion déployée. |
 
 
 ## Améliorer

@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Licorne"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Licorne](/fr/Items/unt_204/)
+ **Unit Soul:** [Licorne](/ItemsFR/unt_204/)
 
  **Unit description:** Cécité : diminue la précision d'une ligne ennemie.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Esquive d'unité
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

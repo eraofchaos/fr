@@ -2,7 +2,7 @@
 title: "Exclusif -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Era of Chaos . . Era of Chaos Exclusif . Adjudicatrice Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Judicator .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusif for Unit:** [Adjudicatrice](/fr/units/Judicator/) 
 
- **Item to Rang supérieur:** [Étendard spirituel Radiance sainte](/fr/Items/con_975/)
+ **Item to Rang supérieur:** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/)
 
- **Skin:** [Tool_210909](/fr/Items/con_643/)
+ **Skin:** [Tool_210909](/ItemsFR/con_643/)
 
  **Type:** Capitale
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Étendard spirituel Radiance sainte](/fr/Items/con_975/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Étendard spirituel Radiance sainte](/fr/Items/con_975/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Étendard spirituel Radiance sainte](/fr/Items/con_975/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Étendard spirituel Radiance sainte](/fr/Items/con_975/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Étendard spirituel Radiance sainte](/fr/Items/con_975/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Étendard spirituel Radiance sainte](/fr/Items/con_975/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Étendard spirituel Radiance sainte](/fr/Items/con_975/) |  |
+  |  Réveil  | **100x** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/) |  |
 
 
 ## Améliorer

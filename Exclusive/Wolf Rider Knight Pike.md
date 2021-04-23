@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier (Wolf Rider)"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Chevaucheur de loup Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Wolf Rider Pic du Chevalier.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Chevaucheur de loup](/fr/units/Wolf Rider/) 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Frappe du loup> : Le Chevaucheur de loup inflige des dégâts équivalents à 250 % de son ATQ et à 5 % des PV max de l'unité cible. Le temps de recharge est de 12 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente l'ATQ du Chevaucheur de loup de 20 % et sa vitesse d'attaque de 10 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente la résistance aux dégâts d'unité du Chevaucheur de loup de 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | <Pacte du loup> : Le Chevaucheur de loup invoque un loup pour l'aider pendant la bataille toutes les 3 secondes pendant 10 secondes. Les attaques normales du loup invoqué ont 5 % de chance d'infliger Étourdissement à la cible pendant 2 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Augmente l'esquive et la ténacité du Chevaucheur de loup de 60 à chaque fois qu'une unité du Bastion est déployée. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Le Chevaucheur de loup est totalement immunisé contre les dégâts de sorts pendant les 20 premières secondes de la bataille. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Pic du Chevalier](/fr/Items/con_916/) | Chaque fois que <Pacte du loup> est lancé, un Roi des loups a 20 % de chance d'être invoqué. Une fois invoqué, le Roi des loups augmente de 20 % la vitesse d'attaque de toutes les unités du Bastion alliées pendant 10 secondes. Cet effet ne peut pas se cumuler. Les attaques du Roi des loups ont 25 % de chance d'infliger Étourdissement à la cible pendant 2 secondes et de lui infliger le double de dégâts. |
+  |  Réveil  | **100x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | <Frappe du loup> : Le Chevaucheur de loup inflige des dégâts équivalents à 250 % de son ATQ et à 5 % des PV max de l'unité cible. Le temps de recharge est de 12 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente l'ATQ du Chevaucheur de loup de 20 % et sa vitesse d'attaque de 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente la résistance aux dégâts d'unité du Chevaucheur de loup de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | <Pacte du loup> : Le Chevaucheur de loup invoque un loup pour l'aider pendant la bataille toutes les 3 secondes pendant 10 secondes. Les attaques normales du loup invoqué ont 5 % de chance d'infliger Étourdissement à la cible pendant 2 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Augmente l'esquive et la ténacité du Chevaucheur de loup de 60 à chaque fois qu'une unité du Bastion est déployée. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Le Chevaucheur de loup est totalement immunisé contre les dégâts de sorts pendant les 20 premières secondes de la bataille. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Pic du Chevalier](/ItemsFR/con_916/) | Chaque fois que <Pacte du loup> est lancé, un Roi des loups a 20 % de chance d'être invoqué. Une fois invoqué, le Roi des loups augmente de 20 % la vitesse d'attaque de toutes les unités du Bastion alliées pendant 10 secondes. Cet effet ne peut pas se cumuler. Les attaques du Roi des loups ont 25 % de chance d'infliger Étourdissement à la cible pendant 2 secondes et de lui infliger le double de dégâts. |
 
 
 ## Améliorer

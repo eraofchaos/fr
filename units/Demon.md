@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Démon"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Démon](/fr/Items/unt_229/)
+ **Unit Soul:** [Démon](/ItemsFR/unt_229/)
 
  **Unit description:** Frappe brûlante : inflige des dégâts colossaux aux troupes ennemies.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Défense
 * Esquive d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 27 - 27-2 Artisan nain"
 permalink: /Underground/Chapter 27_2/
 excerpt: "Chapitre 27 - 2. Era of Chaos  Souterrain - Chapitre 27_2. 27-2 Artisan nain"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 27_2.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Dompteur de requins"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues."
 unitID: 9909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Dompteur de requins"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Dompteur de requins](/fr/Items/unt_281/)
+ **Unit Soul:** [Dompteur de requins](/ItemsFR/unt_281/)
 
  **Short description:** Invoque un requin pour mettre en morceaux et réduire en poussière.
 
@@ -214,7 +214,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

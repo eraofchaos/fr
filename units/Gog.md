@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Gog"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Gog](/fr/Items/unt_227/)
+ **Unit Soul:** [Gog](/ItemsFR/unt_227/)
 
  **Unit description:** Mur de flammes : inflige des dégâts aux troupes ennemies sur son chemin.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

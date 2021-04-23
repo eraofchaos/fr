@@ -3,7 +3,7 @@ title: "Diable"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Diable"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Diable](/fr/Items/unt_232/)
+ **Unit Soul:** [Diable](/ItemsFR/unt_232/)
 
  **Unit description:** Mort douloureuse : inflige de très lourds dégâts à vos ennemis et les étourdit.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Faux du diable](/fr/Items/con_984/)
+ **Item to Rang supérieur:** [Jeton Faux du diable](/ItemsFR/con_984/)
 
- **Skin:** [Peau spéciale Faux du diable](/fr/Items/con_652/)
+ **Skin:** [Peau spéciale Faux du diable](/ItemsFR/con_652/)
 
 
 ## Emblèmes sacrés recommandés
@@ -177,7 +177,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Oiseau de feu"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Oiseau de feu"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Oiseau de feu](/fr/Items/unt_268/)
+ **Unit Soul:** [Oiseau de feu](/ItemsFR/unt_268/)
 
  **Unit description:** Souffle de feu : inflige des dégâts aux troupes ennemies sur son chemin.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Flamme éternelle](/fr/Items/con_1001/)
+ **Item to Rang supérieur:** [Jeton Flamme éternelle](/ItemsFR/con_1001/)
 
- **Skin:** [Peau spéciale Flamme éternelle](/fr/Items/con_669/)
+ **Skin:** [Peau spéciale Flamme éternelle](/ItemsFR/con_669/)
 
 
 ## Emblèmes sacrés recommandés
@@ -174,7 +174,7 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Squelette"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Squelette](/fr/Items/unt_208/)
+ **Unit Soul:** [Squelette](/ItemsFR/unt_208/)
 
  **Unit description:** Bouclier d'os : augmente la résistance aux dégâts d'une unité lorsque sa santé est inférieure à 50 %.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Défense
 * Résistance magique
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

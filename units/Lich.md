@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Liche"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Liche](/fr/Items/unt_212/)
+ **Unit Soul:** [Liche](/ItemsFR/unt_212/)
 
  **Unit description:** Sacrifice : invoque une horde de Squelettes.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Hommage mortel](/fr/Items/con_978/)
+ **Item to Rang supérieur:** [Jeton Hommage mortel](/ItemsFR/con_978/)
 
- **Skin:** [Peau spéciale Hommage mortel](/fr/Items/con_646/)
+ **Skin:** [Peau spéciale Hommage mortel](/ItemsFR/con_646/)
 
 
 ## Emblèmes sacrés recommandés
@@ -175,7 +175,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

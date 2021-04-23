@@ -2,7 +2,7 @@
 title: "Artefact - Puits de magie - Charme magique"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Puits de magie - Charme magique. Un charme imprégné d'énergie magique. Composant du Puits de magie."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Magic Charm.md"
 toc: false

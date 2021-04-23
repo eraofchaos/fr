@@ -2,7 +2,7 @@
 title: "Exclusif - Épée Naga (Naga)"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Épée Naga. Épée Naga. Era of Chaos Exclusif Épée Naga. Naga Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Naga Épée Naga.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusif for Unit:** [Naga](/fr/units/Naga/) 
 
- **Item to Rang supérieur:** [Jeton Épée Naga](/fr/Items/con_987/)
+ **Item to Rang supérieur:** [Jeton Épée Naga](/ItemsFR/con_987/)
 
- **Skin:** [Peau spéciale Épée Naga](/fr/Items/con_655/)
+ **Skin:** [Peau spéciale Épée Naga](/ItemsFR/con_655/)
 
  **Type:** Soutien
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Épée Naga](/fr/Items/con_987/) | <Volonté inébranlable> : Lorsqu'une Naga est affectée par \"Lenteur\", \"Pétrification\" ou \"Silence\", elle est immunisée contre les effets de la plupart des formes de contrôle et d'affaiblissement (Gel, Silence, Lenteur, Pétrification, Étourdissement, Démotivation, Découragement et <Arrêt du temps>) et sa résistance aux dégâts augmente de 20 % pendant 5 secondes. Le temps de recharge est de 15 secondes (après avoir équipé un Emblème sacré). |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée Naga](/fr/Items/con_987/) | La durée d'Étourdissement, Pétrification, Lenteur, Gel, Démotivation et Silence diminue de 50 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée Naga](/fr/Items/con_987/) | Augmente l'ATQ et les dégâts de la Naga de 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée Naga](/fr/Items/con_987/) | <Escrime> : La première fois que ses PV passent sous la barre des 25 %, la Naga fait montre de ses talents d'<Escrime> et augmente la pénétration de toutes les unités alliées de 20 par seconde et le drain de vie de 2 % dans une large zone. L'effet peut se cumuler jusqu'à 10 fois et reste actif même si la Naga est abattue. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée Naga](/fr/Items/con_987/) | Augmente le drain de vie et la résistance aux dégâts de la Naga de 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée Naga](/fr/Items/con_987/) | Immunise la Naga contre Étourdissement. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée Naga](/fr/Items/con_987/) | <Rayon de la Naga> : Inflige une quantité de dégâts égale à 200 % de son ATQ aux unités ennemies se trouvant sur la même ligne que la cible toutes les 15 secondes et diminue la DÉF et la résistance aux dégâts des ennemis de 30 %, tout en augmentant les coups critiques de la Naga de 1 000 et le drain de vie 20 % pendant 5 secondes. |
+  |  Réveil  | **100x** [Jeton Épée Naga](/ItemsFR/con_987/) | <Volonté inébranlable> : Lorsqu'une Naga est affectée par \"Lenteur\", \"Pétrification\" ou \"Silence\", elle est immunisée contre les effets de la plupart des formes de contrôle et d'affaiblissement (Gel, Silence, Lenteur, Pétrification, Étourdissement, Démotivation, Découragement et <Arrêt du temps>) et sa résistance aux dégâts augmente de 20 % pendant 5 secondes. Le temps de recharge est de 15 secondes (après avoir équipé un Emblème sacré). |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée Naga](/ItemsFR/con_987/) | La durée d'Étourdissement, Pétrification, Lenteur, Gel, Démotivation et Silence diminue de 50 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée Naga](/ItemsFR/con_987/) | Augmente l'ATQ et les dégâts de la Naga de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée Naga](/ItemsFR/con_987/) | <Escrime> : La première fois que ses PV passent sous la barre des 25 %, la Naga fait montre de ses talents d'<Escrime> et augmente la pénétration de toutes les unités alliées de 20 par seconde et le drain de vie de 2 % dans une large zone. L'effet peut se cumuler jusqu'à 10 fois et reste actif même si la Naga est abattue. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée Naga](/ItemsFR/con_987/) | Augmente le drain de vie et la résistance aux dégâts de la Naga de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée Naga](/ItemsFR/con_987/) | Immunise la Naga contre Étourdissement. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée Naga](/ItemsFR/con_987/) | <Rayon de la Naga> : Inflige une quantité de dégâts égale à 200 % de son ATQ aux unités ennemies se trouvant sur la même ligne que la cible toutes les 15 secondes et diminue la DÉF et la résistance aux dégâts des ennemis de 30 %, tout en augmentant les coups critiques de la Naga de 1 000 et le drain de vie 20 % pendant 5 secondes. |
 
 
 ## Améliorer

@@ -3,7 +3,7 @@ title: "Spadassin"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Spadassin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Spadassin](/fr/Items/unt_193/)
+ **Unit Soul:** [Spadassin](/ItemsFR/unt_193/)
 
  **Unit description:** Protection divine : réduit les dégâts reçus.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Défense
 * Résistance magique
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

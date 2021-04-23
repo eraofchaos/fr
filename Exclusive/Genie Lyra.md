@@ -2,7 +2,7 @@
 title: "Exclusif - Lyre (Genie)"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyre. Lyre. Era of Chaos Exclusif Lyre. Djinn Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Genie Lyre.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusif for Unit:** [Djinn](/fr/units/Genie/) 
 
- **Item to Rang supérieur:** [Jeton Lyre](/fr/Items/con_986/)
+ **Item to Rang supérieur:** [Jeton Lyre](/ItemsFR/con_986/)
 
- **Skin:** [Skin spécial Lyre](/fr/Items/con_654/)
+ **Skin:** [Skin spécial Lyre](/ItemsFR/con_654/)
 
  **Type:** À distance
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Lyre](/fr/Items/con_986/) | <Gardienne de la lampe> : La Djinn reçoit un niveau de Gardienne de la lampe toutes les 5 secondes. Chaque niveau augmente de 2 % la résistance aux dégâts d'unité pour toute la durée de la bataille. L'effet peut se cumuler jusqu'à 20 fois. Lorsque la Djinn subit des dégâts, elle reçoit un autre niveau de Gardienne de la lampe. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Lyre](/fr/Items/con_986/) | Augmente la DÉF de la Djinn de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Lyre](/fr/Items/con_986/) | Augmente les soins de la Djinn de 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Lyre](/fr/Items/con_986/) | La Djinn génère une brume qui diminue de 20 % les dégâts de 2 unités ennemies à distance ou de Lanceurs de sorts aléatoires et de 400 les coups critiques pendant 10 secondes. Le temps de recharge est de 15 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Lyre](/fr/Items/con_986/) | La Djinn augmente sa propre résistance aux dégâts d'unité de 5 % pour chaque unité de la Tour présente sur le champ de bataille. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Lyre](/fr/Items/con_986/) | Lorsque la Djinn est sur le champ de bataille, elle augmente les soins reçus par toutes les unités alliées et leur DÉF de 10 %. L'effet est doublé pour les unités de la Tour. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Lyre](/fr/Items/con_986/) | La Djinn se voit attribuer 10 niveaux de Gardienne de la lampe au début de la bataille et le nombre maximal de niveaux est porté à 30. Chaque fois que la Djinn profite des effets de Gardienne de la lampe, 2 unités alliées aléatoires reçoivent le même effet et récupéreront une quantité de PV égale à 50 % de leur ATQ. |
+  |  Réveil  | **100x** [Jeton Lyre](/ItemsFR/con_986/) | <Gardienne de la lampe> : La Djinn reçoit un niveau de Gardienne de la lampe toutes les 5 secondes. Chaque niveau augmente de 2 % la résistance aux dégâts d'unité pour toute la durée de la bataille. L'effet peut se cumuler jusqu'à 20 fois. Lorsque la Djinn subit des dégâts, elle reçoit un autre niveau de Gardienne de la lampe. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Lyre](/ItemsFR/con_986/) | Augmente la DÉF de la Djinn de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Lyre](/ItemsFR/con_986/) | Augmente les soins de la Djinn de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Lyre](/ItemsFR/con_986/) | La Djinn génère une brume qui diminue de 20 % les dégâts de 2 unités ennemies à distance ou de Lanceurs de sorts aléatoires et de 400 les coups critiques pendant 10 secondes. Le temps de recharge est de 15 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Lyre](/ItemsFR/con_986/) | La Djinn augmente sa propre résistance aux dégâts d'unité de 5 % pour chaque unité de la Tour présente sur le champ de bataille. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Lyre](/ItemsFR/con_986/) | Lorsque la Djinn est sur le champ de bataille, elle augmente les soins reçus par toutes les unités alliées et leur DÉF de 10 %. L'effet est doublé pour les unités de la Tour. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Lyre](/ItemsFR/con_986/) | La Djinn se voit attribuer 10 niveaux de Gardienne de la lampe au début de la bataille et le nombre maximal de niveaux est porté à 30. Chaque fois que la Djinn profite des effets de Gardienne de la lampe, 2 unités alliées aléatoires reçoivent le même effet et récupéreront une quantité de PV égale à 50 % de leur ATQ. |
 
 
 ## Améliorer

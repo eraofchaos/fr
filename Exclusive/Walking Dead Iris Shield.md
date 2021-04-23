@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Trépassé Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Walking Dead Bouclier iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Trépassé](/fr/units/Walking Dead/) 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Massacre> : Le Trépassé brandit un hachoir, infligeant une quantité de dégâts égale à 100 % de son ATQ à des unités ennemies sur son chemin dans une petite zone. Les cibles touchées sont victimes de Saignement et reçoivent une quantité de dégâts égale à 10 % de son ATQ chaque seconde. L'effet dure 10 secondes. Le temps de recharge est de 20 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | La DÉF du Trépassé augmente de 300. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | La ténacité du Trépassé augmente de 500. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | Si la cible est victime de <Démotivation>, la vitesse d'ATQ et le drain de vie du Trépassé augmentent de 20 %. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | Le Trépassé récupère 1 % de ses PV max chaque seconde. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Le Trépassé diminue la DÉF des unités ennemies environnantes de 25 toutes les 4 secondes pendant les 5 prochaines secondes. L'effet peut être cumulé. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | Au début du combat, la vitesse de déplacement des unités ennemies diminue de 30 pendant 4 secondes. Les dégâts de toutes les unités alliées de la Nécropole augmentent de 20 % pendant 20 secondes lorsqu'elles récupèrent leur vitesse de déplacement. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Massacre> : Le Trépassé brandit un hachoir, infligeant une quantité de dégâts égale à 100 % de son ATQ à des unités ennemies sur son chemin dans une petite zone. Les cibles touchées sont victimes de Saignement et reçoivent une quantité de dégâts égale à 10 % de son ATQ chaque seconde. L'effet dure 10 secondes. Le temps de recharge est de 20 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La DÉF du Trépassé augmente de 300. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La ténacité du Trépassé augmente de 500. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Si la cible est victime de <Démotivation>, la vitesse d'ATQ et le drain de vie du Trépassé augmentent de 20 %. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Le Trépassé récupère 1 % de ses PV max chaque seconde. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Le Trépassé diminue la DÉF des unités ennemies environnantes de 25 toutes les 4 secondes pendant les 5 prochaines secondes. L'effet peut être cumulé. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Au début du combat, la vitesse de déplacement des unités ennemies diminue de 30 pendant 4 secondes. Les dégâts de toutes les unités alliées de la Nécropole augmentent de 20 % pendant 20 secondes lorsqu'elles récupèrent leur vitesse de déplacement. |
 
 
 ## Améliorer

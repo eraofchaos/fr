@@ -3,7 +3,7 @@ title: "Dragon squelette"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Dragon squelette"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Dragon squelette](/fr/Items/unt_214/)
+ **Unit Soul:** [Dragon squelette](/ItemsFR/unt_214/)
 
  **Unit description:** Effroi : réduit de façon drastique la défense ennemie et inflige Démotivation.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Os de dragon immortel](/fr/Items/con_980/)
+ **Item to Rang supérieur:** [Jeton Os de dragon immortel](/ItemsFR/con_980/)
 
- **Skin:** [Peau spéciale Os de dragon immortel](/fr/Items/con_648/)
+ **Skin:** [Peau spéciale Os de dragon immortel](/ItemsFR/con_648/)
 
 
 ## Emblèmes sacrés recommandés
@@ -176,7 +176,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gargouille Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Stone Gargoyle Épée.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Gargouille](/fr/units/Stone Gargoyle/) 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Épée](/fr/Items/con_912/) | <Déchiquètement> : Le Lutin inflige des dégâts équivalents à 250 % de son ATQ ainsi que Saignement pendant 6 secondes, tout en augmentant sa vitesse d'attaque de 20 % pendant 6 secondes. Le temps de recharge est de 26 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/fr/Items/con_912/) | Augmente les PV de la Gargouille de 15 % et sa DÉF de 10 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/fr/Items/con_912/) | Augmente les dégâts d'unité de la Gargouille de 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/fr/Items/con_912/) | <Éveil magique> : Lorsqu'une Gargouille reçoit un bonus d'un Héros allié, sa résistance magique augmente de 15 % et elle reçoit un bouclier égal à 10 % de ses PV max pendant 8 secondes. L'effet peut se cumuler jusqu'à 2 fois. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/fr/Items/con_912/) | Augmente la résistance aux dégâts d'unité de la Gargouille de 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/fr/Items/con_912/) | Immunise contre Étourdissement, Pétrification et Cristallisation sous forme de statue. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/fr/Items/con_912/) | <Masque de pierre> : Face à une unité affligée de Saignement à cause de <Déchiquètement>, chaque attaque inflige des dégâts équivalents à 1 % des PV max et diminue la résistance aux dégâts de 1 %, tout en restaurant une quantité de PV égale à 1 % de ses propres PV max et en augmentant ses propres dégâts de 1 %. Cet effet ne peut être déclenché qu'une fois par seconde. Chaque niveau dure 2 secondes. L'effet peut se cumuler jusqu'à 10 fois. |
+  |  Réveil  | **100x** [Jeton Épée](/ItemsFR/con_912/) | <Déchiquètement> : Le Lutin inflige des dégâts équivalents à 250 % de son ATQ ainsi que Saignement pendant 6 secondes, tout en augmentant sa vitesse d'attaque de 20 % pendant 6 secondes. Le temps de recharge est de 26 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/ItemsFR/con_912/) | Augmente les PV de la Gargouille de 15 % et sa DÉF de 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/ItemsFR/con_912/) | Augmente les dégâts d'unité de la Gargouille de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/ItemsFR/con_912/) | <Éveil magique> : Lorsqu'une Gargouille reçoit un bonus d'un Héros allié, sa résistance magique augmente de 15 % et elle reçoit un bouclier égal à 10 % de ses PV max pendant 8 secondes. L'effet peut se cumuler jusqu'à 2 fois. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/ItemsFR/con_912/) | Augmente la résistance aux dégâts d'unité de la Gargouille de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/ItemsFR/con_912/) | Immunise contre Étourdissement, Pétrification et Cristallisation sous forme de statue. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/ItemsFR/con_912/) | <Masque de pierre> : Face à une unité affligée de Saignement à cause de <Déchiquètement>, chaque attaque inflige des dégâts équivalents à 1 % des PV max et diminue la résistance aux dégâts de 1 %, tout en restaurant une quantité de PV égale à 1 % de ses propres PV max et en augmentant ses propres dégâts de 1 %. Cet effet ne peut être déclenché qu'une fois par seconde. Chaque niveau dure 2 secondes. L'effet peut se cumuler jusqu'à 10 fois. |
 
 
 ## Améliorer

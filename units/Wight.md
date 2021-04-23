@@ -3,7 +3,7 @@ title: "Revenante"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Revenante"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Revenante](/fr/Items/unt_210/)
+ **Unit Soul:** [Revenante](/ItemsFR/unt_210/)
 
  **Unit description:** Cri effroyable : inflige Silence aux troupes ennemies sur son chemin.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

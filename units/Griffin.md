@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Griffon"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Griffon](/fr/Items/unt_192/)
+ **Unit Soul:** [Griffon](/ItemsFR/unt_192/)
 
  **Unit description:** Plongeon : inflige des dégâts à 3 unités ennemies.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

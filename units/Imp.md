@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Diablotin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Diablotin](/fr/Items/unt_226/)
+ **Unit Soul:** [Diablotin](/ItemsFR/unt_226/)
 
  **Unit description:** Impulsion : donne une chance à l'unité de ressusciter avec tous ses PV.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Esquive d'unité
 * Résistance magique
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

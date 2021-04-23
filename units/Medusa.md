@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Méduse"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Méduse](/fr/Items/unt_247/)
+ **Unit Soul:** [Méduse](/ItemsFR/unt_247/)
 
  **Unit description:** Regard pétrifiant : pétrifie les ennemis et réduit leur résistance aux dégâts.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Arc de la Méduse](/fr/Items/con_991/)
+ **Item to Rang supérieur:** [Jeton Arc de la Méduse](/ItemsFR/con_991/)
 
- **Skin:** [Peau spéciale Arc de la Méduse](/fr/Items/con_659/)
+ **Skin:** [Peau spéciale Arc de la Méduse](/ItemsFR/con_659/)
 
 
 ## Emblèmes sacrés recommandés
@@ -172,7 +172,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

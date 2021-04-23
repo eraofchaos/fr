@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Momie"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Momie](/fr/Items/unt_215/)
+ **Unit Soul:** [Momie](/ItemsFR/unt_215/)
 
  **Unit description:** Malédiction putride : réduit grandement l'efficacité des soins ennemis.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bandage](/fr/Items/con_981/)
+ **Item to Rang supérieur:** [Jeton Bandage](/ItemsFR/con_981/)
 
- **Skin:** [Skin spécial Bandage](/fr/Items/con_649/)
+ **Skin:** [Skin spécial Bandage](/ItemsFR/con_649/)
 
 
 ## Emblèmes sacrés recommandés
@@ -175,7 +175,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

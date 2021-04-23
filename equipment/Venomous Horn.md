@@ -2,7 +2,7 @@
 title: "Corne venimeuse"
 permalink: /equipment/Venomous Horn/
 excerpt: "Era of Chaos Corne venimeuse. Corne venimeuse"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Venomous Horn.md"
 toc: false
@@ -37,19 +37,19 @@ classes: wide
   |          Grade      | ATQ | DÉF | Amélioration d'équipement | Minimal Level |
   |:--------------------|:---------:|:---------:|:----------------:|:--------------|
   | white | **+30.546** | **+0.27** | - | - |
-  | Vert | **+35.637** | **+0.315** | 1x [Minerai de qualité inférieure](/fr/Items/mat_1/) | 1 |
-  | Bleu | **+40.728** | **+0.36** | 3x [Minerai ordinaire](/fr/Items/mat_6/) | 1 |
-  | Bleu +1 | **+45.819** | **+0.405** | 1x [Répertoire des armes](/fr/Items/mat_18/), 5x [Minerai de bonne qualité](/fr/Items/mat_12/) | 1 |
-  | Bleu +2 | **+50.91** | **+0.45** | 2x [Répertoire des armes +1](/fr/Items/mat_25/), 8x [Minerai de qualité supérieure +1](/fr/Items/mat_19/) | 1 |
-  | Violet | **+56.001** | **+0.495** | 3x [Répertoire des armes +2](/fr/Items/mat_32/), 10x [Minerai précieux +2](/fr/Items/mat_26/), 3x [Bois de qualité supérieure +1](/fr/Items/mat_20/) | 33 |
-  | Violet +1 | **+61.092** | **+0.54** | 5x [Répertoire des essences](/fr/Items/mat_39/), 15x [Minerai exceptionnel](/fr/Items/mat_33/), 5x [Bois précieux +2](/fr/Items/mat_27/) | 38 |
-  | Violet +2 | **+66.183** | **+0.585** | 8x [Répertoire des essences +1](/fr/Items/mat_46/), 10x [Minerai rare +1](/fr/Items/mat_40/), 10x [Bois rare +1](/fr/Items/mat_41/), 5x [Soufre exceptionnel](/fr/Items/mat_36/) | 44 |
-  | Violet +3 | **+71.274** | **+0.63** | 10x [Répertoire des essences +2](/fr/Items/mat_53/), 15x [Minerai fantastique +2](/fr/Items/mat_47/), 15x [Bois fantastique +2](/fr/Items/mat_48/), 8x [Soufre rare +1](/fr/Items/mat_43/) | 53 |
-  | Orange | **+76.365** | **+0.675** | 12x [Répertoire des essences +3](/fr/Items/mat_60/), 18x [Minerai légendaire +3](/fr/Items/mat_54/), 18x [Bois légendaire +3](/fr/Items/mat_55/), 10x [Soufre fantastique +2](/fr/Items/mat_50/) | 60 |
-  | Orange +1 | **+81.456** | **+0.72** | 15x [Certificat de légende](/fr/Items/mat_67/), 25x [Minerai mythique](/fr/Items/mat_61/), 25x [Bois mythique](/fr/Items/mat_62/), 12x [Soufre légendaire +3](/fr/Items/mat_57/) | 69 |
-  | Orange +2 | **+86.547** | **+0.765** | 18x [Certificat de légende +1](/fr/Items/mat_74/), 30x [Minerai éternel +1](/fr/Items/mat_68/), 30x [Bois éternel +1](/fr/Items/mat_69/), 15x [Soufre mythique](/fr/Items/mat_64/) | 75 |
-  | Orange +3 | **+91.638** | **+0.81** | 21x [Certificat de légende +2](/fr/Items/mat_81/), 35x [Minerai mystérieux +2](/fr/Items/mat_75/), 35x [Bois mystérieux +2](/fr/Items/mat_76/), 18x [Soufre éternel +1](/fr/Items/mat_71/) | 83 |
-  | Orange +4 | **+96.729** | **+0.855** | 24x [Certificat de légende +3](/fr/Items/mat_88/), 40x [Minerai d'âme +3](/fr/Items/mat_82/), 40x [Bois d'âme +3](/fr/Items/mat_83/), 25x [Soufre mystérieux +2](/fr/Items/mat_78/) | 92 |
-  | Orange +5 | **+104.3655** | **+0.9225** | 50x [Certificat de légende +4](/fr/Items/mat_95/), 80x [Minerai stellaire +4](/fr/Items/mat_89/), 80x [Bois stellaire +4](/fr/Items/mat_90/), 50x [Soufre d'âme +3](/fr/Items/mat_85/) | 100 |
-  | Rouge | **+117.093** | **+1.035** | 100x [Certificat légendaire +5](/fr/Items/mat_102/), 150x [Minerai flamboyant +5](/fr/Items/mat_96/), 150x [Bois flamboyant +5](/fr/Items/mat_97/), 100x [Soufre stellaire +4](/fr/Items/mat_92/) | 105 |
+  | Vert | **+35.637** | **+0.315** | 1x [Minerai de qualité inférieure](/ItemsFR/mat_1/) | 1 |
+  | Bleu | **+40.728** | **+0.36** | 3x [Minerai ordinaire](/ItemsFR/mat_6/) | 1 |
+  | Bleu +1 | **+45.819** | **+0.405** | 1x [Répertoire des armes](/ItemsFR/mat_18/), 5x [Minerai de bonne qualité](/ItemsFR/mat_12/) | 1 |
+  | Bleu +2 | **+50.91** | **+0.45** | 2x [Répertoire des armes +1](/ItemsFR/mat_25/), 8x [Minerai de qualité supérieure +1](/ItemsFR/mat_19/) | 1 |
+  | Violet | **+56.001** | **+0.495** | 3x [Répertoire des armes +2](/ItemsFR/mat_32/), 10x [Minerai précieux +2](/ItemsFR/mat_26/), 3x [Bois de qualité supérieure +1](/ItemsFR/mat_20/) | 33 |
+  | Violet +1 | **+61.092** | **+0.54** | 5x [Répertoire des essences](/ItemsFR/mat_39/), 15x [Minerai exceptionnel](/ItemsFR/mat_33/), 5x [Bois précieux +2](/ItemsFR/mat_27/) | 38 |
+  | Violet +2 | **+66.183** | **+0.585** | 8x [Répertoire des essences +1](/ItemsFR/mat_46/), 10x [Minerai rare +1](/ItemsFR/mat_40/), 10x [Bois rare +1](/ItemsFR/mat_41/), 5x [Soufre exceptionnel](/ItemsFR/mat_36/) | 44 |
+  | Violet +3 | **+71.274** | **+0.63** | 10x [Répertoire des essences +2](/ItemsFR/mat_53/), 15x [Minerai fantastique +2](/ItemsFR/mat_47/), 15x [Bois fantastique +2](/ItemsFR/mat_48/), 8x [Soufre rare +1](/ItemsFR/mat_43/) | 53 |
+  | Orange | **+76.365** | **+0.675** | 12x [Répertoire des essences +3](/ItemsFR/mat_60/), 18x [Minerai légendaire +3](/ItemsFR/mat_54/), 18x [Bois légendaire +3](/ItemsFR/mat_55/), 10x [Soufre fantastique +2](/ItemsFR/mat_50/) | 60 |
+  | Orange +1 | **+81.456** | **+0.72** | 15x [Certificat de légende](/ItemsFR/mat_67/), 25x [Minerai mythique](/ItemsFR/mat_61/), 25x [Bois mythique](/ItemsFR/mat_62/), 12x [Soufre légendaire +3](/ItemsFR/mat_57/) | 69 |
+  | Orange +2 | **+86.547** | **+0.765** | 18x [Certificat de légende +1](/ItemsFR/mat_74/), 30x [Minerai éternel +1](/ItemsFR/mat_68/), 30x [Bois éternel +1](/ItemsFR/mat_69/), 15x [Soufre mythique](/ItemsFR/mat_64/) | 75 |
+  | Orange +3 | **+91.638** | **+0.81** | 21x [Certificat de légende +2](/ItemsFR/mat_81/), 35x [Minerai mystérieux +2](/ItemsFR/mat_75/), 35x [Bois mystérieux +2](/ItemsFR/mat_76/), 18x [Soufre éternel +1](/ItemsFR/mat_71/) | 83 |
+  | Orange +4 | **+96.729** | **+0.855** | 24x [Certificat de légende +3](/ItemsFR/mat_88/), 40x [Minerai d'âme +3](/ItemsFR/mat_82/), 40x [Bois d'âme +3](/ItemsFR/mat_83/), 25x [Soufre mystérieux +2](/ItemsFR/mat_78/) | 92 |
+  | Orange +5 | **+104.3655** | **+0.9225** | 50x [Certificat de légende +4](/ItemsFR/mat_95/), 80x [Minerai stellaire +4](/ItemsFR/mat_89/), 80x [Bois stellaire +4](/ItemsFR/mat_90/), 50x [Soufre d'âme +3](/ItemsFR/mat_85/) | 100 |
+  | Rouge | **+117.093** | **+1.035** | 100x [Certificat légendaire +5](/ItemsFR/mat_102/), 150x [Minerai flamboyant +5](/ItemsFR/mat_96/), 150x [Bois flamboyant +5](/ItemsFR/mat_97/), 100x [Soufre stellaire +4](/ItemsFR/mat_92/) | 105 |
 

@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Tortue dragon"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Tortue dragon](/fr/Items/unt_278/)
+ **Unit Soul:** [Tortue dragon](/ItemsFR/unt_278/)
 
  **Short description:** Tank. Régénère des PV.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton d'Obéissance](/fr/Items/con_1005/)
+ **Item to Rang supérieur:** [Jeton d'Obéissance](/ItemsFR/con_1005/)
 
- **Skin:** [Skin spécial d'obéissance](/fr/Items/con_673/)
+ **Skin:** [Skin spécial d'obéissance](/ItemsFR/con_673/)
 
 
 ## Emblèmes sacrés recommandés
@@ -169,7 +169,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

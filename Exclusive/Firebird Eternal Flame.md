@@ -2,7 +2,7 @@
 title: "Exclusif - Flamme éternelle (Firebird)"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Flamme éternelle. Flamme éternelle. Era of Chaos Exclusif Flamme éternelle. Oiseau de feu Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Firebird Flamme éternelle.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusif for Unit:** [Oiseau de feu](/fr/units/Firebird/) 
 
- **Item to Rang supérieur:** [Jeton Flamme éternelle](/fr/Items/con_1001/)
+ **Item to Rang supérieur:** [Jeton Flamme éternelle](/ItemsFR/con_1001/)
 
- **Skin:** [Peau spéciale Flamme éternelle](/fr/Items/con_669/)
+ **Skin:** [Peau spéciale Flamme éternelle](/ItemsFR/con_669/)
 
  **Type:** À distance
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Flamme éternelle](/fr/Items/con_1001/) | <Terre de feu> : L'Oiseau de feu inflige des dégâts à toutes les unités ennemies se trouvant sur la même ligne que la cible 3 fois toutes les 10 secondes et leur inflige \"Brûlure\" pendant 8 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Flamme éternelle](/fr/Items/con_1001/) | L'Oiseau de feu est immunisé contre les dégâts des sorts de feu. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Flamme éternelle](/fr/Items/con_1001/) | Augmente l'attaque de l'Oiseau de feu de 10 %, et sa vitesse d'ATQ de 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Flamme éternelle](/fr/Items/con_1001/) | Quand l'Oiseau de feu fait face à une unité de 1 ou 4 combattants, son attaque inflige des dégâts équivalents à 20 % de l'ATQ aux unités ennemies à proximité de la cible et leur inflige <Brûlure>. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Flamme éternelle](/fr/Items/con_1001/) | Face aux unités victimes de <Brûlure>, la pénétration de l'Oiseau de feu augmente de 400. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Flamme éternelle](/fr/Items/con_1001/) | Lorsqu'un Héros allié lance un sort de feu, cela restaure 10 % de ses PV. Cet effet peut être activé une fois toutes les 5 secondes. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Flamme éternelle](/fr/Items/con_1001/) | Les dégâts de l'Oiseau de feu augmentent de 20 %. Lorsqu'un Héros ennemi lance un sort de feu, les dégâts et la résistance aux dégâts de son unité augmentent de 20 %. Cet effet dure 5 secondes. |
+  |  Réveil  | **100x** [Jeton Flamme éternelle](/ItemsFR/con_1001/) | <Terre de feu> : L'Oiseau de feu inflige des dégâts à toutes les unités ennemies se trouvant sur la même ligne que la cible 3 fois toutes les 10 secondes et leur inflige \"Brûlure\" pendant 8 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Flamme éternelle](/ItemsFR/con_1001/) | L'Oiseau de feu est immunisé contre les dégâts des sorts de feu. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Flamme éternelle](/ItemsFR/con_1001/) | Augmente l'attaque de l'Oiseau de feu de 10 %, et sa vitesse d'ATQ de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Flamme éternelle](/ItemsFR/con_1001/) | Quand l'Oiseau de feu fait face à une unité de 1 ou 4 combattants, son attaque inflige des dégâts équivalents à 20 % de l'ATQ aux unités ennemies à proximité de la cible et leur inflige <Brûlure>. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Flamme éternelle](/ItemsFR/con_1001/) | Face aux unités victimes de <Brûlure>, la pénétration de l'Oiseau de feu augmente de 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Flamme éternelle](/ItemsFR/con_1001/) | Lorsqu'un Héros allié lance un sort de feu, cela restaure 10 % de ses PV. Cet effet peut être activé une fois toutes les 5 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Flamme éternelle](/ItemsFR/con_1001/) | Les dégâts de l'Oiseau de feu augmentent de 20 %. Lorsqu'un Héros ennemi lance un sort de feu, les dégâts et la résistance aux dégâts de son unité augmentent de 20 %. Cet effet dure 5 secondes. |
 
 
 ## Améliorer

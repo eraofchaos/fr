@@ -3,7 +3,7 @@ title: "Géant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
 unitID: 607
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Géant"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Géant ](/fr/Items/unt_241/)
+ **Unit Soul:** [Géant ](/ItemsFR/unt_241/)
 
  **Unit description:** Dieu de la guerre : inflige des dégâts à toutes portées.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mille tonnes](/fr/Items/con_988/)
+ **Item to Rang supérieur:** [Jeton Mille tonnes](/ItemsFR/con_988/)
 
- **Skin:** [Skin spécial Mille tonnes](/fr/Items/con_656/)
+ **Skin:** [Skin spécial Mille tonnes](/ItemsFR/con_656/)
 
 
 ## Emblèmes sacrés recommandés
@@ -171,7 +171,7 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

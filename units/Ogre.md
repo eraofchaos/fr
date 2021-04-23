@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Ogre"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Ogre](/fr/Items/unt_220/)
+ **Unit Soul:** [Ogre](/ItemsFR/unt_220/)
 
  **Unit description:** Mare de sang : améliore le drain de vie de vos unités à proximité.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -179,7 +179,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

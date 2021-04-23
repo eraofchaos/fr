@@ -3,7 +3,7 @@ title: "Nain"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Nain"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Nain](/fr/Items/unt_200/)
+ **Unit Soul:** [Nain](/ItemsFR/unt_200/)
 
  **Unit description:** Hurlement du Nain : augmente les PV max de votre unité au début du combat.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -181,7 +181,7 @@ toc: true
 * Défense
 * Résistance magique
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

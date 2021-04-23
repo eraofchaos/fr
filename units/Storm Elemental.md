@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Élémentaire de tempête](/fr/Items/unt_263/)
+ **Unit Soul:** [Élémentaire de tempête](/ItemsFR/unt_263/)
 
  **Short description:** Peut marquer un ennemi pour infliger de lourds dégâts.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

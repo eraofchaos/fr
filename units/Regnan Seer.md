@@ -3,7 +3,7 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Oracle de Regna"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Oracle de Regna](/fr/Items/unt_279/)
+ **Unit Soul:** [Oracle de Regna](/ItemsFR/unt_279/)
 
  **Short description:** Chef de la Crique. Puissant contrôle.
 
@@ -83,9 +83,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Étendard spirituel La cité dans l'océan](/fr/Items/con_1006/)
+ **Item to Rang supérieur:** [Étendard spirituel La cité dans l'océan](/ItemsFR/con_1006/)
 
- **Skin:** [Tool_2990709](/fr/Items/con_674/)
+ **Skin:** [Tool_2990709](/ItemsFR/con_674/)
 
 
 ## Emblèmes sacrés recommandés
@@ -180,7 +180,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

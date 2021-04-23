@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Djinn"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Djinn](/fr/Items/unt_239/)
+ **Unit Soul:** [Djinn](/ItemsFR/unt_239/)
 
  **Unit description:** Cadeau d'énergie : convertit l'ATQ en soins.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Lyre](/fr/Items/con_986/)
+ **Item to Rang supérieur:** [Jeton Lyre](/ItemsFR/con_986/)
 
- **Skin:** [Skin spécial Lyre](/fr/Items/con_654/)
+ **Skin:** [Skin spécial Lyre](/ItemsFR/con_654/)
 
 
 ## Emblèmes sacrés recommandés
@@ -178,7 +178,7 @@ toc: true
 * Guérison
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

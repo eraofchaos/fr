@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long (Pegasus)"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Pégase Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Pegasus Arc long.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Pégase](/fr/units/Pegasus/) 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Arc long](/fr/Items/con_914/) | Chaque attaque normale inflige à la cible des dégâts supplémentaires équivalents à 30 % de l'ATQ. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc long](/fr/Items/con_914/) | Les dégâts de la Pégase augmentent de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc long](/fr/Items/con_914/) | L'ATQ de la Pégase augmente de 20 % et sa vitesse d'ATQ de 10 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc long](/fr/Items/con_914/) | <Tempête de lames> : La Pégase lance une épine de rose toutes les 25 secondes, infligeant à toutes les unités ennemies une quantité de dégâts égale à l'addition de 5 % de ses PV max et de 20 % de son ATQ. Elle inflige aussi Saignement aux ennemis pendant 10 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Arc long](/fr/Items/con_914/) | L'attaque normale de la Pégase réduit la résistance aux dégâts de sa cible de 2 %. Cet effet dure 3 secondes, et peut se cumuler jusqu'à 7 fois. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Arc long](/fr/Items/con_914/) | Lorsqu'il affronte des cibles portant un <Bouclier>, la vitesse d'ATQ de la Pégase augmente de 10 % pendant 3 secondes. Lorsqu'elle affronte des cibles victimes de <Saignement>, ses dégâts augmentent de 20 % pendant 3 secondes. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Arc long](/fr/Items/con_914/) | <Perce-cœur> : La Pégase inflige 250 % de dégâts à un membre de l'unité cible et réduit la DÉF de l'unité de 20 % pendant 3 secondes toutes les 15 secondes. |
+  |  Réveil  | **100x** [Jeton Arc long](/ItemsFR/con_914/) | Chaque attaque normale inflige à la cible des dégâts supplémentaires équivalents à 30 % de l'ATQ. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc long](/ItemsFR/con_914/) | Les dégâts de la Pégase augmentent de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc long](/ItemsFR/con_914/) | L'ATQ de la Pégase augmente de 20 % et sa vitesse d'ATQ de 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc long](/ItemsFR/con_914/) | <Tempête de lames> : La Pégase lance une épine de rose toutes les 25 secondes, infligeant à toutes les unités ennemies une quantité de dégâts égale à l'addition de 5 % de ses PV max et de 20 % de son ATQ. Elle inflige aussi Saignement aux ennemis pendant 10 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Arc long](/ItemsFR/con_914/) | L'attaque normale de la Pégase réduit la résistance aux dégâts de sa cible de 2 %. Cet effet dure 3 secondes, et peut se cumuler jusqu'à 7 fois. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Arc long](/ItemsFR/con_914/) | Lorsqu'il affronte des cibles portant un <Bouclier>, la vitesse d'ATQ de la Pégase augmente de 10 % pendant 3 secondes. Lorsqu'elle affronte des cibles victimes de <Saignement>, ses dégâts augmentent de 20 % pendant 3 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Arc long](/ItemsFR/con_914/) | <Perce-cœur> : La Pégase inflige 250 % de dégâts à un membre de l'unité cible et réduit la DÉF de l'unité de 20 % pendant 3 secondes toutes les 15 secondes. |
 
 
 ## Améliorer

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-11 Se serrer les coudes"
 permalink: /Main Story/Chapter 12_11/
 excerpt: "Chapitre 12 - 11. Era of Chaos  Histoire principale - Chapitre 12_11. 12-11 Se serrer les coudes"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 12_11.md"
 toc: false

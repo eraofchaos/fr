@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Sirène"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Sirène](/fr/Items/unt_277/)
+ **Unit Soul:** [Sirène](/ItemsFR/unt_277/)
 
  **Short description:** Soins de groupe. Bonus puissants.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Marées nocturnes](/fr/Items/con_1004/)
+ **Item to Rang supérieur:** [Jeton Marées nocturnes](/ItemsFR/con_1004/)
 
- **Skin:** [Skin spécial Marées nocturnes](/fr/Items/con_672/)
+ **Skin:** [Skin spécial Marées nocturnes](/ItemsFR/con_672/)
 
 
 ## Emblèmes sacrés recommandés
@@ -172,7 +172,7 @@ toc: true
 * Vitesse d'attaque
 * Guérison
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

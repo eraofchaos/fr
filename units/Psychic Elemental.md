@@ -3,7 +3,7 @@ title: "Élémentaire de l'esprit"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Élémentaire de l'esprit"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Élémentaire de l'esprit](/fr/Items/unt_267/)
+ **Unit Soul:** [Élémentaire de l'esprit](/ItemsFR/unt_267/)
 
  **Short description:** Tir d'énergie. Brûle.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Noyau spirituel](/fr/Items/con_1000/)
+ **Item to Rang supérieur:** [Jeton Noyau spirituel](/ItemsFR/con_1000/)
 
- **Skin:** [Skin spécial Noyau spirituel](/fr/Items/con_668/)
+ **Skin:** [Skin spécial Noyau spirituel](/ItemsFR/con_668/)
 
 
 ## Emblèmes sacrés recommandés
@@ -171,7 +171,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

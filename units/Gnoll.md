@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
 unitID: 801
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Gnoll"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Gnoll](/fr/Items/unt_253/)
+ **Unit Soul:** [Gnoll](/ItemsFR/unt_253/)
 
  **Short description:** DPS de mêlée. Étourdit.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * dégâts d'unité
 * Résistance magique
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

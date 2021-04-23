@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Trépassé"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Trépassé](/fr/Items/unt_209/)
+ **Unit Soul:** [Trépassé](/ItemsFR/unt_209/)
 
  **Unit description:** Détonation : lorsque l'unité meurt, inflige des dégâts à la troupe ennemie la plus proche.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

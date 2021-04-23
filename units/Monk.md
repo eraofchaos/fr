@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Moine"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Moine](/fr/Items/unt_194/)
+ **Unit Soul:** [Moine](/ItemsFR/unt_194/)
 
  **Unit description:** Faveur divine : soigne l'unité qui a le moins de PV.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -165,7 +165,7 @@ toc: true
 
 * ?!? 
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

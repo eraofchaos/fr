@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Archimage"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Mage](/fr/Items/unt_238/)
+ **Unit Soul:** [Mage](/ItemsFR/unt_238/)
 
  **Unit description:** Pénétration de sort : augmente sans cesse les dégâts infligés aux unités isolées.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

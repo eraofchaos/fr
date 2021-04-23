@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Cauchemar"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Cauchemar](/fr/Items/unt_233/)
+ **Unit Soul:** [Cauchemar](/ItemsFR/unt_233/)
 
  **Short description:** Soutien. Dégâts initiaux importants.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Œil de Cauchemar](/fr/Items/con_985/)
+ **Item to Rang supérieur:** [Jeton Œil de Cauchemar](/ItemsFR/con_985/)
 
- **Skin:** [Tool_250809](/fr/Items/con_653/)
+ **Skin:** [Tool_250809](/ItemsFR/con_653/)
 
 
 ## Emblèmes sacrés recommandés
@@ -169,7 +169,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

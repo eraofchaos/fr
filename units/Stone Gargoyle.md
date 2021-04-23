@@ -3,7 +3,7 @@ title: "Gargouille"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat."
 unitID: 602
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Gargouille"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Gargouille](/fr/Items/unt_236/)
+ **Unit Soul:** [Gargouille](/ItemsFR/unt_236/)
 
  **Unit description:** Forme de pierre : augmente l'ATQ et la vitesse d'ATQ.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -178,7 +178,7 @@ toc: true
 * Esquive d'unité
 * Résistance magique
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

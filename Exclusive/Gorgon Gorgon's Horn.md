@@ -2,7 +2,7 @@
 title: "Exclusif - Corne de Gorgone (Gorgon)"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Corne de Gorgone. Corne de Gorgone. Era of Chaos Exclusif Corne de Gorgone. Gorgone Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Gorgon Corne de Gorgone.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusif for Unit:** [Gorgone](/fr/units/Gorgon/) 
 
- **Item to Rang supérieur:** [Jeton Corne de Gorgone](/fr/Items/con_995/)
+ **Item to Rang supérieur:** [Jeton Corne de Gorgone](/ItemsFR/con_995/)
 
- **Skin:** [Skin spécial Corne de Gorgone](/fr/Items/con_663/)
+ **Skin:** [Skin spécial Corne de Gorgone](/ItemsFR/con_663/)
 
  **Type:** Soutien
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Corne de Gorgone](/fr/Items/con_995/) | <Armure pétrifiée> : La Gorgone couvre l'intégralité de son corps d'une armure pétrifiée, ce qui augmente sa DÉF de 24 % et sa résistance aux dégâts d'unité de 20 % pendant 6 secondes. Lorsqu'elle perd tous ses bonus, la Gorgone inflige des dégâts équivalents à 150 % de son ATQ aux unités ennemies dans une large zone et a 30 % de chance de leur infliger Pétrification pendant 3 secondes. Le temps de recharge est de 18 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Corne de Gorgone](/fr/Items/con_995/) | Augmente les PV et la résistance aux dégâts d'unité de la Gorgone de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Corne de Gorgone](/fr/Items/con_995/) | Lorsqu'elle lance <Armure pétrifiée>, la Gorgone restaure une quantité de PV équivalente à 10 % de ses PV max en l'espace de 5 secondes. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Corne de Gorgone](/fr/Items/con_995/) | <Fission tectonique> : Lorsque la Gorgone perd son bonus d'<Armure pétrifiée>, elle inflige chaque seconde Lenteur ou Brûlure aux unités ennemies se trouvant dans une large zone, et inflige également des dégâts équivalents à 3 % de ses PV max pendant 6 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Corne de Gorgone](/fr/Items/con_995/) | Lorsque la Gorgone reçoit un coup critique, sa ténacité augmente de 30 pour le reste de la bataille. Le temps de recharge est de 2 secondes. L'effet peut se cumuler jusqu'à 20 fois. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Corne de Gorgone](/fr/Items/con_995/) | Après avoir lancé <Armure pétrifiée>, la Gorgone accorde à une unité de la Forteresse alliée au hasard un bouclier égal à 10 % de ses PV max, et la Gorgone a 50 % de chance de recevoir un bouclier égal à 10 % de ses PV max pendant 6 secondes. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Corne de Gorgone](/fr/Items/con_995/) | Chaque fois qu'une Gorgone meurt, la résistance aux dégâts et la vitesse d'attaque de toutes les unités de la Forteresse alliées augmentent de 10 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 4 fois. A 7 % de chance d'infliger des dégâts équivalant à 77 % de ses PV max à 3 unités ennemies au hasard. |
+  |  Réveil  | **100x** [Jeton Corne de Gorgone](/ItemsFR/con_995/) | <Armure pétrifiée> : La Gorgone couvre l'intégralité de son corps d'une armure pétrifiée, ce qui augmente sa DÉF de 24 % et sa résistance aux dégâts d'unité de 20 % pendant 6 secondes. Lorsqu'elle perd tous ses bonus, la Gorgone inflige des dégâts équivalents à 150 % de son ATQ aux unités ennemies dans une large zone et a 30 % de chance de leur infliger Pétrification pendant 3 secondes. Le temps de recharge est de 18 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Corne de Gorgone](/ItemsFR/con_995/) | Augmente les PV et la résistance aux dégâts d'unité de la Gorgone de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Corne de Gorgone](/ItemsFR/con_995/) | Lorsqu'elle lance <Armure pétrifiée>, la Gorgone restaure une quantité de PV équivalente à 10 % de ses PV max en l'espace de 5 secondes. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Corne de Gorgone](/ItemsFR/con_995/) | <Fission tectonique> : Lorsque la Gorgone perd son bonus d'<Armure pétrifiée>, elle inflige chaque seconde Lenteur ou Brûlure aux unités ennemies se trouvant dans une large zone, et inflige également des dégâts équivalents à 3 % de ses PV max pendant 6 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Corne de Gorgone](/ItemsFR/con_995/) | Lorsque la Gorgone reçoit un coup critique, sa ténacité augmente de 30 pour le reste de la bataille. Le temps de recharge est de 2 secondes. L'effet peut se cumuler jusqu'à 20 fois. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Corne de Gorgone](/ItemsFR/con_995/) | Après avoir lancé <Armure pétrifiée>, la Gorgone accorde à une unité de la Forteresse alliée au hasard un bouclier égal à 10 % de ses PV max, et la Gorgone a 50 % de chance de recevoir un bouclier égal à 10 % de ses PV max pendant 6 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Corne de Gorgone](/ItemsFR/con_995/) | Chaque fois qu'une Gorgone meurt, la résistance aux dégâts et la vitesse d'attaque de toutes les unités de la Forteresse alliées augmentent de 10 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 4 fois. A 7 % de chance d'infliger des dégâts équivalant à 77 % de ses PV max à 3 unités ennemies au hasard. |
 
 
 ## Améliorer

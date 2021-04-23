@@ -3,7 +3,7 @@ title: "Dragon noir"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Dragon noir"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Dragon noir](/fr/Items/unt_250/)
+ **Unit Soul:** [Dragon noir](/ItemsFR/unt_250/)
 
  **Unit description:** Souffle du Dragon : attaque les ennemis dans une large zone et les brûle.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Écaille de Dragon noir](/fr/Items/con_993/)
+ **Item to Rang supérieur:** [Jeton Écaille de Dragon noir](/ItemsFR/con_993/)
 
- **Skin:** [Peau spéciale Écaille de Dragon noir](/fr/Items/con_661/)
+ **Skin:** [Peau spéciale Écaille de Dragon noir](/ItemsFR/con_661/)
 
 
 ## Emblèmes sacrés recommandés
@@ -174,7 +174,7 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

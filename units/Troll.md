@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Trolls sont très intelligents et utilisent de lourds rochers comme armes. On les retrouve souvent en première ligne des batailles pour asséner aux ennemis les coups les plus violents."
 unitID: 409
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Troll"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Troll](/fr/Items/unt_225/)
+ **Unit Soul:** [Troll](/ItemsFR/unt_225/)
 
  **Short description:** Attaque d'une cible unique. Dégâts d'explosion.
 
@@ -191,7 +191,7 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

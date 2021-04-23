@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Vampire"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Vampire](/fr/Items/unt_211/)
+ **Unit Soul:** [Vampire](/ItemsFR/unt_211/)
 
  **Unit description:** Drain de vie : draine la santé d'une unité ennemie pour restaurer la vôtre.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 21 Le Graal"
 permalink: /Underground/Chapter 21/
 excerpt: "Chapitre 21 Le Graal. Era of Chaos  Souterrain - Chapitre 21. Le Graal"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 21.md"
 toc: false

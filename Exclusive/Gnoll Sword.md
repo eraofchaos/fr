@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gnoll Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Gnoll Épée.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Gnoll](/fr/units/Gnoll/) 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Épée](/fr/Items/con_912/) | <Blessures ouvertes> : Le Gnoll inflige des dégâts équivalents à 275 % de son ATQ ainsi que Saignement à l'unité cible pendant 8 secondes. Le temps de recharge est de 15 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/fr/Items/con_912/) | Augmente la pénétration du Gnoll de 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/fr/Items/con_912/) | Augmente les dégâts d'unité du Gnoll de 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/fr/Items/con_912/) | Augmente l'esquive du Gnoll de 300. S'il reçoit un coup critique, il récupère 5 % de ses PV max et a 50 % de chance de voir sa résistance aux dégâts augmenter de 50 % pendant 1 seconde. Le temps de recharge est de 3 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/fr/Items/con_912/) | Augmente la résistance aux dégâts d'unité du Gnoll de 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/fr/Items/con_912/) | Le Gnoll augmente par ailleurs son ATQ de 20 % et son drain de vie de 15 % lorsqu'il combat des unités victimes de Saignement. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/fr/Items/con_912/) | Lorsque <Blessures ouvertes> se déclenche, inflige des dégâts supplémentaires équivalents à 2,5 % de ses PV max par seconde à l'unité cible, et diminue les dégâts d'unité de cette dernière de 30 %, ainsi que sa DÉF de 10 % pendant 5 secondes. |
+  |  Réveil  | **100x** [Jeton Épée](/ItemsFR/con_912/) | <Blessures ouvertes> : Le Gnoll inflige des dégâts équivalents à 275 % de son ATQ ainsi que Saignement à l'unité cible pendant 8 secondes. Le temps de recharge est de 15 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Épée](/ItemsFR/con_912/) | Augmente la pénétration du Gnoll de 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Épée](/ItemsFR/con_912/) | Augmente les dégâts d'unité du Gnoll de 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Épée](/ItemsFR/con_912/) | Augmente l'esquive du Gnoll de 300. S'il reçoit un coup critique, il récupère 5 % de ses PV max et a 50 % de chance de voir sa résistance aux dégâts augmenter de 50 % pendant 1 seconde. Le temps de recharge est de 3 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Épée](/ItemsFR/con_912/) | Augmente la résistance aux dégâts d'unité du Gnoll de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Épée](/ItemsFR/con_912/) | Le Gnoll augmente par ailleurs son ATQ de 20 % et son drain de vie de 15 % lorsqu'il combat des unités victimes de Saignement. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Épée](/ItemsFR/con_912/) | Lorsque <Blessures ouvertes> se déclenche, inflige des dégâts supplémentaires équivalents à 2,5 % de ses PV max par seconde à l'unité cible, et diminue les dégâts d'unité de cette dernière de 30 %, ainsi que sa DÉF de 10 % pendant 5 secondes. |
 
 
 ## Améliorer

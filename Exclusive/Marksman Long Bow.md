@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Grand Arbalétrier Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Marksman Arc long.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Grand Arbalétrier](/fr/units/Marksman/) 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Arc long](/fr/Items/con_914/) | <Flèche perforante> : Inflige des dégâts équivalents à 300 % de son ATQ tout en ignorant 1 000 points de la DÉF de l'unité cible. Le temps de recharge est de 15 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc long](/fr/Items/con_914/) | Augmente l'ATQ du Grand Arbalétrier de 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc long](/fr/Items/con_914/) | Augmente la DÉF du Grand Arbalétrier de 20 % en cas d'Exaltation. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc long](/fr/Items/con_914/) | Les attaques du Grand Arbalétrier infligeront Représailles aux unités ennemies. Attaquer la même unité 18 fois au total lui infligera des dégâts supplémentaires équivalant à 200 % de l'ATQ du Grand Arbalétrier. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Arc long](/fr/Items/con_914/) | Augmente les dégâts d'unité du Grand Arbalétrier de 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Arc long](/fr/Items/con_914/) | Augmente la résistance magique du Grand Arbalétrier de 40 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Arc long](/fr/Items/con_914/) | <Serment de mort> : Lorsque des dégâts mortels sont subis, l'unité ne meurt pas et devient au contraire invincible, augmentant les dégâts d'unité de 50 %, la vitesse d'attaque de 150 %, les coups critiques de 500, et le drain de vie de 20 % pendant 5 secondes. Cet effet peut être déclenché une fois par unité pendant toute la durée de la bataille. <Flèche perforante> se déclenchera immédiatement la première fois qu'une unité lance <Serment de mort>. |
+  |  Réveil  | **100x** [Jeton Arc long](/ItemsFR/con_914/) | <Flèche perforante> : Inflige des dégâts équivalents à 300 % de son ATQ tout en ignorant 1 000 points de la DÉF de l'unité cible. Le temps de recharge est de 15 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc long](/ItemsFR/con_914/) | Augmente l'ATQ du Grand Arbalétrier de 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc long](/ItemsFR/con_914/) | Augmente la DÉF du Grand Arbalétrier de 20 % en cas d'Exaltation. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc long](/ItemsFR/con_914/) | Les attaques du Grand Arbalétrier infligeront Représailles aux unités ennemies. Attaquer la même unité 18 fois au total lui infligera des dégâts supplémentaires équivalant à 200 % de l'ATQ du Grand Arbalétrier. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Arc long](/ItemsFR/con_914/) | Augmente les dégâts d'unité du Grand Arbalétrier de 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Arc long](/ItemsFR/con_914/) | Augmente la résistance magique du Grand Arbalétrier de 40 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Arc long](/ItemsFR/con_914/) | <Serment de mort> : Lorsque des dégâts mortels sont subis, l'unité ne meurt pas et devient au contraire invincible, augmentant les dégâts d'unité de 50 %, la vitesse d'attaque de 150 %, les coups critiques de 500, et le drain de vie de 20 % pendant 5 secondes. Cet effet peut être déclenché une fois par unité pendant toute la durée de la bataille. <Flèche perforante> se déclenchera immédiatement la première fois qu'une unité lance <Serment de mort>. |
 
 
 ## Améliorer

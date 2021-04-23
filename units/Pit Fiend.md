@@ -3,7 +3,7 @@ title: "Servante des Abîmes"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage."
 unitID: 505
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Servante des Abîmes"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Servante des Abîmes](/fr/Items/unt_230/)
+ **Unit Soul:** [Servante des Abîmes](/ItemsFR/unt_230/)
 
  **Unit description:** Cercle de feu : soigne continuellement des unités alliées sur son chemin.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Guérison
 * dégâts d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

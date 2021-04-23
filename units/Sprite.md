@@ -3,7 +3,7 @@ title: "Fée"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
 unitID: 901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Fée"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Fée](/fr/Items/unt_262/)
+ **Unit Soul:** [Fée](/ItemsFR/unt_262/)
 
  **Short description:** Inflige Silence. Sort initial amélioré.
 
@@ -82,7 +82,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Pic du Chevalier](/fr/Items/con_916/)
+ **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 
  **Skin:** -
 
@@ -170,7 +170,7 @@ toc: true
 * dégâts d'unité
 * Résistance magique
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

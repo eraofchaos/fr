@@ -3,7 +3,7 @@ title: "Basilic"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Basilic"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Basilic](/fr/Items/unt_256/)
+ **Unit Soul:** [Basilic](/ItemsFR/unt_256/)
 
  **Short description:** Contrôle les tanks. Pétrifie.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Queue de Basilic](/fr/Items/con_994/)
+ **Item to Rang supérieur:** [Jeton Queue de Basilic](/ItemsFR/con_994/)
 
- **Skin:** [Peau spéciale Énergie de feu](/fr/Items/con_662/)
+ **Skin:** [Peau spéciale Énergie de feu](/ItemsFR/con_662/)
 
 
 ## Emblèmes sacrés recommandés
@@ -174,7 +174,7 @@ toc: true
 * réduction des dégâts d'unité
 * Résistance magique
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Adjudicatrice"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Adjudicatrice](/fr/Items/unt_198/)
+ **Unit Soul:** [Adjudicatrice](/ItemsFR/unt_198/)
 
  **Short description:** Aura de soutien. Portée étendue.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Étendard spirituel Radiance sainte](/fr/Items/con_975/)
+ **Item to Rang supérieur:** [Étendard spirituel Radiance sainte](/ItemsFR/con_975/)
 
- **Skin:** [Tool_210909](/fr/Items/con_643/)
+ **Skin:** [Tool_210909](/ItemsFR/con_643/)
 
 
 ## Emblèmes sacrés recommandés
@@ -175,7 +175,7 @@ toc: true
 * Guérison
 * dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

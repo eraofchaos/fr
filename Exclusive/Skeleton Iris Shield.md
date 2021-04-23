@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Skeleton)"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Squelette Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Skeleton Bouclier iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Squelette](/fr/units/Skeleton/) 
 
- **Item to Rang supérieur:** [Jeton Bouclier iris](/fr/Items/con_913/)
+ **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Cadavre putride> : Le Squelette se transforme en un cadavre putride, infligeant à toutes les unités dans une large zone autour de lui Démotivation toutes les 20 secondes pendant 10 secondes et infligeant à l'unité cible des dégâts équivalents à 250 % de son ATQ. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la DÉF du Squelette de 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente les PV de base du Squelette de 20 000. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Calcification> : Le Squelette récupère 10 % de ses PV max lorsqu'il souffre de Démotivation. Le temps de recharge est de 10 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/fr/Items/con_913/) | Augmente la DÉF du Squelette de 15 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/fr/Items/con_913/) | Lorsque le Squelette attaque un ennemi souffrant de Démotivation, il y a 8 % de chance qu'il parvienne à diminuer de 1 % la résistance aux dégâts de l'unité ennemie. L'effet peut se cumuler jusqu'à 30 fois et dure toute la bataille. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/fr/Items/con_913/) | <Entité Non-Morte> : Le Squelette augmente de 15 % la résistance aux dégâts et le renvoi des dégâts des unités alliées adjacentes dans une large zone, et diminue les dégâts des unités ennemies à portée de 15 %. L'effet dure 15 secondes. Le temps de recharge est de 25 secondes. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Cadavre putride> : Le Squelette se transforme en un cadavre putride, infligeant à toutes les unités dans une large zone autour de lui Démotivation toutes les 20 secondes pendant 10 secondes et infligeant à l'unité cible des dégâts équivalents à 250 % de son ATQ. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la DÉF du Squelette de 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente les PV de base du Squelette de 20 000. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Calcification> : Le Squelette récupère 10 % de ses PV max lorsqu'il souffre de Démotivation. Le temps de recharge est de 10 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la DÉF du Squelette de 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Lorsque le Squelette attaque un ennemi souffrant de Démotivation, il y a 8 % de chance qu'il parvienne à diminuer de 1 % la résistance aux dégâts de l'unité ennemie. L'effet peut se cumuler jusqu'à 30 fois et dure toute la bataille. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Entité Non-Morte> : Le Squelette augmente de 15 % la résistance aux dégâts et le renvoi des dégâts des unités alliées adjacentes dans une large zone, et diminue les dégâts des unités ennemies à portée de 15 %. L'effet dure 15 secondes. Le temps de recharge est de 25 secondes. |
 
 
 ## Améliorer

@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Élémentaire de mer"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Élémentaire de mer](/fr/Items/unt_275/)
+ **Unit Soul:** [Élémentaire de mer](/ItemsFR/unt_275/)
 
  **Short description:** Contrôle de Lenteur.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * Vitesse d'attaque
 * Résistance magique
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

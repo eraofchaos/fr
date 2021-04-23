@@ -3,7 +3,7 @@ title: "Mante religieuse"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ses gigantesques lames, tranchantes comme des rasoirs, témoignent de sa fierté de créature légendaire. Les elfes de Vori ont conféré à la Mante religieuse une vitalité de fer inébranlable."
 unitID: 209
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Mante religieuse"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Tool_3209](/fr/Items/unt_207/)
+ **Unit Soul:** [Tool_3209](/ItemsFR/unt_207/)
 
  **Short description:** Portée de découpe rapide étendue.
 
@@ -183,7 +183,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

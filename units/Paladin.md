@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
 unitID: 108
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Paladin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Paladin](/fr/Items/unt_197/)
+ **Unit Soul:** [Paladin](/ItemsFR/unt_197/)
 
  **Unit description:** Renforts du courageux : invoque l'aide offensive d'un Garde du sanctuaire.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Intrépide](/fr/Items/con_974/)
+ **Item to Rang supérieur:** [Jeton Intrépide](/ItemsFR/con_974/)
 
- **Skin:** [Skin spécial Intrépide](/fr/Items/con_642/)
+ **Skin:** [Skin spécial Intrépide](/ItemsFR/con_642/)
 
 
 ## Emblèmes sacrés recommandés
@@ -170,7 +170,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

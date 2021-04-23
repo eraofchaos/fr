@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Grâce à des enchantements qui leur confèrent un mystérieux bouclier, les Farfadets qui répondent aux invocations utilisent le monolithe de l'Arbre du monde pour rejoindre l'effroyable champ de bataille meurtrier, où ils protègent la nature comme personne d'autre !"
 unitID: 909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Farfadet"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Farfadet](/fr/Items/unt_270/)
+ **Unit Soul:** [Farfadet](/ItemsFR/unt_270/)
 
  **Short description:** Esquive et bloque. Octroie des bonus de contre-attaque.
 
@@ -191,7 +191,7 @@ toc: true
 * Défense
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Défensive)](/fr/Items/con_787/)
+ **:** [Potion de talent (Défensive)](/ItemsFR/con_787/)
 
 
 ## Awaking

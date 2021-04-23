@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Troglodyte"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 
- **Unit Soul:** [Troglodyte](/fr/Items/unt_244/)
+ **Unit Soul:** [Troglodyte](/ItemsFR/unt_244/)
 
  **Unit description:** Nuée de lances : inflige des dégâts de zone et étourdit.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Coup critique d'unité
 * Résistance magique
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

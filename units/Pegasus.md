@@ -3,7 +3,7 @@ title: "Pégase"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Pégase"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Pégase](/fr/Items/unt_202/)
+ **Unit Soul:** [Pégase](/ItemsFR/unt_202/)
 
  **Unit description:** Protection de vitalité : confère un bouclier vital à votre unité la plus proche.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Arc long](/fr/Items/con_914/)
+ **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 
  **Skin:** -
 
@@ -178,7 +178,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Arbalétrier)](/fr/Items/con_789/)
+ **:** [Potion de talent (Arbalétrier)](/ItemsFR/con_789/)
 
 
 ## Awaking

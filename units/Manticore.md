@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Manticore"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Manticore](/fr/Items/unt_249/)
+ **Unit Soul:** [Manticore](/ItemsFR/unt_249/)
 
  **Short description:** DPS et endurance élevés.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Queue de scorpion](/fr/Items/con_992/)
+ **Item to Rang supérieur:** [Jeton Queue de scorpion](/ItemsFR/con_992/)
 
- **Skin:** [Peau spéciale Queue de scorpion](/fr/Items/con_660/)
+ **Skin:** [Peau spéciale Queue de scorpion](/ItemsFR/con_660/)
 
 
 ## Emblèmes sacrés recommandés
@@ -166,7 +166,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Dragon vert"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Dragon vert"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Dragon vert](/fr/Items/unt_205/)
+ **Unit Soul:** [Dragon vert](/ItemsFR/unt_205/)
 
  **Unit description:** Renfort céleste : inflige des dégâts colossaux à 3 troupes ennemies sur la ligne arrière.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Aile de dragon resplendissante](/fr/Items/con_976/)
+ **Item to Rang supérieur:** [Jeton Aile de dragon resplendissante](/ItemsFR/con_976/)
 
- **Skin:** [Skin spécial Aile de dragon resplendissante](/fr/Items/con_644/)
+ **Skin:** [Skin spécial Aile de dragon resplendissante](/ItemsFR/con_644/)
 
 
 ## Emblèmes sacrés recommandés
@@ -177,7 +177,7 @@ toc: true
 * Coup critique d'unité
 * dégâts d'unité
 
- **:** [Potion de talent (Lanceur de sorts)](/fr/Items/con_790/)
+ **:** [Potion de talent (Lanceur de sorts)](/ItemsFR/con_790/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Gog)"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Gog Exclusif."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Gog Mélopée des arcanes.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusif for Unit:** [Gog](/fr/units/Gog/) 
 
- **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/fr/Items/con_915/)
+ **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Étincelle brûlante> : la Gog inflige des dégâts équivalents à 400 % de son ATQ à l'unité cible toutes les 15 secondes et lui inflige Saignement pendant 7 secondes. Si l'unité cible est déjà victime de Saignement, sa DÉF est réduite de 15 % pendant 7 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente la vitesse d'attaque de la Gog de 15 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente le drain de vie de la Gog de 10 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Vague de chaleur> : Lorsqu'un Héros allié lance des sorts de feu, la Gog inflige des dégâts équivalents à 50 % de son ATQ toutes les secondes aux unités situées dans une large zone devant lui, et leur inflige Brûlure pendant 5 secondes. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente sa propre DÉF de 4 % pour chaque unité de l'Hadès présente sur le champ de bataille. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | Augmente les dégâts d'unité de la Gog de 15 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Mélopée des arcanes](/fr/Items/con_915/) | <Symphonie infernale> : Au début de la bataille, la Gog augmente de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts alliées, tout en diminuant de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts ennemies pendant 60 secondes. |
+  |  Réveil  | **100x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | <Étincelle brûlante> : la Gog inflige des dégâts équivalents à 400 % de son ATQ à l'unité cible toutes les 15 secondes et lui inflige Saignement pendant 7 secondes. Si l'unité cible est déjà victime de Saignement, sa DÉF est réduite de 15 % pendant 7 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Augmente la vitesse d'attaque de la Gog de 15 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Augmente le drain de vie de la Gog de 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | <Vague de chaleur> : Lorsqu'un Héros allié lance des sorts de feu, la Gog inflige des dégâts équivalents à 50 % de son ATQ toutes les secondes aux unités situées dans une large zone devant lui, et leur inflige Brûlure pendant 5 secondes. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Augmente sa propre DÉF de 4 % pour chaque unité de l'Hadès présente sur le champ de bataille. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | Augmente les dégâts d'unité de la Gog de 15 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | <Symphonie infernale> : Au début de la bataille, la Gog augmente de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts alliées, tout en diminuant de 20 % les dégâts des coups critiques et l'ATQ de toutes les unités de Lanceurs de sorts ennemies pendant 60 secondes. |
 
 
 ## Améliorer

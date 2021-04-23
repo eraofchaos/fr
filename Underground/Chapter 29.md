@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 29 Pacte avec le Démon"
 permalink: /Underground/Chapter 29/
 excerpt: "Chapitre 29 Pacte avec le Démon. Era of Chaos  Souterrain - Chapitre 29. Pacte avec le Démon"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 29.md"
 toc: false

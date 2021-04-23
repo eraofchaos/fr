@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-5 Une région en guerre"
 permalink: /Main Story/Chapter 7_5/
 excerpt: "Chapitre 7 - 5. Era of Chaos  Histoire principale - Chapitre 7_5. 7-5 Une région en guerre"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 7_5.md"
 toc: false

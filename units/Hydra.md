@@ -3,7 +3,7 @@ title: "Hydre"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Hydre"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Hydre](/fr/Items/unt_259/)
+ **Unit Soul:** [Hydre](/ItemsFR/unt_259/)
 
  **Short description:** Attaque et endurance élevées. Puissant contrôle.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** [Jeton Tête d'Hydre](/fr/Items/con_997/)
+ **Item to Rang supérieur:** [Jeton Tête d'Hydre](/ItemsFR/con_997/)
 
- **Skin:** [Peau spéciale Noyau d'énergie](/fr/Items/con_665/)
+ **Skin:** [Peau spéciale Noyau d'énergie](/ItemsFR/con_665/)
 
 
 ## Emblèmes sacrés recommandés
@@ -171,7 +171,7 @@ toc: true
 * Vitesse d'attaque
 * dégâts d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Assassin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Assassin](/fr/Items/unt_271/)
+ **Unit Soul:** [Assassin](/ItemsFR/unt_271/)
 
  **Short description:** Inflige des dégâts d'assassinat et affaiblit les soins.
 
@@ -167,7 +167,7 @@ toc: true
 * dégâts d'unité
 * réduction des dégâts d'unité
 
- **:** [Potion de talent (Assaut)](/fr/Items/con_788/)
+ **:** [Potion de talent (Assaut)](/ItemsFR/con_788/)
 
 
 ## Awaking

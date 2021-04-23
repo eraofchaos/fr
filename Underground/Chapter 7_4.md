@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 7 - 7-4 La fièvre de l'or"
 permalink: /Underground/Chapter 7_4/
 excerpt: "Chapitre 7 - 4. Era of Chaos  Souterrain - Chapitre 7_4. 7-4 La fièvre de l'or"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Chapter 7_4.md"
 toc: false

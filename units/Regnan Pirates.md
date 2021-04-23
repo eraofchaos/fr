@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Pirates de Regna"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 
- **Unit Soul:** [Pirates de Regna](/fr/Items/unt_273/)
+ **Unit Soul:** [Pirates de Regna](/ItemsFR/unt_273/)
 
  **Short description:** Dégâts massifs qui augmentent le courage.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rang supérieur:** [Jeton Épée](/fr/Items/con_912/)
+ **Item to Rang supérieur:** [Jeton Épée](/ItemsFR/con_912/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Vitesse d'attaque
 * Coup critique d'unité
 
- **:** [Potion de talent (Offensive)](/fr/Items/con_786/)
+ **:** [Potion de talent (Offensive)](/ItemsFR/con_786/)
 
 
 ## Awaking

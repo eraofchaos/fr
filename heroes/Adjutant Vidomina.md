@@ -2,7 +2,7 @@
 title: "Adjudant Vidomina"
 permalink: /heroes/Adjutant Vidomina/
 excerpt: "Era of Chaos  Adjudant Vidomina"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: fr
 ref: "Adjutant Vidomina.md"
 QR: adhero_60502
@@ -34,7 +34,7 @@ classes: wide
 
 ## Niveau d'Adjudant Upgrade
 
-  | Niveau d'Adjudant | Puissance d'Adjudant | [Parchemins de sorts](/fr/Items/con_694/) | [Guide tactique](/fr/Items/unk_2115/) | Accumulated [Parchemins de sorts](/fr/Items/con_694/) | Accumulated [Guide tactique](/fr/Items/unk_2115/) |
+  | Niveau d'Adjudant | Puissance d'Adjudant | [Parchemins de sorts](/ItemsFR/con_694/) | [Guide tactique](/ItemsFR/unk_2115/) | Accumulated [Parchemins de sorts](/ItemsFR/con_694/) | Accumulated [Guide tactique](/ItemsFR/unk_2115/) |
   |:-------|:-------|:------------|:------------|:------------|:------------|
   | **1** | 5000 | 0 | **0** | **0** | **0** |
   | **2** | 6000 | 100 | **0** | **100** | **0** |

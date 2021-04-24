@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Pendentif de pureté](/images/t/artifact_40416.png)
+
 
 
 ## Détails

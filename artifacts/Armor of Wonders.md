@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Armure miraculeuse](/images/t/artifact_40414.png)
+
 
 
 ## Détails

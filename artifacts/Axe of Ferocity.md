@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Gourdin massacreur](/images/t/artifact_40311.png) [Gourdin massacreur](/fr/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Vareuse du roi cyclope](/images/t/artifact_40311.png) [Vareuse du roi cyclope](/fr/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  | ![Gourdin massacreur](/images/t/artifact_40311.png) [Gourdin massacreur](/fr/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Vareuse du roi cyclope](/images/t/artifact_40314.png) [Vareuse du roi cyclope](/fr/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
   |   | ![Hache de férocité](/images/t/icon_artifact_31.png) **Hache de férocité** |  | 
-  | ![Targe de la dévastation](/images/t/artifact_40311.png) [Targe de la dévastation](/fr/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Couronne suprême](/images/t/artifact_40311.png) [Couronne suprême](/fr/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Targe de la dévastation](/images/t/artifact_40312.png) [Targe de la dévastation](/fr/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Couronne suprême](/images/t/artifact_40313.png) [Couronne suprême](/fr/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Détails
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Gourdin massacreur](/fr/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Attaque de l'unité**: 3+(LEVEL\*1.2) %<br/>**Attaque du Héros**: 5+(LEVEL\*2)<br/>**Intelligence du Héros**: 5+(LEVEL\*2) | Un gourdin volé à un capitaine Ogre dans une taverne de voyageurs. Composant de la Hache de férocité. | 
-  | 2 | [Targe de la dévastation](/fr/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Défense du Héros**: 5+(LEVEL\*2)<br/>**Savoir du Héros**: 5+(LEVEL\*2) | Butin pris sur le cadavre d'un lieutenant Ogre. Composant de la Hache de férocité. | 
-  | 3 | [Couronne suprême](/fr/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Attaque de l'unité**: 3+(LEVEL\*1.2) %<br/>**Intelligence du Héros**: 5+(LEVEL\*2)<br/>**Savoir du Héros**: 5+(LEVEL\*2) | Une couronne offerte en récompense pour le sauvetage d'un Magicien fou. Composant de la Hache de férocité. | 
-  | 4 | [Vareuse du roi cyclope](/fr/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Attaque du Héros**: 5+(LEVEL\*2)<br/>**Défense du Héros**: 5+(LEVEL\*2) | Une tunique perdue par un Cyclope nageur. Composant de la Hache de férocité. | 
+  | 1 | ![Gourdin massacreur](/images/t/artifact_40311.png) [Gourdin massacreur](/fr/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Attaque de l'unité**: 3+(LEVEL\*1.2) %<br/>**Attaque du Héros**: 5+(LEVEL\*2)<br/>**Intelligence du Héros**: 5+(LEVEL\*2) | Un gourdin volé à un capitaine Ogre dans une taverne de voyageurs. Composant de la Hache de férocité. | 
+  | 2 | ![Targe de la dévastation](/images/t/artifact_40312.png) [Targe de la dévastation](/fr/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Défense du Héros**: 5+(LEVEL\*2)<br/>**Savoir du Héros**: 5+(LEVEL\*2) | Butin pris sur le cadavre d'un lieutenant Ogre. Composant de la Hache de férocité. | 
+  | 3 | ![Couronne suprême](/images/t/artifact_40313.png) [Couronne suprême](/fr/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Attaque de l'unité**: 3+(LEVEL\*1.2) %<br/>**Intelligence du Héros**: 5+(LEVEL\*2)<br/>**Savoir du Héros**: 5+(LEVEL\*2) | Une couronne offerte en récompense pour le sauvetage d'un Magicien fou. Composant de la Hache de férocité. | 
+  | 4 | ![Vareuse du roi cyclope](/images/t/artifact_40314.png) [Vareuse du roi cyclope](/fr/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Attaque du Héros**: 5+(LEVEL\*2)<br/>**Défense du Héros**: 5+(LEVEL\*2) | Une tunique perdue par un Cyclope nageur. Composant de la Hache de férocité. | 
 
 
 ## Artifact Advancement

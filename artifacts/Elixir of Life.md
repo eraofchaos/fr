@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Anneau de vitalité](/images/t/artifact_40111.png) [Anneau de vitalité](/fr/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anneau de vie](/images/t/artifact_40111.png) [Anneau de vie](/fr/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  | ![Anneau de vitalité](/images/t/artifact_40111.png) [Anneau de vitalité](/fr/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anneau de vie](/images/t/artifact_40112.png) [Anneau de vie](/fr/artifacts/Ring of Life/){: .btn .btn--era2} | 
   |   | ![Élixir de vie](/images/t/icon_artifact_11.png) **Élixir de vie** |  | 
-  |   | ![Potion d'énergie](/images/t/artifact_40111.png) [Potion d'énergie](/fr/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  |   | ![Potion d'énergie](/images/t/artifact_40113.png) [Potion d'énergie](/fr/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Détails
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Anneau de vitalité](/fr/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Défense du Héros**: 1+(LEVEL\*0.4)<br/>**Savoir du Héros**: 1+(LEVEL\*0.4) | Un anneau qui confère de l'énergie. Composant de l'Élixir de vie. | 
-  | 2 | [Anneau de vie](/fr/artifacts/Ring of Life/){: .btn .btn--era2} | **Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Attaque du Héros**: 1+(LEVEL\*0.4) | Un anneau qui donne une grande vitalité à son porteur. Composant de l'Élixir de vie. | 
-  | 3 | [Potion d'énergie](/fr/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Intelligence du Héros**: 1+(LEVEL\*0.4) | Une bouteille qui donne de la vigueur. Composant de l'Élixir de vie. | 
+  | 1 | ![Anneau de vitalité](/images/t/artifact_40111.png) [Anneau de vitalité](/fr/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Défense du Héros**: 1+(LEVEL\*0.4)<br/>**Savoir du Héros**: 1+(LEVEL\*0.4) | Un anneau qui confère de l'énergie. Composant de l'Élixir de vie. | 
+  | 2 | ![Anneau de vie](/images/t/artifact_40112.png) [Anneau de vie](/fr/artifacts/Ring of Life/){: .btn .btn--era2} | **Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Attaque du Héros**: 1+(LEVEL\*0.4) | Un anneau qui donne une grande vitalité à son porteur. Composant de l'Élixir de vie. | 
+  | 3 | ![Potion d'énergie](/images/t/artifact_40113.png) [Potion d'énergie](/fr/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Intelligence du Héros**: 1+(LEVEL\*0.4) | Une bouteille qui donne de la vigueur. Composant de l'Élixir de vie. | 
 
 
 ## Artifact Advancement

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Guetteur](/images/t/artifact_40332.png)
+
 
 
 ## Détails
 
  **Description:** Une sculpture représentant un aventurier aux yeux rougeoyants. Composant de l'Œil de faucon vivant.
 
- **Part of Artifact:** [Œil de faucon vivant](/fr/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Œil de faucon vivant](/images/t/icon_artifact_33.png) [Œil de faucon vivant](/fr/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 

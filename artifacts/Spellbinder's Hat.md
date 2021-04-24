@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Traité du feu](/images/t/artifact_40461.png) [Traité du feu](/fr/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Traité de la terre](/images/t/artifact_40461.png) [Traité de la terre](/fr/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  | ![Traité du feu](/images/t/artifact_40461.png) [Traité du feu](/fr/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Traité de la terre](/images/t/artifact_40464.png) [Traité de la terre](/fr/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
   |   | ![Chapeau des sages](/images/t/icon_artifact_46.png) **Chapeau des sages** |  | 
-  | ![Traité de l'eau](/images/t/artifact_40461.png) [Traité de l'eau](/fr/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Traité de l'air](/images/t/artifact_40461.png) [Traité de l'air](/fr/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Traité de l'eau](/images/t/artifact_40462.png) [Traité de l'eau](/fr/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Traité de l'air](/images/t/artifact_40463.png) [Traité de l'air](/fr/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Détails
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Traité du feu](/fr/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de feu. Luna aimait le lire pour s'endormir. Composant du Chapeau des sages. | 
-  | 2 | [Traité de l'eau](/fr/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de l'eau. Il vous a été remis par Adelaïde. Composant du Chapeau des sages. | 
-  | 3 | [Traité de l'air](/fr/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Intelligence du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de l'air. Vous sentez la présence de l'Élémentaire d'air en le lisant. Composant du Chapeau des sages. | 
-  | 4 | [Traité de la terre](/fr/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Savoir du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de la terre. Jeddite l'aurait utilisé pour vaincre Mutare après sa transformation en Dragon. Composant du Chapeau des sages. | 
+  | 1 | ![Traité du feu](/images/t/artifact_40461.png) [Traité du feu](/fr/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de feu. Luna aimait le lire pour s'endormir. Composant du Chapeau des sages. | 
+  | 2 | ![Traité de l'eau](/images/t/artifact_40462.png) [Traité de l'eau](/fr/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de l'eau. Il vous a été remis par Adelaïde. Composant du Chapeau des sages. | 
+  | 3 | ![Traité de l'air](/images/t/artifact_40463.png) [Traité de l'air](/fr/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Intelligence du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de l'air. Vous sentez la présence de l'Élémentaire d'air en le lisant. Composant du Chapeau des sages. | 
+  | 4 | ![Traité de la terre](/images/t/artifact_40464.png) [Traité de la terre](/fr/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Savoir du Héros**: 12+(LEVEL\*4.8) | Un livre de sort portant sur la pratique avancée de la magie de la terre. Jeddite l'aurait utilisé pour vaincre Mutare après sa transformation en Dragon. Composant du Chapeau des sages. | 
 
 
 ## Artifact Advancement

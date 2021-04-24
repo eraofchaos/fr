@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bouclier cristallin](/images/t/artifact_40435.png)
+
 
 
 ## Détails

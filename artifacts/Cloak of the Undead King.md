@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Amulette du fossoyeur](/images/t/artifact_40321.png) [Amulette du fossoyeur](/fr/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Cape d'harmonie](/images/t/artifact_40321.png) [Cape d'harmonie](/fr/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  | ![Amulette du fossoyeur](/images/t/artifact_40321.png) [Amulette du fossoyeur](/fr/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Cape d'harmonie](/images/t/artifact_40322.png) [Cape d'harmonie](/fr/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
   |   | ![Manteau du roi des Non-Morts](/images/t/icon_artifact_32.png) **Manteau du roi des Non-Morts** |  | 
-  |   | ![Bottes du passeur](/images/t/artifact_40321.png) [Bottes du passeur](/fr/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  |   | ![Bottes du passeur](/images/t/artifact_40323.png) [Bottes du passeur](/fr/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Détails
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Amulette du fossoyeur](/fr/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Dégâts magiques**: 3+(LEVEL\*1.2) %<br/>**Intelligence du Héros**: 2+(LEVEL\*0.8)<br/>**Savoir du Héros**: 6+(LEVEL\*2.4) | Un charme protecteur utilisé par une Liche. Composant du Manteau du roi des Non-Morts. | 
-  | 2 | [Cape d'harmonie](/fr/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4) | La précieuse cape d'un Vampire. Composant du Manteau du roi des Non-Morts. | 
-  | 3 | [Bottes du passeur](/fr/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Attaque de l'unité**: 2+(LEVEL\*0.8) %<br/>**Santé de l'unité**: 2+(LEVEL\*0.8) %<br/>**Savoir du Héros**: 4+(LEVEL\*1.6) | Des bottes qui rendent leur porteur rapide comme le vent. Composant du Manteau du roi des Non-Morts. | 
+  | 1 | ![Amulette du fossoyeur](/images/t/artifact_40321.png) [Amulette du fossoyeur](/fr/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Dégâts magiques**: 3+(LEVEL\*1.2) %<br/>**Intelligence du Héros**: 2+(LEVEL\*0.8)<br/>**Savoir du Héros**: 6+(LEVEL\*2.4) | Un charme protecteur utilisé par une Liche. Composant du Manteau du roi des Non-Morts. | 
+  | 2 | ![Cape d'harmonie](/images/t/artifact_40322.png) [Cape d'harmonie](/fr/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4) | La précieuse cape d'un Vampire. Composant du Manteau du roi des Non-Morts. | 
+  | 3 | ![Bottes du passeur](/images/t/artifact_40323.png) [Bottes du passeur](/fr/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Attaque de l'unité**: 2+(LEVEL\*0.8) %<br/>**Santé de l'unité**: 2+(LEVEL\*0.8) %<br/>**Savoir du Héros**: 4+(LEVEL\*1.6) | Des bottes qui rendent leur porteur rapide comme le vent. Composant du Manteau du roi des Non-Morts. | 
 
 
 ## Artifact Advancement

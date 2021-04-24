@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Sandales sacrées](/images/t/artifact_40415.png)
+
 
 
 ## Détails

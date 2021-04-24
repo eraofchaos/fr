@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bâton des Limbes](/images/t/artifact_40436.png)
+
 
 
 ## Détails

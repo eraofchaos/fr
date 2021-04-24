@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Un objet pouvant contenir une puissante magie de feu. Composant du Miroir vengeur.
 
- **Part of Artifact:** [Miroir vengeur](/fr/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Miroir vengeur](/images/t/icon_artifact_35.png) [Miroir vengeur](/fr/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

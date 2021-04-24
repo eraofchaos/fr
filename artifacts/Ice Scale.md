@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Un objet permettant de réguler une puissante magie de glace. Composant du Miroir vengeur.
 
- **Part of Artifact:** [Miroir vengeur](/fr/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Miroir vengeur](/images/t/icon_artifact_35.png) [Miroir vengeur](/fr/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

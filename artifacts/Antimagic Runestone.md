@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Talisman de turbulence](/images/t/artifact_40231.png) [Talisman de turbulence](/fr/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Cape d'harmonie](/images/t/artifact_40231.png) [Cape d'harmonie](/fr/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  | ![Talisman de turbulence](/images/t/artifact_40231.png) [Talisman de turbulence](/fr/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Cape d'harmonie](/images/t/artifact_40232.png) [Cape d'harmonie](/fr/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
   |   | ![Pierre runique antimagie](/images/t/icon_artifact_23.png) **Pierre runique antimagie** |  | 
-  |   | ![Bottes du tigre](/images/t/artifact_40231.png) [Bottes du tigre](/fr/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  |   | ![Bottes du tigre](/images/t/artifact_40233.png) [Bottes du tigre](/fr/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Détails
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Talisman de turbulence](/fr/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Attaque de l'unité**: 1+(LEVEL\*0.4) %<br/>**Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Savoir du Héros**: 3+(LEVEL\*1.2) | Un collier orné du symbole du yin et du yang. Composant de la Pierre runique antimagie. | 
-  | 2 | [Cape d'harmonie](/fr/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Intelligence du Héros**: 2+(LEVEL\*0.8)<br/>**Savoir du Héros**: 3+(LEVEL\*1.2) | Une cape ornée du symbole du yin et du yang. Composant de la Pierre runique antimagie. | 
-  | 3 | [Bottes du tigre](/fr/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Savoir du Héros**: 3+(LEVEL\*1.2) | Des bottes ornées du symbole du yin et du yang. Composant de la Pierre runique antimagie. | 
+  | 1 | ![Talisman de turbulence](/images/t/artifact_40231.png) [Talisman de turbulence](/fr/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Attaque de l'unité**: 1+(LEVEL\*0.4) %<br/>**Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Savoir du Héros**: 3+(LEVEL\*1.2) | Un collier orné du symbole du yin et du yang. Composant de la Pierre runique antimagie. | 
+  | 2 | ![Cape d'harmonie](/images/t/artifact_40232.png) [Cape d'harmonie](/fr/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Intelligence du Héros**: 2+(LEVEL\*0.8)<br/>**Savoir du Héros**: 3+(LEVEL\*1.2) | Une cape ornée du symbole du yin et du yang. Composant de la Pierre runique antimagie. | 
+  | 3 | ![Bottes du tigre](/images/t/artifact_40233.png) [Bottes du tigre](/fr/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Savoir du Héros**: 3+(LEVEL\*1.2) | Des bottes ornées du symbole du yin et du yang. Composant de la Pierre runique antimagie. | 
 
 
 ## Artifact Advancement

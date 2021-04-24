@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Trident des abysses](/images/t/artifact_40431.png)
+
 
 
 ## Détails

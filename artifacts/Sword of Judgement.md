@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Épée de justice](/images/t/artifact_40411.png)
+
 
 
 ## Détails

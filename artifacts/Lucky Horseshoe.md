@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Trèfle à 4 feuilles](/images/t/artifact_40121.png) [Trèfle à 4 feuilles](/fr/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Cartes du destin](/images/t/artifact_40121.png) [Cartes du destin](/fr/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  | ![Trèfle à 4 feuilles](/images/t/artifact_40121.png) [Trèfle à 4 feuilles](/fr/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Cartes du destin](/images/t/artifact_40122.png) [Cartes du destin](/fr/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
   |   | ![Fer à cheval porte-bonheur](/images/t/icon_artifact_12.png) **Fer à cheval porte-bonheur** |  | 
-  |   | ![Scarabée enchanté](/images/t/artifact_40121.png) [Scarabée enchanté](/fr/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  |   | ![Scarabée enchanté](/images/t/artifact_40123.png) [Scarabée enchanté](/fr/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Détails
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Trèfle à 4 feuilles](/fr/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Attaque de l'unité**: 1+(LEVEL\*0.4) %<br/>**Attaque du Héros**: 1+(LEVEL\*0.4) | Un trèfle qui apporte la chance à celui qui le détient. Composant du Fer à cheval porte-bonheur. | 
-  | 2 | [Cartes du destin](/fr/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Intelligence du Héros**: 1+(LEVEL\*0.4)<br/>**Savoir du Héros**: 1+(LEVEL\*0.4) | Une carte de divination empreinte d'une puissante magie. Composant du Fer à cheval porte-bonheur. | 
-  | 3 | [Scarabée enchanté](/fr/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Défense du Héros**: 1+(LEVEL\*0.4) | Une statue lumineuse qui représente un oiseau. Composant du Fer à cheval porte-bonheur. | 
+  | 1 | ![Trèfle à 4 feuilles](/images/t/artifact_40121.png) [Trèfle à 4 feuilles](/fr/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Attaque de l'unité**: 1+(LEVEL\*0.4) %<br/>**Attaque du Héros**: 1+(LEVEL\*0.4) | Un trèfle qui apporte la chance à celui qui le détient. Composant du Fer à cheval porte-bonheur. | 
+  | 2 | ![Cartes du destin](/images/t/artifact_40122.png) [Cartes du destin](/fr/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Intelligence du Héros**: 1+(LEVEL\*0.4)<br/>**Savoir du Héros**: 1+(LEVEL\*0.4) | Une carte de divination empreinte d'une puissante magie. Composant du Fer à cheval porte-bonheur. | 
+  | 3 | ![Scarabée enchanté](/images/t/artifact_40123.png) [Scarabée enchanté](/fr/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Défense du Héros**: 1+(LEVEL\*0.4) | Une statue lumineuse qui représente un oiseau. Composant du Fer à cheval porte-bonheur. | 
 
 
 ## Artifact Advancement

@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   |  [Brasier du chaos](/fr/artifacts/Chaos Brazier/){: .btn .btn--era4} |   |  [Sablier oublié](/fr/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
-  |   | **Miroir vengeur** |  | 
+  |   | ![Miroir vengeur](/images/t/icon_artifact_35.png) **Miroir vengeur** |  | 
   |  [Écaille de glace](/fr/artifacts/Ice Scale/){: .btn .btn--era4} |   |  [Collier d'équilibre](/fr/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
 
 

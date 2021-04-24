@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bâton d'Ogre](/images/t/artifact_40434.png)
+
 
 
 ## Détails

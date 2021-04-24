@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Oiseau moqueur](/images/t/artifact_40331.png)
+
 
 
 ## Détails
 
  **Description:** Une sculpture d'oiseau enchantée par une sorcière. Composant de l'Œil de faucon vivant.
 
- **Part of Artifact:** [Œil de faucon vivant](/fr/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Œil de faucon vivant](/images/t/icon_artifact_33.png) [Œil de faucon vivant](/fr/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essence d'artefact](/ItemsFR/con_905/)
 

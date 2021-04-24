@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Épée flamboyante](/images/t/artifact_40301.png) [Épée flamboyante](/fr/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armure en os](/images/t/artifact_40301.png) [Armure en os](/fr/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  | ![Épée flamboyante](/images/t/artifact_40301.png) [Épée flamboyante](/fr/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armure en os](/images/t/artifact_40304.png) [Armure en os](/fr/artifacts/Bone Armour/){: .btn .btn--era4} | 
   |   | ![Armure du Damné](/images/t/icon_artifact_30.png) **Armure du Damné** |  | 
-  | ![Écu des ténèbres](/images/t/artifact_40301.png) [Écu des ténèbres](/fr/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Casque noir](/images/t/artifact_40301.png) [Casque noir](/fr/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Écu des ténèbres](/images/t/artifact_40302.png) [Écu des ténèbres](/fr/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Casque noir](/images/t/artifact_40303.png) [Casque noir](/fr/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Détails
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Épée flamboyante](/fr/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4) | Une épée qui renferme une puissance ténébreuse. Composant de l'Armure du Damné. | 
-  | 2 | [Écu des ténèbres](/fr/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4) | Un bouclier fait d'os de Non-Morts. Composant de l'Armure du Damné. | 
-  | 3 | [Casque noir](/fr/artifacts/Skull Helmet/){: .btn .btn--era4} | **Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Intelligence du Héros**: 6+(LEVEL\*2.4) | Un casque trouvé dans les profondeurs de l'enfer. Composant de l'Armure du Damné. | 
-  | 4 | [Armure en os](/fr/artifacts/Bone Armour/){: .btn .btn--era4} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Savoir du Héros**: 6+(LEVEL\*2.4) | Un bouclier fait d'os extrêmement durs. Composant de l'Armure du Damné. | 
+  | 1 | ![Épée flamboyante](/images/t/artifact_40301.png) [Épée flamboyante](/fr/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4) | Une épée qui renferme une puissance ténébreuse. Composant de l'Armure du Damné. | 
+  | 2 | ![Écu des ténèbres](/images/t/artifact_40302.png) [Écu des ténèbres](/fr/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4) | Un bouclier fait d'os de Non-Morts. Composant de l'Armure du Damné. | 
+  | 3 | ![Casque noir](/images/t/artifact_40303.png) [Casque noir](/fr/artifacts/Skull Helmet/){: .btn .btn--era4} | **Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Intelligence du Héros**: 6+(LEVEL\*2.4) | Un casque trouvé dans les profondeurs de l'enfer. Composant de l'Armure du Damné. | 
+  | 4 | ![Armure en os](/images/t/artifact_40304.png) [Armure en os](/fr/artifacts/Bone Armour/){: .btn .btn--era4} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Savoir du Héros**: 6+(LEVEL\*2.4) | Un bouclier fait d'os extrêmement durs. Composant de l'Armure du Damné. | 
 
 
 ## Artifact Advancement

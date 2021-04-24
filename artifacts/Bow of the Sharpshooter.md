@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Arc elfique](/images/t/artifact_40101.png) [Arc elfique](/fr/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Flèches angéliques](/images/t/artifact_40101.png) [Flèches angéliques](/fr/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  | ![Arc elfique](/images/t/artifact_40101.png) [Arc elfique](/fr/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Flèches angéliques](/images/t/artifact_40102.png) [Flèches angéliques](/fr/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
   |   | ![Arc du tireur d'élite](/images/t/icon_artifact_10.png) **Arc du tireur d'élite** |  | 
-  |   | ![Corde Immaculée](/images/t/artifact_40101.png) [Corde Immaculée](/fr/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  |   | ![Corde Immaculée](/images/t/artifact_40103.png) [Corde Immaculée](/fr/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Détails
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Arc elfique](/fr/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 4+(LEVEL\*1.6) | Un arc long taillé dans du bois par les Elfes. Composant de l'Arc du tireur d'élite. | 
-  | 2 | [Flèches angéliques](/fr/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Attaque de l'unité**: 2+(LEVEL\*0.8) %<br/>**Dégâts magiques**: 2+(LEVEL\*0.8) %<br/>**Défense du Héros**: 4+(LEVEL\*1.6) | Des flèches magiques confectionnées par les Elfes. Composant de l'Arc du tireur d'élite. | 
-  | 3 | [Corde Immaculée](/fr/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Savoir du Héros**: 4+(LEVEL\*1.6) | Une crinière offerte aux Elfes par une bête sacrée. Composant de l'Arc du tireur d'élite. | 
+  | 1 | ![Arc elfique](/images/t/artifact_40101.png) [Arc elfique](/fr/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 4+(LEVEL\*1.6) | Un arc long taillé dans du bois par les Elfes. Composant de l'Arc du tireur d'élite. | 
+  | 2 | ![Flèches angéliques](/images/t/artifact_40102.png) [Flèches angéliques](/fr/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Attaque de l'unité**: 2+(LEVEL\*0.8) %<br/>**Dégâts magiques**: 2+(LEVEL\*0.8) %<br/>**Défense du Héros**: 4+(LEVEL\*1.6) | Des flèches magiques confectionnées par les Elfes. Composant de l'Arc du tireur d'élite. | 
+  | 3 | ![Corde Immaculée](/images/t/artifact_40103.png) [Corde Immaculée](/fr/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Savoir du Héros**: 4+(LEVEL\*1.6) | Une crinière offerte aux Elfes par une bête sacrée. Composant de l'Arc du tireur d'élite. | 
 
 
 ## Artifact Advancement

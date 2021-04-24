@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bâton de flétrissement](/images/t/artifact_40433.png)
+
 
 
 ## Détails

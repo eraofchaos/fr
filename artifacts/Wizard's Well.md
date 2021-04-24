@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Amulette de mana](/images/t/artifact_40211.png) [Amulette de mana](/fr/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Charme magique](/images/t/artifact_40211.png) [Charme magique](/fr/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  | ![Amulette de mana](/images/t/artifact_40211.png) [Amulette de mana](/fr/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Charme magique](/images/t/artifact_40212.png) [Charme magique](/fr/artifacts/Magic Charm/){: .btn .btn--era3} | 
   |   | ![Puits de magie](/images/t/icon_artifact_21.png) **Puits de magie** |  | 
-  |   | ![Orbe mystique de mana](/images/t/artifact_40211.png) [Orbe mystique de mana](/fr/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  |   | ![Orbe mystique de mana](/images/t/artifact_40213.png) [Orbe mystique de mana](/fr/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Détails
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Amulette de mana](/fr/artifacts/Charm of Mana/){: .btn .btn--era3} | **Attaque de l'unité**: 1+(LEVEL\*0.4) %<br/>**Défense du Héros**: 3+(LEVEL\*1.2) | Un charme qui renforce la magie. Composant du Puits de magie. | 
-  | 2 | [Charme magique](/fr/artifacts/Magic Charm/){: .btn .btn--era3} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Intelligence du Héros**: 3+(LEVEL\*1.2) | Un charme imprégné d'énergie magique. Composant du Puits de magie. | 
-  | 3 | [Orbe mystique de mana](/fr/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} | **Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Attaque du Héros**: 3+(LEVEL\*1.2) | Une boule de cristal aux puissants pouvoirs magiques. Composant du Puits de magie. | 
+  | 1 | ![Amulette de mana](/images/t/artifact_40211.png) [Amulette de mana](/fr/artifacts/Charm of Mana/){: .btn .btn--era3} | **Attaque de l'unité**: 1+(LEVEL\*0.4) %<br/>**Défense du Héros**: 3+(LEVEL\*1.2) | Un charme qui renforce la magie. Composant du Puits de magie. | 
+  | 2 | ![Charme magique](/images/t/artifact_40212.png) [Charme magique](/fr/artifacts/Magic Charm/){: .btn .btn--era3} | **Santé de l'unité**: 1+(LEVEL\*0.4) %<br/>**Intelligence du Héros**: 3+(LEVEL\*1.2) | Un charme imprégné d'énergie magique. Composant du Puits de magie. | 
+  | 3 | ![Orbe mystique de mana](/images/t/artifact_40213.png) [Orbe mystique de mana](/fr/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} | **Dégâts magiques**: 1+(LEVEL\*0.4) %<br/>**Attaque du Héros**: 3+(LEVEL\*1.2) | Une boule de cristal aux puissants pouvoirs magiques. Composant du Puits de magie. | 
 
 
 ## Artifact Advancement

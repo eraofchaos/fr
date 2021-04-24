@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Bouclier cœur de lion](/fr/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Pendentif de pureté](/fr/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  |  [Épée de justice](/fr/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alliance angélique](/images/t/icon_artifact_41.png) **Alliance angélique** |  [Armure miraculeuse](/fr/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  |  [Heaume de l'illumination](/fr/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandales sacrées](/fr/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Bouclier cœur de lion](/fr/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | ![Pendentif de pureté](/images/t/artifact_40416.png) [Pendentif de pureté](/fr/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  | ![Épée de justice](/images/t/artifact_40411.png) [Épée de justice](/fr/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alliance angélique](/images/t/icon_artifact_41.png) **Alliance angélique** | ![Armure miraculeuse](/images/t/artifact_40414.png) [Armure miraculeuse](/fr/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  | ![Heaume de l'illumination](/images/t/artifact_40413.png) [Heaume de l'illumination](/fr/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | ![Sandales sacrées](/images/t/artifact_40415.png) [Sandales sacrées](/fr/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Détails
@@ -33,12 +33,12 @@ classes: wide
 
   | Nr |    Nom    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Épée de justice](/fr/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Attaque de l'unité**: 14+(LEVEL\*5.6) %<br/>**Attaque du Héros**: 8+(LEVEL\*3.2) | Une épée offerte aux hommes par les dieux. Composant de l'Alliance angélique. | 
+  | 1 | ![Épée de justice](/images/t/artifact_40411.png) [Épée de justice](/fr/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Attaque de l'unité**: 14+(LEVEL\*5.6) %<br/>**Attaque du Héros**: 8+(LEVEL\*3.2) | Une épée offerte aux hommes par les dieux. Composant de l'Alliance angélique. | 
   | 2 | [Bouclier cœur de lion](/fr/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} | **Attaque de l'unité**: 5+(LEVEL\*2) %<br/>**Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Défense du Héros**: 16+(LEVEL\*6.4) | Le symbole de la puissance militaire des Griffons. Composant de l'Alliance angélique. | 
-  | 3 | [Heaume de l'illumination](/fr/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4)<br/>**Intelligence du Héros**: 16+(LEVEL\*6.4) | Une couronne bénie par les dieux. Composant de l'Alliance angélique. | 
-  | 4 | [Armure miraculeuse](/fr/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Santé de l'unité**: 8+(LEVEL\*3.2) %<br/>**Défense du Héros**: 4+(LEVEL\*1.6)<br/>**Savoir du Héros**: 16+(LEVEL\*6.4) | Une armure qui a été témoin de l'apogée de l'Empire. Composant de l'Alliance angélique. | 
-  | 5 | [Sandales sacrées](/fr/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4)<br/>**Intelligence du Héros**: 16+(LEVEL\*6.4) | Une relique sacrée qui a été créée en l'honneur de l'unification d'Erathia. Composant de l'Alliance angélique. | 
-  | 6 | [Pendentif de pureté](/fr/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4)<br/>**Intelligence du Héros**: 16+(LEVEL\*6.4) | Le collier d'un Ange. Composant de l'Alliance angélique. | 
+  | 3 | ![Heaume de l'illumination](/images/t/artifact_40413.png) [Heaume de l'illumination](/fr/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4)<br/>**Intelligence du Héros**: 16+(LEVEL\*6.4) | Une couronne bénie par les dieux. Composant de l'Alliance angélique. | 
+  | 4 | ![Armure miraculeuse](/images/t/artifact_40414.png) [Armure miraculeuse](/fr/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Santé de l'unité**: 8+(LEVEL\*3.2) %<br/>**Défense du Héros**: 4+(LEVEL\*1.6)<br/>**Savoir du Héros**: 16+(LEVEL\*6.4) | Une armure qui a été témoin de l'apogée de l'Empire. Composant de l'Alliance angélique. | 
+  | 5 | ![Sandales sacrées](/images/t/artifact_40415.png) [Sandales sacrées](/fr/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4)<br/>**Intelligence du Héros**: 16+(LEVEL\*6.4) | Une relique sacrée qui a été créée en l'honneur de l'unification d'Erathia. Composant de l'Alliance angélique. | 
+  | 6 | ![Pendentif de pureté](/images/t/artifact_40416.png) [Pendentif de pureté](/fr/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Santé de l'unité**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4)<br/>**Intelligence du Héros**: 16+(LEVEL\*6.4) | Le collier d'un Ange. Composant de l'Alliance angélique. | 
 
 
 ## Artifact Advancement

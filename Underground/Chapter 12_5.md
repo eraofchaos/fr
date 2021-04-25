@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 12 - 12-5 La bataille finale"
 permalink: /Underground/Chapter 12_5/
 excerpt: "Chapitre 12 - 5. Era of Chaos  Souterrain - Chapitre 12_5. 12-5 La bataille finale"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 12_5.md"
 toc: false

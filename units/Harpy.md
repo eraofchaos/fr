@@ -1,9 +1,9 @@
 ---
 title: "Harpie"
 permalink: /units/Harpy/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
+excerpt: "Era of Chaos Harpie. Harpie Unités. Harpie sinistre. Era of Chaos Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Harpie"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 

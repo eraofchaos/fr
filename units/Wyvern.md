@@ -1,9 +1,9 @@
 ---
 title: "Wivern"
 permalink: /units/Wyvern/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
+excerpt: "Era of Chaos Wivern. Wivern Unités. Monarque Wivern. Era of Chaos Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Wivern"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

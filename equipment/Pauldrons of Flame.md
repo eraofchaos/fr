@@ -2,7 +2,7 @@
 title: "Épaulières enflammées"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "Era of Chaos Épaulières enflammées. Épaulières enflammées"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Pauldrons of Flame.md"
 toc: false

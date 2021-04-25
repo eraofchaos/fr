@@ -1,9 +1,9 @@
 ---
 title: "Diable"
 permalink: /units/Devil/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
+excerpt: "Era of Chaos Diable. Diable Unités. Archidiable. Era of Chaos Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Diable"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-14 La gloire de l'empire"
 permalink: /Main Story/Chapter 9_14/
 excerpt: "Chapitre 9 - 14. Era of Chaos  Histoire principale - Chapitre 9_14. 9-14 La gloire de l'empire"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 9_14.md"
 toc: false

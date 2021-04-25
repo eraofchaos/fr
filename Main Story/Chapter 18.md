@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 Pacte avec le diable"
 permalink: /Main Story/Chapter 18/
 excerpt: "Chapitre 18. Era of Chaos  Histoire principale - Chapitre 18. Pacte avec le diable"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 18.md"
 toc: false

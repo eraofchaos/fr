@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-4 La chambre du héros"
 permalink: /Main Story/Chapter 3_4/
 excerpt: "Chapitre 3 - 4. Era of Chaos  Histoire principale - Chapitre 3_4. 3-4 La chambre du héros"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 3_4.md"
 toc: false

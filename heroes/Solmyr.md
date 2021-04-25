@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr est resté piégé dans une lampe de génie pendant plus d'un millénaire. Infiniment reconnaissant envers celui qui l'a libéré, Gavin Magnus le souverain immortel des Hautes Terres de Bracada, il lui a juré son éternelle allégeance."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Solmyr"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Solmyr est resté piégé dans une lampe de génie pendant plus d'un millénaire. Infiniment reconnaissant envers celui qui l'a libéré, Gavin Magnus le souverain immortel des Hautes Terres de Bracada, il lui a juré son éternelle allégeance.
 ## Détails
- **Profession:** ![Magicien](/images/h/h_prof_15.png) Magicien
+ **Profession:** ![Magicien](/images/h/h_prof_15.png)  [Magicien](/fr/heroes/Profession Wizard/)
 
- **Race:** Tour
+ **Faction ::** [Tour](/fr/heroes/Faction Tower/)
 
- **Rate:** SR+
+ **Rang:** [SR+](/fr/heroes/Hero Rank SR+/)
 
  **User Rate:** SR
 

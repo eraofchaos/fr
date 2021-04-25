@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Era of Chaos Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Unit Class Ranged"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [À distance](/fr/units/Unit Class Ranged/){: .btn .btn--primary} [Assaut](/fr/units/Unit Class Charging/){: .btn .btn--success} [Lanceur de sorts](/fr/units/Unit Class Caster/){: .btn .btn--warning} [Offensive](/fr/units/Unit Class Offense/){: .btn .btn--danger} [Défense](/fr/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Cyclope](/images/u/ti_duyanjuren.jpg) | [Cyclope](/fr/units/Cyclops/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Roi Cyclope  |
   | 2 | ![Démone de glace](/images/u/ti_bingmo.jpg) | [Démone de glace](/fr/units/Ice Demon/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |

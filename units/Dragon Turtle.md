@@ -1,9 +1,9 @@
 ---
 title: "Tortue dragon"
 permalink: /units/Dragon Turtle/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
+excerpt: "Era of Chaos Tortue dragon. Tortue dragon Unités. Tortue dragon primaire. Era of Chaos Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Tortue dragon"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

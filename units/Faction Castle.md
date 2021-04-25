@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Era of Chaos Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Faction Castle"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
  [Conflux](/fr/units/Faction Conflux/){: .btn .btn--primary} [Hadès](/fr/units/Faction Inferno/){: .btn .btn--success} [Donjon](/fr/units/Faction Dungeon/){: .btn .btn--warning} [Forteresse](/fr/units/Faction Fortress/){: .btn .btn--danger} [Rempart](/fr/units/Faction Rampart/){: .btn .btn--info} [Château](/fr/units/Faction Castle/){: .btn .btn--primary} [Tour](/fr/units/Faction Tower/){: .btn .btn--success} [Bastion](/fr/units/Faction Stronghold/){: .btn .btn--warning} [Crique](/fr/units/Faction Cove/){: .btn .btn--danger} [Armée neutre](/fr/units/Faction Neutral Army/){: .btn .btn--info} [Nécropole](/fr/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Lancier](/images/u/ti_jibing.jpg) | [Lancier](/fr/units/Pikeman/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hallebardier  |
   | 2 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Maître Arbalétrier  |

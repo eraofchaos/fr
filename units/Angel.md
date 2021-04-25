@@ -1,9 +1,9 @@
 ---
 title: "Ange"
 permalink: /units/Angel/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
+excerpt: "Era of Chaos Ange. Ange Unités. Archange. Era of Chaos Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Ange"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

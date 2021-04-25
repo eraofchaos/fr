@@ -2,7 +2,7 @@
 title: "Boucles d'oreille de sirène"
 permalink: /equipment/Merman Earrings/
 excerpt: "Era of Chaos Boucles d'oreille de sirène. Boucles d'oreille de sirène"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Merman Earrings.md"
 toc: false

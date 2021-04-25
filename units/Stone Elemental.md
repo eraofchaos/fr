@@ -1,9 +1,9 @@
 ---
 title: "Élémentaire de pierre"
 permalink: /units/Stone Elemental/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre."
+excerpt: "Era of Chaos Élémentaire de pierre. Élémentaire de pierre Unités. null. Era of Chaos L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre."
 unitID: 905
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Élémentaire de pierre"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

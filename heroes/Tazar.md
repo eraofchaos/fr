@@ -4,7 +4,7 @@ permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. Pendant la guerre frontalière de six mois avec Krewlod, Tazar et sa petite troupe s'installèrent dans un avant-poste de Tatalia pour retenir l'armée ennemie ; bien que cinq fois moins nombreux, ils parvinrent à résister huit jours jusqu'à l'arrivée des renforts."
 heroID: 61501
 QR: hero_61501
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Tazar"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Pendant la guerre frontalière de six mois avec Krewlod, Tazar et sa petite troupe s'installèrent dans un avant-poste de Tatalia pour retenir l'armée ennemie ; bien que cinq fois moins nombreux, ils parvinrent à résister huit jours jusqu'à l'arrivée des renforts.
 ## Détails
- **Profession:** Maître des bêtes
+ **Profession:**  [Maître des bêtes](/fr/heroes/Profession Beast Master/)
 
- **Race:** Forteresse
+ **Faction ::** [Forteresse](/fr/heroes/Faction Fortress/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

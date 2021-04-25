@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 26 - 26-3 Inoublié"
 permalink: /Underground/Chapter 26_3/
 excerpt: "Chapitre 26 - 3. Era of Chaos  Souterrain - Chapitre 26_3. 26-3 Inoublié"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 26_3.md"
 toc: false

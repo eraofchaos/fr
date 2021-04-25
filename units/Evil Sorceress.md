@@ -1,9 +1,9 @@
 ---
 title: "Sorcière maléfique"
 permalink: /units/Evil Sorceress/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons."
+excerpt: "Era of Chaos Sorcière maléfique. Sorcière maléfique Unités. null. Era of Chaos Elle était jadis la jouvencelle sacrée du temple de Baa. Sa peau est naturellement recouverte de runes qui lui octroient de redoutables pouvoirs n'ayant d'égal que ceux des démons."
 unitID: 709
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Sorcière maléfique"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
+ **Rang:** [Commandant](/fr/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

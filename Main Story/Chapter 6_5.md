@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-5 Blessés graves"
 permalink: /Main Story/Chapter 6_5/
 excerpt: "Chapitre 6 - 5. Era of Chaos  Histoire principale - Chapitre 6_5. 6-5 Blessés graves"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 6_5.md"
 toc: false

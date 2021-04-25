@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-15 Un Ange tombé du ciel"
 permalink: /Main Story/Chapter 9_15/
 excerpt: "Chapitre 9 - 15. Era of Chaos  Histoire principale - Chapitre 9_15. 9-15 Un Ange tombé du ciel"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 9_15.md"
 toc: false

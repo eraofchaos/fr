@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-5 Le souffle du Dragon"
 permalink: /Main Story/Chapter 22_5/
 excerpt: "Chapitre 22 - 5. Era of Chaos  Histoire principale - Chapitre 22_5. 22-5 Le souffle du Dragon"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 22_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-10 Les falaises des Griffons"
 permalink: /Main Story/Chapter 4_10/
 excerpt: "Chapitre 4 - 10. Era of Chaos  Histoire principale - Chapitre 4_10. 4-10 Les falaises des Griffons"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 4_10.md"
 toc: false

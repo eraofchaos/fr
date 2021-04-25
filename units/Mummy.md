@@ -1,9 +1,9 @@
 ---
 title: "Momie"
 permalink: /units/Mummy/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
+excerpt: "Era of Chaos Momie. Momie Unités. Roi Momie. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Momie"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

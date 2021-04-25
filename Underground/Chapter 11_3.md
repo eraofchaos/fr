@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 11 - 11-3 À l'abri"
 permalink: /Underground/Chapter 11_3/
 excerpt: "Chapitre 11 - 3. Era of Chaos  Souterrain - Chapitre 11_3. 11-3 À l'abri"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 11_3.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Gnoll"
 permalink: /units/Gnoll/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
+excerpt: "Era of Chaos Gnoll. Gnoll Unités. Guerrier Gnoll. Era of Chaos Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
 unitID: 801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Gnoll"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/fr/units/Unit Rank R/)
+ **Rang:** [R](/fr/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-10 Nuit de désespoir"
 permalink: /Main Story/Chapter 6_10/
 excerpt: "Chapitre 6 - 10. Era of Chaos  Histoire principale - Chapitre 6_10. 6-10 Nuit de désespoir"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 6_10.md"
 toc: false

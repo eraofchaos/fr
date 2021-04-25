@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-15 La guerre éclate"
 permalink: /Main Story/Chapter 5_15/
 excerpt: "Chapitre 5 - 15. Era of Chaos  Histoire principale - Chapitre 5_15. 5-15 La guerre éclate"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 5_15.md"
 toc: false

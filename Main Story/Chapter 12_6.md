@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-6 Redéfinir la frontière"
 permalink: /Main Story/Chapter 12_6/
 excerpt: "Chapitre 12 - 6. Era of Chaos  Histoire principale - Chapitre 12_6. 12-6 Redéfinir la frontière"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 12_6.md"
 toc: false

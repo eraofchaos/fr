@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank Commander -  Units"
 permalink: /units/Unit Rank Commander/
 excerpt: "Era of Chaos Unit Rank Commander. Unit Rank Commander. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Unit Rank Commander"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/fr/units/Unit Rank R/){: .btn .btn--primary} [SSR](/fr/units/Unit Rank SSR/){: .btn .btn--success} [Commandant](/fr/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/fr/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Tigre blanc](/images/u/ti_baihu.jpg) | [Tigre blanc](/fr/units/White Tiger/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 2 | ![Oracle de Regna](/images/u/ti_haihou.jpg) | [Oracle de Regna](/fr/units/Regnan Seer/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Élémentaire des marées  |

@@ -2,7 +2,7 @@
 title: "Artefact - Chapeau des sages - Traité du feu"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "Era of Chaos  Chapeau des sages - Traité du feu. Un livre de sort portant sur la pratique avancée de la magie de feu. Luna aimait le lire pour s'endormir. Composant du Chapeau des sages."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Tome of Fire Magic.md"
 toc: false

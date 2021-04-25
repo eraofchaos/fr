@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus est un fantôme avec une expérience de combat. C'est pour cela que l'Archidiable l'a nommée instructrice des Servantes des Abîmes. Son retour sur le champ de bataille instille la peur dans le cœur de ses ennemis."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Nymus"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Nymus est un fantôme avec une expérience de combat. C'est pour cela que l'Archidiable l'a nommée instructrice des Servantes des Abîmes. Son retour sur le champ de bataille instille la peur dans le cœur de ses ennemis.
 ## Détails
- **Profession:** ![Démoniaque](/images/h/h_prof_9.png) Démoniaque
+ **Profession:** ![Démoniaque](/images/h/h_prof_9.png)  [Démoniaque](/fr/heroes/Profession Demoniac/)
 
- **Race:** Hadès
+ **Faction ::** [Hadès](/fr/heroes/Faction Inferno/)
 
- **Rate:** SR
+ **Rang:** [SR](/fr/heroes/Hero Rank SR/)
 
  **User Rate:** R+
 

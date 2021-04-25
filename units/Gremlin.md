@@ -1,9 +1,9 @@
 ---
 title: "Lutin"
 permalink: /units/Gremlin/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
+excerpt: "Era of Chaos Lutin. Lutin Unités. null. Era of Chaos Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Lutin"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/fr/units/Unit Rank R/)
+ **Rang:** [R](/fr/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

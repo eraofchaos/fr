@@ -4,7 +4,7 @@ permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Général invaincu sur le champ de bataille, Ciele fait partie des premiers Héros à avoir rejoint les rangs des Élémentaires. Elle s'est découvert une connexion avec eux à travers ses flèches magiques."
 heroID: 60705
 QR: hero_60705
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Ciele"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Général invaincu sur le champ de bataille, Ciele fait partie des premiers Héros à avoir rejoint les rangs des Élémentaires. Elle s'est découvert une connexion avec eux à travers ses flèches magiques.
 ## Détails
- **Profession:** ![Élémentaliste](/images/h/h_prof_14.png) Élémentaliste
+ **Profession:** ![Élémentaliste](/images/h/h_prof_14.png)  [Élémentaliste](/fr/heroes/Profession Elementalist/)
 
- **Race:** Conflux
+ **Faction ::** [Conflux](/fr/heroes/Faction Conflux/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

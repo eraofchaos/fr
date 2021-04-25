@@ -4,7 +4,7 @@ permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland est le premier et jusqu'ici l'unique humain à avoir été totalement accepté par le Cercle des Aînés des Elfes. Certains disent en plaisantant qu'il doit simplement être un elfe réincarné dans le corps d'un humain."
 heroID: 60303
 QR: hero_60303
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Ryland"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Ryland est le premier et jusqu'ici l'unique humain à avoir été totalement accepté par le Cercle des Aînés des Elfes. Certains disent en plaisantant qu'il doit simplement être un elfe réincarné dans le corps d'un humain.
 ## Détails
- **Profession:** ![Rôdeur](/images/h/h_prof_3.png) Rôdeur
+ **Profession:** ![Rôdeur](/images/h/h_prof_3.png)  [Rôdeur](/fr/heroes/Profession Ranger/)
 
- **Race:** Rempart
+ **Faction ::** [Rempart](/fr/heroes/Faction Rampart/)
 
- **Rate:** SR
+ **Rang:** [SR](/fr/heroes/Hero Rank SR/)
 
  **User Rate:** R
 

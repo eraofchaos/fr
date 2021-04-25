@@ -1,9 +1,9 @@
 ---
 title: "Liche"
 permalink: /units/Lich/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
+excerpt: "Era of Chaos Liche. Liche Unités. Grande Liche. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Liche"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

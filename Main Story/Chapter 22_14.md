@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-14 L'utilisation de la sagesse"
 permalink: /Main Story/Chapter 22_14/
 excerpt: "Chapitre 22 - 14. Era of Chaos  Histoire principale - Chapitre 22_14. 22-14 L'utilisation de la sagesse"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 22_14.md"
 toc: false

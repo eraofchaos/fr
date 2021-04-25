@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Unit Member x1"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [x9](/fr/units/Unit Member x9/){: .btn .btn--primary} [x1](/fr/units/Unit Member x1/){: .btn .btn--success} [x4](/fr/units/Unit Member x4/){: .btn .btn--warning} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Élémentaire de magie  |
   | 2 | ![Tigre blanc](/images/u/ti_baihu.jpg) | [Tigre blanc](/fr/units/White Tiger/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |

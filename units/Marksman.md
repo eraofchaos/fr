@@ -1,9 +1,9 @@
 ---
 title: "Grand Arbalétrier"
 permalink: /units/Marksman/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis."
+excerpt: "Era of Chaos Grand Arbalétrier. Grand Arbalétrier Unités. Maître Arbalétrier. Era of Chaos Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis."
 unitID: 102
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Grand Arbalétrier"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/fr/units/Unit Rank R/)
+ **Rang:** [R](/fr/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

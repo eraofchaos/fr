@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-13 Toucher au but"
 permalink: /Main Story/Chapter 7_13/
 excerpt: "Chapitre 7 - 13. Era of Chaos  Histoire principale - Chapitre 7_13. 7-13 Toucher au but"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 7_13.md"
 toc: false

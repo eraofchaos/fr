@@ -2,7 +2,7 @@
 title: "Avatar - Maître du néant"
 permalink: /Avatars/Ruler of Void/
 excerpt: "Era of Chaos  Maître du néant"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Ruler of Void.md"
 toc: false

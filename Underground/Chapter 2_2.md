@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 - 2-2 À travers le brouillard"
 permalink: /Underground/Chapter 2_2/
 excerpt: "Chapitre 2 - 2. Era of Chaos  Souterrain - Chapitre 2_2. 2-2 À travers le brouillard"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 2_2.md"
 toc: false

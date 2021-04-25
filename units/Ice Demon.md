@@ -1,9 +1,9 @@
 ---
 title: "Démone de glace"
 permalink: /units/Ice Demon/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos La Démone de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales."
+excerpt: "Era of Chaos Démone de glace. Démone de glace Unités. null. Era of Chaos La Démone de glace est une créature singulière, même pour le Plan du Conflux. Elle est semblable à de la glace qui ne fond jamais. Elle vous aveugle et vous coupe le souffle. Elle ressemble aux cadavres que l'on enterre dans des tombes glaciales."
 unitID: 908
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Démone de glace"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
+ **Rang:** [Commandant](/fr/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

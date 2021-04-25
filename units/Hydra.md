@@ -1,9 +1,9 @@
 ---
 title: "Hydre"
 permalink: /units/Hydra/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
+excerpt: "Era of Chaos Hydre. Hydre Unités. Pyrohydre. Era of Chaos Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Hydre"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

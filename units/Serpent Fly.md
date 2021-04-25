@@ -1,9 +1,9 @@
 ---
 title: "Guêpe serpent"
 permalink: /units/Serpent Fly/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
+excerpt: "Era of Chaos Guêpe serpent. Guêpe serpent Unités. Guêpe dragon. Era of Chaos Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Guêpe serpent"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 

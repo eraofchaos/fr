@@ -1,9 +1,9 @@
 ---
 title: "Pirates de Regna"
 permalink: /units/Regnan Pirates/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
+excerpt: "Era of Chaos Pirates de Regna. Pirates de Regna Unités. Roi des pirates. Era of Chaos Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Pirates de Regna"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 

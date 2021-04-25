@@ -1,9 +1,9 @@
 ---
 title: "Géant"
 permalink: /units/Giant/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
+excerpt: "Era of Chaos Géant. Géant Unités. Titan. Era of Chaos Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
 unitID: 607
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Géant"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

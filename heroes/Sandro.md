@@ -4,7 +4,7 @@ permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Le nécromancien Sandro connaît Enroth et Erathia dans leurs moindres recoins. Il semble à présent soutenir Finneas Vilmar, chef des nécromanciens de Deyja."
 heroID: 60501
 QR: hero_60501
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Sandro"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Le nécromancien Sandro connaît Enroth et Erathia dans leurs moindres recoins. Il semble à présent soutenir Finneas Vilmar, chef des nécromanciens de Deyja.
 ## Détails
- **Profession:** ![Nécromancien](/images/h/h_prof_6.png) Nécromancien
+ **Profession:** ![Nécromancien](/images/h/h_prof_6.png)  [Nécromancien](/fr/heroes/Profession Necromancer/)
 
- **Race:** Nécropole
+ **Faction ::** [Nécropole](/fr/heroes/Faction Necropolis/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

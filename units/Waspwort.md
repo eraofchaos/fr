@@ -1,9 +1,9 @@
 ---
 title: "Guêpier"
 permalink: /units/Waspwort/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
+excerpt: "Era of Chaos Guêpier. Guêpier Unités. null. Era of Chaos Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
 unitID: 808
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Guêpier"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

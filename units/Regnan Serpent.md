@@ -1,9 +1,9 @@
 ---
 title: "Serpent de Regna"
 permalink: /units/Regnan Serpent/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
+excerpt: "Era of Chaos Serpent de Regna. Serpent de Regna Unités. . Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Serpent de Regna"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

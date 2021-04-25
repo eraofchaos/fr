@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-4 Gouverner avec le cœur"
 permalink: /Main Story/Chapter 17_4/
 excerpt: "Chapitre 17 - 4. Era of Chaos  Histoire principale - Chapitre 17_4. 17-4 Gouverner avec le cœur"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 17_4.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Centaure"
 permalink: /units/Centaur/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
+excerpt: "Era of Chaos Centaure. Centaure Unités. Capitaine Centaure. Era of Chaos Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Centaure"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/fr/units/Unit Rank R/)
+ **Rang:** [R](/fr/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina faisait preuve d'un immense potentiel quand elle était jeune, jusqu'à ce qu'elle soit expulsée de Bracada après qu'il a été découvert qu'elle utilisait sa magie pour changer les vivants en Non-Morts. Cette sanction n'a fait que la placer définitivement sur la voie du mal."
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Vidomina"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Vidomina faisait preuve d'un immense potentiel quand elle était jeune, jusqu'à ce qu'elle soit expulsée de Bracada après qu'il a été découvert qu'elle utilisait sa magie pour changer les vivants en Non-Morts. Cette sanction n'a fait que la placer définitivement sur la voie du mal.
 ## Détails
- **Profession:** ![Nécromancien](/images/h/h_prof_6.png) Nécromancien
+ **Profession:** ![Nécromancien](/images/h/h_prof_6.png)  [Nécromancien](/fr/heroes/Profession Necromancer/)
 
- **Race:** Nécropole
+ **Faction ::** [Nécropole](/fr/heroes/Faction Necropolis/)
 
- **Rate:** SR+
+ **Rang:** [SR+](/fr/heroes/Hero Rank SR+/)
 
  **User Rate:** R
 

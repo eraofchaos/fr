@@ -1,9 +1,9 @@
 ---
 title: "Paladin"
 permalink: /units/Paladin/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
+excerpt: "Era of Chaos Paladin. Paladin Unités. Paladin suprême. Era of Chaos Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
 unitID: 108
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Paladin"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

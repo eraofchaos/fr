@@ -2,7 +2,7 @@
 title: "Gantelets de l'âtre-flamme"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "Era of Chaos Gantelets de l'âtre-flamme. Gantelets de l'âtre-flamme"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

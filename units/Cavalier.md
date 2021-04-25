@@ -1,9 +1,9 @@
 ---
 title: "Cavalier"
 permalink: /units/Cavalier/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
+excerpt: "Era of Chaos Cavalier. Cavalier Unités. Chevaliers légendaires. Era of Chaos Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Cavalier"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

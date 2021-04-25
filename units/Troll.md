@@ -1,9 +1,9 @@
 ---
 title: "Troll"
 permalink: /units/Troll/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Trolls sont très intelligents et utilisent de lourds rochers comme armes. On les retrouve souvent en première ligne des batailles pour asséner aux ennemis les coups les plus violents."
+excerpt: "Era of Chaos Troll. Troll Unités. null. Era of Chaos Les Trolls sont très intelligents et utilisent de lourds rochers comme armes. On les retrouve souvent en première ligne des batailles pour asséner aux ennemis les coups les plus violents."
 unitID: 409
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Troll"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [Commandant](/fr/units/Unit Rank Commander/)
+ **Rang:** [Commandant](/fr/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

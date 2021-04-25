@@ -1,9 +1,9 @@
 ---
 title: "Basilic"
 permalink: /units/Basilisk/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
+excerpt: "Era of Chaos Basilic. Basilic Unités. null. Era of Chaos Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Basilic"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

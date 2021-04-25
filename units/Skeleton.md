@@ -1,9 +1,9 @@
 ---
 title: "Squelette"
 permalink: /units/Skeleton/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
+excerpt: "Era of Chaos Squelette. Squelette Unités. Guerrier squelette. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Squelette"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/fr/units/Unit Rank R/)
+ **Rang:** [R](/fr/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

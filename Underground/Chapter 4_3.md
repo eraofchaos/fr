@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 4 - 4-3 Coup de grâce"
 permalink: /Underground/Chapter 4_3/
 excerpt: "Chapitre 4 - 3. Era of Chaos  Souterrain - Chapitre 4_3. 4-3 Coup de grâce"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 4_3.md"
 toc: false

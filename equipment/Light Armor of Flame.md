@@ -2,7 +2,7 @@
 title: "Armure légère enflammée"
 permalink: /equipment/Light Armor of Flame/
 excerpt: "Era of Chaos Armure légère enflammée. Armure légère enflammée"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Light Armor of Flame.md"
 toc: false

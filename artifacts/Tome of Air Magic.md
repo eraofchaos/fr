@@ -2,7 +2,7 @@
 title: "Artefact - Chapeau des sages - Traité de l'air"
 permalink: /artifacts/Tome of Air Magic/
 excerpt: "Era of Chaos  Chapeau des sages - Traité de l'air. Un livre de sort portant sur la pratique avancée de la magie de l'air. Vous sentez la présence de l'Élémentaire d'air en le lisant. Composant du Chapeau des sages."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Tome of Air Magic.md"
 toc: false

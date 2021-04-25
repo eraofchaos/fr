@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Unit Class Offense"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [À distance](/fr/units/Unit Class Ranged/){: .btn .btn--primary} [Assaut](/fr/units/Unit Class Charging/){: .btn .btn--success} [Lanceur de sorts](/fr/units/Unit Class Caster/){: .btn .btn--warning} [Offensive](/fr/units/Unit Class Offense/){: .btn .btn--danger} [Défense](/fr/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Élémentaire de magie  |
   | 2 | ![Champion des ténèbres](/images/u/ti_sishen.jpg) | [Champion des ténèbres](/fr/units/Dark Champion/) | Offensive | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |

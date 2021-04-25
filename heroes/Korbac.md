@@ -4,7 +4,7 @@ permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac est considéré comme un Héros à Erathia pour avoir sauvé l'érudit Valjean. Que ce soit vrai ou pas, il a prouvé sa valeur au service de Tatalia."
 heroID: 61502
 QR: hero_61502
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Korbac"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Korbac est considéré comme un Héros à Erathia pour avoir sauvé l'érudit Valjean. Que ce soit vrai ou pas, il a prouvé sa valeur au service de Tatalia.
 ## Détails
- **Profession:** Maître des bêtes
+ **Profession:**  [Maître des bêtes](/fr/heroes/Profession Beast Master/)
 
- **Race:** Forteresse
+ **Faction ::** [Forteresse](/fr/heroes/Faction Fortress/)
 
- **Rate:** R
+ **Rang:** [R](/fr/heroes/Hero Rank R/)
 
  **User Rate:** R
 

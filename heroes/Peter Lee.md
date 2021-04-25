@@ -4,7 +4,7 @@ permalink: /heroes/Peter Lee/
 excerpt: "Era of Chaos PeterLee. PeterLee. Peter Lee est un pirate légendaire, mais il semble préférer les trésors et l'aventure au pillage et à la destruction. La rumeur prétend que son équipage et lui seraient allés jusqu'au bout du monde."
 heroID: 61801
 QR: hero_61801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Peter Lee"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Peter Lee est un pirate légendaire, mais il semble préférer les trésors et l'aventure au pillage et à la destruction. La rumeur prétend que son équipage et lui seraient allés jusqu'au bout du monde.
 ## Détails
- **Profession:** Pirate
+ **Profession:**  [Pirate](/fr/heroes/Profession Pirate/)
 
- **Race:** Crique
+ **Faction ::** [Crique](/fr/heroes/Faction Cove/)
 
- **Rate:** SR+
+ **Rang:** [SR+](/fr/heroes/Hero Rank SR+/)
 
  **User Rate:** R+
 

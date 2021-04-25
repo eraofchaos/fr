@@ -2,7 +2,7 @@
 title: "Griffe empoisonnée"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Era of Chaos Griffe empoisonnée. Griffe empoisonnée"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Poisoned Claw.md"
 toc: false

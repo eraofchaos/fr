@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Star 3"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [<i class="fas fa-star"/>](/fr/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/){: .btn .btn--warning} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Élémentaire de magie  |
   | 2 | ![Momie](/images/u/ti_munaiyi.jpg) | [Momie](/fr/units/Mummy/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Roi Momie  |

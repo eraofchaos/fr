@@ -1,9 +1,9 @@
 ---
 title: "Chevalier noir"
 permalink: /units/Black Knight/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
+excerpt: "Era of Chaos Chevalier noir. Chevalier noir Unités. Chevalier de l'Effroi. Era of Chaos Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chevalier noir"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

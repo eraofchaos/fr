@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 1 - 1-5 Catastrophe imminente"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "Chapitre 1 - 5. Era of Chaos  Histoire principale - Chapitre 1_5. 1-5 Catastrophe imminente"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 1_5.md"
 toc: false

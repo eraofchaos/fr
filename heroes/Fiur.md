@@ -4,7 +4,7 @@ permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Encore jeune et inexpérimenté pour un Élémentaire, Fiur possède néanmoins un talent sans égal. Il devrait certainement devenir l'un des plus puissants Héros de sa caste."
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Fiur"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Encore jeune et inexpérimenté pour un Élémentaire, Fiur possède néanmoins un talent sans égal. Il devrait certainement devenir l'un des plus puissants Héros de sa caste.
 ## Détails
- **Profession:** ![Marcheur](/images/h/h_prof_13.png) Marcheur
+ **Profession:** ![Marcheur](/images/h/h_prof_13.png)  [Marcheur](/fr/heroes/Profession Planeswalker/)
 
- **Race:** Conflux
+ **Faction ::** [Conflux](/fr/heroes/Faction Conflux/)
 
- **Rate:** R
+ **Rang:** [R](/fr/heroes/Hero Rank R/)
 
  **User Rate:** R
 

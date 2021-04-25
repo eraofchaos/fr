@@ -1,9 +1,9 @@
 ---
 title: "Homme-lézard"
 permalink: /units/Lizardman/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
+excerpt: "Era of Chaos Homme-lézard. Homme-lézard Unités. null. Era of Chaos Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Homme-lézard"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 

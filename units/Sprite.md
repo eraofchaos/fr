@@ -1,9 +1,9 @@
 ---
 title: "Fée"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
+excerpt: "Era of Chaos Fée. Fée Unités. . Era of Chaos Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
 unitID: 901
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Fée"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [R](/fr/units/Unit Rank R/)
+ **Rang:** [R](/fr/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

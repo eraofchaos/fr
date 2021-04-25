@@ -2,7 +2,7 @@
 title: "Cape pare-vent"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Era of Chaos Cape pare-vent. Cape pare-vent"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Windproof Cloak.md"
 toc: false

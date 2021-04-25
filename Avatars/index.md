@@ -2,15 +2,15 @@
 title: "Cadre d'avatar et avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cadre d'avatar et avatar. Cadre d'avatar et avatar"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "index.md"
 toc: false
 classes: wide
 ---
 
-  |  Nr | I | Avatar | Open | Description |
-  |:----|:-:|:-----------|:----:|:--------------|
+  |  Nr | Icon | Avatar | Open | Description |
+  |:----|:----:|:-----------|:----:|:--------------|
   | 1 | ![Adepte des mondanités](/images/a/avatarFrame_31.png) | [Adepte des mondanités](/fr/Avatars/Social Butterfly/) | - |  |
   | 2 | ![Amour du feu et de la glace](/images/a/avatarFrame_28.png) | [Amour du feu et de la glace](/fr/Avatars/Love of Ice and Fire/) | + | Cadre d'avatar Amour du feu et de la glace |
   | 3 | ![Bastion](/images/a/avatarFrame_4.png) | [Bastion](/fr/Avatars/Stronghold/) | - | Cadre d'avatar Bastion |

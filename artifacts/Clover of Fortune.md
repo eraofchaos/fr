@@ -2,7 +2,7 @@
 title: "Artefact - Fer à cheval porte-bonheur - Trèfle à 4 feuilles"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Era of Chaos  Fer à cheval porte-bonheur - Trèfle à 4 feuilles. Un trèfle qui apporte la chance à celui qui le détient. Composant du Fer à cheval porte-bonheur."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Clover of Fortune.md"
 toc: false

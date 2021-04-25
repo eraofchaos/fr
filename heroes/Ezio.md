@@ -4,7 +4,7 @@ permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Même s'il est dans un monde totalement différent, Ezio s'accroche à ses convictions. Il agit dans l'ombre pour servir la lumière."
 heroID: 61901
 QR: hero_61901
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Ezio"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Même s'il est dans un monde totalement différent, Ezio s'accroche à ses convictions. Il agit dans l'ombre pour servir la lumière.
 ## Détails
- **Profession:** 
+ **Profession:**  [Unknown](/fr/heroes/Profession Unknown/)
 
- **Race:** Armée neutre
+ **Faction ::** [Armée neutre](/fr/heroes/Faction Neutral Army/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 
  **User Rate:** R+
 

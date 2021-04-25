@@ -1,9 +1,9 @@
 ---
 title: "Moine"
 permalink: /units/Monk/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
+excerpt: "Era of Chaos Moine. Moine Unités. Zélote. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Moine"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

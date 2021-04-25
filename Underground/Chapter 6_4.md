@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 6 - 6-4 À la conquête de la capitale"
 permalink: /Underground/Chapter 6_4/
 excerpt: "Chapitre 6 - 4. Era of Chaos  Souterrain - Chapitre 6_4. 6-4 À la conquête de la capitale"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Chapter 6_4.md"
 toc: false

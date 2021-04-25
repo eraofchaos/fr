@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Unit Rank SSR"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/fr/units/Unit Rank R/){: .btn .btn--primary} [SSR](/fr/units/Unit Rank SSR/){: .btn .btn--success} [Commandant](/fr/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/fr/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Élémentaire de magie  |
   | 2 | ![Béhémoth](/images/u/ti_bimeng.jpg) | [Béhémoth](/fr/units/Behemoth/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Béhémoth royal  |

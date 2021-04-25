@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "index.md"
 toc: false
@@ -10,15 +10,15 @@ classes: wide
 ---
   by Faction : [Conflux](/fr/units/Faction Conflux/){: .btn .btn--primary} [Hadès](/fr/units/Faction Inferno/){: .btn .btn--success} [Donjon](/fr/units/Faction Dungeon/){: .btn .btn--warning} [Forteresse](/fr/units/Faction Fortress/){: .btn .btn--danger} [Rempart](/fr/units/Faction Rampart/){: .btn .btn--info} [Château](/fr/units/Faction Castle/){: .btn .btn--primary} [Tour](/fr/units/Faction Tower/){: .btn .btn--success} [Bastion](/fr/units/Faction Stronghold/){: .btn .btn--warning} [Crique](/fr/units/Faction Cove/){: .btn .btn--danger} [Armée neutre](/fr/units/Faction Neutral Army/){: .btn .btn--info} [Nécropole](/fr/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [À distance](/fr/units/Unit Class Ranged/){: .btn .btn--primary} [Assaut](/fr/units/Unit Class Charging/){: .btn .btn--success} [Lanceur de sorts](/fr/units/Unit Class Caster/){: .btn .btn--warning} [Offensive](/fr/units/Unit Class Offense/){: .btn .btn--danger} [Défense](/fr/units/Unit Class Defense/){: .btn .btn--info} 
+  by Classe: [À distance](/fr/units/Unit Class Ranged/){: .btn .btn--primary} [Assaut](/fr/units/Unit Class Charging/){: .btn .btn--success} [Lanceur de sorts](/fr/units/Unit Class Caster/){: .btn .btn--warning} [Offensive](/fr/units/Unit Class Offense/){: .btn .btn--danger} [Défense](/fr/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/fr/units/Unit Rank R/){: .btn .btn--primary} [SSR](/fr/units/Unit Rank SSR/){: .btn .btn--success} [Commandant](/fr/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/fr/units/Unit Rank SR/){: .btn .btn--danger} 
+  by Rang: [R](/fr/units/Unit Rank R/){: .btn .btn--primary} [SSR](/fr/units/Unit Rank SSR/){: .btn .btn--success} [Commandant](/fr/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/fr/units/Unit Rank SR/){: .btn .btn--danger} 
 
   by Members: [x9](/fr/units/Unit Member x9/){: .btn .btn--primary} [x1](/fr/units/Unit Member x1/){: .btn .btn--success} [x4](/fr/units/Unit Member x4/){: .btn .btn--warning} 
 
   by Stars: [<i class="fas fa-star"/>](/fr/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/){: .btn .btn--warning} 
 
-  | Nr | I |         Nom        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Nom        |   Type   | Awake |  Rang  |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Adjudicatrice](/images/u/ti_shenpanguan.jpg) | [Adjudicatrice](/fr/units/Judicator/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 2 | ![Ange](/images/u/ti_datianshi.jpg) | [Ange](/fr/units/Angel/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archange  |

@@ -1,9 +1,9 @@
 ---
 title: "Griffon"
 permalink: /units/Griffin/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
+excerpt: "Era of Chaos Griffon. Griffon Unités. Griffon royal. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Griffon"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 

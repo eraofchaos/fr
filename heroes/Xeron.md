@@ -4,7 +4,7 @@ permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Quand Lucifer Kreegan a tué Xenofex et pris le pouvoir, Xeron fut le premier à jurer allégeance à l'usurpateur, un acte qui lui a permis de gagner la faveur de son nouveau roi."
 heroID: 60801
 QR: hero_60801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Xeron"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Quand Lucifer Kreegan a tué Xenofex et pris le pouvoir, Xeron fut le premier à jurer allégeance à l'usurpateur, un acte qui lui a permis de gagner la faveur de son nouveau roi.
 ## Détails
- **Profession:** ![Démoniaque](/images/h/h_prof_9.png) Démoniaque
+ **Profession:** ![Démoniaque](/images/h/h_prof_9.png)  [Démoniaque](/fr/heroes/Profession Demoniac/)
 
- **Race:** Hadès
+ **Faction ::** [Hadès](/fr/heroes/Faction Inferno/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

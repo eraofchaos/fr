@@ -1,9 +1,9 @@
 ---
 title: "Élémentaire de feu"
 permalink: /units/Fire Elemental/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
+excerpt: "Era of Chaos Élémentaire de feu. Élémentaire de feu Unités. Élémentaire d'énergie. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 
- **Rank:** [SR](/fr/units/Unit Rank SR/)
+ **Rang:** [SR](/fr/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 2/)
 

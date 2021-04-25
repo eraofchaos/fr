@@ -1,9 +1,9 @@
 ---
 title: "Assassin"
 permalink: /units/Assassin/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
+excerpt: "Era of Chaos Assassin. Assassin Unités. null. Era of Chaos Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Assassin"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

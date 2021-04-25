@@ -1,9 +1,9 @@
 ---
 title: "Trépassé"
 permalink: /units/Walking Dead/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
+excerpt: "Era of Chaos Trépassé. Trépassé Unités. Zombie. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Trépassé"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 
- **Rank:** [R](/fr/units/Unit Rank R/)
+ **Rang:** [R](/fr/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/fr/units/Star 1/)
 

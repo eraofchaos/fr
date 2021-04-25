@@ -1,9 +1,9 @@
 ---
 title: "Dragon vert"
 permalink: /units/Green Dragon/
-excerpt: "Era of Chaos Unités. Unités. Era of Chaos Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
+excerpt: "Era of Chaos Dragon vert. Dragon vert Unités. Dragon d'or. Era of Chaos Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Dragon vert"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
- **Rank:** [SSR](/fr/units/Unit Rank SSR/)
+ **Rang:** [SSR](/fr/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 

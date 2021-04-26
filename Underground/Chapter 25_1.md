@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 25 - 25-1 Secret d'arcane"
 permalink: /Underground/Chapter 25_1/
 excerpt: "Chapitre 25 - 1. Era of Chaos  Souterrain - Chapitre 25_1. 25-1 Secret d'arcane"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 25_1.md"
 toc: false

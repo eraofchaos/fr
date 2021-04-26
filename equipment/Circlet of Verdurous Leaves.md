@@ -2,7 +2,7 @@
 title: "Bandeau des vertes-feuilles"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "Era of Chaos Bandeau des vertes-feuilles. Bandeau des vertes-feuilles"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Circlet of Verdurous Leaves.md"
 toc: false

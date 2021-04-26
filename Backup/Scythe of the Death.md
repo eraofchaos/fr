@@ -2,7 +2,7 @@
 title: "Backup - Attaque de la faux de la mort"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Attaque de la faux de la mort"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Scythe of the Death.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Compétence spéciale - **Attaque de la faux de la mort** 
 
+  ![Attaque de la faux de la mort](/images/b/backupIcon_3.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Capacité de champ de bataille - **Frapper** 
 
+  ![Frapper](/images/b/backupSkill1Icon_3.png)
+
  **Capacité de champ de bataille Power:** 1060
 
  **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/ItemsFR/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Compétence globale - **Érudition** 
+
+  ![Érudition](/images/b/backupSkill2Icon_3.png)
 
  **Compétence globale Power:** 1076
 

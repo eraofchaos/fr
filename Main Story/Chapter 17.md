@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 La libération de l'Empire"
 permalink: /Main Story/Chapter 17/
 excerpt: "Chapitre 17. Era of Chaos  Histoire principale - Chapitre 17. La libération de l'Empire"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 17.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Terminé Chapitre 17
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Récompense:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Récompense 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **15 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **15 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **50000x** <i class="fas fa-coins"/>
+ Récompense 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **5000x** [EXP d'unité](/ItemsFR/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Récompense 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **20 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **20 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **80000x** <i class="fas fa-coins"/>
+ Récompense 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **8000x** [EXP d'unité](/ItemsFR/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: **50 x** [Revenante](/ItemsFR/unt_210/){: .btn .btn--era4}
+ Récompense 1: **50 x** [Revenante](/ItemsFR/unt_210/){: .btn .btn--era4}
 
- Reward 2: **25 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **25 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Récompense 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **10000x** [EXP d'unité](/ItemsFR/con_902/)
 

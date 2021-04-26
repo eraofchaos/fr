@@ -2,7 +2,7 @@
 title: "Artefact - Manteau du roi des Non-Morts"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Era of Chaos  Manteau du roi des Non-Morts. Manteau du roi des Non-Morts Une relique sacrée conçue par un puissant roi Non-Mort pour dissimuler son visage. Permet d'invoquer une armée de squelettes."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Cloak of the Undead King.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Backup - Chasse dans la forêt"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Era of Chaos  Chasse dans la forêt"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Hunt in the Forest.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Compétence spéciale - **Chasse dans la forêt** 
 
+  ![Chasse dans la forêt](/images/b/backupIcon_5.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Capacité de champ de bataille - **Motivation** 
 
+  ![Motivation](/images/b/backupSkill1Icon_5.png)
+
  **Capacité de champ de bataille Power:** 1060
 
  **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/ItemsFR/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Compétence globale - **Émancipation** 
+
+  ![Émancipation](/images/b/backupSkill2Icon_5.png)
 
  **Compétence globale Power:** 1076
 

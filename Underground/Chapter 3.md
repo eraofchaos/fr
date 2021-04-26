@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 3 Falaises des Griffons"
 permalink: /Underground/Chapter 3/
 excerpt: "Chapitre 3 Falaises des Griffons. Era of Chaos  Souterrain - Chapitre 3. Falaises des Griffons"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 3.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **250x** <i class="fas fa-gem"/>
+ Récompense 1:  **250x** <i class="fas fa-gem"/>
 
- Reward 2:  **20000x** <i class="fas fa-coins"/>
+ Récompense 2:  **20000x** <i class="fas fa-coins"/>
 
- Reward 3: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 3: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 4: **15 x** [Catherine](/ItemsFR/her_361/){: .btn .btn--era5}
+ Récompense 4: **15 x** [Catherine](/ItemsFR/her_361/){: .btn .btn--era5}
 

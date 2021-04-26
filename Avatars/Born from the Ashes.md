@@ -2,7 +2,7 @@
 title: "Avatar - Née des cendres"
 permalink: /Avatars/Born from the Ashes/
 excerpt: "Era of Chaos  Née des cendres"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Born from the Ashes.md"
 toc: false

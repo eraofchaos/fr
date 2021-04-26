@@ -2,7 +2,7 @@
 title: "Cadre d'avatar et avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cadre d'avatar et avatar. Cadre d'avatar et avatar"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "index.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 9 | ![Collectionneur - Basique](/images/a/avatarFrame_71.png) | [Collectionneur - Basique](/fr/Avatars/Collector - Basic/) | + | Collectionneur - Basique |
   | 10 | ![Collectionneur - Expert](/images/a/avatarFrame_59.png) | [Collectionneur - Expert](/fr/Avatars/Collector - Expert/) | + | Cadre exclusif d'avatar Épreuve de l'Emblème sacré |
   | 11 | ![Combattons !](/images/a/avatarFrame_84.png) | [Combattons !](/fr/Avatars/Let's Fight!/) | - | Cadre d'avatar En guerre |
-  | 12 |  | [Commandant mortel](/fr/Avatars/Deadly Commander/) | + | Cadre d'avatar Commandant mortel |
+  | 12 | ![Commandant mortel](/images/a/avatarFrame_21.png) | [Commandant mortel](/fr/Avatars/Deadly Commander/) | + | Cadre d'avatar Commandant mortel |
   | 13 | ![Commandant tactique](/images/a/avatarFrame_20.png) | [Commandant tactique](/fr/Avatars/Tactical Commander/) | + | Cadre d'avatar Commandant tactique |
   | 14 | ![Commentateurs](/images/a/avatarFrame_14.png) | [Commentateurs](/fr/Avatars/Commenters/) | + |  |
   | 15 | ![Commémoration NFL Honors](/images/a/avatarFrame_94.png) | [Commémoration NFL Honors](/fr/Avatars/NFL Honors Commemoration/) | + | Cadre d'avatar Commémoration NFL Honors |

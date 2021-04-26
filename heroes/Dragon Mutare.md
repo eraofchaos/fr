@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Mutare (dragon). Mutare (dragon). En buvant la Fiole de sang de dragon, Mutare en est elle-même devenue un, tout en conservant sa conscience humaine. Certains affirment que sa transformation est annonciatrice de l'arrivée du Dragon patriarche."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Dragon Mutare"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Détails
  **Profession:** ![Seigneur de guerre](/images/h/h_prof_16.png)  [Seigneur de guerre](/fr/heroes/Profession Overlord/)
 
- **Faction ::** [Donjon](/fr/heroes/Faction Dungeon/)
+ **Faction:** [Donjon](/fr/heroes/Faction Dungeon/)
 
  **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 

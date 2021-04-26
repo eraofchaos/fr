@@ -2,7 +2,7 @@
 title: "Era of Chaos - Mer guérisseuse - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Mer guérisseuse. List of ALL Mer guérisseuse questions with correct answers"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "healingSea"
 toc: false
@@ -57,7 +57,7 @@ classes: wide
 
    **Correct Answer:** **B. Le Nain.** 
 
-   **Rewards:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
+   **Récompenses:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
 
    *Wrong Answer:* *A. L'Elfe sylvaine.* 
 
@@ -71,7 +71,7 @@ classes: wide
 
    **Correct Answer:** **A. Telle est la question.** 
 
-   **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *B. Telle n'est pas la question.* 
 
@@ -85,7 +85,7 @@ classes: wide
 
    **Correct Answer:** **B. Les Kreegan** 
 
-   **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *A. Les Orques* 
 
@@ -99,7 +99,7 @@ classes: wide
 
    **Correct Answer:** **B. Je voudrais un Cyclope de neige.** 
 
-   **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *A. Non.* 
 
@@ -113,7 +113,7 @@ classes: wide
 
    **Correct Answer:** **B. Le Minotaure** 
 
-   **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *A. Le Centaure* 
 
@@ -127,7 +127,7 @@ classes: wide
 
    **Correct Answer:** **B. Le Tireur d'élite** 
 
-   **Rewards:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
+   **Récompenses:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
 
    *Wrong Answer:* *A. Le Dragon noir* 
 
@@ -141,7 +141,7 @@ classes: wide
 
    **Correct Answer:** **B. Le Dragon d'or** 
 
-   **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *A. Le Dragon vert* 
 
@@ -155,7 +155,7 @@ classes: wide
 
    **Correct Answer:** **A. Un esprit combatif inébranlable** 
 
-   **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *B. Détermination* 
 
@@ -169,7 +169,7 @@ classes: wide
 
    **Correct Answer:** **B. Diables** 
 
-   **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *A. Anges* 
 
@@ -183,7 +183,7 @@ classes: wide
 
    **Correct Answer:** **A. Honte à moi.** 
 
-   **Rewards:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
+   **Récompenses:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
 
    *Wrong Answer:* *B. Encore honte à lui.* 
 
@@ -197,7 +197,7 @@ classes: wide
 
    **Correct Answer:** **B. Souterrain** 
 
-   **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
+   **Récompenses:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
    *Wrong Answer:* *A. Bastion* 
 

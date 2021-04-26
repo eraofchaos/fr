@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 Salut du roi"
 permalink: /Main Story/Chapter 30/
 excerpt: "Chapitre 30. Era of Chaos  Histoire principale - Chapitre 30. Salut du roi"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 30.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Terminé Chapitre 30
 
- **Reward:** [Kendal](/fr/heroes/Kendal/)
+ **Récompense:** [Kendal](/fr/heroes/Kendal/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Récompense 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **30 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **30 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **200000x** <i class="fas fa-coins"/>
+ Récompense 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **70000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **70000x** [EXP d'unité](/ItemsFR/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Récompense 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **40 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **40 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **300000x** <i class="fas fa-coins"/>
+ Récompense 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **100000x** [EXP d'unité](/ItemsFR/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Récompense 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2: **25 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **25 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Récompense 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **12000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **12000x** [EXP d'unité](/ItemsFR/con_902/)
 

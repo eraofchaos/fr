@@ -2,7 +2,7 @@
 title: "Artefact - Fer à cheval porte-bonheur"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Era of Chaos  Fer à cheval porte-bonheur. Fer à cheval porte-bonheur Une relique sacrée qui déborde de puissance. Augmente l'attaque d'une armée."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Lucky Horseshoe.md"
 toc: false

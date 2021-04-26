@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 Le retour de la Reine"
 permalink: /Main Story/Chapter 2/
 excerpt: "Chapitre 2. Era of Chaos  Histoire principale - Chapitre 2. Le retour de la Reine"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 2.md"
 toc: false
@@ -25,23 +25,23 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/30</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Récompense 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **3 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Récompense 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **1000x** [EXP d'unité](/ItemsFR/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">30/30</span>
 
- Reward 1:  **300x** <i class="fas fa-gem"/>
+ Récompense 1:  **300x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Récompense 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **1500x** [EXP d'unité](/ItemsFR/con_902/)
 

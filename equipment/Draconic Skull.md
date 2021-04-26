@@ -2,7 +2,7 @@
 title: "Crâne draconique"
 permalink: /equipment/Draconic Skull/
 excerpt: "Era of Chaos Crâne draconique. Crâne draconique"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Draconic Skull.md"
 toc: false

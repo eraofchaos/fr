@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 7 Les régions frontalières"
 permalink: /Underground/Chapter 7/
 excerpt: "Chapitre 7 Les régions frontalières. Era of Chaos  Souterrain - Chapitre 7. Les régions frontalières"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 7.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **350x** <i class="fas fa-gem"/>
+ Récompense 1:  **350x** <i class="fas fa-gem"/>
 
- Reward 2:  **50000x** <i class="fas fa-coins"/>
+ Récompense 2:  **50000x** <i class="fas fa-coins"/>
 
- Reward 3: **90 x** Star Points
+ Récompense 3: **90 x** Star Points
 
- Reward 4: **15 x** [Rashka](/ItemsFR/her_384/){: .btn .btn--era5}
+ Récompense 4: **15 x** [Rashka](/ItemsFR/her_384/){: .btn .btn--era5}
 

@@ -2,12 +2,14 @@
 title: "Avatar - Commandant mortel"
 permalink: /Avatars/Deadly Commander/
 excerpt: "Era of Chaos  Commandant mortel"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Deadly Commander.md"
 toc: false
 classes: wide
 ---
+ ![Commandant mortel](/images/a/avatarFrame_21.png)
+
 ## Détails
 
  **Description:** Cadre d'avatar Commandant mortel 

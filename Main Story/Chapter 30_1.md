@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-1 La source magique"
 permalink: /Main Story/Chapter 30_1/
 excerpt: "Chapitre 30 - 1. Era of Chaos  Histoire principale - Chapitre 30_1. 30-1 La source magique"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 30_1.md"
 toc: false

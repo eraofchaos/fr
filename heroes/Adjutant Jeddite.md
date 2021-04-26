@@ -2,7 +2,7 @@
 title: "Adjudant Jeddite"
 permalink: /heroes/Adjutant Jeddite/
 excerpt: "Era of Chaos  Adjudant Jeddite"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Adjutant Jeddite.md"
 QR: adhero_61401

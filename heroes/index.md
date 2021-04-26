@@ -2,20 +2,20 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  by Faction : [Conflux](/fr/heroes/Faction Conflux/){: .btn .btn--primary} [Hadès](/fr/heroes/Faction Inferno/){: .btn .btn--success} [Donjon](/fr/heroes/Faction Dungeon/){: .btn .btn--warning} [Rempart](/fr/heroes/Faction Rampart/){: .btn .btn--danger} [Forteresse](/fr/heroes/Faction Fortress/){: .btn .btn--info} [Château](/fr/heroes/Faction Castle/){: .btn .btn--primary} [Tour](/fr/heroes/Faction Tower/){: .btn .btn--success} [Bastion](/fr/heroes/Faction Stronghold/){: .btn .btn--warning} [Armée neutre](/fr/heroes/Faction Neutral Army/){: .btn .btn--danger} [Crique](/fr/heroes/Faction Cove/){: .btn .btn--info} [Nécropole](/fr/heroes/Faction Necropolis/){: .btn .btn--primary} 
+  by Faction: [Conflux](/fr/heroes/Faction Conflux/){: .btn .btn--primary} [Hadès](/fr/heroes/Faction Inferno/){: .btn .btn--success} [Donjon](/fr/heroes/Faction Dungeon/){: .btn .btn--warning} [Rempart](/fr/heroes/Faction Rampart/){: .btn .btn--danger} [Forteresse](/fr/heroes/Faction Fortress/){: .btn .btn--info} [Château](/fr/heroes/Faction Castle/){: .btn .btn--primary} [Tour](/fr/heroes/Faction Tower/){: .btn .btn--success} [Bastion](/fr/heroes/Faction Stronghold/){: .btn .btn--warning} [Armée neutre](/fr/heroes/Faction Neutral Army/){: .btn .btn--danger} [Crique](/fr/heroes/Faction Cove/){: .btn .btn--info} [Nécropole](/fr/heroes/Faction Necropolis/){: .btn .btn--primary} 
 
   by Classe: [Créatures marines](/fr/heroes/Profession Ocean Creatures/){: .btn .btn--primary} [Rôdeur](/fr/heroes/Profession Ranger/){: .btn .btn--success} [Chevalier de la mort](/fr/heroes/Profession Death Knight/){: .btn .btn--warning} [Seigneur de guerre](/fr/heroes/Profession Overlord/){: .btn .btn--danger} [Hérétique](/fr/heroes/Profession Heretic/){: .btn .btn--info} [Mage de guerre](/fr/heroes/Profession Warlock/){: .btn .btn--primary} [Druidesse](/fr/heroes/Profession Druid/){: .btn .btn--success} [Barbare](/fr/heroes/Profession Barbarian/){: .btn .btn--warning} [Clercs](/fr/heroes/Profession Clerics/){: .btn .btn--danger} [Unknown](/fr/heroes/Profession Unknown/){: .btn .btn--info} [Démoniaque](/fr/heroes/Profession Demoniac/){: .btn .btn--primary} [Marcheur](/fr/heroes/Profession Planeswalker/){: .btn .btn--success} [Chevalier](/fr/heroes/Profession Knight/){: .btn .btn--warning} [Maître des bêtes](/fr/heroes/Profession Beast Master/){: .btn .btn--danger} [Pirate](/fr/heroes/Profession Pirate/){: .btn .btn--info} [Élémentaliste](/fr/heroes/Profession Elementalist/){: .btn .btn--primary} [Nécromancien](/fr/heroes/Profession Necromancer/){: .btn .btn--success} [Magicien](/fr/heroes/Profession Wizard/){: .btn .btn--warning} 
 
   by Rang: [R](/fr/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/fr/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/fr/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/fr/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/fr/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Nom    |  Faction :   |  Profession   |  Rang  |    Specialty     | User Rate  | 
+  | Nr |  I |    Nom    |  Faction  |  Profession   |  Rang  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Adelaïde](/images/h/h_Adelaide.jpg) | [Adelaïde](/fr/heroes/Adelaide/) | Château | Clercs | **SR** |  Anneau de givre | R+ |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/fr/heroes/Astral/) | Tour | Magicien | **SSR** |  Amplification magique | SSR |

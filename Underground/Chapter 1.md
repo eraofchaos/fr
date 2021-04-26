@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 1 Retour au foyer"
 permalink: /Underground/Chapter 1/
 excerpt: "Chapitre 1 Retour au foyer. Era of Chaos  Souterrain - Chapitre 1. Retour au foyer"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 1.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **200x** <i class="fas fa-gem"/>
+ Récompense 1:  **200x** <i class="fas fa-gem"/>
 
- Reward 2:  **10000x** <i class="fas fa-coins"/>
+ Récompense 2:  **10000x** <i class="fas fa-coins"/>
 
- Reward 3: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 3: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 4: **15 x** [Catherine](/ItemsFR/her_361/){: .btn .btn--era5}
+ Récompense 4: **15 x** [Catherine](/ItemsFR/her_361/){: .btn .btn--era5}
 

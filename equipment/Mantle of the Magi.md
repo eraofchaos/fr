@@ -2,7 +2,7 @@
 title: "Manteau des mages"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "Era of Chaos Manteau des mages. Manteau des mages"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Mantle of the Magi.md"
 toc: false

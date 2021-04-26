@@ -4,7 +4,7 @@ permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan est le beau-fils aîné du Roi Tralossk et le second héritier du trône. Il attend impatiemment le jour où il pourra enfin régner."
 heroID: 61504
 QR: hero_61504
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Wystan"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Détails
  **Profession:**  [Maître des bêtes](/fr/heroes/Profession Beast Master/)
 
- **Faction ::** [Forteresse](/fr/heroes/Faction Fortress/)
+ **Faction:** [Forteresse](/fr/heroes/Faction Fortress/)
 
  **Rang:** [R](/fr/heroes/Hero Rank R/)
 

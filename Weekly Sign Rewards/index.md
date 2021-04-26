@@ -2,7 +2,7 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "index.md"
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 #### 2021 Week 18  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **3 May** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
   | **4 May** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Gogs a rejoint votre armée et vous renforce ! |
@@ -23,7 +23,7 @@ toc: true
 
 #### 2021 Week 17  Semaine de la Crique
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **26 Apr** | **3x [Élémentaire de mer](/ItemsFR/unt_275/)**  | Une escouade d'Élémentaires de mer a rejoint votre armée et vous renforce ! |
   | **27 Apr** | **3x [Pirates de Regna](/ItemsFR/unt_273/)**  | Une escouade de Pirates de Regna a rejoint votre armée et vous renforce ! |
@@ -36,7 +36,7 @@ toc: true
 
 #### 2021 Week 16  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **19 Apr** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
   | **20 Apr** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Chevaucheurs de loup a rejoint votre armée et vous renforce ! |
@@ -49,7 +49,7 @@ toc: true
 
 #### 2021 Week 15  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **12 Apr** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
   | **13 Apr** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
@@ -62,7 +62,7 @@ toc: true
 
 #### 2021 Week 14  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **5 Apr** | **3x [Squelette](/ItemsFR/unt_208/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
   | **6 Apr** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Trépassés a rejoint votre armée et vous renforce ! |
@@ -75,7 +75,7 @@ toc: true
 
 #### 2021 Week 13  Semaine du Donjon
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **29 Mar** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
   | **30 Mar** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Harpies a rejoint votre armée et vous renforce ! |
@@ -88,7 +88,7 @@ toc: true
 
 #### 2021 Week 12  Semaine de la Forteresse
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **22 Mar** | **5x [Gnoll](/ItemsFR/unt_253/)**  | Une escouade de Gnolls a rejoint votre armée et vous renforce ! |
   | **23 Mar** | **5x [Coffre de faction (Forteresse)](/ItemsFR/con_1277/)**  | Votre compagnie de la Forteresse vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
@@ -101,7 +101,7 @@ toc: true
 
 #### 2021 Week 11  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **15 Mar** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
   | **16 Mar** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
@@ -114,7 +114,7 @@ toc: true
 
 #### 2021 Week 10  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **8 Mar** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
   | **9 Mar** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Gogs a rejoint votre armée et vous renforce ! |
@@ -127,7 +127,7 @@ toc: true
 
 #### 2021 Week 9  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **1 Mar** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
   | **2 Mar** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
@@ -140,7 +140,7 @@ toc: true
 
 #### 2021 Week 8  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **22 Feb** | **5x [Lutin](/ItemsFR/unt_235/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
   | **23 Feb** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Gargouilles a rejoint votre armée et vous renforce ! |
@@ -153,7 +153,7 @@ toc: true
 
 #### 2021 Week 7  Semaine de la Crique
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **15 Feb** | **3x [Élémentaire de mer](/ItemsFR/unt_275/)**  | Une escouade d'Élémentaires de mer a rejoint votre armée et vous renforce ! |
   | **16 Feb** | **3x [Pirates de Regna](/ItemsFR/unt_273/)**  | Une escouade de Pirates de Regna a rejoint votre armée et vous renforce ! |
@@ -166,7 +166,7 @@ toc: true
 
 #### 2021 Week 6  Semaine du Rempart
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **8 Feb** | **5x [Centaure](/ItemsFR/unt_199/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
   | **9 Feb** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
@@ -179,7 +179,7 @@ toc: true
 
 #### 2021 Week 5  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **1 Feb** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
   | **2 Feb** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Chevaucheurs de loup a rejoint votre armée et vous renforce ! |
@@ -192,7 +192,7 @@ toc: true
 
 #### 2021 Week 4  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **25 Jan** | **3x [Squelette](/ItemsFR/unt_208/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
   | **26 Jan** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Trépassés a rejoint votre armée et vous renforce ! |
@@ -205,7 +205,7 @@ toc: true
 
 #### 2021 Week 3  Semaine de la Forteresse
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **18 Jan** | **5x [Gnoll](/ItemsFR/unt_253/)**  | Une escouade de Gnolls a rejoint votre armée et vous renforce ! |
   | **19 Jan** | **5x [Coffre de faction (Forteresse)](/ItemsFR/con_1277/)**  | Votre compagnie de la Forteresse vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
@@ -218,7 +218,7 @@ toc: true
 
 #### 2021 Week 2  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **11 Jan** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
   | **12 Jan** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Gogs a rejoint votre armée et vous renforce ! |
@@ -231,7 +231,7 @@ toc: true
 
 #### 2021 Week 1  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **4 Jan** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
   | **5 Jan** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
@@ -244,7 +244,7 @@ toc: true
 
 #### 2020 Week 52  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **28 Dec** | **5x [Lutin](/ItemsFR/unt_235/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
   | **29 Dec** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Gargouilles a rejoint votre armée et vous renforce ! |
@@ -257,7 +257,7 @@ toc: true
 
 #### 2020 Week 51  Semaine du Donjon
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **21 Dec** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
   | **22 Dec** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Harpies a rejoint votre armée et vous renforce ! |
@@ -270,7 +270,7 @@ toc: true
 
 #### 2020 Week 50  Semaine du Rempart
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **14 Dec** | **5x [Centaure](/ItemsFR/unt_199/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
   | **15 Dec** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
@@ -283,7 +283,7 @@ toc: true
 
 #### 2020 Week 49  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **7 Dec** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
   | **8 Dec** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
@@ -296,7 +296,7 @@ toc: true
 
 #### 2020 Week 48  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **30 Nov** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
   | **1 Dec** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
@@ -309,7 +309,7 @@ toc: true
 
 #### 2020 Week 47  Semaine de la Crique
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **23 Nov** | **3x [Élémentaire de mer](/ItemsFR/unt_275/)**  | Une escouade d'Élémentaires de mer a rejoint votre armée et vous renforce ! |
   | **24 Nov** | **3x [Pirates de Regna](/ItemsFR/unt_273/)**  | Une escouade de Pirates de Regna a rejoint votre armée et vous renforce ! |
@@ -322,7 +322,7 @@ toc: true
 
 #### 2020 Week 46  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **16 Nov** | **3x [Squelette](/ItemsFR/unt_208/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
   | **17 Nov** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Trépassés a rejoint votre armée et vous renforce ! |
@@ -335,7 +335,7 @@ toc: true
 
 #### 2020 Week 45  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **9 Nov** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
   | **10 Nov** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Gogs a rejoint votre armée et vous renforce ! |
@@ -348,7 +348,7 @@ toc: true
 
 #### 2020 Week 44  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **2 Nov** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
   | **3 Nov** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Chevaucheurs de loup a rejoint votre armée et vous renforce ! |
@@ -361,7 +361,7 @@ toc: true
 
 #### 2020 Week 43  Semaine du Donjon
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **26 Oct** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
   | **27 Oct** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Harpies a rejoint votre armée et vous renforce ! |
@@ -374,7 +374,7 @@ toc: true
 
 #### 2020 Week 42  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **19 Oct** | **5x [Lutin](/ItemsFR/unt_235/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
   | **20 Oct** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Gargouilles a rejoint votre armée et vous renforce ! |
@@ -387,7 +387,7 @@ toc: true
 
 #### 2020 Week 41  Semaine de la Forteresse
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **12 Oct** | **5x [Gnoll](/ItemsFR/unt_253/)**  | Une escouade de Gnolls a rejoint votre armée et vous renforce ! |
   | **13 Oct** | **5x [Coffre de faction (Forteresse)](/ItemsFR/con_1277/)**  | Votre compagnie de la Forteresse vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
@@ -400,7 +400,7 @@ toc: true
 
 #### 2020 Week 40  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **5 Oct** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
   | **6 Oct** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
@@ -413,7 +413,7 @@ toc: true
 
 #### 2020 Week 39  Semaine du Rempart
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **28 Sep** | **5x [Centaure](/ItemsFR/unt_199/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
   | **29 Sep** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
@@ -426,7 +426,7 @@ toc: true
 
 #### 2020 Week 38  Semaine du Donjon
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **21 Sep** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
   | **22 Sep** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Harpies a rejoint votre armée et vous renforce ! |
@@ -439,7 +439,7 @@ toc: true
 
 #### 2020 Week 37  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **14 Sep** | **3x [Squelette](/ItemsFR/unt_208/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
   | **15 Sep** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Trépassés a rejoint votre armée et vous renforce ! |
@@ -452,7 +452,7 @@ toc: true
 
 #### 2020 Week 36  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **7 Sep** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
   | **8 Sep** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
@@ -465,7 +465,7 @@ toc: true
 
 #### 2020 Week 35  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **31 Aug** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
   | **1 Sep** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Chevaucheurs de loup a rejoint votre armée et vous renforce ! |
@@ -478,7 +478,7 @@ toc: true
 
 #### 2020 Week 34  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **24 Aug** | **5x [Lutin](/ItemsFR/unt_235/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
   | **25 Aug** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Gargouilles a rejoint votre armée et vous renforce ! |
@@ -491,7 +491,7 @@ toc: true
 
 #### 2020 Week 33  Semaine du Rempart
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **17 Aug** | **5x [Centaure](/ItemsFR/unt_199/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
   | **18 Aug** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
@@ -504,7 +504,7 @@ toc: true
 
 #### 2020 Week 32  Semaine du Donjon
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **10 Aug** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
   | **11 Aug** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Harpies a rejoint votre armée et vous renforce ! |
@@ -517,7 +517,7 @@ toc: true
 
 #### 2020 Week 31  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **3 Aug** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
   | **4 Aug** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
@@ -530,7 +530,7 @@ toc: true
 
 #### 2020 Week 30  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **27 Jul** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
   | **28 Jul** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
@@ -543,7 +543,7 @@ toc: true
 
 #### 2020 Week 29  Semaine de la Forteresse
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **20 Jul** | **5x [Gnoll](/ItemsFR/unt_253/)**  | Une escouade de Gnolls a rejoint votre armée et vous renforce ! |
   | **21 Jul** | **5x [Coffre de faction (Forteresse)](/ItemsFR/con_1277/)**  | Votre compagnie de la Forteresse vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
@@ -556,7 +556,7 @@ toc: true
 
 #### 2020 Week 28  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **13 Jul** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
   | **14 Jul** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Gogs a rejoint votre armée et vous renforce ! |
@@ -569,7 +569,7 @@ toc: true
 
 #### 2020 Week 27  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **6 Jul** | **3x [Squelette](/ItemsFR/unt_208/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
   | **7 Jul** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Trépassés a rejoint votre armée et vous renforce ! |
@@ -582,7 +582,7 @@ toc: true
 
 #### 2020 Week 26  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **29 Jun** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
   | **30 Jun** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Chevaucheurs de loup a rejoint votre armée et vous renforce ! |
@@ -595,7 +595,7 @@ toc: true
 
 #### 2020 Week 25  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **22 Jun** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
   | **23 Jun** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
@@ -608,7 +608,7 @@ toc: true
 
 #### 2020 Week 24  Semaine du Rempart
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **15 Jun** | **5x [Centaure](/ItemsFR/unt_199/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
   | **16 Jun** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
@@ -621,7 +621,7 @@ toc: true
 
 #### 2020 Week 23  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **8 Jun** | **5x [Lutin](/ItemsFR/unt_235/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
   | **9 Jun** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Gargouilles a rejoint votre armée et vous renforce ! |
@@ -634,7 +634,7 @@ toc: true
 
 #### 2020 Week 22  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **1 Jun** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
   | **2 Jun** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
@@ -647,7 +647,7 @@ toc: true
 
 #### 2020 Week 21  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **25 May** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Le héros Zydar a ordonné ses séides de l'Hadès à rejoindre votre camp ! |
   | **26 May** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
@@ -660,7 +660,7 @@ toc: true
 
 #### 2020 Week 20  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **18 May** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade d'Élémentaires de l'esprit a rejoint votre armée et vous renforce ! |
   | **19 May** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
@@ -673,7 +673,7 @@ toc: true
 
 #### 2020 Week 19  Semaine du Donjon
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **11 May** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | À la suite de ces conseils, l'ancien dragon Mutare a rejoint votre armée ! |
   | **12 May** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
@@ -686,7 +686,7 @@ toc: true
 
 #### 2020 Week 18  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **4 May** | **3x [Squelette](/ItemsFR/unt_208/)**  | Vos guerriers Non-Morts intéressent Vidomina. Elle souhaite rejoindre votre équipe ! |
   | **5 May** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
@@ -699,7 +699,7 @@ toc: true
 
 #### 2020 Week 17  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **27 Apr** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Rocks a rejoint votre armée et vous renforce ! |
   | **28 Apr** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
@@ -712,7 +712,7 @@ toc: true
 
 #### 2020 Week 16  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **20 Apr** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
   | **21 Apr** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
@@ -725,7 +725,7 @@ toc: true
 
 #### 2020 Week 15  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **13 Apr** | **5x [Lutin](/ItemsFR/unt_235/)**  | Vos recherches de l'arcane ont attiré l'attention de Solmyr. Il souhaite rejoindre votre armée ! |
   | **14 Apr** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
@@ -738,7 +738,7 @@ toc: true
 
 #### 2020 Week 14  Semaine du Donjon
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **6 Apr** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | À la suite de ces conseils, l'ancien dragon Mutare a rejoint votre armée ! |
   | **7 Apr** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
@@ -751,7 +751,7 @@ toc: true
 
 #### 2020 Week 13  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **30 Mar** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade d'Élémentaires de l'esprit a rejoint votre armée et vous renforce ! |
   | **31 Mar** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
@@ -764,7 +764,7 @@ toc: true
 
 #### 2020 Week 12  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **23 Mar** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Rocks a rejoint votre armée et vous renforce ! |
   | **24 Mar** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
@@ -777,7 +777,7 @@ toc: true
 
 #### 2020 Week 11  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **16 Mar** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Le héros Zydar a ordonné ses séides de l'Hadès à rejoindre votre camp ! |
   | **17 Mar** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
@@ -790,7 +790,7 @@ toc: true
 
 #### 2020 Week 10  Semaine du Rempart
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **9 Mar** | **5x [Centaure](/ItemsFR/unt_199/)**  | Le héros Ryland admire vos actions pour la protection de la nature et souhaite vous servir ! |
   | **10 Mar** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
@@ -803,7 +803,7 @@ toc: true
 
 #### 2020 Week 9  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **2 Mar** | **3x [Squelette](/ItemsFR/unt_208/)**  | Vos guerriers Non-Morts intéressent Vidomina. Elle souhaite rejoindre votre équipe ! |
   | **3 Mar** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
@@ -816,7 +816,7 @@ toc: true
 
 #### 2020 Week 8  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **24 Feb** | **5x [Lutin](/ItemsFR/unt_235/)**  | Vos recherches de l'arcane ont attiré l'attention de Solmyr. Il souhaite rejoindre votre armée ! |
   | **25 Feb** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
@@ -829,7 +829,7 @@ toc: true
 
 #### 2020 Week 7  Semaine du Château
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **17 Feb** | **5x [Lancier](/ItemsFR/unt_190/)**  | Un Mage capable de contrôler la neige s'est rendu sur votre territoire ! |
   | **18 Feb** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
@@ -842,7 +842,7 @@ toc: true
 
 #### 2020 Week 6  Semaine du Conflux
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **10 Feb** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade d'Élémentaires de l'esprit a rejoint votre armée et vous renforce ! |
   | **11 Feb** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
@@ -855,7 +855,7 @@ toc: true
 
 #### 2020 Week 5  Semaine du Bastion
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **3 Feb** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Rocks a rejoint votre armée et vous renforce ! |
   | **4 Feb** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
@@ -868,7 +868,7 @@ toc: true
 
 #### 2020 Week 4  Semaine de l'Hadès
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **27 Jan** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Le héros Zydar a ordonné ses séides de l'Hadès à rejoindre votre camp ! |
   | **28 Jan** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
@@ -881,7 +881,7 @@ toc: true
 
 #### 2020 Week 3  Semaine du Rempart
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **20 Jan** | **5x [Centaure](/ItemsFR/unt_199/)**  | Le héros Ryland admire vos actions pour la protection de la nature et souhaite vous servir ! |
   | **21 Jan** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
@@ -894,7 +894,7 @@ toc: true
 
 #### 2020 Week 2  Semaine de la Nécropole
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **13 Jan** | **3x [Squelette](/ItemsFR/unt_208/)**  | Vos guerriers Non-Morts intéressent Vidomina. Elle souhaite rejoindre votre équipe ! |
   | **14 Jan** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
@@ -907,7 +907,7 @@ toc: true
 
 #### 2020 Week 1  Semaine de la Tour
 
-  |  Date  |      Reward    |    Reward Description    |
+  |  Date  |  Récompense  |  Récompense Description    |
   |:-------|:---------------|:------------------------:|
   | **6 Jan** | **5x [Lutin](/ItemsFR/unt_235/)**  | Vos recherches de l'arcane ont attiré l'attention de Solmyr. Il souhaite rejoindre votre armée ! |
   | **7 Jan** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |

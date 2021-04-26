@@ -2,7 +2,7 @@
 title: "Renforts"
 permalink: /Backup/
 excerpt: "Era of Chaos  Renforts - Les Mages peuvent créer un portail sur le champ de bataille qui fait apparaître 3 unités de renfort et génère une forte aura de sort. Vos ennemis seront terrifiés."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "index.md"
 toc: false
@@ -13,14 +13,14 @@ classes: wide
 
   Les Mages peuvent créer un portail sur le champ de bataille qui fait apparaître 3 unités de renfort et génère une forte aura de sort. Vos ennemis seront terrifiés.
 
-  |  Nr  | Renforts | Open Level | Compétence spéciale | Capacité de champ de bataille | Compétence globale |
-  |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Charge offensive](/fr/Backup/Charge Offensive/) |  | Charge offensive | Attaque par orage | Fer de lance |
-  | 2  | [Bénédiction de Luna](/fr/Backup/Blessing of Luna/) | 80 | Bénédiction de Luna | Soins | Puissance énergétique |
-  | 3  | [Attaque de la faux de la mort](/fr/Backup/Scythe of the Death/) | 85 | Attaque de la faux de la mort | Frapper | Érudition |
-  | 4  | [Coercition arctique](/fr/Backup/Arctic Coercion/) | 89 | Coercition arctique | Énergie puissante | Alimentation |
-  | 5  | [Cercle de commandement de sorts](/fr/Backup/Spell Commandment/) | 93 | Cercle de commandement de sorts | Champ de force | Incandescence |
-  | 6  | [Chasse dans la forêt](/fr/Backup/Hunt in the Forest/) | 97 | Chasse dans la forêt | Motivation | Émancipation |
+  |  Nr  | Icon | Renforts | Open Level | Compétence spéciale | Capacité de champ de bataille | Compétence globale |
+  |:-----|------|:---------------|:----------:|:--------------|:--------------|:-------------|
+  | 1  | ![Charge offensive](/images/b/backupIcon_1.png) | [Charge offensive](/fr/Backup/Charge Offensive/) |  | Charge offensive | Attaque par orage | Fer de lance |
+  | 2  | ![Bénédiction de Luna](/images/b/backupIcon_2.png) | [Bénédiction de Luna](/fr/Backup/Blessing of Luna/) | 80 | Bénédiction de Luna | Soins | Puissance énergétique |
+  | 3  | ![Attaque de la faux de la mort](/images/b/backupIcon_3.png) | [Attaque de la faux de la mort](/fr/Backup/Scythe of the Death/) | 85 | Attaque de la faux de la mort | Frapper | Érudition |
+  | 4  | ![Coercition arctique](/images/b/backupIcon_4.png) | [Coercition arctique](/fr/Backup/Arctic Coercion/) | 89 | Coercition arctique | Énergie puissante | Alimentation |
+  | 5  | ![Cercle de commandement de sorts](/images/b/backupIcon_6.png) | [Cercle de commandement de sorts](/fr/Backup/Spell Commandment/) | 93 | Cercle de commandement de sorts | Champ de force | Incandescence |
+  | 6  | ![Chasse dans la forêt](/images/b/backupIcon_5.png) | [Chasse dans la forêt](/fr/Backup/Hunt in the Forest/) | 97 | Chasse dans la forêt | Motivation | Émancipation |
 
 
 ## Compétence spéciale Level up costs:

@@ -4,7 +4,7 @@ permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar a consacré une grande partie de sa vie à améliorer sa magie, pour devenir un grand Lanceur de sorts avant de rejoindre le champ de bataille. Il est bien plus fiable que ses autres frères démons."
 heroID: 60901
 QR: hero_60901
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Zydar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Détails
  **Profession:** ![Hérétique](/images/h/h_prof_10.png)  [Hérétique](/fr/heroes/Profession Heretic/)
 
- **Faction ::** [Hadès](/fr/heroes/Faction Inferno/)
+ **Faction:** [Hadès](/fr/heroes/Faction Inferno/)
 
  **Rang:** [R](/fr/heroes/Hero Rank R/)
 

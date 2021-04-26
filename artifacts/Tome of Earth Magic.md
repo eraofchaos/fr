@@ -2,7 +2,7 @@
 title: "Artefact - Chapeau des sages - Traité de la terre"
 permalink: /artifacts/Tome of Earth Magic/
 excerpt: "Era of Chaos  Chapeau des sages - Traité de la terre. Un livre de sort portant sur la pratique avancée de la magie de la terre. Jeddite l'aurait utilisé pour vaincre Mutare après sa transformation en Dragon. Composant du Chapeau des sages."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Tome of Earth Magic.md"
 toc: false

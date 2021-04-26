@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-2 L'émergence d'une conspiration"
 permalink: /Main Story/Chapter 7_2/
 excerpt: "Chapitre 7 - 2. Era of Chaos  Histoire principale - Chapitre 7_2. 7-2 L'émergence d'une conspiration"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 7_2.md"
 toc: false

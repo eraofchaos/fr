@@ -2,7 +2,7 @@
 title: "Artefact - Pierre runique antimagie - Talisman de turbulence"
 permalink: /artifacts/Garniture of Interference/
 excerpt: "Era of Chaos  Pierre runique antimagie - Talisman de turbulence. Un collier orné du symbole du yin et du yang. Composant de la Pierre runique antimagie."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Garniture of Interference.md"
 toc: false

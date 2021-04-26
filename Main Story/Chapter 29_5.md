@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-5 Le village aux trèfles"
 permalink: /Main Story/Chapter 29_5/
 excerpt: "Chapitre 29 - 5. Era of Chaos  Histoire principale - Chapitre 29_5. 29-5 Le village aux trèfles"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 29_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Main du dieu maléfique"
 permalink: /Avatars/Evil God's Touch/
 excerpt: "Era of Chaos  Main du dieu maléfique"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Evil God's Touch.md"
 toc: false

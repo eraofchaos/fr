@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 18 - 18-5 Poursuite flamboyante"
 permalink: /Underground/Chapter 18_5/
 excerpt: "Chapitre 18 - 5. Era of Chaos  Souterrain - Chapitre 18_5. 18-5 Poursuite flamboyante"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 18_5.md"
 toc: false

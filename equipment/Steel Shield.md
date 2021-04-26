@@ -2,7 +2,7 @@
 title: "Bouclier en acier"
 permalink: /equipment/Steel Shield/
 excerpt: "Era of Chaos Bouclier en acier. Bouclier en acier"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Steel Shield.md"
 toc: false

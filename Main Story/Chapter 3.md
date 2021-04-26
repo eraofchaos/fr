@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 Ange gardien"
 permalink: /Main Story/Chapter 3/
 excerpt: "Chapitre 3. Era of Chaos  Histoire principale - Chapitre 3. Ange gardien"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 3.md"
 toc: false
@@ -30,35 +30,35 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Récompense 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **2 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **2 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Récompense 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **1000x** [EXP d'unité](/ItemsFR/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Récompense 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **3 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Récompense 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **1500x** [EXP d'unité](/ItemsFR/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **1x** [Centaure](/fr/units/Centaur/)
+ Récompense 1:  **1x** [Centaure](/fr/units/Centaur/)
 
- Reward 2: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
+ Récompense 2: **5 x** [Parchemins de sorts](/ItemsFR/con_694/){: .btn .btn--era3}
 
- Reward 3:  **15000x** <i class="fas fa-coins"/>
+ Récompense 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **2000x** [EXP d'unité](/ItemsFR/con_902/)
 

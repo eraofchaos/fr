@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 4 - 4-4 Destruction totale"
 permalink: /Underground/Chapter 4_4/
 excerpt: "Chapitre 4 - 4. Era of Chaos  Souterrain - Chapitre 4_4. 4-4 Destruction totale"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 4_4.md"
 toc: false

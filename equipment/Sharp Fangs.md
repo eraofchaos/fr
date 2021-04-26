@@ -2,7 +2,7 @@
 title: "Crocs acérés"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Era of Chaos Crocs acérés. Crocs acérés"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Sharp Fangs.md"
 toc: false

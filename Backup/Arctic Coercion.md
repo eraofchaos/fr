@@ -2,7 +2,7 @@
 title: "Backup - Coercition arctique"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Era of Chaos  Coercition arctique"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Arctic Coercion.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Compétence spéciale - **Coercition arctique** 
 
+  ![Coercition arctique](/images/b/backupIcon_4.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Capacité de champ de bataille - **Énergie puissante** 
 
+  ![Énergie puissante](/images/b/backupSkill1Icon_4.png)
+
  **Capacité de champ de bataille Power:** 1060
 
  **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/ItemsFR/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Compétence globale - **Alimentation** 
+
+  ![Alimentation](/images/b/backupSkill2Icon_4.png)
 
  **Compétence globale Power:** 1076
 

@@ -4,7 +4,7 @@ permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Arrivé à Erathia il y a environ dix ans, Astral a rapidement été accepté par les Mages de Bracada. Son ascension au sein de leur guilde a été si rapide que certains disent en plaisantant qu'il a dû utiliser la magie pour atteindre un tel rang aussi vite."
 heroID: 61203
 QR: hero_61203
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Astral"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Détails
  **Profession:** ![Magicien](/images/h/h_prof_15.png)  [Magicien](/fr/heroes/Profession Wizard/)
 
- **Faction ::** [Tour](/fr/heroes/Faction Tower/)
+ **Faction:** [Tour](/fr/heroes/Faction Tower/)
 
  **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 

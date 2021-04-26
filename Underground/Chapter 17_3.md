@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 17 - 17-3 Un monde idéal"
 permalink: /Underground/Chapter 17_3/
 excerpt: "Chapitre 17 - 3. Era of Chaos  Souterrain - Chapitre 17_3. 17-3 Un monde idéal"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 17_3.md"
 toc: false

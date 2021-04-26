@@ -2,7 +2,7 @@
 title: "Gemme spirituelle"
 permalink: /equipment/Soul Gem/
 excerpt: "Era of Chaos Gemme spirituelle. Gemme spirituelle"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Soul Gem.md"
 toc: false

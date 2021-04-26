@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-5 Au coin du feu"
 permalink: /Main Story/Chapter 30_5/
 excerpt: "Chapitre 30 - 5. Era of Chaos  Histoire principale - Chapitre 30_5. 30-5 Au coin du feu"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 30_5.md"
 toc: false

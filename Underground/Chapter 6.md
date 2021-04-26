@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 6 La chute de la capitale"
 permalink: /Underground/Chapter 6/
 excerpt: "Chapitre 6 La chute de la capitale. Era of Chaos  Souterrain - Chapitre 6. La chute de la capitale"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 6.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **300x** <i class="fas fa-gem"/>
+ Récompense 1:  **300x** <i class="fas fa-gem"/>
 
- Reward 2:  **50000x** <i class="fas fa-coins"/>
+ Récompense 2:  **50000x** <i class="fas fa-coins"/>
 
- Reward 3: **80 x** Star Points
+ Récompense 3: **80 x** Star Points
 
- Reward 4: **15 x** [Rashka](/ItemsFR/her_384/){: .btn .btn--era5}
+ Récompense 4: **15 x** [Rashka](/ItemsFR/her_384/){: .btn .btn--era5}
 

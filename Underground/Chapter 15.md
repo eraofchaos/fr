@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 15 Un front uni"
 permalink: /Underground/Chapter 15/
 excerpt: "Chapitre 15 Un front uni. Era of Chaos  Souterrain - Chapitre 15. Un front uni"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 15.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Récompense 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2:  **100000x** <i class="fas fa-coins"/>
+ Récompense 2:  **100000x** <i class="fas fa-coins"/>
 
- Reward 3: **160 x** Star Points
+ Récompense 3: **160 x** Star Points
 
- Reward 4: **15 x** [Shiva](/ItemsFR/her_376/){: .btn .btn--era5}
+ Récompense 4: **15 x** [Shiva](/ItemsFR/her_376/){: .btn .btn--era5}
 

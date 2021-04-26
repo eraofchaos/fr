@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 1 Île d'Evenmorn"
 permalink: /Main Story/Chapter 1/
 excerpt: "Chapitre 1. Era of Chaos  Histoire principale - Chapitre 1. Île d'Evenmorn"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 1.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/15</span>
 
- Reward 1: **10 x** [Lancier](/ItemsFR/unt_190/){: .btn .btn--era3}
+ Récompense 1: **10 x** [Lancier](/ItemsFR/unt_190/){: .btn .btn--era3}
 
- Reward 2:  **150x** <i class="fas fa-gem"/>
+ Récompense 2:  **150x** <i class="fas fa-gem"/>
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Récompense 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [EXP d'unité](/ItemsFR/con_902/)
+ Récompense 4:  **1000x** [EXP d'unité](/ItemsFR/con_902/)
 

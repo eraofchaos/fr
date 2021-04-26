@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-15 Le nid du vent"
 permalink: /Main Story/Chapter 4_15/
 excerpt: "Chapitre 4 - 15. Era of Chaos  Histoire principale - Chapitre 4_15. 4-15 Le nid du vent"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 4_15.md"
 toc: false

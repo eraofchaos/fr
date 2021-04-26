@@ -2,7 +2,7 @@
 title: "Backup - Bénédiction de Luna"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Era of Chaos  Bénédiction de Luna"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Blessing of Luna.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Compétence spéciale - **Bénédiction de Luna** 
 
+  ![Bénédiction de Luna](/images/b/backupIcon_2.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Capacité de champ de bataille - **Soins** 
 
+  ![Soins](/images/b/backupSkill1Icon_2.png)
+
  **Capacité de champ de bataille Power:** 1060
 
  **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/ItemsFR/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Compétence globale - **Puissance énergétique** 
+
+  ![Puissance énergétique](/images/b/backupSkill2Icon_2.png)
 
  **Compétence globale Power:** 1076
 

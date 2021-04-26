@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-3 Une amitié mortelle"
 permalink: /Main Story/Chapter 24_3/
 excerpt: "Chapitre 24 - 3. Era of Chaos  Histoire principale - Chapitre 24_3. 24-3 Une amitié mortelle"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 24_3.md"
 toc: false

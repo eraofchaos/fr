@@ -2,7 +2,7 @@
 title: "Artefact - Hache de férocité"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "Era of Chaos  Hache de férocité. Hache de férocité Une arme forgée à partir des reliques sacrées de différentes races. Améliore les capacités de combat rapproché."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Axe of Ferocity.md"
 toc: false

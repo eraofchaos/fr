@@ -2,7 +2,7 @@
 title: "Collier en os"
 permalink: /equipment/Bone Necklet/
 excerpt: "Era of Chaos Collier en os. Collier en os"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Bone Necklet.md"
 toc: false

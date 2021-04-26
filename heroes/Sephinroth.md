@@ -4,7 +4,7 @@ permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, unique sorcière connue d'Antagarich, serait la fille illégitime du roi Gryphonheart."
 heroID: 61402
 QR: hero_61402
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Sephinroth"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Détails
  **Profession:** ![Mage de guerre](/images/h/h_prof_11.png)  [Mage de guerre](/fr/heroes/Profession Warlock/)
 
- **Faction ::** [Donjon](/fr/heroes/Faction Dungeon/)
+ **Faction:** [Donjon](/fr/heroes/Faction Dungeon/)
 
  **Rang:** [R](/fr/heroes/Hero Rank R/)
 

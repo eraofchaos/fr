@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-4 La vision"
 permalink: /Main Story/Chapter 24_4/
 excerpt: "Chapitre 24 - 4. Era of Chaos  Histoire principale - Chapitre 24_4. 24-4 La vision"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 24_4.md"
 toc: false

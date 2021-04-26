@@ -2,7 +2,7 @@
 title: "Backup - Cercle de commandement de sorts"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Cercle de commandement de sorts"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Spell Commandment.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Compétence spéciale - **Cercle de commandement de sorts** 
 
+  ![Cercle de commandement de sorts](/images/b/backupIcon_6.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Capacité de champ de bataille - **Champ de force** 
 
+  ![Champ de force](/images/b/backupSkill1Icon_6.png)
+
  **Capacité de champ de bataille Power:** 1060
 
  **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/ItemsFR/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Compétence globale - **Incandescence** 
+
+  ![Incandescence](/images/b/backupSkill2Icon_6.png)
 
  **Compétence globale Power:** 1076
 

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 4 Un plan diabolique"
 permalink: /Underground/Chapter 4/
 excerpt: "Chapitre 4 Un plan diabolique. Era of Chaos  Souterrain - Chapitre 4. Un plan diabolique"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 4.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Pour obtenir votre récompense :</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **250x** <i class="fas fa-gem"/>
+ Récompense 1:  **250x** <i class="fas fa-gem"/>
 
- Reward 2:  **30000x** <i class="fas fa-coins"/>
+ Récompense 2:  **30000x** <i class="fas fa-coins"/>
 
- Reward 3: **60 x** Star Points
+ Récompense 3: **60 x** Star Points
 
- Reward 4: **15 x** [Catherine](/ItemsFR/her_361/){: .btn .btn--era5}
+ Récompense 4: **15 x** [Catherine](/ItemsFR/her_361/){: .btn .btn--era5}
 

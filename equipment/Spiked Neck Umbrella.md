@@ -2,7 +2,7 @@
 title: "Aile à piques"
 permalink: /equipment/Spiked Neck Umbrella/
 excerpt: "Era of Chaos Aile à piques. Aile à piques"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Spiked Neck Umbrella.md"
 toc: false

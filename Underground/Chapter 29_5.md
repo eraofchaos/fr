@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 29 - 29-5  Moment incendiaire"
 permalink: /Underground/Chapter 29_5/
 excerpt: "Chapitre 29 - 5. Era of Chaos  Souterrain - Chapitre 29_5. 29-5  Moment incendiaire"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Chapter 29_5.md"
 toc: false

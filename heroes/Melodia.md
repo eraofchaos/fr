@@ -4,7 +4,7 @@ permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Mélodia. Mélodia. Mélodia est une druidesse chanceuse, capable d'arracher des victoires miraculeuses dans les situations les plus désespérées. N'importe quelle troupe serait ravie de l'avoir à sa tête."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Melodia"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Détails
  **Profession:** ![Druidesse](/images/h/h_prof_4.png)  [Druidesse](/fr/heroes/Profession Druid/)
 
- **Faction ::** [Rempart](/fr/heroes/Faction Rampart/)
+ **Faction:** [Rempart](/fr/heroes/Faction Rampart/)
 
  **Rang:** [SSR-](/fr/heroes/Hero Rank SSR-/)
 

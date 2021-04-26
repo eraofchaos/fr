@@ -2,7 +2,7 @@
 title: "Backup - Charge offensive"
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Charge offensive"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Charge Offensive.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
 
 
 ## Compétence spéciale - **Charge offensive** 
+
+  ![Charge offensive](/images/b/backupIcon_1.png)
 
  **Skill Power:** 1204
 
@@ -50,6 +52,8 @@ classes: wide
 
 ## Capacité de champ de bataille - **Attaque par orage** 
 
+  ![Attaque par orage](/images/b/backupSkill1Icon_1.png)
+
  **Capacité de champ de bataille Power:** 1060
 
  **Capacité de champ de bataille Unlock:** 5x [Parchemin d'énergie](/ItemsFR/con_830/)
@@ -74,6 +78,8 @@ classes: wide
 
 
 ## Compétence globale - **Fer de lance** 
+
+  ![Fer de lance](/images/b/backupSkill2Icon_1.png)
 
  **Compétence globale Power:** 1076
 

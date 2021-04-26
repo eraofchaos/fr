@@ -4,7 +4,7 @@ permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Bien qu'elle ait perdu son \"père\" à cause des humains, elle continue d'aider ceux qui vivent sur l'eau."
 heroID: 61701
 QR: hero_61701
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Cassanbel"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Détails
  **Profession:**  [Créatures marines](/fr/heroes/Profession Ocean Creatures/)
 
- **Faction ::** [Crique](/fr/heroes/Faction Cove/)
+ **Faction:** [Crique](/fr/heroes/Faction Cove/)
 
  **Rang:** [SSR](/fr/heroes/Hero Rank SSR/)
 

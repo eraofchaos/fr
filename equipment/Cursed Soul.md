@@ -2,7 +2,7 @@
 title: "Âme maudite"
 permalink: /equipment/Cursed Soul/
 excerpt: "Era of Chaos Âme maudite. Âme maudite"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Cursed Soul.md"
 toc: false

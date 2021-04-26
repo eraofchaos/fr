@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Ogre. Ogre Unités. Ogre Mage. Era of Chaos Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Ogre"
 toc: true

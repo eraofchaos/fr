@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Berserker. Berserker Unités. Hurleur macabre. Era of Chaos Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Berserker"
 toc: true

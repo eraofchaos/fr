@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-13 La terre carbonisée par la lave"
 permalink: /Main Story/Chapter 30_13/
 excerpt: "Chapitre 30 - 13. Era of Chaos  Histoire principale - Chapitre 30_13. 30-13 La terre carbonisée par la lave"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 30_13.md"
 toc: false

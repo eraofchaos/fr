@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-1 Le manoir hanté"
 permalink: /Main Story/Chapter 29_1/
 excerpt: "Chapitre 29 - 1. Era of Chaos  Histoire principale - Chapitre 29_1. 29-1 Le manoir hanté"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 29_1.md"
 toc: false

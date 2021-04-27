@@ -2,7 +2,7 @@
 title: "Plaque de hanche solide et flexible"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Era of Chaos Plaque de hanche solide et flexible. Plaque de hanche solide et flexible"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Strong and Flexible Waistplate.md"
 toc: false

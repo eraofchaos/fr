@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-8 Magie souterraine"
 permalink: /Main Story/Chapter 27_8/
 excerpt: "Chapitre 27 - 8. Era of Chaos  Histoire principale - Chapitre 27_8. 27-8 Magie souterraine"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 27_8.md"
 toc: false

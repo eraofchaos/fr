@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Units"
 permalink: /units/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Faction Inferno"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | ![Diablotin](/images/u/ti_xiaoemo.jpg) | [Diablotin](/fr/units/Imp/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familier  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/fr/units/Gog/) | Lanceur de sorts | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 3 | ![Démon](/images/u/ti_changjiaoemo.jpg) | [Démon](/fr/units/Demon/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Garde de l'Hadès  |
-  | 4 | ![Chien de l'Enfer](/images/u/ti_santouquan.jpg) | [Chien de l'Enfer](/fr/units/Hell Hound/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 4 | ![Chien de l'Enfer](/images/u/ti_santouquan.jpg) | [Chien de l'Enfer](/fr/units/Hell Hound/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 5 | ![Servante des Abîmes](/images/u/ti_diyulingzhu.jpg) | [Servante des Abîmes](/fr/units/Pit Fiend/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Seigneur des Abîmes  |
   | 6 | ![Effrit](/images/u/ti_liehuojingling.jpg) | [Effrit](/fr/units/Efreeti/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultan Effrit  |
   | 7 | ![Diable](/images/u/ti_daemo.jpg) | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |

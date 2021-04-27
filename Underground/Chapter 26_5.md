@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 26 - 26-5 Fin du destin"
 permalink: /Underground/Chapter 26_5/
 excerpt: "Chapitre 26 - 5. Era of Chaos  Souterrain - Chapitre 26_5. 26-5 Fin du destin"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 26_5.md"
 toc: false

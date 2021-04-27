@@ -2,7 +2,7 @@
 title: "Fourrure épaisse"
 permalink: /equipment/Thick Fur Hide/
 excerpt: "Era of Chaos Fourrure épaisse. Fourrure épaisse"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Thick Fur Hide.md"
 toc: false

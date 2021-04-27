@@ -2,7 +2,7 @@
 title: "Artefact - Codex de l'Archimage - Manteau d'abjuration"
 permalink: /artifacts/Recanter's Cloak/
 excerpt: "Era of Chaos  Codex de l'Archimage - Manteau d'abjuration. Portez-le pour affaiblir les attaques magiques. L'un des Codex de l'Archimage."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Recanter's Cloak.md"
 toc: false

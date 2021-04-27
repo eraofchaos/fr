@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-13 Justice"
 permalink: /Main Story/Chapter 6_13/
 excerpt: "Chapitre 6 - 13. Era of Chaos  Histoire principale - Chapitre 6_13. 6-13 Justice"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 6_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Fleurs épanouies et pleine lune"
 permalink: /Avatars/Blooming Flowers and Full Moon/
 excerpt: "Era of Chaos  Fleurs épanouies et pleine lune"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Blooming Flowers and Full Moon.md"
 toc: false

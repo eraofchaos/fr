@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-12 Une nature diabolique"
 permalink: /Main Story/Chapter 17_12/
 excerpt: "Chapitre 17 - 12. Era of Chaos  Histoire principale - Chapitre 17_12. 17-12 Une nature diabolique"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 17_12.md"
 toc: false

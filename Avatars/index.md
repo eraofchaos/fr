@@ -2,7 +2,7 @@
 title: "Cadre d'avatar et avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cadre d'avatar et avatar. Cadre d'avatar et avatar"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "index.md"
 toc: false

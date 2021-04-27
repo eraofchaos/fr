@@ -2,7 +2,7 @@
 title: "Épaulières marines"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Era of Chaos Épaulières marines. Épaulières marines"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Seafaring Pauldrons.md"
 toc: false

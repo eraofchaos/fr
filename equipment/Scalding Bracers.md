@@ -2,7 +2,7 @@
 title: "Bracelets brûlants"
 permalink: /equipment/Scalding Bracers/
 excerpt: "Era of Chaos Bracelets brûlants. Bracelets brûlants"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Scalding Bracers.md"
 toc: false

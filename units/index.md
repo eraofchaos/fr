@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "index.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 13 | ![Champion des ténèbres](/images/u/ti_sishen.jpg) | [Champion des ténèbres](/fr/units/Dark Champion/) | Offensive | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 14 | ![Chevalier noir](/images/u/ti_siwangqishi.jpg) | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Chevalier de l'Effroi  |
   | 15 | ![Chevaucheur de loup](/images/u/ti_langqibing.jpg) | [Chevaucheur de loup](/fr/units/Wolf Rider/) | Assaut | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Pillard  |
-  | 16 | ![Chien de l'Enfer](/images/u/ti_santouquan.jpg) | [Chien de l'Enfer](/fr/units/Hell Hound/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 16 | ![Chien de l'Enfer](/images/u/ti_santouquan.jpg) | [Chien de l'Enfer](/fr/units/Hell Hound/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 17 | ![Cyclope](/images/u/ti_duyanjuren.jpg) | [Cyclope](/fr/units/Cyclops/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Roi Cyclope  |
   | 18 | ![Diable](/images/u/ti_daemo.jpg) | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |
   | 19 | ![Diablotin](/images/u/ti_xiaoemo.jpg) | [Diablotin](/fr/units/Imp/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familier  |
@@ -90,7 +90,7 @@ classes: wide
   | 68 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/fr/units/Venom Spawn/) | Défense | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
   | 69 | ![Pégase](/images/u/ti_feima.jpg) | [Pégase](/fr/units/Pegasus/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pégase d'argent  |
   | 70 | ![Revenante](/images/u/ti_youling.jpg) | [Revenante](/fr/units/Wight/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spectre  |
-  | 71 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstre marin ancestral  |
+  | 71 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstre marin ancestral  |
   | 72 | ![Rock](/images/u/ti_leiniao.jpg) | [Rock](/fr/units/Roc/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Rock foudroyant  |
   | 73 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 74 | ![Servante des Abîmes](/images/u/ti_diyulingzhu.jpg) | [Servante des Abîmes](/fr/units/Pit Fiend/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Seigneur des Abîmes  |
@@ -102,7 +102,7 @@ classes: wide
   | 80 | ![Tortue dragon](/images/u/ti_longgui.jpg) | [Tortue dragon](/fr/units/Dragon Turtle/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tortue dragon primaire  |
   | 81 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/fr/units/Troglodyte/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodyte des ténèbres  |
   | 82 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/fr/units/Troll/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 83 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 83 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 84 | ![Vampire](/images/u/ti_xixuegui.jpg) | [Vampire](/fr/units/Vampire/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Seigneur Vampire  |
   | 85 | ![Wivern](/images/u/ti_feilong.jpg) | [Wivern](/fr/units/Wyvern/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Monarque Wivern  |
   | 86 | ![Élémentaire de feu](/images/u/ti_liehuoyuansu.jpg) | [Élémentaire de feu](/fr/units/Fire Elemental/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Élémentaire d'énergie  |

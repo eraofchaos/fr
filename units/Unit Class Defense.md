@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Unit Class Defense"
 toc: false
@@ -33,6 +33,6 @@ classes: wide
   | 19 | ![Basilic](/images/u/ti_xiyi.jpg) | [Basilic](/fr/units/Basilisk/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 20 | ![Dragon noir](/images/u/ti_heilong.jpg) | [Dragon noir](/fr/units/Black Dragon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Roi Dragon noir  |
   | 21 | ![Garde sylvanien](/images/u/ti_shuyao.jpg) | [Garde sylvanien](/fr/units/Dendroid Guard/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldat sylvanien  |
-  | 22 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 22 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 23 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/fr/units/Gorgon/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Grande Gorgone  |
   | 24 | ![Élémentaire de pierre](/images/u/ti_shiyuansu.jpg) | [Élémentaire de pierre](/fr/units/Stone Elemental/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |

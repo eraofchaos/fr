@@ -2,7 +2,7 @@
 title: "Exclusif - Regard ténébreux (Beholder)"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Regard ténébreux. Regard ténébreux. Era of Chaos Exclusif Regard ténébreux. Œil maléfique Exclusif."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Beholder Regard ténébreux.md"
 toc: false

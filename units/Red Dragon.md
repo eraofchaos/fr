@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Dragon rouge. Dragon rouge Unités. null. Era of Chaos C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Dragon rouge"
 toc: true
@@ -128,7 +128,7 @@ toc: true
     let str8 = "(LEVEL*4+40)"
     let str5 = "(LEVEL*1+12)"
     let str6 = "(LEVEL*0.2+2)"
-    let str3 = "(LEVEL*0,5+2,5)"
+    let str3 = "(LEVEL*0.5+2.5)"
     let str4 = "(LEVEL*1.3+5.5)"
     let str1 = "(LEVEL*2+10)"
     let str2 = "(LEVEL*2+10)"

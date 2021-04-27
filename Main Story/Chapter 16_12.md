@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-12 Métamorphe"
 permalink: /Main Story/Chapter 16_12/
 excerpt: "Chapitre 16 - 12. Era of Chaos  Histoire principale - Chapitre 16_12. 16-12 Métamorphe"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 16_12.md"
 toc: false

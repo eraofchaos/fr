@@ -2,7 +2,7 @@
 title: "Bandeau en cuir"
 permalink: /equipment/Leather Band/
 excerpt: "Era of Chaos Bandeau en cuir. Bandeau en cuir"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Leather Band.md"
 toc: false

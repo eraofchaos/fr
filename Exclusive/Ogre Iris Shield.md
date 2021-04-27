@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Ogre Exclusif."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Ogre Bouclier iris.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Lorsque l'Ogre est déployé, la vitesse d'ATQ des unités alliées du Bastion augmente de 10 %. La DÉF de l'Ogre augmente également de 10 %. |
   | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La ténacité de l'Ogre augmente de 500. |
   | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Lorsque l'Ogre est déployé, la DÉF de toutes les unités ennemies diminue de 10 %, mais leur résistance magique augmente de 100 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La DÉF de l'Ogre augmente de 5 % pour chaque unité défensive déployée. Ses PV augmentent de 1 000 pour chaque unité du Bastion déployée. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | La DÉF de l'Ogre augmente de 5 % pour chaque unité défensive déployée. Sa régénération de PV augmente de 1 000 pour chaque unité du Bastion déployée. |
 
 
 ## Améliorer

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 21 - 21-5 Destin de destruction"
 permalink: /Underground/Chapter 21_5/
 excerpt: "Chapitre 21 - 5. Era of Chaos  Souterrain - Chapitre 21_5. 21-5 Destin de destruction"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 21_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Flèches perçantes"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Era of Chaos Flèches perçantes. Flèches perçantes"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Piercing Bolts.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 6 - 6-2 Un nouvel objectif"
 permalink: /Underground/Chapter 6_2/
 excerpt: "Chapitre 6 - 2. Era of Chaos  Souterrain - Chapitre 6_2. 6-2 Un nouvel objectif"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 6_2.md"
 toc: false

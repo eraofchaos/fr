@@ -2,7 +2,7 @@
 title: "Ailes de pierre"
 permalink: /equipment/Stone Wings/
 excerpt: "Era of Chaos Ailes de pierre. Ailes de pierre"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Stone Wings.md"
 toc: false

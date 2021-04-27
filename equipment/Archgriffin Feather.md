@@ -2,7 +2,7 @@
 title: "Plume d'Archgriffon"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "Era of Chaos Plume d'Archgriffon. Plume d'Archgriffon"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Archgriffin Feather.md"
 toc: false

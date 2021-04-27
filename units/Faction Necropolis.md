@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Faction Necropolis"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | ![Momie](/images/u/ti_munaiyi.jpg) | [Momie](/fr/units/Mummy/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Roi Momie  |
   | 2 | ![Champion des ténèbres](/images/u/ti_sishen.jpg) | [Champion des ténèbres](/fr/units/Dark Champion/) | Offensive | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 3 | ![Squelette](/images/u/ti_kulouzhanshi.jpg) | [Squelette](/fr/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Guerrier squelette  |
-  | 4 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 4 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 5 | ![Revenante](/images/u/ti_youling.jpg) | [Revenante](/fr/units/Wight/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spectre  |
   | 6 | ![Vampire](/images/u/ti_xixuegui.jpg) | [Vampire](/fr/units/Vampire/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Seigneur Vampire  |
   | 7 | ![Chevalier noir](/images/u/ti_siwangqishi.jpg) | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Chevalier de l'Effroi  |

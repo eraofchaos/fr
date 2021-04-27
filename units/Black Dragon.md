@@ -3,7 +3,7 @@ title: "Dragon noir"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Dragon noir. Dragon noir Unités. Roi Dragon noir. Era of Chaos Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Dragon noir"
 toc: true

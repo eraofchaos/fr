@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 - 2-5 Trouver des alliés"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Chapitre 2 - 5. Era of Chaos  Souterrain - Chapitre 2_5. 2-5 Trouver des alliés"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 2_5.md"
 toc: false

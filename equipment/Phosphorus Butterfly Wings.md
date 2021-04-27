@@ -2,7 +2,7 @@
 title: "Ailes de papillon phosphoreux"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Era of Chaos Ailes de papillon phosphoreux. Ailes de papillon phosphoreux"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Phosphorus Butterfly Wings.md"
 toc: false

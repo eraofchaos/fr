@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
 excerpt: "Era of Chaos Exclusif Necropolis. Exclusif Necropolis. List of Exclusif Necropolis in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Exclusive Necropolis"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Squelette](/fr/units/Skeleton/) | [Bouclier iris](/fr/Exclusive/Skeleton Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
-  | 2  | [Trépassé](/fr/units/Walking Dead/) | [Bouclier iris](/fr/Exclusive/Walking Dead Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
+  | 2  | [Trépassé](/fr/units/Walking Dead/) | [Bouclier iris](/fr/Exclusive/Walking Dead Iris Shield/) | + | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
   | 3  | [Revenante](/fr/units/Wight/) | [Mélopée des arcanes](/fr/Exclusive/Wight Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
   | 4  | [Vampire](/fr/units/Vampire/) | [Pic du Chevalier](/fr/Exclusive/Vampire Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
   | 5  | [Liche](/fr/units/Lich/) | [Hommage mortel](/fr/Exclusive/Lich Death Tribute/) | + | À distance | [Jeton Hommage mortel](/ItemsFR/con_978/) | [Peau spéciale Hommage mortel](/ItemsFR/con_646/) |

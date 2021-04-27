@@ -2,7 +2,7 @@
 title: "Bracelet des cauchemars"
 permalink: /equipment/Bracer of Nightmares/
 excerpt: "Era of Chaos Bracelet des cauchemars. Bracelet des cauchemars"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Bracer of Nightmares.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 23 - 23-5 Dispersion"
 permalink: /Underground/Chapter 23_5/
 excerpt: "Chapitre 23 - 5. Era of Chaos  Souterrain - Chapitre 23_5. 23-5 Dispersion"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 23_5.md"
 toc: false

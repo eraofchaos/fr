@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Gog)"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Gog Exclusif."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Gog Mélopée des arcanes.md"
 toc: false

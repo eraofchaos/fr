@@ -2,11 +2,37 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 20  Semaine du Rempart
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **17 May** | **5x [Centaure](/ItemsFR/unt_199/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
+  | **18 May** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
+  | **19 May** | **3x [Pégase](/ItemsFR/unt_202/)**  | Une escouade de Pégases a rejoint votre armée et vous renforce ! |
+  | **20 May** | **3x [Licorne](/ItemsFR/unt_204/)**  | Une escouade de Licornes a rejoint votre armée et vous renforce ! |
+  | **21 May** | **3x [Nain](/ItemsFR/unt_200/)**  | Une escouade de Nains a rejoint votre armée et vous renforce ! |
+  | **22 May** | **3x [Garde sylvanien](/ItemsFR/unt_203/)**  | Une escouade de Gardes sylvaniens a rejoint votre armée et vous renforce ! |
+  | **23 May** | **5x [Ryland](/ItemsFR/her_368/)**  | Le héros Ryland admire vos actions pour la protection de la nature et souhaite vous servir ! |
+
+
+#### 2021 Week 19  Semaine de la Forteresse
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **10 May** | **5x [Gnoll](/ItemsFR/unt_253/)**  | Une escouade de Gnolls a rejoint votre armée et vous renforce ! |
+  | **11 May** | **5x [Coffre de faction (Forteresse)](/ItemsFR/con_1277/)**  | Votre compagnie de la Forteresse vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
+  | **12 May** | **100x <i class="fas fa-gem"/>**  | Votre armée a découvert de nombreux trésors dans le sombre marais ! |
+  | **13 May** | **3x [Homme-lézard](/ItemsFR/unt_254/)**  | Une escouade d'Hommes-lézards a rejoint votre armée et vous renforce ! |
+  | **14 May** | **5x [Runes de groupement (Forteresse)](/ItemsFR/con_818/)**  | Votre compagnie de l'Hadès vous a rapporté un certain nombre de runes de grande valeur ! |
+  | **15 May** | **3x [Guêpe serpent](/ItemsFR/unt_255/)**  | Une escouade de Guêpes serpents a rejoint votre armée et vous renforce ! |
+  | **16 May** | **5x [Korbac](/ItemsFR/her_394/)**  | Un courageux Maître des bêtes s'est rendu sur votre territoire ! |
+
 
 #### 2021 Week 18  Semaine de l'Hadès
 

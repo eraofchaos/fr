@@ -2,7 +2,7 @@
 title: "Avatar - Juge de la Sainte Lumière"
 permalink: /Avatars/Holy Light Judge/
 excerpt: "Era of Chaos  Juge de la Sainte Lumière"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Holy Light Judge.md"
 toc: false

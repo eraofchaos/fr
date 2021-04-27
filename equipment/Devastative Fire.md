@@ -2,7 +2,7 @@
 title: "Feu dévastateur"
 permalink: /equipment/Devastative Fire/
 excerpt: "Era of Chaos Feu dévastateur. Feu dévastateur"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Devastative Fire.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-6 La mine"
 permalink: /Main Story/Chapter 23_6/
 excerpt: "Chapitre 23 - 6. Era of Chaos  Histoire principale - Chapitre 23_6. 23-6 La mine"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 23_6.md"
 toc: false

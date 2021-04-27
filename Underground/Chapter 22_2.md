@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 22 - 22-2 Choix d'avenir"
 permalink: /Underground/Chapter 22_2/
 excerpt: "Chapitre 22 - 2. Era of Chaos  Souterrain - Chapitre 22_2. 22-2 Choix d'avenir"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 22_2.md"
 toc: false

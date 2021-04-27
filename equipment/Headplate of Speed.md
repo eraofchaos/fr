@@ -2,7 +2,7 @@
 title: "Plaque de célérité"
 permalink: /equipment/Headplate of Speed/
 excerpt: "Era of Chaos Plaque de célérité. Plaque de célérité"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Headplate of Speed.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Adjudant Roland"
 permalink: /heroes/Adjutant Roland/
 excerpt: "Era of Chaos  Adjudant Roland"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Adjutant Roland.md"
 QR: adhero_60103

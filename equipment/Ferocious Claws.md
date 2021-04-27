@@ -2,7 +2,7 @@
 title: "Griffes féroces"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Era of Chaos Griffes féroces. Griffes féroces"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Ferocious Claws.md"
 toc: false

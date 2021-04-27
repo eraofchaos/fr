@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 10 - 10-1 Attente dans l'obscurité"
 permalink: /Underground/Chapter 10_1/
 excerpt: "Chapitre 10 - 1. Era of Chaos  Souterrain - Chapitre 10_1. 10-1 Attente dans l'obscurité"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 10_1.md"
 toc: false

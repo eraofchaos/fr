@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-7 Ailes d'Ange"
 permalink: /Main Story/Chapter 11_7/
 excerpt: "Chapitre 11 - 7. Era of Chaos  Histoire principale - Chapitre 11_7. 11-7 Ailes d'Ange"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 11_7.md"
 toc: false

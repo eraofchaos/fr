@@ -2,7 +2,7 @@
 title: "Cimeterre profane"
 permalink: /equipment/Unholy Scimitar/
 excerpt: "Era of Chaos Cimeterre profane. Cimeterre profane"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Unholy Scimitar.md"
 toc: false

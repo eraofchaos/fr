@@ -2,7 +2,7 @@
 title: "Couronne magique en cristal"
 permalink: /equipment/Crystal Crown of Magic/
 excerpt: "Era of Chaos Couronne magique en cristal. Couronne magique en cristal"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Crystal Crown of Magic.md"
 toc: false

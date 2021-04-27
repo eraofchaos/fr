@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Unités. Monstre marin ancestral. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Revyaratan"
 toc: true
@@ -190,40 +190,40 @@ toc: true
   ![Monstre marin ancestral](/images/u/tia_haiguai.jpg)
 
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Monstre marin ancestral
 
- **Awaking Description:** 
+ **Awaking Description:** Dans les profondeurs de l'océan, dans un abysse que la lumière n'atteint pas, une créature innommable évolue discrètement.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Déployez 1 Revyaratan et au moins </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> unités de la Crique pour réussir 1 fois le niveau Impitoyable, ou un niveau supérieur, de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monstres lors d'une aventure de guilde.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Monstre marin ancestral dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Déployez un Revyaratan et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités de la Crique pour remporter 3 combats dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Description:** 
+### 1st Skill (or 2nd): Briseur d'os
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mâchoire féroce&gt;</span><span style="color: #645252;font-size:18px"> Augmente les dégâts de 50 %. Inflige également Lenteur aux ennemis de la ligne actuelle et réduit leur ténacité de 100 ainsi que leur résistance aux dégâts de 10 %. L'effet dure 5 secondes.</span>
 
-### 2nd Skill (or 1st): null
- **Description:** 
+### 2nd Skill (or 1st): Chasseur de clan
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mâchoire féroce&gt;</span><span style="color: #645252;font-size:18px"> Augmente des dégâts de 50 %. Augmente également vos propres dégâts de 20 %. Les coups critiques des unités alliées de la ligne actuelle augmentent de 100 et leurs dégâts de 10 %. L'effet dure 5 secondes.</span>
 
-### 3rd Skill (or 4th): null
- **Description:** 
+### 3rd Skill (or 4th): Glouton
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Squelette gourmet&gt;</span><span style="color: #645252;font-size:18px"> Réduit les caractéristiques des unités marquées de 50 % supplémentaires. Augmente les chances de récupération déclenchées par &lt;Mâchoire féroce&gt; de 50 %.</span>
 
-### 4th Skill (or 3rd): null
- **Description:** 
+### 4th Skill (or 3rd): Festin partagé
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Squelette gourmet&gt;</span><span style="color: #645252;font-size:18px"> Marque une unité ennemie supplémentaire. Augmente les PV récupérés avec &lt;Mâchoire féroce&gt; de 50 %.</span>
 
-### 5th Skill (or 6th): null
- **Description:** 
+### 5th Skill (or 6th): Volonté inébranlable
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Courants de fond irrépressibles&gt;</span><span style="color: #645252;font-size:18px"> Augmente les bonus de caractéristique de chaque niveau de 50 % supplémentaires.</span>
 
-### 6th Skill (or 5th): null
- **Description:** 
+### 6th Skill (or 5th): Furie des créatures marines
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Courants de fond irrépressibles&gt;</span><span style="color: #645252;font-size:18px"> Augmente le nombre de cumuls maximum, qui passe à 8.</span>
 
 ## Technical info
  **runart:** 1

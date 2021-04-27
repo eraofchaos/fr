@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 12 - 12-3 De puissantes représailles"
 permalink: /Underground/Chapter 12_3/
 excerpt: "Chapitre 12 - 3. Era of Chaos  Souterrain - Chapitre 12_3. 12-3 De puissantes représailles"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Chapter 12_3.md"
 toc: false

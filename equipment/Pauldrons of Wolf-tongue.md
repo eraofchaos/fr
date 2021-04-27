@@ -2,7 +2,7 @@
 title: "Épaulières de langue-loup"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Era of Chaos Épaulières de langue-loup. Épaulières de langue-loup"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique - Épée de justice"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Era of Chaos  Alliance angélique - Épée de justice. Une épée offerte aux hommes par les dieux. Composant de l'Alliance angélique."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Sword of Judgement.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Trépassé. Trépassé Unités. Zombie. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Trépassé"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nom:** [Bouclier iris](/fr/Exclusive/Walking Dead Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 

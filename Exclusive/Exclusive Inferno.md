@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "Era of Chaos Exclusif Inferno. Exclusif Inferno. List of Exclusif Inferno in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Exclusive Inferno"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Diablotin](/fr/units/Imp/) | [Bouclier iris](/fr/Exclusive/Imp Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
   | 2  | [Gog](/fr/units/Gog/) | [Mélopée des arcanes](/fr/Exclusive/Gog Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
-  | 3  | [Chien de l'Enfer](/fr/units/Hell Hound/) | [Pic du Chevalier](/fr/Exclusive/Hell Hound Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
+  | 3  | [Chien de l'Enfer](/fr/units/Hell Hound/) | [Pic du Chevalier](/fr/Exclusive/Hell Hound Knight Pike/) | + | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
   | 4  | [Démon](/fr/units/Demon/) | [Bouclier iris](/fr/Exclusive/Demon Iris Shield/) | + | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
   | 5  | [Servante des Abîmes](/fr/units/Pit Fiend/) | [Épée](/fr/Exclusive/Pit Fiend Sword/) | - | Assaut | [Jeton Épée](/ItemsFR/con_912/) | - |
   | 6  | [Effrit](/fr/units/Efreeti/) | [Mélopée des arcanes](/fr/Exclusive/Efreeti Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |

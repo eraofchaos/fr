@@ -3,7 +3,7 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Oracle de Regna. Oracle de Regna Unités. Élémentaire des marées. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "Oracle de Regna"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence normale 6 : Furie océanique
- **Description:** Lorsque 3 unités de la Crique sont déployées, la vitesse d'ATQ et la résistance aux dégâts de l'Oracle de Regna augmentent. Après 10 secondes de combat, l'Oracle de Regna libère Effroi abyssal pour déclencher un Domaine océanique pendant 15 secondes. Le temps de recharge dure 30 secondes.
+ **Description:** <span style="color: #645252;font-size:20px">Lorsque 3 unités de la Crique sont déployées, l'Oracle de Regna gagne </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de vitesse d'attaque et </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de résistance aux dégâts. L'&lt;Effroi abyssal&gt; de l'Oracle de Regna déclenchera un Domaine océanique pendant 15 secondes. Le temps de recharge est de 30 secondes.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -141,6 +141,8 @@ toc: true
     let str4 = "(LEVEL*0.1+0.5)"
     let str1 = "(LEVEL*2.5+12.5)"
     let str2 = "(LEVEL*0.1+1.5)"
+    let str10 = "(LEVEL*1+15)"
+    let str11 = "(LEVEL*1+15)"
     let str9 = "(LEVEL*1+5)"
     let res="ERR";
     try {
@@ -152,6 +154,8 @@ toc: true
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
      res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)

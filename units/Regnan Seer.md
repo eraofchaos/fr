@@ -8,9 +8,6 @@ locale: fr
 ref: "Oracle de Regna"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Oracle de Regna](/images/u/ti_haihou.jpg)
 
 ## General information

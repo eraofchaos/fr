@@ -8,9 +8,6 @@ locale: fr
 ref: "Dompteur de requins"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Dompteur de requins](/images/u/ti_xunshashi.jpg)
 
 ## General information

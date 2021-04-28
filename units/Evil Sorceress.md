@@ -8,9 +8,6 @@ locale: fr
 ref: "Sorcière maléfique"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Sorcière maléfique](/images/u/ti_xiemonv.jpg)
 
 ## General information

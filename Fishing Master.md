@@ -71,7 +71,7 @@ sidebar:
   | **2** |  **1000x** [Cristal de sang de dragon](/ItemsFR/con_879/) | 1 | 10 | 20 |
   | **3** |  **30x** [Mithril du néant](/ItemsFR/con_817/) | 1 | 10 | 20 |
   | **4** |  **15x** [Ticket d'échange d'Emblème sacré](/ItemsFR/con_513/) | 1 | 10 | 20 |
-  | **5** |  **10x** [Tool_10046](/ItemsFR/con_2135/) | 1 | 10 | 10 |
+  | **5** |  **10x** [Perle discrète](/ItemsFR/con_2135/) | 1 | 10 | 10 |
   | **6** |  **8x** [Pacte d'Oracle](/ItemsFR/con_816/) | 1 | 10 | 10 |
   | **7** |  **1x** [Coffre de composants d'artefact épique](/ItemsFR/con_1926/) | 2 | 2 | 5 |
   | **8** |  **8x** [Perle étincelante](/ItemsFR/con_527/) | 2 | 15 | 10 |

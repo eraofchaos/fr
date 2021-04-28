@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Tool_3709](/ItemsFR/unt_252/)
+ **Unit Soul:** [Sorcière maléfique](/ItemsFR/unt_252/)
 
  **Short description:** Renvoie les sorts. Bonus de domaine.
 

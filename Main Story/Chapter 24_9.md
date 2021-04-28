@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-9 Étrange loisir"
 permalink: /Main Story/Chapter 24_9/
 excerpt: "Chapitre 24 - 9. Era of Chaos  Histoire principale - Chapitre 24_9. 24-9 Étrange loisir"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 24_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Heaume blindé"
 permalink: /equipment/Plate Helmet/
 excerpt: "Era of Chaos Heaume blindé. Heaume blindé"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Plate Helmet.md"
 toc: false

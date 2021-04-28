@@ -2,7 +2,7 @@
 title: "Artefact - Lame d'Armageddon - Arc sylvestre"
 permalink: /artifacts/Forest Bow/
 excerpt: "Era of Chaos  Lame d'Armageddon - Arc sylvestre. Un arc fréquemment utilisé par les Elfes sylvaines. Composant de la Lame d'Armageddon."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Forest Bow.md"
 toc: false

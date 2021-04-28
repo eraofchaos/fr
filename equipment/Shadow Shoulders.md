@@ -2,7 +2,7 @@
 title: "Épaulières des ombres"
 permalink: /equipment/Shadow Shoulders/
 excerpt: "Era of Chaos Épaulières des ombres. Épaulières des ombres"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Shadow Shoulders.md"
 toc: false

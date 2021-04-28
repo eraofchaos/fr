@@ -2,7 +2,7 @@
 title: "Griffe du dragon de la peste"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Era of Chaos Griffe du dragon de la peste. Griffe du dragon de la peste"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Plague Dragon Claw.md"
 toc: false

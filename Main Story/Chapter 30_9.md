@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-9 La raffinerie de mercure"
 permalink: /Main Story/Chapter 30_9/
 excerpt: "Chapitre 30 - 9. Era of Chaos  Histoire principale - Chapitre 30_9. 30-9 La raffinerie de mercure"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 30_9.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Troglodyte. Troglodyte Unités. Troglodyte des ténèbres. Era of Chaos Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Troglodyte"
 toc: true

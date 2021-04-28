@@ -2,7 +2,7 @@
 title: "Grande corne en cristal"
 permalink: /equipment/Crystal Longhorn/
 excerpt: "Era of Chaos Grande corne en cristal. Grande corne en cristal"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Crystal Longhorn.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 16 - 16-3 Chair et sang"
 permalink: /Underground/Chapter 16_3/
 excerpt: "Chapitre 16 - 3. Era of Chaos  Souterrain - Chapitre 16_3. 16-3 Chair et sang"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 16_3.md"
 toc: false

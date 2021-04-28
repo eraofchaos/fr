@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-1 L'occupation du château"
 permalink: /Main Story/Chapter 23_1/
 excerpt: "Chapitre 23 - 1. Era of Chaos  Histoire principale - Chapitre 23_1. 23-1 L'occupation du château"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 23_1.md"
 toc: false

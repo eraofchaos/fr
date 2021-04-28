@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 7 - 7-3 Ruée vers l'or"
 permalink: /Underground/Chapter 7_3/
 excerpt: "Chapitre 7 - 3. Era of Chaos  Souterrain - Chapitre 7_3. 7-3 Ruée vers l'or"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 7_3.md"
 toc: false

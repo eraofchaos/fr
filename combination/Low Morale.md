@@ -2,7 +2,7 @@
 title: "Infos combinaison for Démotivation"
 permalink: /combination/Low Morale/
 excerpt: "Infos combinaison - Démotivation. Units and Heroes Formation."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Démotivation.md"
 toc: false

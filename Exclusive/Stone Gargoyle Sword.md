@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gargouille Exclusif."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Stone Gargoyle Épée.md"
 toc: false

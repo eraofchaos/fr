@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-8 Guilde des mages"
 permalink: /Main Story/Chapter 20_8/
 excerpt: "Chapitre 20 - 8. Era of Chaos  Histoire principale - Chapitre 20_8. 20-8 Guilde des mages"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 20_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ailes de dragon"
 permalink: /equipment/Dragon Wings/
 excerpt: "Era of Chaos Ailes de dragon. Ailes de dragon"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Dragon Wings.md"
 toc: false

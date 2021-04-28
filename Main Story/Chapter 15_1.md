@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 15 - 15-1 Les derniers mots du démon"
 permalink: /Main Story/Chapter 15_1/
 excerpt: "Chapitre 15 - 1. Era of Chaos  Histoire principale - Chapitre 15_1. 15-1 Les derniers mots du démon"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 15_1.md"
 toc: false

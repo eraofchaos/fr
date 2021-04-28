@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-15 Le Gardien"
 permalink: /Main Story/Chapter 25_15/
 excerpt: "Chapitre 25 - 15. Era of Chaos  Histoire principale - Chapitre 25_15. 25-15 Le Gardien"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 25_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier (Vampire)"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Vampire Exclusif."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Vampire Pic du Chevalier.md"
 toc: false

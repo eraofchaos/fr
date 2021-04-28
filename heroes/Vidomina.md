@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina faisait preuve d'un immense potentiel quand elle était jeune, jusqu'à ce qu'elle soit expulsée de Bracada après qu'il a été découvert qu'elle utilisait sa magie pour changer les vivants en Non-Morts. Cette sanction n'a fait que la placer définitivement sur la voie du mal."
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Vidomina"
 toc: true

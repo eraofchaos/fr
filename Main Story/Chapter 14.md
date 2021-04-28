@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 Passage sûr"
 permalink: /Main Story/Chapter 14/
 excerpt: "Chapitre 14. Era of Chaos  Histoire principale - Chapitre 14. Passage sûr"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Tour"
 permalink: /Avatars/Tower/
 excerpt: "Era of Chaos  Tour"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Tower.md"
 toc: false

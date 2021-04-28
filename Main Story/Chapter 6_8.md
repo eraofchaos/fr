@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-8 Tourment"
 permalink: /Main Story/Chapter 6_8/
 excerpt: "Chapitre 6 - 8. Era of Chaos  Histoire principale - Chapitre 6_8. 6-8 Tourment"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 6_8.md"
 toc: false

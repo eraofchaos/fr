@@ -2,7 +2,7 @@
 title: "Corne du feu écarlate"
 permalink: /equipment/Horn of Red Fire/
 excerpt: "Era of Chaos Corne du feu écarlate. Corne du feu écarlate"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Horn of Red Fire.md"
 toc: false

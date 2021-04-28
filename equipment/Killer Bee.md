@@ -2,7 +2,7 @@
 title: "Abeille assassine"
 permalink: /equipment/Killer Bee/
 excerpt: "Era of Chaos Abeille assassine. Abeille assassine"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Killer Bee.md"
 toc: false

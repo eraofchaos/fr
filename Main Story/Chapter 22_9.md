@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-9 La reine des Dragons d'or"
 permalink: /Main Story/Chapter 22_9/
 excerpt: "Chapitre 22 - 9. Era of Chaos  Histoire principale - Chapitre 22_9. 22-9 La reine des Dragons d'or"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 22_9.md"
 toc: false

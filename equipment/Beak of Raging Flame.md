@@ -2,7 +2,7 @@
 title: "Bec des flammes furieuses"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Era of Chaos Bec des flammes furieuses. Bec des flammes furieuses"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Beak of Raging Flame.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche - Armure Dragon"
 permalink: /artifacts/Dragon Scale Armour/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche - Armure Dragon. Une armure bénie par le Dragon sacré. Composant de la Puissance du Dragon patriarche."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Dragon Scale Armour.md"
 toc: false

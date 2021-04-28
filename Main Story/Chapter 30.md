@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 Salut du roi"
 permalink: /Main Story/Chapter 30/
 excerpt: "Chapitre 30. Era of Chaos  Histoire principale - Chapitre 30. Salut du roi"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 30.md"
 toc: false

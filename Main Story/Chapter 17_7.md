@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-7 Les yeux de la vérité"
 permalink: /Main Story/Chapter 17_7/
 excerpt: "Chapitre 17 - 7. Era of Chaos  Histoire principale - Chapitre 17_7. 17-7 Les yeux de la vérité"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 17_7.md"
 toc: false

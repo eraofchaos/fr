@@ -2,7 +2,7 @@
 title: "Emblème sacré - Ordre"
 permalink: /Emblem/Type Order/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Era of Chaos Emblème sacré Ordre. Era of Chaos Ordre"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "typeOrdre.md"
 toc: false

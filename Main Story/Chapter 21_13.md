@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-13 Frères dans la souffrance"
 permalink: /Main Story/Chapter 21_13/
 excerpt: "Chapitre 21 - 13. Era of Chaos  Histoire principale - Chapitre 21_13. 21-13 Frères dans la souffrance"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 21_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-8 Des choix confus"
 permalink: /Main Story/Chapter 24_8/
 excerpt: "Chapitre 24 - 8. Era of Chaos  Histoire principale - Chapitre 24_8. 24-8 Des choix confus"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 24_8.md"
 toc: false

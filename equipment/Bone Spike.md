@@ -2,7 +2,7 @@
 title: "Pointe en os"
 permalink: /equipment/Bone Spike/
 excerpt: "Era of Chaos Pointe en os. Pointe en os"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Bone Spike.md"
 toc: false

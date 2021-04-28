@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 15 - 15-9 Comme on se retrouve"
 permalink: /Main Story/Chapter 15_9/
 excerpt: "Chapitre 15 - 9. Era of Chaos  Histoire principale - Chapitre 15_9. 15-9 Comme on se retrouve"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 15_9.md"
 toc: false

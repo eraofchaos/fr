@@ -2,7 +2,7 @@
 title: "Écaille adamantine"
 permalink: /equipment/Adamantine Scale/
 excerpt: "Era of Chaos Écaille adamantine. Écaille adamantine"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Adamantine Scale.md"
 toc: false

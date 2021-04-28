@@ -2,7 +2,7 @@
 title: "Aile de Basilic"
 permalink: /equipment/Basilisk's Neck Umbrella/
 excerpt: "Era of Chaos Aile de Basilic. Aile de Basilic"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Basilisk's Neck Umbrella.md"
 toc: false

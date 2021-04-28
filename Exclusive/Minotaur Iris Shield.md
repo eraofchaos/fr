@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Minotaur)"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Minotaure Exclusif."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Minotaur Bouclier iris.md"
 toc: false

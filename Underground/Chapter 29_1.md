@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 29 - 29-1  La beauté des feux d'artifice"
 permalink: /Underground/Chapter 29_1/
 excerpt: "Chapitre 29 - 1. Era of Chaos  Souterrain - Chapitre 29_1. 29-1  La beauté des feux d'artifice"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 29_1.md"
 toc: false

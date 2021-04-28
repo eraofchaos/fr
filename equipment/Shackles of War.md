@@ -2,7 +2,7 @@
 title: "Chaînes de gladiateur"
 permalink: /equipment/Shackles of War/
 excerpt: "Era of Chaos Chaînes de gladiateur. Chaînes de gladiateur"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Shackles of War.md"
 toc: false

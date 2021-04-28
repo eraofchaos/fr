@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-6 Les Dragons et la météo"
 permalink: /Main Story/Chapter 22_6/
 excerpt: "Chapitre 22 - 6. Era of Chaos  Histoire principale - Chapitre 22_6. 22-6 Les Dragons et la météo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 22_6.md"
 toc: false

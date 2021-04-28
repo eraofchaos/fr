@@ -3,7 +3,7 @@ title: "Revenante"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Revenante. Revenante Unités. Spectre. Era of Chaos Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Revenante"
 toc: true

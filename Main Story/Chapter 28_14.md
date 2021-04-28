@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-14 Le sanctuaire sacré"
 permalink: /Main Story/Chapter 28_14/
 excerpt: "Chapitre 28 - 14. Era of Chaos  Histoire principale - Chapitre 28_14. 28-14 Le sanctuaire sacré"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 28_14.md"
 toc: false

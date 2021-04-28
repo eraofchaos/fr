@@ -2,7 +2,7 @@
 title: "Gantelets de loup-garou"
 permalink: /equipment/Werewolf's Gauntlets/
 excerpt: "Era of Chaos Gantelets de loup-garou. Gantelets de loup-garou"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Werewolf's Gauntlets.md"
 toc: false

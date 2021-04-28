@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-2 Étrange sorcellerie"
 permalink: /Main Story/Chapter 18_2/
 excerpt: "Chapitre 18 - 2. Era of Chaos  Histoire principale - Chapitre 18_2. 18-2 Étrange sorcellerie"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 18_2.md"
 toc: false

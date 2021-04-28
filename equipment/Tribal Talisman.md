@@ -2,7 +2,7 @@
 title: "Talisman tribal"
 permalink: /equipment/Tribal Talisman/
 excerpt: "Era of Chaos Talisman tribal. Talisman tribal"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Tribal Talisman.md"
 toc: false

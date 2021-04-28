@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 13 - 13-1 Le cours de la guerre"
 permalink: /Underground/Chapter 13_1/
 excerpt: "Chapitre 13 - 1. Era of Chaos  Souterrain - Chapitre 13_1. 13-1 Le cours de la guerre"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 13_1.md"
 toc: false

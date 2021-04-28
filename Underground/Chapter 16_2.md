@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 16 - 16-2 Souvenir du ciel"
 permalink: /Underground/Chapter 16_2/
 excerpt: "Chapitre 16 - 2. Era of Chaos  Souterrain - Chapitre 16_2. 16-2 Souvenir du ciel"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 16_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-6 De tous côtés"
 permalink: /Main Story/Chapter 5_6/
 excerpt: "Chapitre 5 - 6. Era of Chaos  Histoire principale - Chapitre 5_6. 5-6 De tous côtés"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 5_6.md"
 toc: false

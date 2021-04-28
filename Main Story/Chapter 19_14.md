@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-14 Le Souverain immortel"
 permalink: /Main Story/Chapter 19_14/
 excerpt: "Chapitre 19 - 14. Era of Chaos  Histoire principale - Chapitre 19_14. 19-14 Le Souverain immortel"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "Chapter 19_14.md"
 toc: false

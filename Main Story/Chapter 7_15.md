@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-15 La fin d'un héros"
 permalink: /Main Story/Chapter 7_15/
 excerpt: "Chapitre 7 - 15. Era of Chaos  Histoire principale - Chapitre 7_15. 7-15 La fin d'un héros"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 7_15.md"
 toc: false

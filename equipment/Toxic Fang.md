@@ -2,7 +2,7 @@
 title: "Croc toxique"
 permalink: /equipment/Toxic Fang/
 excerpt: "Era of Chaos Croc toxique. Croc toxique"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Toxic Fang.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 3 Falaises des Griffons"
 permalink: /Underground/Chapter 3/
 excerpt: "Chapitre 3 Falaises des Griffons. Era of Chaos  Souterrain - Chapitre 3. Falaises des Griffons"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 3.md"
 toc: false

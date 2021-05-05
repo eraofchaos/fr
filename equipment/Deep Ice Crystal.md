@@ -2,7 +2,7 @@
 title: "Cristal de glace creux"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "Era of Chaos Cristal de glace creux. Cristal de glace creux"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Deep Ice Crystal.md"
 toc: false

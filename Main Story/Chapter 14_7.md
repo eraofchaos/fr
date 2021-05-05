@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-7 Une crise sans fin"
 permalink: /Main Story/Chapter 14_7/
 excerpt: "Chapitre 14 - 7. Era of Chaos  Histoire principale - Chapitre 14_7. 14-7 Une crise sans fin"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 14_7.md"
 toc: false

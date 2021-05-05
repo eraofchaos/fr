@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-2 Le monde souterrain"
 permalink: /Main Story/Chapter 25_2/
 excerpt: "Chapitre 25 - 2. Era of Chaos  Histoire principale - Chapitre 25_2. 25-2 Le monde souterrain"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 25_2.md"
 toc: false

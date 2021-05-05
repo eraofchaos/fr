@@ -2,7 +2,7 @@
 title: "Flux ondulants"
 permalink: /equipment/Wavy Flow/
 excerpt: "Era of Chaos Flux ondulants. Flux ondulants"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Wavy Flow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Étoile céleste"
 permalink: /equipment/Heavenly Star/
 excerpt: "Era of Chaos Étoile céleste. Étoile céleste"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Heavenly Star.md"
 toc: false

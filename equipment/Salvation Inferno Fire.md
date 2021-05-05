@@ -2,7 +2,7 @@
 title: "Feu infernal du salut"
 permalink: /equipment/Salvation Inferno Fire/
 excerpt: "Era of Chaos Feu infernal du salut. Feu infernal du salut"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Salvation Inferno Fire.md"
 toc: false

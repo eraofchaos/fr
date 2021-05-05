@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-12 Repli stratégique"
 permalink: /Main Story/Chapter 7_12/
 excerpt: "Chapitre 7 - 12. Era of Chaos  Histoire principale - Chapitre 7_12. 7-12 Repli stratégique"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 7_12.md"
 toc: false

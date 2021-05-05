@@ -2,7 +2,7 @@
 title: "Adjudant Ezio"
 permalink: /heroes/Adjutant Ezio/
 excerpt: "Era of Chaos  Adjudant Ezio"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Adjutant Ezio.md"
 QR: adhero_61901

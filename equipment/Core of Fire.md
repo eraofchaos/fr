@@ -2,7 +2,7 @@
 title: "Noyau de feu"
 permalink: /equipment/Core of Fire/
 excerpt: "Era of Chaos Noyau de feu. Noyau de feu"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Core of Fire.md"
 toc: false

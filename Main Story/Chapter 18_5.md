@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-5 L'union des bandits"
 permalink: /Main Story/Chapter 18_5/
 excerpt: "Chapitre 18 - 5. Era of Chaos  Histoire principale - Chapitre 18_5. 18-5 L'union des bandits"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 18_5.md"
 toc: false

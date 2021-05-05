@@ -2,7 +2,7 @@
 title: "Marteau puissant"
 permalink: /equipment/Strong Hammer/
 excerpt: "Era of Chaos Marteau puissant. Marteau puissant"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Strong Hammer.md"
 toc: false

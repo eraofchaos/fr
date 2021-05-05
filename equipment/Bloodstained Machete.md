@@ -2,7 +2,7 @@
 title: "Machette maculée de sang"
 permalink: /equipment/Bloodstained Machete/
 excerpt: "Era of Chaos Machette maculée de sang. Machette maculée de sang"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Bloodstained Machete.md"
 toc: false

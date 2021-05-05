@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-15 Le royaume magique"
 permalink: /Main Story/Chapter 24_15/
 excerpt: "Chapitre 24 - 15. Era of Chaos  Histoire principale - Chapitre 24_15. 24-15 Le royaume magique"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 24_15.md"
 toc: false

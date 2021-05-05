@@ -2,7 +2,7 @@
 title: "Avatar - Maître des flammes"
 permalink: /Avatars/Ruler of Flames/
 excerpt: "Era of Chaos  Maître des flammes"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Ruler of Flames.md"
 toc: false

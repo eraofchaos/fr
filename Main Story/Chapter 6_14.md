@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-14 L'évasion"
 permalink: /Main Story/Chapter 6_14/
 excerpt: "Chapitre 6 - 14. Era of Chaos  Histoire principale - Chapitre 6_14. 6-14 L'évasion"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 6_14.md"
 toc: false

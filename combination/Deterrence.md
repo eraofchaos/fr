@@ -2,7 +2,7 @@
 title: "Infos combinaison for Découragement"
 permalink: /combination/Deterrence/
 excerpt: "Infos combinaison - Découragement. Units and Heroes Formation."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Découragement.md"
 toc: false

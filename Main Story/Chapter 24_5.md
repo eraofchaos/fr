@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-5 Le mystère de la grotte"
 permalink: /Main Story/Chapter 24_5/
 excerpt: "Chapitre 24 - 5. Era of Chaos  Histoire principale - Chapitre 24_5. 24-5 Le mystère de la grotte"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 24_5.md"
 toc: false

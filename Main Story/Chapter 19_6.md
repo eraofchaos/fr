@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-6 Le centre des duels"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "Chapitre 19 - 6. Era of Chaos  Histoire principale - Chapitre 19_6. 19-6 Le centre des duels"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 19_6.md"
 toc: false

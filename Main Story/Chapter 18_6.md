@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-6 Les monstres de pierre"
 permalink: /Main Story/Chapter 18_6/
 excerpt: "Chapitre 18 - 6. Era of Chaos  Histoire principale - Chapitre 18_6. 18-6 Les monstres de pierre"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 18_6.md"
 toc: false

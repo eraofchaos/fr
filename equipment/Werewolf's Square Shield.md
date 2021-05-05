@@ -2,7 +2,7 @@
 title: "Bouclier carré de loup-garou"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Era of Chaos Bouclier carré de loup-garou. Bouclier carré de loup-garou"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Werewolf's Square Shield.md"
 toc: false

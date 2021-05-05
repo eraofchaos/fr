@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-10 Le cor de la victoire"
 permalink: /Main Story/Chapter 28_10/
 excerpt: "Chapitre 28 - 10. Era of Chaos  Histoire principale - Chapitre 28_10. 28-10 Le cor de la victoire"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 28_10.md"
 toc: false

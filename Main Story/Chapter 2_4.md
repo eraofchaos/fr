@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-4 Le puits magique"
 permalink: /Main Story/Chapter 2_4/
 excerpt: "Chapitre 2 - 4. Era of Chaos  Histoire principale - Chapitre 2_4. 2-4 Le puits magique"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 2_4.md"
 toc: false

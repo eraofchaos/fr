@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-10 Grandir ensemble"
 permalink: /Main Story/Chapter 21_10/
 excerpt: "Chapitre 21 - 10. Era of Chaos  Histoire principale - Chapitre 21_10. 21-10 Grandir ensemble"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 21_10.md"
 toc: false

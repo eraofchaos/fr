@@ -2,7 +2,7 @@
 title: "Armure légère des limbes"
 permalink: /equipment/Light Armor of the Netherworld/
 excerpt: "Era of Chaos Armure légère des limbes. Armure légère des limbes"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Light Armor of the Netherworld.md"
 toc: false

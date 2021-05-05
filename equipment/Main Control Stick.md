@@ -2,7 +2,7 @@
 title: "Manche de contrôle principal"
 permalink: /equipment/Main Control Stick/
 excerpt: "Era of Chaos Manche de contrôle principal. Manche de contrôle principal"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Main Control Stick.md"
 toc: false

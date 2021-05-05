@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-3 L'absence de ténèbres"
 permalink: /Main Story/Chapter 26_3/
 excerpt: "Chapitre 26 - 3. Era of Chaos  Histoire principale - Chapitre 26_3. 26-3 L'absence de ténèbres"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 26_3.md"
 toc: false

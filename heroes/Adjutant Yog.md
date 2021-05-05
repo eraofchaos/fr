@@ -2,7 +2,7 @@
 title: "Adjudant Yog"
 permalink: /heroes/Adjutant Yog/
 excerpt: "Era of Chaos  Adjudant Yog"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Adjutant Yog.md"
 QR: adhero_60604

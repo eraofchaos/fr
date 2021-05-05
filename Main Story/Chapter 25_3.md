@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-3 Les saisons souterraines"
 permalink: /Main Story/Chapter 25_3/
 excerpt: "Chapitre 25 - 3. Era of Chaos  Histoire principale - Chapitre 25_3. 25-3 Les saisons souterraines"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "Chapter 25_3.md"
 toc: false

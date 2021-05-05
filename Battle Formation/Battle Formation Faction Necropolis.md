@@ -2,7 +2,7 @@
 title: "Formation de combat Nécropole"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "Formation de combat Nécropole"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "BattleFormationFactionNecropolis"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Augmente la résistance magique de toutes les unités de la Nécropole de 10 %.** |
   | **8** | **Les unités de la Nécropole reçoivent une augmentation de 5 % de dégâts d'unité contre les unités ennemies affectées de Démotivation** |
   | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Nécropole de 4 %.** |
+  | **10** | **Augmente l'ATQ de toutes les unités de la Nécropole de 15 %.** |
+  | **11** | **Augmente les PV de toutes les unités de la Nécropole de 17 %.** |
+  | **12** | **Les coups critiques de toutes les unités de la Nécropole alliées augmentent de 50 pendant 6 secondes quand un Héros allié lance un sort de terre.** |
 
 ## Formation de combat Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Necropolis - Blaster | Coup critique + **5**  | 160 |  **10** x [Trépassé](/fr/units/Walking Dead) |
   | 17 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Necropolis - Storm Assaulter | ATQ + **1** % | 80 |   |
+  
+
+
+## Formation de combat Circle 3:
+
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Necropolis - Damage Amplification | Dégâts d'unité + **0.4** % | 180 |  **10** x [Squelette](/fr/units/Skeleton) |
+  | 2 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 3 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 4 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 5 | Necropolis - A Strike Hit | Précision + **7**  | 180 |  **10** x [Trépassé](/fr/units/Walking Dead) |
+  | 6 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 7 | Necropolis - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 8 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 9 | Necropolis - Ingeniousness | Esquive + **7**  | 180 |  **10** x [Revenante](/fr/units/Wight) |
+  | 10 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 11 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
+  | 12 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
+  | 13 | Necropolis - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 180 |  **10** x [Vampire](/fr/units/Vampire) |
+  | 14 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
+  | 15 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
+  | 16 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 17 | Necropolis - Rocklike Skin | Ténacité + **8**  | 180 |  **10** x [Trépassé](/fr/units/Walking Dead) |
+  | 18 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 19 | Necropolis - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 20 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 21 | Necropolis - Blaster | Coup critique + **6**  | 180 |  **10** x [Trépassé](/fr/units/Walking Dead) |
+  | 22 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 23 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 24 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  
+
+
+## Formation de combat Circle 4:
+
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Necropolis - Damage Amplification | Dégâts d'unité + **0.5** % | 190 |  **20** x [Revenante](/fr/units/Wight) |
+  | 2 | Necropolis - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 3 | Necropolis - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 4 | Necropolis - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 5 | Necropolis - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 6 | Necropolis - A Strike Hit | Précision + **8**  | 190 |  **20** x [Vampire](/fr/units/Vampire) |
+  | 7 | Necropolis - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 8 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 9 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 10 | Necropolis - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 11 | Necropolis - Ingeniousness | Esquive + **8**  | 190 |  **20** x [Revenante](/fr/units/Wight) |
+  | 12 | Necropolis - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 13 | Necropolis - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 14 | Necropolis - Physical Trials | PV + **1.4** % | 100 |   |
+  | 15 | Necropolis - Physical Trials | PV + **1.4** % | 100 |   |
+  | 16 | Necropolis - Shield Practice | Réduc. dégâts d'unité + **0.5** % | 190 |  **20** x [Vampire](/fr/units/Vampire) |
+  | 17 | Necropolis - Physical Trials | PV + **1.4** % | 100 |   |
+  | 18 | Necropolis - Physical Trials | PV + **1.4** % | 100 |   |
+  | 19 | Necropolis - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 20 | Necropolis - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 21 | Necropolis - Rocklike Skin | Ténacité + **10**  | 190 |  **20** x [Revenante](/fr/units/Wight) |
+  | 22 | Necropolis - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 23 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 24 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 25 | Necropolis - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 26 | Necropolis - Blaster | Coup critique + **7**  | 190 |  **20** x [Vampire](/fr/units/Vampire) |
+  | 27 | Necropolis - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 28 | Necropolis - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 29 | Necropolis - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 30 | Necropolis - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   
 

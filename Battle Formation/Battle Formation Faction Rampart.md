@@ -2,7 +2,7 @@
 title: "Formation de combat Rempart"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "Formation de combat Rempart"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: fr
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Augmente la résistance magique de toutes les unités du Rempart de 10 %.** |
   | **8** | **Quand les unités du Rempart se battent contre des unités affectées par Saignement ou Lenteur, leur DÉF augmente de 4 % par effet actif.** |
   | **9** | **Augmente la vitesse d'attaque de toutes les unités du Rempart de 4 %.** |
+  | **10** | **Augmente l'ATQ de toutes les unités du Rempart de 15 %.** |
+  | **11** | **Augmente les PV de toutes les unités du Rempart de 17 %.** |
+  | **12** | **Quand les unités du Rempart se battent contre des unités affectées par Saignement ou Lenteur, leurs dégâts augmentent de 2,5 % par effet actif.** |
 
 ## Formation de combat Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Rampart - Blaster | Coup critique + **5**  | 160 |  **10** x [Elfe sylvaine](/fr/units/Wood Elf) |
   | 17 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Rampart - Storm Assaulter | ATQ + **1** % | 80 |   |
+  
+
+
+## Formation de combat Circle 3:
+
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Rampart - Damage Amplification | Dégâts d'unité + **0.4** % | 180 |  **10** x [Centaure](/fr/units/Centaur) |
+  | 2 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 3 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 4 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 5 | Rampart - A Strike Hit | Précision + **7**  | 180 |  **10** x [Nain](/fr/units/Dwarf) |
+  | 6 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 7 | Rampart - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 8 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 9 | Rampart - Ingeniousness | Esquive + **7**  | 180 |  **10** x [Licorne](/fr/units/Unicorn) |
+  | 10 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 11 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
+  | 12 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
+  | 13 | Rampart - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 180 |  **10** x [Nain](/fr/units/Dwarf) |
+  | 14 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
+  | 15 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
+  | 16 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 17 | Rampart - Rocklike Skin | Ténacité + **8**  | 180 |  **10** x [Licorne](/fr/units/Unicorn) |
+  | 18 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 19 | Rampart - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 20 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 21 | Rampart - Blaster | Coup critique + **6**  | 180 |  **10** x [Elfe sylvaine](/fr/units/Wood Elf) |
+  | 22 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 23 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 24 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  
+
+
+## Formation de combat Circle 4:
+
+  |  Nr  |  Nom   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Rampart - Damage Amplification | Dégâts d'unité + **0.5** % | 190 |  **20** x [Garde sylvanien](/fr/units/Dendroid Guard) |
+  | 2 | Rampart - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 3 | Rampart - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 4 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 5 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 6 | Rampart - A Strike Hit | Précision + **8**  | 190 |  **20** x [Pégase](/fr/units/Pegasus) |
+  | 7 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 8 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 9 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 10 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 11 | Rampart - Ingeniousness | Esquive + **8**  | 190 |  **20** x [Garde sylvanien](/fr/units/Dendroid Guard) |
+  | 12 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 13 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 14 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
+  | 15 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
+  | 16 | Rampart - Shield Practice | Réduc. dégâts d'unité + **0.5** % | 190 |  **20** x [Pégase](/fr/units/Pegasus) |
+  | 17 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
+  | 18 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
+  | 19 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 20 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 21 | Rampart - Rocklike Skin | Ténacité + **10**  | 190 |  **20** x [Garde sylvanien](/fr/units/Dendroid Guard) |
+  | 22 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 23 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 24 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 25 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 26 | Rampart - Blaster | Coup critique + **7**  | 190 |  **20** x [Pégase](/fr/units/Pegasus) |
+  | 27 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 28 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 29 | Rampart - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 30 | Rampart - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   
 

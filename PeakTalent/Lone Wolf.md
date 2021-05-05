@@ -27,7 +27,7 @@ sidebar:
   [Talent Ultime EXP](/fr/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATQ (1/4/9): +250/75/37.5 | PV (1/4/9): +2500/750/375 | Attaque de base Héros: +1 | Défense Héros de base: +1 |
   | 2 | ATQ (1/4/9): +500/150/75 | PV (1/4/9): +5000/1500/750 | Attaque de base Héros: +2 | Défense Héros de base: +2 |
   | 3 | ATQ (1/4/9): +750/225/112.5 | PV (1/4/9): +7500/2250/1125 | Attaque de base Héros: +4 | Défense Héros de base: +4 |
@@ -43,7 +43,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Point de talent ultime](/ItemsFR/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Point de talent ultime](/ItemsFR/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Point de talent ultime](/ItemsFR/con_934/) | 200000 | 4 |

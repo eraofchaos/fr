@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Point de talent ultime](/ItemsFR/con_934/) at [Cor de bataille](/fr/PeakTalent/Battle Horn/)
+  **UNLOCK: 7x** [Point de talent ultime](/ItemsFR/con_934/) at ![Cor de bataille](/images/pt/talent_2004.png) [Cor de bataille](/fr/PeakTalent/Battle Horn/)
 
   [Talent Ultime EXP](/fr/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | PV: +5% | Esquive: +28 | Attaque de base Héros: +1 | Défense Héros de base: +1 |
   | 2 | PV: +10% | Esquive: +56 | Attaque de base Héros: +2 | Défense Héros de base: +2 |
   | 3 | PV: +15% | Esquive: +84 | Attaque de base Héros: +4 | Défense Héros de base: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Point de talent ultime](/ItemsFR/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Point de talent ultime](/ItemsFR/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Point de talent ultime](/ItemsFR/con_934/) | 200000 | 4 |

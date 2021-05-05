@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Point de talent ultime](/ItemsFR/con_934/) at [Immunisation élémentaire](/fr/PeakTalent/Elemental Immunization/)
+  **UNLOCK: 7x** [Point de talent ultime](/ItemsFR/con_934/) at ![Immunisation élémentaire](/images/pt/talent_1004.png) [Immunisation élémentaire](/fr/PeakTalent/Elemental Immunization/)
 
   [Talent Ultime EXP](/fr/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | PV (1/4/9): +1000/300/150 | Réduc. dégâts d'unité: +0.5% | Défense Héros de base: +1 | Savoir Héros de base: +1 |
   | 2 | PV (1/4/9): +2000/600/300 | Réduc. dégâts d'unité: +1% | Défense Héros de base: +2 | Savoir Héros de base: +2 |
   | 3 | PV (1/4/9): +3000/900/450 | Réduc. dégâts d'unité: +1.5% | Défense Héros de base: +3 | Savoir Héros de base: +3 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Point de talent ultime](/ItemsFR/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Point de talent ultime](/ItemsFR/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 150000 | 3 |

@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Point de talent ultime](/ItemsFR/con_934/) at [Épée de gloire](/fr/PeakTalent/Sword of Glory/)
+  **UNLOCK: 7x** [Point de talent ultime](/ItemsFR/con_934/) at ![Épée de gloire](/images/pt/talent_4201.png) [Épée de gloire](/fr/PeakTalent/Sword of Glory/)
 
   [Talent Ultime EXP](/fr/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | PV: +10% | DÉF: +20 | Attaque de base Héros: +2 | - |
   | 2 | PV: +20% | DÉF: +40 | Attaque de base Héros: +4 | - |
   | 3 | PV: +30% | DÉF: +60 | Attaque de base Héros: +8 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Point de talent ultime](/ItemsFR/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Point de talent ultime](/ItemsFR/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Point de talent ultime](/ItemsFR/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Point de talent ultime](/ItemsFR/con_934/) | 200000 | 4 |

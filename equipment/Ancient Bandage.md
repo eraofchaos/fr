@@ -2,7 +2,7 @@
 title: "Bandage antique"
 permalink: /equipment/Ancient Bandage/
 excerpt: "Era of Chaos Bandage antique. Bandage antique"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Ancient Bandage.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Backup - Charge offensive"
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Charge offensive"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Charge Offensive.md"
 toc: false

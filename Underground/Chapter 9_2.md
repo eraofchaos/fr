@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 9 - 9-2 Intensification"
 permalink: /Underground/Chapter 9_2/
 excerpt: "Chapitre 9 - 2. Era of Chaos  Souterrain - Chapitre 9_2. 9-2 Intensification"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 9_2.md"
 toc: false

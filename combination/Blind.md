@@ -2,7 +2,7 @@
 title: "Infos combinaison for Cécité"
 permalink: /combination/Blind/
 excerpt: "Infos combinaison - Cécité. Units and Heroes Formation."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Cécité.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Gorgone. Gorgone Unités. Grande Gorgone. Era of Chaos D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Gorgone"
 toc: true
@@ -194,7 +194,7 @@ toc: true
   ![Grande Gorgone](/images/u/tia_manniu.jpg)
 
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Grande Gorgone
 
@@ -224,10 +224,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Malédiction barbare&gt; : </span><span style="color: #645252;font-size:18px">Diminue la vitesse d'ATQ des ennemis de 20 %. En mourant, l'unité pétrifie les ennemis proches pendant 8 secondes et diminue définitivement la vitesse d'ATQ de tous les ennemis n'appartenant pas à la Forteresse de 3 %. Cet effet peut se cumuler jusqu'à 4 fois.</span>
 
 ### 5th Skill (or 6th): Roi des marais
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Suzeraine des marais&gt; : </span><span style="color: #645252;font-size:18px">Si la Gorgone est touchée par une attaque unique qui devrait lui faire perdre plus de 20 % de ses PV max, elle est immunisée à tous les dégâts qui dépassent ces 20 %. Tant que la Gorgone est sur le champ de bataille, la vitesse d'ATQ des ennemis n'appartenant pas à la Forteresse est réduite de 10 %, et leurs soins de 30 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Suzeraine des marais&gt; : </span><span style="color: #645252;font-size:18px">Tant que la Gorgone est sur le champ de bataille, elle augmente sa DÉF de 10 %, réduit la vitesse d'attaque des ennemis n'appartenant pas à la Forteresse de 20 %, et leurs soins reçus de 30 %.</span>
 
 ### 6th Skill (or 5th): Seigneur des marais
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Suzeraine des marais&gt; : </span><span style="color: #645252;font-size:18px">Si la Gorgone est touchée par une attaque unique qui devrait lui faire perdre plus de 20 % de ses PV max, elle est immunisée à tous les dégâts qui dépassent ces 20 %. Tant que la Gorgone est sur le champ de bataille, la vitesse d'ATQ de tous les alliés augmente de 20 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Suzeraine des marais&gt; : </span><span style="color: #645252;font-size:18px">Tant que la Gorgone est sur le champ de bataille, elle augmente sa DÉF de 10 % et la vitesse d'attaque des unités alliées de 35 %.</span>
 
 ## Technical info
  **runart:** 1

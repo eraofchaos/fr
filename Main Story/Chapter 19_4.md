@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-4 Les paroles de la chanson"
 permalink: /Main Story/Chapter 19_4/
 excerpt: "Chapitre 19 - 4. Era of Chaos  Histoire principale - Chapitre 19_4. 19-4 Les paroles de la chanson"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 19_4.md"
 toc: false

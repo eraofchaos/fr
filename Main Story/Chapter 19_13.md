@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-13 Le roi Mage"
 permalink: /Main Story/Chapter 19_13/
 excerpt: "Chapitre 19 - 13. Era of Chaos  Histoire principale - Chapitre 19_13. 19-13 Le roi Mage"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 19_13.md"
 toc: false

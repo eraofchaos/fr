@@ -2,7 +2,7 @@
 title: "Adjudant Cassanbel"
 permalink: /heroes/Adjutant Cassanbel/
 excerpt: "Era of Chaos  Adjudant Cassanbel"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Adjutant Cassanbel.md"
 QR: adhero_61701

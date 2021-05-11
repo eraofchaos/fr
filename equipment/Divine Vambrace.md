@@ -2,7 +2,7 @@
 title: "Brassard divin"
 permalink: /equipment/Divine Vambrace/
 excerpt: "Era of Chaos Brassard divin. Brassard divin"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Divine Vambrace.md"
 toc: false

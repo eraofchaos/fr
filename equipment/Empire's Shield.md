@@ -2,7 +2,7 @@
 title: "Bouclier de l'Empire"
 permalink: /equipment/Empire's Shield/
 excerpt: "Era of Chaos Bouclier de l'Empire. Bouclier de l'Empire"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Empire's Shield.md"
 toc: false

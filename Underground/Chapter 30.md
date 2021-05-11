@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 30 Salut du roi"
 permalink: /Underground/Chapter 30/
 excerpt: "Chapitre 30 Salut du roi. Era of Chaos  Souterrain - Chapitre 30. Salut du roi"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 30.md"
 toc: false

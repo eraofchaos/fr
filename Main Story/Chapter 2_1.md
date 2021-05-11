@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-1 Les moulins rouges"
 permalink: /Main Story/Chapter 2_1/
 excerpt: "Chapitre 2 - 1. Era of Chaos  Histoire principale - Chapitre 2_1. 2-1 Les moulins rouges"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 2_1.md"
 toc: false

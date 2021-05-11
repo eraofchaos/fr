@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-2 La cabane en ruines"
 permalink: /Main Story/Chapter 30_2/
 excerpt: "Chapitre 30 - 2. Era of Chaos  Histoire principale - Chapitre 30_2. 30-2 La cabane en ruines"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 30_2.md"
 toc: false

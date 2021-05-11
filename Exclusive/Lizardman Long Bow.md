@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Homme-lézard Exclusif."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Lizardman Arc long.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Assaut
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

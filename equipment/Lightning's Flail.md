@@ -2,7 +2,7 @@
 title: "Fléau foudroyant"
 permalink: /equipment/Lightning's Flail/
 excerpt: "Era of Chaos Fléau foudroyant. Fléau foudroyant"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Lightning's Flail.md"
 toc: false

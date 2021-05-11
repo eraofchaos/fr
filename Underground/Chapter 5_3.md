@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 5 - 5-3 Longue vie à la reine !"
 permalink: /Underground/Chapter 5_3/
 excerpt: "Chapitre 5 - 3. Era of Chaos  Souterrain - Chapitre 5_3. 5-3 Longue vie à la reine !"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 5_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Maître de la terre"
 permalink: /Avatars/Ruler of Earth/
 excerpt: "Era of Chaos  Maître de la terre"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Ruler of Earth.md"
 toc: false

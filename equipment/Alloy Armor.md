@@ -2,7 +2,7 @@
 title: "Armure en alliage"
 permalink: /equipment/Alloy Armor/
 excerpt: "Era of Chaos Armure en alliage. Armure en alliage"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Alloy Armor.md"
 toc: false

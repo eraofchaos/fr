@@ -2,7 +2,7 @@
 title: "Artefact - Élixir de vie - Anneau de vitalité"
 permalink: /artifacts/Ring of Vitality/
 excerpt: "Era of Chaos  Élixir de vie - Anneau de vitalité. Un anneau qui confère de l'énergie. Composant de l'Élixir de vie."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Ring of Vitality.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 25 - 25-4 Récupération"
 permalink: /Underground/Chapter 25_4/
 excerpt: "Chapitre 25 - 4. Era of Chaos  Souterrain - Chapitre 25_4. 25-4 Récupération"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 25_4.md"
 toc: false

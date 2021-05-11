@@ -2,7 +2,7 @@
 title: "Frappe folle. Talent Ultime - Frappe folle"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "Era of Chaos Talent Ultime Frappe folle. Talent Ultime Frappe folle. Frappe folle"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Crazy Smite.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Nain Exclusif."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Dwarf Bouclier iris.md"
 toc: false

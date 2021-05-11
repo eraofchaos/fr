@@ -2,7 +2,7 @@
 title: "Griffes dentelées"
 permalink: /equipment/Serrated Claws/
 excerpt: "Era of Chaos Griffes dentelées. Griffes dentelées"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Serrated Claws.md"
 toc: false

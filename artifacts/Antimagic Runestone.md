@@ -2,7 +2,7 @@
 title: "Artefact - Pierre runique antimagie"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Era of Chaos  Pierre runique antimagie. Pierre runique antimagie Une pierre runique antimagie forgée à partir d'objets enchantés. Permet de résister aux dégâts des sorts."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Antimagic Runestone.md"
 toc: false

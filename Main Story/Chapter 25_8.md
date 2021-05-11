@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-8 Aux origines du souterrain"
 permalink: /Main Story/Chapter 25_8/
 excerpt: "Chapitre 25 - 8. Era of Chaos  Histoire principale - Chapitre 25_8. 25-8 Aux origines du souterrain"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 25_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-6 L'assassin du roi"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "Chapitre 21 - 6. Era of Chaos  Histoire principale - Chapitre 21_6. 21-6 L'assassin du roi"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 21_6.md"
 toc: false

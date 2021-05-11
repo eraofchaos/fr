@@ -2,7 +2,7 @@
 title: "Système de décollage"
 permalink: /equipment/Lift-off System/
 excerpt: "Era of Chaos Système de décollage. Système de décollage"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Lift-off System.md"
 toc: false

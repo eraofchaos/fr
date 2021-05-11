@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 7 - 7-2 Supplique de voisinage"
 permalink: /Underground/Chapter 7_2/
 excerpt: "Chapitre 7 - 2. Era of Chaos  Souterrain - Chapitre 7_2. 7-2 Supplique de voisinage"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 7_2.md"
 toc: false

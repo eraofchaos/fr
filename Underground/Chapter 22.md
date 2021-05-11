@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 22 Le chemin du retour"
 permalink: /Underground/Chapter 22/
 excerpt: "Chapitre 22 Le chemin du retour. Era of Chaos  Souterrain - Chapitre 22. Le chemin du retour"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 22.md"
 toc: false

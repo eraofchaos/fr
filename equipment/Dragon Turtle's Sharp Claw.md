@@ -2,7 +2,7 @@
 title: "Griffes tranchantes de Tortue dragon"
 permalink: /equipment/Dragon Turtle's Sharp Claw/
 excerpt: "Era of Chaos Griffes tranchantes de Tortue dragon. Griffes tranchantes de Tortue dragon"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Dragon Turtle's Sharp Claw.md"
 toc: false

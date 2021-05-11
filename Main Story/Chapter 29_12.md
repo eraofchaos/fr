@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-12 La falaise du Dragon vert"
 permalink: /Main Story/Chapter 29_12/
 excerpt: "Chapitre 29 - 12. Era of Chaos  Histoire principale - Chapitre 29_12. 29-12 La falaise du Dragon vert"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 29_12.md"
 toc: false

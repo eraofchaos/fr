@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 15 Un front uni"
 permalink: /Main Story/Chapter 15/
 excerpt: "Chapitre 15. Era of Chaos  Histoire principale - Chapitre 15. Un front uni"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 15.md"
 toc: false

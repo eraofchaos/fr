@@ -2,7 +2,7 @@
 title: "Avatar - Noël de glace"
 permalink: /Avatars/Ice Christmas/
 excerpt: "Era of Chaos  Noël de glace"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Ice Christmas.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Armure légère sinistre"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "Era of Chaos Armure légère sinistre. Armure légère sinistre"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Sinister Light Armor.md"
 toc: false

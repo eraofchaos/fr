@@ -2,7 +2,7 @@
 title: "Adjudant Korbac"
 permalink: /heroes/Adjutant Korbac/
 excerpt: "Era of Chaos  Adjudant Korbac"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Adjutant Korbac.md"
 QR: adhero_61502

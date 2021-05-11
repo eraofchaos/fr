@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Era of Chaos Exclusif Fortress. Exclusif Fortress. List of Exclusif Fortress in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Exclusive Fortress"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gnoll](/fr/units/Gnoll/) | [Épée](/fr/Exclusive/Gnoll Sword/) | - | Assaut | [Jeton Épée](/ItemsFR/con_912/) | - |
-  | 2  | [Homme-lézard](/fr/units/Lizardman/) | [Arc long](/fr/Exclusive/Lizardman Long Bow/) | - | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
+  | 2  | [Homme-lézard](/fr/units/Lizardman/) | [Arc long](/fr/Exclusive/Lizardman Long Bow/) | + | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
   | 3  | [Guêpe serpent](/fr/units/Serpent Fly/) | [Mélopée des arcanes](/fr/Exclusive/Serpent Fly Arcane Chant/) | + | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
   | 4  | [Basilic](/fr/units/Basilisk/) | [Queue de Basilic](/fr/Exclusive/Basilisk Basilisk's Tail/) | - | À distance | [Jeton Queue de Basilic](/ItemsFR/con_994/) | [Peau spéciale Énergie de feu](/ItemsFR/con_662/) |
   | 5  | [Gorgone](/fr/units/Gorgon/) | [Corne de Gorgone](/fr/Exclusive/Gorgon Gorgon's Horn/) | - | Soutien | [Jeton Corne de Gorgone](/ItemsFR/con_995/) | [Skin spécial Corne de Gorgone](/ItemsFR/con_663/) |

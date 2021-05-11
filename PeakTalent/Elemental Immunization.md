@@ -2,7 +2,7 @@
 title: "Immunisation élémentaire. Talent Ultime - Immunisation élémentaire"
 permalink: /PeakTalent/Elemental Immunization/
 excerpt: "Era of Chaos Talent Ultime Immunisation élémentaire. Talent Ultime Immunisation élémentaire. Immunisation élémentaire"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Elemental Immunization.md"
 toc: false

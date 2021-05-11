@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-4 Vision nocturne"
 permalink: /Main Story/Chapter 27_4/
 excerpt: "Chapitre 27 - 4. Era of Chaos  Histoire principale - Chapitre 27_4. 27-4 Vision nocturne"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 27_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bracelet noble"
 permalink: /equipment/Noble Bracelet/
 excerpt: "Era of Chaos Bracelet noble. Bracelet noble"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Noble Bracelet.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Homme-lézard"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Homme-lézard. Homme-lézard Unités. null. Era of Chaos Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Homme-lézard"
 toc: true
@@ -81,7 +81,7 @@ toc: true
 
  **Nom:** [Arc long](/fr/Exclusive/Lizardman Long Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Arc long](/ItemsFR/con_914/)
 

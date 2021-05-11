@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 29 - 29-2  Matador"
 permalink: /Underground/Chapter 29_2/
 excerpt: "Chapitre 29 - 2. Era of Chaos  Souterrain - Chapitre 29_2. 29-2  Matador"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 29_2.md"
 toc: false

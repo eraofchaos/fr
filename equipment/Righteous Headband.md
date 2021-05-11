@@ -2,7 +2,7 @@
 title: "Bandeau du juste"
 permalink: /equipment/Righteous Headband/
 excerpt: "Era of Chaos Bandeau du juste. Bandeau du juste"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Righteous Headband.md"
 toc: false

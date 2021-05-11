@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-8 Un Dragon arc-en-ciel"
 permalink: /Main Story/Chapter 22_8/
 excerpt: "Chapitre 22 - 8. Era of Chaos  Histoire principale - Chapitre 22_8. 22-8 Un Dragon arc-en-ciel"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 22_8.md"
 toc: false

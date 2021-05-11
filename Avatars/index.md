@@ -2,7 +2,7 @@
 title: "Cadre d'avatar et avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cadre d'avatar et avatar. Cadre d'avatar et avatar"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "index.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | 60 | ![Noël de glace](/images/a/avatarFrame_48.png) | [Noël de glace](/fr/Avatars/Ice Christmas/) | + | Cadre d'avatar Noël blanc |
   | 61 | ![Nécropole](/images/a/avatarFrame_13.png) | [Nécropole](/fr/Avatars/Necropolis/) | - | Cadre d'avatar Nécropole |
   | 62 | ![Née des cendres](/images/a/avatarFrame_76.png) | [Née des cendres](/fr/Avatars/Born from the Ashes/) | + | Cadre d'avatar Née des cendres |
-  | 63 | ![Ombre de la bête](/images/a/avatarFrame_79.png) | [Ombre de la bête](/fr/Avatars/Shadow of Beast/) | - | Cadre d'avatar Ombre de la bête |
+  | 63 | ![Ombre de la bête](/images/a/avatarFrame_79.png) | [Ombre de la bête](/fr/Avatars/Shadow of Beast/) | + | Cadre d'avatar Ombre de la bête |
   | 64 | ![Ombre des fantômes](/images/a/avatarFrame_78.png) | [Ombre des fantômes](/fr/Avatars/Shadow of Ghosts/) | - | Cadre d'avatar Ombre des fantômes |
   | 65 |  | [Ombre du dragon gelé](/fr/Avatars/Shadow of Ice Kingdom Dragon/) | - | Cadre d'avatar Ombre du dragon gelé |
   | 66 | ![Patrouilleur des mers](/images/a/avatarFrame_102.png) | [Patrouilleur des mers](/fr/Avatars/Patroller of the Sea/) | + | Cadre d'avatar Patrouilleur des mers |

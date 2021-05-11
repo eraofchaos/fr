@@ -3,7 +3,7 @@ title: "Ange"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Ange. Ange Unités. Archange. Era of Chaos Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Ange"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les Anges infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies au hasard et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
 ### Compétence normale 1 : Résurrection
- **Description:** <span style="color: #645252;font-size:20px">L'Ange ressuscite une de vos unités et lui rend </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Ange ressuscite une unité alliée et lui rend </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV. Cette compétence ne peut pas être réduite au silence.</span><span style="color: black">
 
 ### Compétence normale 2 : Radiance
  **Description:** <span style="color: #645252;font-size:20px">Lorsque les Anges sont sur le champ de bataille, toutes les unités alliées récupèrent des PV toutes les 2 secondes à hauteur de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max.</span><span style="color: black">

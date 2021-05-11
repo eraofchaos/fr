@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-4 L'échappée belle"
 permalink: /Main Story/Chapter 8_4/
 excerpt: "Chapitre 8 - 4. Era of Chaos  Histoire principale - Chapitre 8_4. 8-4 L'échappée belle"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 8_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Suaire d'Éden"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Era of Chaos  Pomme d'Éden - Suaire d'Éden. Le légendaire Suaire d'Éden. Il n'existe aucun moyen de vérifier son authenticité."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Shroud of Eden.md"
 toc: false

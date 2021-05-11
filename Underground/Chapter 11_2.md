@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 11 - 11-2 Joueurs clés"
 permalink: /Underground/Chapter 11_2/
 excerpt: "Chapitre 11 - 2. Era of Chaos  Souterrain - Chapitre 11_2. 11-2 Joueurs clés"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 11_2.md"
 toc: false

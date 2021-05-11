@@ -2,7 +2,7 @@
 title: "Manteau des ombres"
 permalink: /equipment/Shadow Cloak/
 excerpt: "Era of Chaos Manteau des ombres. Manteau des ombres"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Shadow Cloak.md"
 toc: false

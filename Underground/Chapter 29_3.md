@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 29 - 29-3  Assaut courageux"
 permalink: /Underground/Chapter 29_3/
 excerpt: "Chapitre 29 - 3. Era of Chaos  Souterrain - Chapitre 29_3. 29-3  Assaut courageux"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 29_3.md"
 toc: false

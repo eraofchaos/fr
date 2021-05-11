@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 Les régions frontalières"
 permalink: /Main Story/Chapter 8/
 excerpt: "Chapitre 8. Era of Chaos  Histoire principale - Chapitre 8. Les régions frontalières"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 8.md"
 toc: false

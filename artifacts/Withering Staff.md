@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre - Bâton de flétrissement"
 permalink: /artifacts/Withering Staff/
 excerpt: "Era of Chaos  Épée de givre - Bâton de flétrissement. Un bâton utilisé par une puissante Liche. Composant de l'Épée de givre."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Withering Staff.md"
 toc: false

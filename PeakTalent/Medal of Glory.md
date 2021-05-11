@@ -2,7 +2,7 @@
 title: "Médaille de gloire. Talent Ultime - Médaille de gloire"
 permalink: /PeakTalent/Medal of Glory/
 excerpt: "Era of Chaos Talent Ultime Médaille de gloire. Talent Ultime Médaille de gloire. Médaille de gloire"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Medal of Glory.md"
 toc: false

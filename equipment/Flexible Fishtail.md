@@ -2,7 +2,7 @@
 title: "Queue de poisson flexible"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "Era of Chaos Queue de poisson flexible. Queue de poisson flexible"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Flexible Fishtail.md"
 toc: false

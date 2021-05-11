@@ -2,7 +2,7 @@
 title: "Infos combinaison for Lenteur"
 permalink: /combination/Slow/
 excerpt: "Infos combinaison - Lenteur. Units and Heroes Formation."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Lenteur.md"
 toc: false

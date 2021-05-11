@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-13 Les qualités du sang de Dragon"
 permalink: /Main Story/Chapter 27_13/
 excerpt: "Chapitre 27 - 13. Era of Chaos  Histoire principale - Chapitre 27_13. 27-13 Les qualités du sang de Dragon"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 27_13.md"
 toc: false

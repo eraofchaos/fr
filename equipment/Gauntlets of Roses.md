@@ -2,7 +2,7 @@
 title: "Gantelets des roses"
 permalink: /equipment/Gauntlets of Roses/
 excerpt: "Era of Chaos Gantelets des roses. Gantelets des roses"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Gauntlets of Roses.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-14 Les ailes du papillon"
 permalink: /Main Story/Chapter 24_14/
 excerpt: "Chapitre 24 - 14. Era of Chaos  Histoire principale - Chapitre 24_14. 24-14 Les ailes du papillon"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 24_14.md"
 toc: false

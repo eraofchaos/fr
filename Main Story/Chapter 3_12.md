@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-12 La tour Redwood"
 permalink: /Main Story/Chapter 3_12/
 excerpt: "Chapitre 3 - 12. Era of Chaos  Histoire principale - Chapitre 3_12. 3-12 La tour Redwood"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "Chapter 3_12.md"
 toc: false

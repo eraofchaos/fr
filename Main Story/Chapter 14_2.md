@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-2 La mort de l'éclaireur"
 permalink: /Main Story/Chapter 14_2/
 excerpt: "Chapitre 14 - 2. Era of Chaos  Histoire principale - Chapitre 14_2. 14-2 La mort de l'éclaireur"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 14_2.md"
 toc: false

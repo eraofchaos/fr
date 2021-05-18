@@ -2,7 +2,7 @@
 title: "Cœur d'endurance. Talent Ultime - Cœur d'endurance"
 permalink: /PeakTalent/Heart of Endurance/
 excerpt: "Era of Chaos Talent Ultime Cœur d'endurance. Talent Ultime Cœur d'endurance. Cœur d'endurance"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Heart of Endurance.md"
 toc: false

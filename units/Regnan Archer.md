@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Arbalétrière de Regna. Arbalétrière de Regna Unités. null. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Arbalétrière de Regna"
 toc: true

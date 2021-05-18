@@ -2,7 +2,7 @@
 title: "Bracelets forgés"
 permalink: /equipment/Forged Bracers/
 excerpt: "Era of Chaos Bracelets forgés. Bracelets forgés"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Forged Bracers.md"
 toc: false

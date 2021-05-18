@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 15 Un front uni"
 permalink: /Underground/Chapter 15/
 excerpt: "Chapitre 15 Un front uni. Era of Chaos  Souterrain - Chapitre 15. Un front uni"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 15.md"
 toc: false

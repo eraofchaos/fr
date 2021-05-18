@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-7 Le tueur de Dragons"
 permalink: /Main Story/Chapter 23_7/
 excerpt: "Chapitre 23 - 7. Era of Chaos  Histoire principale - Chapitre 23_7. 23-7 Le tueur de Dragons"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 23_7.md"
 toc: false

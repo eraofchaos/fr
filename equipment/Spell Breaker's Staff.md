@@ -2,7 +2,7 @@
 title: "Bâton du briseur de sort"
 permalink: /equipment/Spell Breaker's Staff/
 excerpt: "Era of Chaos Bâton du briseur de sort. Bâton du briseur de sort"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Spell Breaker's Staff.md"
 toc: false

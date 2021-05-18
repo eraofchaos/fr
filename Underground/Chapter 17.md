@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 17 La libération de l'Empire"
 permalink: /Underground/Chapter 17/
 excerpt: "Chapitre 17 La libération de l'Empire. Era of Chaos  Souterrain - Chapitre 17. La libération de l'Empire"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 17.md"
 toc: false

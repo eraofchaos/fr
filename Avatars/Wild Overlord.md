@@ -2,7 +2,7 @@
 title: "Avatar - Seigneur de guerre sauvage"
 permalink: /Avatars/Wild Overlord/
 excerpt: "Era of Chaos  Seigneur de guerre sauvage"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Wild Overlord.md"
 toc: false

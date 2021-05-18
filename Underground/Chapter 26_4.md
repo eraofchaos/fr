@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 26 - 26-4 Reine des lames"
 permalink: /Underground/Chapter 26_4/
 excerpt: "Chapitre 26 - 4. Era of Chaos  Souterrain - Chapitre 26_4. 26-4 Reine des lames"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 26_4.md"
 toc: false

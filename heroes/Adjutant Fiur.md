@@ -2,7 +2,7 @@
 title: "Adjudant Fiur"
 permalink: /heroes/Adjutant Fiur/
 excerpt: "Era of Chaos  Adjudant Fiur"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Adjutant Fiur.md"
 QR: adhero_60704

@@ -2,7 +2,7 @@
 title: "Rune impérissable"
 permalink: /equipment/Evergreen Rune/
 excerpt: "Era of Chaos Rune impérissable. Rune impérissable"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Evergreen Rune.md"
 toc: false

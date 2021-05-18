@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-8 Avant l'aube"
 permalink: /Main Story/Chapter 13_8/
 excerpt: "Chapitre 13 - 8. Era of Chaos  Histoire principale - Chapitre 13_8. 13-8 Avant l'aube"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 13_8.md"
 toc: false

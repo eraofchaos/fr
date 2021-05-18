@@ -2,7 +2,7 @@
 title: "Peau durcie. Talent Ultime - Peau durcie"
 permalink: /PeakTalent/Hardened Skin/
 excerpt: "Era of Chaos Talent Ultime Peau durcie. Talent Ultime Peau durcie. Peau durcie"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Hardened Skin.md"
 toc: false

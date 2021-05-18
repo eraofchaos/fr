@@ -2,7 +2,7 @@
 title: "Bandeaux de Gorgone"
 permalink: /equipment/Gorgon Bands/
 excerpt: "Era of Chaos Bandeaux de Gorgone. Bandeaux de Gorgone"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Gorgon Bands.md"
 toc: false

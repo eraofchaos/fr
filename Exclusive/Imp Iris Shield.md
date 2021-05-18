@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Imp)"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Diablotin Exclusif."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Imp Bouclier iris.md"
 toc: false

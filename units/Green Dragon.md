@@ -3,7 +3,7 @@ title: "Dragon vert"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Dragon vert. Dragon vert Unités. Dragon d'or. Era of Chaos Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Dragon vert"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nom:** [Aile de dragon resplendissante](/fr/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Aile de dragon resplendissante](/ItemsFR/con_976/)
 

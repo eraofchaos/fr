@@ -2,7 +2,7 @@
 title: "Corne infernale"
 permalink: /equipment/Shell Horn/
 excerpt: "Era of Chaos Corne infernale. Corne infernale"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Shell Horn.md"
 toc: false

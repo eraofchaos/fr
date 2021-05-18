@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 11 - 11-5 Combat contre les Non-Morts"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Chapitre 11 - 5. Era of Chaos  Souterrain - Chapitre 11_5. 11-5 Combat contre les Non-Morts"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 11_5.md"
 toc: false

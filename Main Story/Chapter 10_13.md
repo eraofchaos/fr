@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-13 Une crise se prépare"
 permalink: /Main Story/Chapter 10_13/
 excerpt: "Chapitre 10 - 13. Era of Chaos  Histoire principale - Chapitre 10_13. 10-13 Une crise se prépare"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 10_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Hadès"
 permalink: /Avatars/Inferno/
 excerpt: "Era of Chaos  Hadès"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Inferno.md"
 toc: false

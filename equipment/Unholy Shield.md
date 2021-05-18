@@ -2,7 +2,7 @@
 title: "Bouclier profane"
 permalink: /equipment/Unholy Shield/
 excerpt: "Era of Chaos Bouclier profane. Bouclier profane"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Unholy Shield.md"
 toc: false

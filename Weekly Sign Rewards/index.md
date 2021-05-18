@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 22  Semaine du Château
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **31 May** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
+  | **1 Jun** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
+  | **2 Jun** | **3x [Spadassin](/ItemsFR/unt_193/)**  | Une escouade de Spadassins a rejoint votre armée et vous renforce ! |
+  | **3 Jun** | **3x [Griffon](/ItemsFR/unt_192/)**  | Une escouade de Griffons a rejoint votre armée et vous renforce ! |
+  | **4 Jun** | **3x [Moine](/ItemsFR/unt_194/)**  | Une escouade de Moines a rejoint votre armée et vous renforce ! |
+  | **5 Jun** | **3x [Cavalier ](/ItemsFR/unt_195/)**  | Une escouade de Cavaliers a rejoint votre armée et vous renforce ! |
+  | **6 Jun** | **5x [Adelaïde](/ItemsFR/her_359/)**  | Un Mage capable de contrôler la neige s'est rendu sur votre territoire ! |
+
 
 #### 2021 Week 21  Semaine de la Tour
 

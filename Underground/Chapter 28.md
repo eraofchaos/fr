@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 28 Tunnels et Troglodytes"
 permalink: /Underground/Chapter 28/
 excerpt: "Chapitre 28 Tunnels et Troglodytes. Era of Chaos  Souterrain - Chapitre 28. Tunnels et Troglodytes"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 28.md"
 toc: false

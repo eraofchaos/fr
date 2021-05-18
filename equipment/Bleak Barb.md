@@ -2,7 +2,7 @@
 title: "Pointe morne"
 permalink: /equipment/Bleak Barb/
 excerpt: "Era of Chaos Pointe morne. Pointe morne"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Bleak Barb.md"
 toc: false

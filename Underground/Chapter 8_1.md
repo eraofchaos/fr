@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 8 - 8-1 Stratégie"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Chapitre 8 - 1. Era of Chaos  Souterrain - Chapitre 8_1. 8-1 Stratégie"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 8_1.md"
 toc: false

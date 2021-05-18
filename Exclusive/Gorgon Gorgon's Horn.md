@@ -2,7 +2,7 @@
 title: "Exclusif - Corne de Gorgone (Gorgon)"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Corne de Gorgone. Corne de Gorgone. Era of Chaos Exclusif Corne de Gorgone. Gorgone Exclusif."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Gorgon Corne de Gorgone.md"
 toc: false

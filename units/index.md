@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "index.md"
 toc: false
@@ -44,7 +44,7 @@ classes: wide
   | 22 | ![Dragon noir](/images/u/ti_heilong.jpg) | [Dragon noir](/fr/units/Black Dragon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Roi Dragon noir  |
   | 23 | ![Dragon rouge](/images/u/ti_chilong.jpg) | [Dragon rouge](/fr/units/Red Dragon/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 24 | ![Dragon squelette](/images/u/ti_gulong.jpg) | [Dragon squelette](/fr/units/Bone Dragon/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Dragon fantôme  |
-  | 25 | ![Dragon vert](/images/u/ti_lvlong.jpg) | [Dragon vert](/fr/units/Green Dragon/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Dragon d'or  |
+  | 25 | ![Dragon vert](/images/u/ti_lvlong.jpg) | [Dragon vert](/fr/units/Green Dragon/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Dragon d'or  |
   | 26 | ![Druidesse](/images/u/ti_deluyi.jpg) | [Druidesse](/fr/units/Druid/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Archidruidesse  |
   | 27 | ![Démon](/images/u/ti_changjiaoemo.jpg) | [Démon](/fr/units/Demon/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Garde de l'Hadès  |
   | 28 | ![Démone de glace](/images/u/ti_bingmo.jpg) | [Démone de glace](/fr/units/Ice Demon/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |

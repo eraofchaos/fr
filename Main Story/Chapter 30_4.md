@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-4 L'Arbre de la connaissance"
 permalink: /Main Story/Chapter 30_4/
 excerpt: "Chapitre 30 - 4. Era of Chaos  Histoire principale - Chapitre 30_4. 30-4 L'Arbre de la connaissance"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 30_4.md"
 toc: false

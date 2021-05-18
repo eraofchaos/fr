@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 10 - 10-5 La renaissance du roi"
 permalink: /Underground/Chapter 10_5/
 excerpt: "Chapitre 10 - 5. Era of Chaos  Souterrain - Chapitre 10_5. 10-5 La renaissance du roi"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 10_5.md"
 toc: false

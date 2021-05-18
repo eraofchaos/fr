@@ -2,7 +2,7 @@
 title: "Boule électrique vacillante"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "Era of Chaos Boule électrique vacillante. Boule électrique vacillante"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Flickering Lightning Ball.md"
 toc: false

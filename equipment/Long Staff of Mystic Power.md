@@ -2,7 +2,7 @@
 title: "Grand bâton mystique"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "Era of Chaos Grand bâton mystique. Grand bâton mystique"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Long Staff of Mystic Power.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-4 Inébranlable"
 permalink: /Main Story/Chapter 5_4/
 excerpt: "Chapitre 5 - 4. Era of Chaos  Histoire principale - Chapitre 5_4. 5-4 Inébranlable"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 5_4.md"
 toc: false

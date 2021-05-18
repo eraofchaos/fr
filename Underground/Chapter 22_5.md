@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 22 - 22-5 Essence de vie"
 permalink: /Underground/Chapter 22_5/
 excerpt: "Chapitre 22 - 5. Era of Chaos  Souterrain - Chapitre 22_5. 22-5 Essence de vie"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 22_5.md"
 toc: false

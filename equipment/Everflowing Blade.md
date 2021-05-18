@@ -2,7 +2,7 @@
 title: "Lame transperçante"
 permalink: /equipment/Everflowing Blade/
 excerpt: "Era of Chaos Lame transperçante. Lame transperçante"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Everflowing Blade.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 Mer de glace"
 permalink: /Main Story/Chapter 12/
 excerpt: "Chapitre 12. Era of Chaos  Histoire principale - Chapitre 12. Mer de glace"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 12.md"
 toc: false

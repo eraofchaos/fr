@@ -2,7 +2,7 @@
 title: "Avatar - Scutelle de Foolbatt"
 permalink: /Avatars/Foolbatt's Squama/
 excerpt: "Era of Chaos  Scutelle de Foolbatt"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Foolbatt's Squama.md"
 toc: false

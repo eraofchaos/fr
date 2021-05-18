@@ -2,7 +2,7 @@
 title: "Crocs féroces"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Era of Chaos Crocs féroces. Crocs féroces"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Ferocious Fangs.md"
 toc: false

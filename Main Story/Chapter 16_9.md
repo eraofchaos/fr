@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-9 La cape de la grotte"
 permalink: /Main Story/Chapter 16_9/
 excerpt: "Chapitre 16 - 9. Era of Chaos  Histoire principale - Chapitre 16_9. 16-9 La cape de la grotte"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 16_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Seigneur des Abysses"
 permalink: /Avatars/Overlord of the Deep/
 excerpt: "Era of Chaos  Seigneur des Abysses"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Overlord of the Deep.md"
 toc: false

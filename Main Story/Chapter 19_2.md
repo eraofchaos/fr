@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-2 Les cruautés de l'Empire"
 permalink: /Main Story/Chapter 19_2/
 excerpt: "Chapitre 19 - 2. Era of Chaos  Histoire principale - Chapitre 19_2. 19-2 Les cruautés de l'Empire"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 19_2.md"
 toc: false

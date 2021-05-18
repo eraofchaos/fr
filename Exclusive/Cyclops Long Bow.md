@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Cyclope Exclusif."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Cyclops Arc long.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Arc long](/ItemsFR/con_914/) | <Lancer de rocher> : Lance des rochers qui infligent aux ennemis dans la zone visée une quantité de dégâts égale à 200 % des PV max. Cet effet peut être déclenché une fois toutes les 15 secondes. |
+  |  Réveil  | **100x** [Jeton Arc long](/ItemsFR/con_914/) | <Lancer de rocher> : Lance des rochers qui infligent aux ennemis dans la zone visée une quantité de dégâts égale à 120 % de son ATQ, et les étourdissent pendant 4 secondes. Cet effet peut être déclenché une fois toutes les 15 secondes. |
   | **1x** <i class="fas fa-star"/> | **50x** [Jeton Arc long](/ItemsFR/con_914/) | Vous permet d'utiliser <Lancer de rocher> une fois lorsque le Cyclope lance sa première attaque. |
   | **2x** <i class="fas fa-star"/> | **90x** [Jeton Arc long](/ItemsFR/con_914/) | Augmente la vitesse d'ATQ et les dégâts du Cyclope de 20 %. |
   | **3x** <i class="fas fa-star"/> | **130x** [Jeton Arc long](/ItemsFR/con_914/) | Lorsque ses PV passent en dessous de 30 % pour la première fois, le Cyclope déchaîne Trembleterre une fois, ce qui augmente sa vitesse d'ATQ de 25 % de façon permanente. |

@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre - Bâton des Limbes"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "Era of Chaos  Épée de givre - Bâton des Limbes. Un bâton suprêmement puissant, scellé à Deyja. Composant de l'Épée de givre."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Staff of the Netherworld.md"
 toc: false

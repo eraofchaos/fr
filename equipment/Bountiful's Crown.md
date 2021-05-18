@@ -2,7 +2,7 @@
 title: "Couronne lourde"
 permalink: /equipment/Bountiful's Crown/
 excerpt: "Era of Chaos Couronne lourde. Couronne lourde"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Bountiful's Crown.md"
 toc: false

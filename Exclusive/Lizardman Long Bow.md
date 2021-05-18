@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Homme-lézard Exclusif."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Lizardman Arc long.md"
 toc: false

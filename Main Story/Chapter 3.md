@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 Ange gardien"
 permalink: /Main Story/Chapter 3/
 excerpt: "Chapitre 3. Era of Chaos  Histoire principale - Chapitre 3. Ange gardien"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 3.md"
 toc: false

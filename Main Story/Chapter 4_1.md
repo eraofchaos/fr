@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-1 La tente bleue"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "Chapitre 4 - 1. Era of Chaos  Histoire principale - Chapitre 4_1. 4-1 La tente bleue"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Chapter 4_1.md"
 toc: false

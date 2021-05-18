@@ -2,7 +2,7 @@
 title: "Sort des arcanes. Talent Ultime - Sort des arcanes"
 permalink: /PeakTalent/Arcane Spell/
 excerpt: "Era of Chaos Talent Ultime Sort des arcanes. Talent Ultime Sort des arcanes. Sort des arcanes"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Arcane Spell.md"
 toc: false

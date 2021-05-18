@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Arch Mage)"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Archimage Exclusif."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Arch Mage Mélopée des arcanes.md"
 toc: false

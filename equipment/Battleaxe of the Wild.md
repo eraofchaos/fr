@@ -2,7 +2,7 @@
 title: "Hache sauvage"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "Era of Chaos Hache sauvage. Hache sauvage"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Battleaxe of the Wild.md"
 toc: false

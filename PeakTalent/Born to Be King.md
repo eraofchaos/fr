@@ -2,7 +2,7 @@
 title: "Né pour être roi. Talent Ultime - Né pour être roi"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Talent Ultime Né pour être roi. Talent Ultime Né pour être roi. Né pour être roi"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Born to Be King.md"
 toc: false

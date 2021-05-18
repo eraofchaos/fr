@@ -2,7 +2,7 @@
 title: "Épée des gladiateurs. Talent Ultime - Épée des gladiateurs"
 permalink: /PeakTalent/Sword of Gladiators/
 excerpt: "Era of Chaos Talent Ultime Épée des gladiateurs. Talent Ultime Épée des gladiateurs. Épée des gladiateurs"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Sword of Gladiators.md"
 toc: false

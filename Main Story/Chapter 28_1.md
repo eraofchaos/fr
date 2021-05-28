@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-1 Dans les abîmes"
 permalink: /Main Story/Chapter 28_1/
 excerpt: "Chapitre 28 - 1. Era of Chaos  Histoire principale - Chapitre 28_1. 28-1 Dans les abîmes"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 28_1.md"
 toc: false

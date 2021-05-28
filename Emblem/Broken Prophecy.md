@@ -2,7 +2,7 @@
 title: "Emblème sacré - Prophétie brisée"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Era of Chaos Prophétie brisée. Prophétie brisée. Era of Chaos Emblème sacré Prophétie brisée. Era of Chaos Mauvais Prophétie brisée"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Broken Prophecy.md"
 toc: false

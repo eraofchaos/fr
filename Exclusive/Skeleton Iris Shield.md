@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Skeleton)"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Squelette Exclusif."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Skeleton Bouclier iris.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Général invaincu sur le champ de bataille, Ciele fait partie des premiers Héros à avoir rejoint les rangs des Élémentaires. Elle s'est découvert une connexion avec eux à travers ses flèches magiques."
 heroID: 60705
 QR: hero_60705
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Ciele"
 toc: true

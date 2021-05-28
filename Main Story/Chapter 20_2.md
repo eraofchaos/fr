@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-2 Un désir de magie"
 permalink: /Main Story/Chapter 20_2/
 excerpt: "Chapitre 20 - 2. Era of Chaos  Histoire principale - Chapitre 20_2. 20-2 Un désir de magie"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 20_2.md"
 toc: false

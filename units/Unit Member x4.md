@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Unit Member x4"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 10 | ![Archimage](/images/u/ti_dafashi.jpg) | [Archimage](/fr/units/Arch Mage/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimage  |
   | 11 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 12 | ![Cauchemar](/images/u/ti_mengyanshou.jpg) | [Cauchemar](/fr/units/Nightmare/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Roi Cauchemar  |
-  | 13 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
+  | 13 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
   | 14 | ![Sirène](/images/u/ti_meirenyu.jpg) | [Sirène](/fr/units/Mermaid/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Croisé  |
   | 16 | ![Méduse](/images/u/ti_meidusha.jpg) | [Méduse](/fr/units/Medusa/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reine Méduse  |

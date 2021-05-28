@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-13 La guilde des mercenaires"
 permalink: /Main Story/Chapter 4_13/
 excerpt: "Chapitre 4 - 13. Era of Chaos  Histoire principale - Chapitre 4_13. 4-13 La guilde des mercenaires"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 4_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefact - Tonnerre des Titans"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Tonnerre des Titans. Tonnerre des Titans Une légendaire relique sacrée, forgée à partir de trésors des Géants. Fait tomber la foudre sur les ennemis."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Titan's Thunder.md"
 toc: false
@@ -43,14 +43,14 @@ classes: wide
 
  **Nom: Tonnerre des Titans**
 
- **Effect:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> points de dégâts d'air aux unités ennemies à portée.
+ **Effect:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies à portée.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
-  | **5** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
-  | **8** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
-  | **11** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
-  | **14** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
+  | **2** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
+  | **5** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
+  | **8** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies à portée. | 
+  | **11** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies dans un certain rayon et réduit la précision de la cible de 30 %. | 
+  | **14** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies dans un certain rayon. Inflige également des dégâts équivalents à 15 % des PV max et réduit la précision de la cible de 30 %. | 
   | **17** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies dans une large zone, et des dégâts additionnels équivalents à 15 % de leurs PV max. Réduit aussi leur précision de 30 % et leur inflige <span style="color: #e07c44;font-size:20px">Statique</span>. | 
   | **20** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> points de dégâts d'air aux unités ennemies dans une large zone, et des dégâts additionnels équivalents à 15 % de leurs PV max. Réduit aussi leur précision de 60 % et leur inflige <span style="color: #e07c44;font-size:20px">Statique</span>. | 

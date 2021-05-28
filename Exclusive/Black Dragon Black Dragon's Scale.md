@@ -2,7 +2,7 @@
 title: "Exclusif - Écaille de Dragon noir (Black Dragon)"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Écaille de Dragon noir. Écaille de Dragon noir. Era of Chaos Exclusif Écaille de Dragon noir. Dragon noir Exclusif."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Black Dragon Écaille de Dragon noir.md"
 toc: false

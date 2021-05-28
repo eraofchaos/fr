@@ -2,7 +2,7 @@
 title: "Boucles d'oreille du dirigeant"
 permalink: /equipment/Ruler's Earrings/
 excerpt: "Era of Chaos Boucles d'oreille du dirigeant. Boucles d'oreille du dirigeant"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Ruler's Earrings.md"
 toc: false

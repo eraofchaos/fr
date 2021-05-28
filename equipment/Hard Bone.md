@@ -2,7 +2,7 @@
 title: "Os solides"
 permalink: /equipment/Hard Bone/
 excerpt: "Era of Chaos Os solides. Os solides"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Hard Bone.md"
 toc: false

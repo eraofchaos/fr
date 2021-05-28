@@ -2,7 +2,7 @@
 title: "Sanguinaire. Talent Ultime - Sanguinaire"
 permalink: /PeakTalent/Bloodthirsty/
 excerpt: "Era of Chaos Talent Ultime Sanguinaire. Talent Ultime Sanguinaire. Sanguinaire"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Bloodthirsty.md"
 toc: false

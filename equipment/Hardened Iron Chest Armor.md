@@ -2,7 +2,7 @@
 title: "Plastron en fer renforcé"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "Era of Chaos Plastron en fer renforcé. Plastron en fer renforcé"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Hardened Iron Chest Armor.md"
 toc: false

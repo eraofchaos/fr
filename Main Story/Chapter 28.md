@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 Tunnels et Troglodytes"
 permalink: /Main Story/Chapter 28/
 excerpt: "Chapitre 28. Era of Chaos  Histoire principale - Chapitre 28. Tunnels et Troglodytes"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 28.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Âme du dragon"
 permalink: /Avatars/Dragon Soul/
 excerpt: "Era of Chaos  Âme du dragon"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Dragon Soul.md"
 toc: false

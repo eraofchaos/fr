@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Star 3"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
   | 15 | ![Diable](/images/u/ti_daemo.jpg) | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |
   | 16 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 17 | ![Cauchemar](/images/u/ti_mengyanshou.jpg) | [Cauchemar](/fr/units/Nightmare/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Roi Cauchemar  |
-  | 18 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
+  | 18 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
   | 19 | ![Sirène](/images/u/ti_meirenyu.jpg) | [Sirène](/fr/units/Mermaid/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 20 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/fr/units/Venom Spawn/) | Défense | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
   | 21 | ![Œil maléfique](/images/u/ti_xieyan.jpg) | [Œil maléfique](/fr/units/Beholder/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Œil démoniaque  |

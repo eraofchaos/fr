@@ -2,7 +2,7 @@
 title: "Avatar - Légende de l'herbe"
 permalink: /Avatars/Legend on the Grass/
 excerpt: "Era of Chaos  Légende de l'herbe"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Legend on the Grass.md"
 toc: false

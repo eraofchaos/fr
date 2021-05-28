@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-9 Les gîtes sylvains"
 permalink: /Main Story/Chapter 8_9/
 excerpt: "Chapitre 8 - 9. Era of Chaos  Histoire principale - Chapitre 8_9. 8-9 Les gîtes sylvains"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 8_9.md"
 toc: false

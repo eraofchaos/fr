@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Djinn. Djinn Unités. Génie. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Djinn"
 toc: true
@@ -186,7 +186,7 @@ toc: true
   ![Génie](/images/u/tia_shendeng.jpg)
 
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Génie
 

@@ -2,7 +2,7 @@
 title: "Corne ensorcelée"
 permalink: /equipment/Charmed Horn/
 excerpt: "Era of Chaos Corne ensorcelée. Corne ensorcelée"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Charmed Horn.md"
 toc: false

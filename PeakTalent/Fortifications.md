@@ -2,7 +2,7 @@
 title: "Fortifications. Talent Ultime - Fortifications"
 permalink: /PeakTalent/Fortifications/
 excerpt: "Era of Chaos Talent Ultime Fortifications. Talent Ultime Fortifications. Fortifications"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Fortifications.md"
 toc: false

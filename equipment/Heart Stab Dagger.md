@@ -2,7 +2,7 @@
 title: "Dague perce-cœur"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Era of Chaos Dague perce-cœur. Dague perce-cœur"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Heart Stab Dagger.md"
 toc: false

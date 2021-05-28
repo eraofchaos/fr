@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Era of Chaos Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Faction Castle"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Lancier](/images/u/ti_jibing.jpg) | [Lancier](/fr/units/Pikeman/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hallebardier  |
-  | 2 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Maître Arbalétrier  |
+  | 2 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maître Arbalétrier  |
   | 3 | ![Griffon](/images/u/ti_shijiu.jpg) | [Griffon](/fr/units/Griffin/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Griffon royal  |
   | 4 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Croisé  |
   | 5 | ![Moine](/images/u/ti_senglv.jpg) | [Moine](/fr/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zélote  |

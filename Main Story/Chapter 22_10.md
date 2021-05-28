@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-10 L'intersection"
 permalink: /Main Story/Chapter 22_10/
 excerpt: "Chapitre 22 - 10. Era of Chaos  Histoire principale - Chapitre 22_10. 22-10 L'intersection"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 22_10.md"
 toc: false

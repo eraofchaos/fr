@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Unit Class Caster"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Effrit](/images/u/ti_liehuojingling.jpg) | [Effrit](/fr/units/Efreeti/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultan Effrit  |
   | 6 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Élémentaire des marées  |
   | 7 | ![Archimage](/images/u/ti_dafashi.jpg) | [Archimage](/fr/units/Arch Mage/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimage  |
-  | 8 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
+  | 8 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
   | 9 | ![Sirène](/images/u/ti_meirenyu.jpg) | [Sirène](/fr/units/Mermaid/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 10 | ![Œil maléfique](/images/u/ti_xieyan.jpg) | [Œil maléfique](/fr/units/Beholder/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Œil démoniaque  |
   | 11 | ![Géant](/images/u/ti_taitan.jpg) | [Géant](/fr/units/Giant/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |

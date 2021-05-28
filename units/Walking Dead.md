@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Trépassé. Trépassé Unités. Zombie. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Trépassé"
 toc: true

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-11 La guilde de l'Œil maléfique"
 permalink: /Main Story/Chapter 26_11/
 excerpt: "Chapitre 26 - 11. Era of Chaos  Histoire principale - Chapitre 26_11. 26-11 La guilde de l'Œil maléfique"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 26_11.md"
 toc: false

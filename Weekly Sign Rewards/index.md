@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 23  Semaine du Conflux
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **7 Jun** | **5x [Fée](/ItemsFR/unt_262/)**  | Une escouade de Fées a rejoint votre armée et vous renforce ! |
+  | **8 Jun** | **3x [Élémentaire de glace](/ItemsFR/unt_264/)**  | Une escouade d'Élémentaires de glace a rejoint votre armée et vous renforce ! |
+  | **9 Jun** | **100x <i class="fas fa-gem"/>**  | Les créatures du Plan du Conflux vous offrent un petit amas de diamants ! |
+  | **10 Jun** | **3x [Élémentaire de pierre](/ItemsFR/unt_266/)**  | Une escouade d'Élémentaires de pierre a rejoint votre armée et vous renforce ! |
+  | **11 Jun** | **3x [Élémentaire de tempête](/ItemsFR/unt_263/)**  | Une escouade d'Élémentaires de tempête a rejoint votre armée et vous renforce ! |
+  | **12 Jun** | **5x [Coffre (Conflux)](/ItemsFR/con_1275/)**  | Vos troupes vous ont rapporté plusieurs coffres imprégnés de pouvoir élémentaire ! |
+  | **13 Jun** | **5x [Luna](/ItemsFR/her_378/)**  | La puissance élémentaire rassemblée dans votre territoire a poussé un Mage élémentaire à vous rendre une visite ! |
+
 
 #### 2021 Week 22  Semaine du Château
 

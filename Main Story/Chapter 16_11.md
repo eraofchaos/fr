@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-11 Le masque de pierre"
 permalink: /Main Story/Chapter 16_11/
 excerpt: "Chapitre 16 - 11. Era of Chaos  Histoire principale - Chapitre 16_11. 16-11 Le masque de pierre"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chapter 16_11.md"
 toc: false

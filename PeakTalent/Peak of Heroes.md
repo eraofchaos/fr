@@ -2,7 +2,7 @@
 title: "Pic des Héros. Talent Ultime - Pic des Héros"
 permalink: /PeakTalent/Peak of Heroes/
 excerpt: "Era of Chaos Talent Ultime Pic des Héros. Talent Ultime Pic des Héros. Pic des Héros"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Peak of Heroes.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Cauchemar. Cauchemar Unités. Roi Cauchemar. Era of Chaos Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Cauchemar"
 toc: true

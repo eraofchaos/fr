@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "index.md"
 toc: false
@@ -39,7 +39,7 @@ classes: wide
   | 17 | ![Cyclope](/images/u/ti_duyanjuren.jpg) | [Cyclope](/fr/units/Cyclops/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Roi Cyclope  |
   | 18 | ![Diable](/images/u/ti_daemo.jpg) | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |
   | 19 | ![Diablotin](/images/u/ti_xiaoemo.jpg) | [Diablotin](/fr/units/Imp/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familier  |
-  | 20 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
+  | 20 | ![Djinn](/images/u/ti_shenguai.jpg) | [Djinn](/fr/units/Genie/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Génie  |
   | 21 | ![Dompteur de requins](/images/u/ti_xunshashi.jpg) | [Dompteur de requins](/fr/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Chevaucheur de requins  |
   | 22 | ![Dragon noir](/images/u/ti_heilong.jpg) | [Dragon noir](/fr/units/Black Dragon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Roi Dragon noir  |
   | 23 | ![Dragon rouge](/images/u/ti_chilong.jpg) | [Dragon rouge](/fr/units/Red Dragon/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
@@ -60,7 +60,7 @@ classes: wide
   | 38 | ![Golem de fer](/images/u/ti_tieren.jpg) | [Golem de fer](/fr/units/Iron Golem/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Golem d'or  |
   | 39 | ![Golem dragon](/images/u/ti_kuileilong.jpg) | [Golem dragon](/fr/units/Dragon Golem/) | Défense | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 40 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/fr/units/Gorgon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Grande Gorgone  |
-  | 41 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Maître Arbalétrier  |
+  | 41 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maître Arbalétrier  |
   | 42 | ![Griffon](/images/u/ti_shijiu.jpg) | [Griffon](/fr/units/Griffin/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Griffon royal  |
   | 43 | ![Guerriers spartiates](/images/u/ti_sibada.jpg) | [Guerriers spartiates](/fr/units/Spartan Warriors/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
   | 44 | ![Guêpe serpent](/images/u/ti_longying.jpg) | [Guêpe serpent](/fr/units/Serpent Fly/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Guêpe dragon  |

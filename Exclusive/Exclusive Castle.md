@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Exclusif Castle. Exclusif Castle. List of Exclusif Castle in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Exclusive Castle"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Lancier](/fr/units/Pikeman/) | [Épée](/fr/Exclusive/Pikeman Sword/) | - | Assaut | [Jeton Épée](/ItemsFR/con_912/) | - |
-  | 2  | [Grand Arbalétrier](/fr/units/Marksman/) | [Arc long](/fr/Exclusive/Marksman Long Bow/) | - | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
+  | 2  | [Grand Arbalétrier](/fr/units/Marksman/) | [Arc long](/fr/Exclusive/Marksman Long Bow/) | + | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
   | 3  | [Griffon](/fr/units/Griffin/) | [Pic du Chevalier](/fr/Exclusive/Griffin Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
   | 4  | [Spadassin](/fr/units/Swordsman/) | [Bouclier iris](/fr/Exclusive/Swordsman Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
   | 5  | [Moine](/fr/units/Monk/) | [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |

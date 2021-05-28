@@ -3,7 +3,7 @@ title: "Chien de l'Enfer"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Chien de l'Enfer. Chien de l'Enfer Unités. null. Era of Chaos Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage."
 unitID: 503
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Chien de l'Enfer"
 toc: true

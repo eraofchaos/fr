@@ -2,7 +2,7 @@
 title: "Gantelets crâniens"
 permalink: /equipment/Cranial Gauntlets/
 excerpt: "Era of Chaos Gantelets crâniens. Gantelets crâniens"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "Cranial Gauntlets.md"
 toc: false

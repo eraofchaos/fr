@@ -2,7 +2,7 @@
 title: "Cœur d'arcane"
 permalink: /equipment/Arcane Heart/
 excerpt: "Era of Chaos Cœur d'arcane. Cœur d'arcane"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Arcane Heart.md"
 toc: false

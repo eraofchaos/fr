@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Djinn. Djinn Unités. Génie. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Djinn"
 toc: true
@@ -92,6 +92,7 @@ toc: true
 ## Emblèmes sacrés recommandés
 
 * [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Source d'immortalité](/fr/Emblem/Spring of Immortality/) (Bonté)
 * [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Infos combinaison

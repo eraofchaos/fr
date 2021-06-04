@@ -2,7 +2,7 @@
 title: "Pierres du rêveur"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "Era of Chaos Pierres du rêveur. Pierres du rêveur"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Dreamer's Stones.md"
 toc: false

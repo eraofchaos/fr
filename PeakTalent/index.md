@@ -2,7 +2,7 @@
 title: "Talent Ultime"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Talent Ultime. Talent Ultime. Les talents ultimes seront disponibles au niv. 110."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "index.md"
 toc: false
@@ -107,6 +107,13 @@ sidebar:
   | 1 | ![Épée de gloire](/images/pt/talent_4201.png) | [Épée de gloire](/fr/PeakTalent/Sword of Glory/) | La gloire appartient aux gladiateurs combattants et habiles. |
   | 2 | ![Bouclier de gloire](/images/pt/talent_4202.png) | [Bouclier de gloire](/fr/PeakTalent/Shield of Glory/) | La gloire appartient aux gladiateurs pouvant résister à toutes les attaques. |
   | 3 | ![Médaille de gloire](/images/pt/talent_4203.png) | [Médaille de gloire](/fr/PeakTalent/Medal of Glory/) | La gloire appartient aux gladiateurs intrépides. |
+
+
+  | Nr | Icon | Nom | Description |
+  |:---|------|:-----------|:-----------|
+  | 1 | ![Épée des Lords](/images/pt/talent_4301.png) | [Épée des Lords](/fr/PeakTalent/Sword of Lords/) | La victoire appartient aux seigneurs combattants et habiles. |
+  | 2 | ![Bouclier des Lords](/images/pt/talent_4302.png) | [Bouclier des Lords](/fr/PeakTalent/Shield of Lords/) | La victoire appartient aux seigneurs pouvant résister à toutes les attaques. |
+  | 3 | ![Médaille des Lords](/images/pt/talent_4303.png) | [Médaille des Lords](/fr/PeakTalent/Medal of Lords/) | La victoire appartient aux seigneurs intrépides. |
 
 
   | Nr | Icon | Nom | Description |

@@ -2,7 +2,7 @@
 title: "Fouet infernal"
 permalink: /equipment/Hellish Whip/
 excerpt: "Era of Chaos Fouet infernal. Fouet infernal"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Hellish Whip.md"
 toc: false

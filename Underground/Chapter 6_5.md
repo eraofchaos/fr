@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 6 - 6-5 Mission accomplie"
 permalink: /Underground/Chapter 6_5/
 excerpt: "Chapitre 6 - 5. Era of Chaos  Souterrain - Chapitre 6_5. 6-5 Mission accomplie"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 6_5.md"
 toc: false

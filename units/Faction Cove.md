@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Faction Cove"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 2 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstre marin ancestral  |
   | 3 | ![Dompteur de requins](/images/u/ti_xunshashi.jpg) | [Dompteur de requins](/fr/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Chevaucheur de requins  |
   | 4 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
-  | 5 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Élémentaire des marées  |
+  | 5 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Élémentaire des marées  |
   | 6 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 7 | ![Sirène](/images/u/ti_meirenyu.jpg) | [Sirène](/fr/units/Mermaid/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 8 | ![Tortue dragon](/images/u/ti_longgui.jpg) | [Tortue dragon](/fr/units/Dragon Turtle/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tortue dragon primaire  |

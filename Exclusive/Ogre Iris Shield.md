@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Ogre Exclusif."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Ogre Bouclier iris.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Boucher. Talent Ultime - Boucher"
 permalink: /PeakTalent/Butcher/
 excerpt: "Era of Chaos Talent Ultime Boucher. Talent Ultime Boucher. Boucher"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Butcher.md"
 toc: false

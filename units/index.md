@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "index.md"
 toc: false
@@ -76,7 +76,7 @@ classes: wide
   | 54 | ![Mante religieuse](/images/u/ti_tanglang.jpg) | [Mante religieuse](/fr/units/Mantis/) | Offensive | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
   | 55 | ![Manticore](/images/u/ti_shixie.jpg) | [Manticore](/fr/units/Manticore/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicore  |
   | 56 | ![Minotaure](/images/u/ti_niutouguai.jpg) | [Minotaure](/fr/units/Minotaur/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Roi Minotaure  |
-  | 57 | ![Moine](/images/u/ti_senglv.jpg) | [Moine](/fr/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zélote  |
+  | 57 | ![Moine](/images/u/ti_senglv.jpg) | [Moine](/fr/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zélote  |
   | 58 | ![Momie](/images/u/ti_munaiyi.jpg) | [Momie](/fr/units/Mummy/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Roi Momie  |
   | 59 | ![Méduse](/images/u/ti_meidusha.jpg) | [Méduse](/fr/units/Medusa/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reine Méduse  |
   | 60 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/fr/units/Naga/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Reine Naga  |
@@ -108,7 +108,7 @@ classes: wide
   | 86 | ![Élémentaire de feu](/images/u/ti_liehuoyuansu.jpg) | [Élémentaire de feu](/fr/units/Fire Elemental/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Élémentaire d'énergie  |
   | 87 | ![Élémentaire de glace](/images/u/ti_bingyuansu2.jpg) | [Élémentaire de glace](/fr/units/Ice Elemental/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Esprit de la neige silencieux  |
   | 88 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Élémentaire de magie  |
-  | 89 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Élémentaire des marées  |
+  | 89 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Élémentaire des marées  |
   | 90 | ![Élémentaire de pierre](/images/u/ti_shiyuansu.jpg) | [Élémentaire de pierre](/fr/units/Stone Elemental/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
   | 91 | ![Élémentaire de tempête](/images/u/ti_leiyuansu2.jpg) | [Élémentaire de tempête](/fr/units/Storm Elemental/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Orage  |
   | 92 | ![Œil maléfique](/images/u/ti_xieyan.jpg) | [Œil maléfique](/fr/units/Beholder/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Œil démoniaque  |

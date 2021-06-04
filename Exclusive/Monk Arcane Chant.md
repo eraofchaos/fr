@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Moine Exclusif."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Monk Mélopée des arcanes.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Assaut
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 

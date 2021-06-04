@@ -2,7 +2,7 @@
 title: "Emblème sacré - Orgueil"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Orgueil. Orgueil. Era of Chaos Emblème sacré Orgueil. Era of Chaos Chaos Orgueil"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Arrogance.md"
 toc: false

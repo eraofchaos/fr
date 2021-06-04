@@ -2,7 +2,7 @@
 title: "Agresseur. Talent Ultime - Agresseur"
 permalink: /PeakTalent/Aggressor/
 excerpt: "Era of Chaos Talent Ultime Agresseur. Talent Ultime Agresseur. Agresseur"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Aggressor.md"
 toc: false

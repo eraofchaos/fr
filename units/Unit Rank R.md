@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Unit Rank R"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | 1 | ![Diablotin](/images/u/ti_xiaoemo.jpg) | [Diablotin](/fr/units/Imp/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familier  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/fr/units/Gog/) | Lanceur de sorts | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 3 | ![Lutin](/images/u/ti_xiaoyaojing.jpg) | [Lutin](/fr/units/Gremlin/) | À distance | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 4 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Élémentaire des marées  |
+  | 4 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Élémentaire des marées  |
   | 5 | ![Lancier](/images/u/ti_jibing.jpg) | [Lancier](/fr/units/Pikeman/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hallebardier  |
   | 6 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maître Arbalétrier  |
   | 7 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/fr/units/Troglodyte/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodyte des ténèbres  |

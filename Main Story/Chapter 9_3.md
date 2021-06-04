@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-3 Retenus"
 permalink: /Main Story/Chapter 9_3/
 excerpt: "Chapitre 9 - 3. Era of Chaos  Histoire principale - Chapitre 9_3. 9-3 Retenus"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 9_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Exclusif Castle. Exclusif Castle. List of Exclusif Castle in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Exclusive Castle"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 2  | [Grand Arbalétrier](/fr/units/Marksman/) | [Arc long](/fr/Exclusive/Marksman Long Bow/) | + | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
   | 3  | [Griffon](/fr/units/Griffin/) | [Pic du Chevalier](/fr/Exclusive/Griffin Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
   | 4  | [Spadassin](/fr/units/Swordsman/) | [Bouclier iris](/fr/Exclusive/Swordsman Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
-  | 5  | [Moine](/fr/units/Monk/) | [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
+  | 5  | [Moine](/fr/units/Monk/) | [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) | + | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
   | 6  | [Cavalier](/fr/units/Cavalier/) | [Pic du Chevalier](/fr/Exclusive/Cavalier Knight Pike/) | + | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
   | 7  | [Ange](/fr/units/Angel/) | [Durandel](/fr/Exclusive/Angel Durandel/) | - | Soutien | [Jeton Durandel](/ItemsFR/con_973/) | [Skin spécial Durandel](/ItemsFR/con_641/) |
   | 8  | [Paladin](/fr/units/Paladin/) | [](/fr/Exclusive/Paladin /) | - | Soutien | [Jeton Intrépide](/ItemsFR/con_974/) | [Skin spécial Intrépide](/ItemsFR/con_642/) |

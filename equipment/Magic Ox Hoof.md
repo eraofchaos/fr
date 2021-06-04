@@ -2,7 +2,7 @@
 title: "Sabot de bœuf magique"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Era of Chaos Sabot de bœuf magique. Sabot de bœuf magique"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Magic Ox Hoof.md"
 toc: false

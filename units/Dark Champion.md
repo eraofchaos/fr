@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Champion des ténèbres. Champion des ténèbres Unités. null. Era of Chaos C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Champion des ténèbres"
 toc: true

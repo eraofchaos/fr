@@ -2,7 +2,7 @@
 title: "Avatar - Furie de la nature"
 permalink: /Avatars/Fury of the Wilderness/
 excerpt: "Era of Chaos  Furie de la nature"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Fury of the Wilderness.md"
 toc: false

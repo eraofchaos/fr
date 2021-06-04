@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-3 La source de Pégase"
 permalink: /Main Story/Chapter 30_3/
 excerpt: "Chapitre 30 - 3. Era of Chaos  Histoire principale - Chapitre 30_3. 30-3 La source de Pégase"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 30_3.md"
 toc: false

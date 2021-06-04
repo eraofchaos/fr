@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Guêpe serpent Exclusif."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Serpent Fly Mélopée des arcanes.md"
 toc: false

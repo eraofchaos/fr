@@ -2,7 +2,7 @@
 title: "Formation de combat Nécropole"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "Formation de combat Nécropole"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "BattleFormationFactionNecropolis"
 toc: false

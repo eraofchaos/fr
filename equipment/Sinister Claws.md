@@ -2,7 +2,7 @@
 title: "Griffes sinistres"
 permalink: /equipment/Sinister Claws/
 excerpt: "Era of Chaos Griffes sinistres. Griffes sinistres"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Sinister Claws.md"
 toc: false

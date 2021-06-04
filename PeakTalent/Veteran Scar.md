@@ -2,7 +2,7 @@
 title: "Cicatrice de vétéran. Talent Ultime - Cicatrice de vétéran"
 permalink: /PeakTalent/Veteran Scar/
 excerpt: "Era of Chaos Talent Ultime Cicatrice de vétéran. Talent Ultime Cicatrice de vétéran. Cicatrice de vétéran"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Veteran Scar.md"
 toc: false

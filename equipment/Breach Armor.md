@@ -2,7 +2,7 @@
 title: "Armure de brèche"
 permalink: /equipment/Breach Armor/
 excerpt: "Era of Chaos Armure de brèche. Armure de brèche"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Breach Armor.md"
 toc: false

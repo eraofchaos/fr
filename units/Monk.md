@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Moine. Moine Unités. Zélote. Era of Chaos Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Moine"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nom:** [Mélopée des arcanes](/fr/Exclusive/Monk Arcane Chant/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Mélopée des arcanes](/ItemsFR/con_915/)
 
@@ -95,6 +95,7 @@ toc: true
 
 * [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
 * [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Source d'immortalité](/fr/Emblem/Spring of Immortality/) (Bonté)
 
 ## Infos combinaison
 

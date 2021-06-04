@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Adjudicatrice. Adjudicatrice Unités. null. Era of Chaos Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Adjudicatrice"
 toc: true
@@ -89,6 +89,7 @@ toc: true
 
 * [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
 * [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Source d'immortalité](/fr/Emblem/Spring of Immortality/) (Bonté)
 
 ## Infos combinaison
 

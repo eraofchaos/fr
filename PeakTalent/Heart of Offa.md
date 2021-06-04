@@ -2,7 +2,7 @@
 title: "Cœur d'Offa. Talent Ultime - Cœur d'Offa"
 permalink: /PeakTalent/Heart of Offa/
 excerpt: "Era of Chaos Talent Ultime Cœur d'Offa. Talent Ultime Cœur d'Offa. Cœur d'Offa"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Heart of Offa.md"
 toc: false

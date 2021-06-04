@@ -2,7 +2,7 @@
 title: "Artefact - Armure du Damné - Casque noir"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Era of Chaos  Armure du Damné - Casque noir. Un casque trouvé dans les profondeurs de l'enfer. Composant de l'Armure du Damné."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Skull Helmet.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Description:** Un casque trouvé dans les profondeurs de l'enfer. Composant de l'Armure du Damné.
 
- **Part of Artifact:** ![Armure du Damné](/images/t/icon_artifact_30.png) [Armure du Damné](/fr/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armure du Damné](/images/t/icon_artifact_30.png) [Armure du Damné](/fr/artifacts/Armor of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essence d'artefact](/ItemsFR/con_905/)
 

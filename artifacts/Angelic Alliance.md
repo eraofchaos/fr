@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Alliance angélique. Alliance angélique Une relique sacrée forgée par la puissance angélique à partir d'objets précieux. Augmente la puissance de vos alliés."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Angelic Alliance.md"
 toc: false
@@ -51,8 +51,8 @@ classes: wide
   |:--------|:----------------| 
   | **2** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> et leur vitesse de déplacement de 30 ; l'effet dure 20 secondes. | 
   | **5** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> et leur vitesse de déplacement de 30 ; l'effet dure 20 secondes. | 
-  | **8** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> et leur vitesse de déplacement de 30 ; l'effet dure 40 secondes. | 
-  | **11** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> et leur vitesse de déplacement de 30 ; l'effet dure 40 secondes. | 
-  | **14** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> et leur vitesse de déplacement de 30 ; l'effet dure 40 secondes. | 
-  | **17** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> et leur vitesse de déplacement de 30 ; l'effet dure 40 secondes. | 
-  | **20** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> et leur vitesse de déplacement de 30 ; l'effet dure 40 secondes. | 
+  | **8** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span> et leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span>. L'effet dure 40 secondes. | 
+  | **11** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span> et leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span>. L'effet dure 40 secondes. | 
+  | **14** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span> et leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span>. L'effet dure 40 secondes. | 
+  | **17** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span> et leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span>. L'effet dure 40 secondes. | 
+  | **20** | Augmente l'attaque des unités alliées de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span> et leur vitesse d'attaque de <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span>. L'effet dure 40 secondes. | 

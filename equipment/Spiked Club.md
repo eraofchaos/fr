@@ -2,7 +2,7 @@
 title: "Gourdin à pointes"
 permalink: /equipment/Spiked Club/
 excerpt: "Era of Chaos Gourdin à pointes. Gourdin à pointes"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Spiked Club.md"
 toc: false

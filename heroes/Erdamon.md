@@ -4,7 +4,7 @@ permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, ancien Roi du magma, dormait depuis des siècles dans les montagnes à la frontière d'Eeofol. Il est maintenant sorti de son sommeil pour rejoindre les Élémentaires, très enthousiaste à l'idée de se battre pour débarrasser le monde des Kreegans."
 heroID: 60703
 QR: hero_60703
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Erdamon"
 toc: true

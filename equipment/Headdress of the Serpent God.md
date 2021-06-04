@@ -2,7 +2,7 @@
 title: "Coiffe du dieu serpent"
 permalink: /equipment/Headdress of the Serpent God/
 excerpt: "Era of Chaos Coiffe du dieu serpent. Coiffe du dieu serpent"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Headdress of the Serpent God.md"
 toc: false

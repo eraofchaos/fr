@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-7 Jamais esclave"
 permalink: /Main Story/Chapter 21_7/
 excerpt: "Chapitre 21 - 7. Era of Chaos  Histoire principale - Chapitre 21_7. 21-7 Jamais esclave"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 21_7.md"
 toc: false

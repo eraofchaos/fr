@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Dragon rouge. Dragon rouge Unités. null. Era of Chaos C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Dragon rouge"
 toc: true

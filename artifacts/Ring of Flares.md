@@ -2,7 +2,7 @@
 title: "Artefact - Codex de l'Archimage - Anneau d'éclat"
 permalink: /artifacts/Ring of Flares/
 excerpt: "Era of Chaos  Codex de l'Archimage - Anneau d'éclat. Un anneau à la surface duquel de la magie circule. L'un des Codex de l'Archimage."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Ring of Flares.md"
 toc: false

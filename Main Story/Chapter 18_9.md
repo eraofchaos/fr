@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-9 L'anneau elfique"
 permalink: /Main Story/Chapter 18_9/
 excerpt: "Chapitre 18 - 9. Era of Chaos  Histoire principale - Chapitre 18_9. 18-9 L'anneau elfique"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 18_9.md"
 toc: false

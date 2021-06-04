@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-3 Une faction neutre"
 permalink: /Main Story/Chapter 12_3/
 excerpt: "Chapitre 12 - 3. Era of Chaos  Histoire principale - Chapitre 12_3. 12-3 Une faction neutre"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 12_3.md"
 toc: false

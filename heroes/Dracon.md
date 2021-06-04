@@ -4,7 +4,7 @@ permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon est considéré comme un prodige de la magie par bon nombre de ses aînés. Son but dans la vie est de devenir le plus grand chasseur de dragons de l'histoire."
 heroID: 61202
 QR: hero_61202
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Dracon"
 toc: true

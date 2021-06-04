@@ -2,7 +2,7 @@
 title: "Griffe magique"
 permalink: /equipment/Magic Claw/
 excerpt: "Era of Chaos Griffe magique. Griffe magique"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Magic Claw.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Progéniture venimeuse"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Progéniture venimeuse. Progéniture venimeuse Unités. null. Era of Chaos Ces démons sont nés des flammes et des ombres des tréfonds de l'enfer. La légende raconte que ce sont les effroyables cauchemars qui calcinent les champs de bataille de leurs flammes karmiques du péché."
 unitID: 509
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Progéniture venimeuse"
 toc: true

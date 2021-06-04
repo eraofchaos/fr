@@ -2,7 +2,7 @@
 title: "Emblème sacré"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Les Emblèmes sacrés augmentent considérablement la puissance des unités qui les équipent. Plusieurs combinaisons d'Emblèmes sacrés sont possibles, selon leur qualité et les factions auxquelles ils appartiennent, et elles octroient des caractéristiques supplémentaires exceptionnelles."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "index.md"
 toc: false
@@ -27,28 +27,30 @@ classes: wide
   | 5 | ![Jeton d'Aksoe](/images/r/rune_icon_303.png) | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) | Neutre | À incruster en priorité aux unités qui infligent Lenteur | 
   | 6 | ![Orgueil](/images/r/rune_icon_402.png) | [Orgueil](/fr/Emblem/Arrogance/) | Chaos | À incruster en priorité aux unités DPS | 
   | 7 | ![Sanctuaire de Kosmos](/images/r/rune_icon_307.png) | [Sanctuaire de Kosmos](/fr/Emblem/Sanctuary of Kosmos/) | Ordre | À incruster en priorité aux unités défensives | 
-  | 8 | ![Autonyme oublié](/images/r/rune_icon_501.png) | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/) | Mauvais | Convient à toutes les unités | 
-  | 9 | ![Culpabilité de Tarnum](/images/r/rune_icon_305.png) | [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/) | Neutre | Convient à toutes les unités | 
-  | 10 | ![Avarice](/images/r/rune_icon_404.png) | [Avarice](/fr/Emblem/Greed/) | Chaos | À incruster en priorité aux unités défensives | 
-  | 11 | ![Bénédiction de la reine](/images/r/rune_icon_105.png) | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) | Ordre | À incruster en priorité aux unités défensives | 
-  | 12 | ![Prophète vert](/images/r/rune_icon_204.png) | [Prophète vert](/fr/Emblem/Green Prophet/) | Bonté | Convient à toutes les unités | 
-  | 13 | ![Prophétie brisée](/images/r/rune_icon_503.png) | [Prophétie brisée](/fr/Emblem/Broken Prophecy/) | Mauvais | À incruster en priorité aux unités de 9 combattants | 
-  | 14 | ![Héritage des Ironfist](/images/r/rune_icon_103.png) | [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) | Ordre | À incruster en priorité aux unités DPS | 
-  | 15 | ![Mur du savoir](/images/r/rune_icon_202.png) | [Mur du savoir](/fr/Emblem/Wall of Knowledge/) | Bonté | Convient à toutes les unités | 
-  | 16 | ![Le jugement des pères](/images/r/rune_icon_301.png) | [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) | Neutre | À incruster en priorité aux unités qui infligent Étourdissement | 
-  | 17 | ![Feu ancien](/images/r/rune_icon_101.png) | [Feu ancien](/fr/Emblem/Ancient Fire/) | Ordre | Convient à toutes les unités | 
-  | 18 | ![La voie de l'assassin](/images/r/rune_icon_107.png) | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/) | Neutre | À incruster en priorité aux unités DPS | 
-  | 19 | ![Souffle du Roi Dragon](/images/r/rune_icon_505.png) | [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) | Mauvais | À incruster en priorité aux unités défensives | 
-  | 20 | ![Roue du temps](/images/r/rune_icon_205.png) | [Roue du temps](/fr/Emblem/Gear of Time/) | Bonté | À incruster en priorité aux unités défensives | 
-  | 21 | ![Clé en pierre](/images/r/rune_icon_302.png) | [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) | Neutre | À incruster en priorité aux unités qui infligent Saignement | 
-  | 22 | ![Envie](/images/r/rune_icon_401.png) | [Envie](/fr/Emblem/Jealousy/) | Chaos | À incruster en priorité aux unités DPS | 
-  | 23 | ![Secret éternel](/images/r/rune_icon_104.png) | [Secret éternel](/fr/Emblem/Everlasting Secret/) | Ordre | Convient à toutes les unités | 
-  | 24 | ![Ange gardien](/images/r/rune_icon_203.png) | [Ange gardien](/fr/Emblem/Guardian Angel/) | Bonté | À incruster en priorité aux unités DPS | 
-  | 25 | ![Calamité du roi](/images/r/rune_icon_502.png) | [Calamité du roi](/fr/Emblem/King's Calamity/) | Mauvais | À incruster en priorité aux unités qui infligent Brûlure | 
-  | 26 | ![Noyau du réseau global](/images/r/rune_icon_304.png) | [Noyau du réseau global](/fr/Emblem/Core of the Global Network/) | Neutre | Convient à toutes les unités | 
-  | 27 | ![Colère](/images/r/rune_icon_403.png) | [Colère](/fr/Emblem/Anger/) | Chaos | Convient à toutes les unités | 
-  | 28 | ![Ailes de Griffon](/images/r/rune_icon_102.png) | [Ailes de Griffon](/fr/Emblem/Griffin Wings/) | Ordre | À incruster en priorité aux unités DPS | 
-  | 29 | ![Témoin](/images/r/rune_icon_201.png) | [Témoin](/fr/Emblem/Witness/) | Bonté | À incruster en priorité aux unités DPS | 
+  | 8 | ![Source d'immortalité](/images/r/rune_icon_206.png) | [Source d'immortalité](/fr/Emblem/Spring of Immortality/) | Bonté | null | 
+  | 9 | ![Autonyme oublié](/images/r/rune_icon_501.png) | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/) | Mauvais | Convient à toutes les unités | 
+  | 10 | ![Culpabilité de Tarnum](/images/r/rune_icon_305.png) | [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/) | Neutre | Convient à toutes les unités | 
+  | 11 | ![Avarice](/images/r/rune_icon_404.png) | [Avarice](/fr/Emblem/Greed/) | Chaos | À incruster en priorité aux unités défensives | 
+  | 12 | ![Bénédiction de la reine](/images/r/rune_icon_105.png) | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) | Ordre | À incruster en priorité aux unités défensives | 
+  | 13 | ![Prophète vert](/images/r/rune_icon_204.png) | [Prophète vert](/fr/Emblem/Green Prophet/) | Bonté | Convient à toutes les unités | 
+  | 14 | ![Prophétie brisée](/images/r/rune_icon_503.png) | [Prophétie brisée](/fr/Emblem/Broken Prophecy/) | Mauvais | À incruster en priorité aux unités de 9 combattants | 
+  | 15 | ![Héritage des Ironfist](/images/r/rune_icon_103.png) | [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) | Ordre | À incruster en priorité aux unités DPS | 
+  | 16 | ![Mur du savoir](/images/r/rune_icon_202.png) | [Mur du savoir](/fr/Emblem/Wall of Knowledge/) | Bonté | Convient à toutes les unités | 
+  | 17 | ![Le jugement des pères](/images/r/rune_icon_301.png) | [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) | Neutre | À incruster en priorité aux unités qui infligent Étourdissement | 
+  | 18 | ![Feu ancien](/images/r/rune_icon_101.png) | [Feu ancien](/fr/Emblem/Ancient Fire/) | Ordre | Convient à toutes les unités | 
+  | 19 | ![La voie de l'assassin](/images/r/rune_icon_107.png) | [La voie de l'assassin](/fr/Emblem/Path of an Assassin/) | Neutre | À incruster en priorité aux unités DPS | 
+  | 20 | ![Souffle du Roi Dragon](/images/r/rune_icon_505.png) | [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) | Mauvais | À incruster en priorité aux unités défensives | 
+  | 21 | ![Le prix de la loyauté](/images/r/rune_icon_106.png) | [Le prix de la loyauté](/fr/Emblem/The Price of Loyalty/) | Ordre | À incruster en priorité aux unités DPS | 
+  | 22 | ![Roue du temps](/images/r/rune_icon_205.png) | [Roue du temps](/fr/Emblem/Gear of Time/) | Bonté | À incruster en priorité aux unités défensives | 
+  | 23 | ![Clé en pierre](/images/r/rune_icon_302.png) | [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) | Neutre | À incruster en priorité aux unités qui infligent Saignement | 
+  | 24 | ![Envie](/images/r/rune_icon_401.png) | [Envie](/fr/Emblem/Jealousy/) | Chaos | À incruster en priorité aux unités DPS | 
+  | 25 | ![Secret éternel](/images/r/rune_icon_104.png) | [Secret éternel](/fr/Emblem/Everlasting Secret/) | Ordre | Convient à toutes les unités | 
+  | 26 | ![Ange gardien](/images/r/rune_icon_203.png) | [Ange gardien](/fr/Emblem/Guardian Angel/) | Bonté | À incruster en priorité aux unités DPS | 
+  | 27 | ![Calamité du roi](/images/r/rune_icon_502.png) | [Calamité du roi](/fr/Emblem/King's Calamity/) | Mauvais | À incruster en priorité aux unités qui infligent Brûlure | 
+  | 28 | ![Noyau du réseau global](/images/r/rune_icon_304.png) | [Noyau du réseau global](/fr/Emblem/Core of the Global Network/) | Neutre | Convient à toutes les unités | 
+  | 29 | ![Colère](/images/r/rune_icon_403.png) | [Colère](/fr/Emblem/Anger/) | Chaos | Convient à toutes les unités | 
+  | 30 | ![Ailes de Griffon](/images/r/rune_icon_102.png) | [Ailes de Griffon](/fr/Emblem/Griffin Wings/) | Ordre | À incruster en priorité aux unités DPS | 
+  | 31 | ![Témoin](/images/r/rune_icon_201.png) | [Témoin](/fr/Emblem/Witness/) | Bonté | À incruster en priorité aux unités DPS | 
 
 ## Règles
 

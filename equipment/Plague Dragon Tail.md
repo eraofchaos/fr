@@ -2,7 +2,7 @@
 title: "Queue de dragon de la peste"
 permalink: /equipment/Plague Dragon Tail/
 excerpt: "Era of Chaos Queue de dragon de la peste. Queue de dragon de la peste"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Plague Dragon Tail.md"
 toc: false

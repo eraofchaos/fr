@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Exclusif Cove. Exclusif Cove. List of Exclusif Cove in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Exclusive Cove"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Pirates de Regna](/fr/units/Regnan Pirates/) | [Épée](/fr/Exclusive/Regnan Pirates Sword/) | + | Assaut | [Jeton Épée](/ItemsFR/con_912/) | - |
   | 2  | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | [Miracle](/fr/Exclusive/Regnan Archer Miracle/) | - | Soutien | - | - |
-  | 3  | [Élémentaire de mer](/fr/units/Sea Elemental/) | [Mélopée des arcanes](/fr/Exclusive/Sea Elemental Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
+  | 3  | [Élémentaire de mer](/fr/units/Sea Elemental/) | [Mélopée des arcanes](/fr/Exclusive/Sea Elemental Arcane Chant/) | + | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
   | 4  | [Serpent de Regna](/fr/units/Regnan Serpent/) | [Marées diurnes](/fr/Exclusive/Regnan Serpent Day Tides/) | - | À distance | [Jeton Marées diurnes](/ItemsFR/con_1003/) | [Skin spécial Marées diurnes](/ItemsFR/con_671/) |
   | 5  | [Sirène](/fr/units/Mermaid/) | [Marées nocturnes](/fr/Exclusive/Mermaid Night Tides/) | - | À distance | [Jeton Marées nocturnes](/ItemsFR/con_1004/) | [Skin spécial Marées nocturnes](/ItemsFR/con_672/) |
   | 6  | [Tortue dragon](/fr/units/Dragon Turtle/) | [Obéissance](/fr/Exclusive/Dragon Turtle Obedience/) | - | Soutien | [Jeton d'Obéissance](/ItemsFR/con_1005/) | [Skin spécial d'obéissance](/ItemsFR/con_673/) |

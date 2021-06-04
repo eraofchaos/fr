@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-12 La cachette de la Banshee"
 permalink: /Main Story/Chapter 26_12/
 excerpt: "Chapitre 26 - 12. Era of Chaos  Histoire principale - Chapitre 26_12. 26-12 La cachette de la Banshee"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 26_12.md"
 toc: false

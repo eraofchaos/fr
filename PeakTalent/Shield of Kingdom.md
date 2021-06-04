@@ -2,7 +2,7 @@
 title: "Bouclier du royaume. Talent Ultime - Bouclier du royaume"
 permalink: /PeakTalent/Shield of Kingdom/
 excerpt: "Era of Chaos Talent Ultime Bouclier du royaume. Talent Ultime Bouclier du royaume. Bouclier du royaume"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Shield of Kingdom.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 9 Avidité"
 permalink: /Underground/Chapter 9/
 excerpt: "Chapitre 9 Avidité. Era of Chaos  Souterrain - Chapitre 9. Avidité"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 9.md"
 toc: false

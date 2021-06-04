@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Sirène. Sirène Unités. null. Era of Chaos Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Sirène"
 toc: true
@@ -87,6 +87,7 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
+* [Source d'immortalité](/fr/Emblem/Spring of Immortality/) (Bonté)
 * [Culpabilité de Tarnum](/fr/Emblem/Tarnum's Culpability/) (Neutre)
 * [Droits des successeurs](/fr/Emblem/Successors' Legal Principles/) (Neutre)
 

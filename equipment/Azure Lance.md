@@ -2,7 +2,7 @@
 title: "Lance de l'azur"
 permalink: /equipment/Azure Lance/
 excerpt: "Era of Chaos Lance de l'azur. Lance de l'azur"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Azure Lance.md"
 toc: false

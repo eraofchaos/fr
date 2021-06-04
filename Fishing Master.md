@@ -1,8 +1,8 @@
 ---
 title: "Maître de la pêche"
 permalink: /Fishing Master/
-excerpt: "Era of Chaos  Maître de la pêche - 　　Cher seigneur, vous avez reçu des récompenses pour votre pêche. Allez y jeter un coup d'œil."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Maître de la pêche - []　　Cher seigneur, vous avez reçu des récompenses pour votre pêche. Allez y jeter un coup d'œil.[]"
+last_modified_at: 2021-06-03
 locale: fr
 ref: "index.md"
 toc: false
@@ -28,7 +28,7 @@ sidebar:
 
 <br/>  <span style="color: #3c2a1e">4. Touchez le bouton Actualiser pour réinitialiser la cagnotte. Le coût en diamants pour réinitialiser la cagnotte augmentera en fonction du nombre d'actualisations déjà réalisé. Le coût en diamants se réinitialisera à sa valeur initiale dès que vous obtiendrez une récompense orange.</span><br/>
 
-<br/>  <span style="color: #3c2a1e">5. Une fois que vous aurez reçu le nombre maximal de n'importe quelle récompense, l'article en question n'apparaîtra plus lors de l'actualisation. Lorsque vous aurez obtenu toutes les récompenses de haute qualité, l'actualisation réapprovisionnera la cagnotte avec des récompenses de plus haute qualité (10 récompenses par manche). </span><br/>
+<br/>  <span style="color: #3c2a1e">5. Une fois que vous aurez reçu le nombre maximal de n'importe quelle récompense, l'article en question n'apparaîtra plus lors de l'actualisation. Lorsque vous aurez obtenu toutes les récompenses de haute qualité, l'actualisation réapprovisionnera la cagnotte avec des récompenses de plus haute qualité (10 récompenses par manche).</span>
 
 <br/>  <span style="color: #3c2a1e">6. Les récompenses principales de la cagnotte actuelle sont affichées en haut à gauche de la page de l'événement. Touchez le bouton Aperçu pour voir les récompenses de la manche actuelle et toutes les autres.</span><br/>
 

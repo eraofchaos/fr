@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 28 - 28-3  Aspirations célestes"
 permalink: /Underground/Chapter 28_3/
 excerpt: "Chapitre 28 - 3. Era of Chaos  Souterrain - Chapitre 28_3. 28-3  Aspirations célestes"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 28_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Dendroid Guard)"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Garde sylvanien Exclusif."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Dendroid Guard Bouclier iris.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusif - Bandage (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Bandage. Bandage. Era of Chaos Exclusif Bandage. Momie Exclusif."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Mummy Bandage.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 24  Semaine du Donjon
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **14 Jun** | **5x [Troglodyte](/ItemsFR/unt_244/)**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
+  | **15 Jun** | **3x [Harpie](/ItemsFR/unt_245/)**  | Une escouade de Harpies a rejoint votre armée et vous renforce ! |
+  | **16 Jun** | **100x <i class="fas fa-gem"/>**  | Les créatures des ténèbres souterraines vous offrent un petit amas de diamants ! |
+  | **17 Jun** | **3x [Minotaure](/ItemsFR/unt_248/)**  | Une escouade de Minotaures a rejoint votre armée et vous renforce ! |
+  | **18 Jun** | **5x [Coffre de faction (Donjon)](/ItemsFR/con_1276/)**  | Votre armée a fouillé le souterrain en quête de coffres au trésor perdus. |
+  | **19 Jun** | **3x [Manticore](/ItemsFR/unt_249/)**  | Une escouade de Manticores a rejoint votre armée et vous renforce ! |
+  | **20 Jun** | **5x [Mutare](/ItemsFR/her_389/)**  | À la suite de ces conseils, l'ancien dragon Mutare a rejoint votre armée ! |
+
 
 #### 2021 Week 23  Semaine du Conflux
 

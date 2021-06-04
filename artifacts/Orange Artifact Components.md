@@ -2,7 +2,7 @@
 title: "Orange Artifact Components"
 permalink: /artifacts/Orange Artifact Components/
 excerpt: "Era of Chaos  List of all Orange Artifact Components . Récupérez des artefacts pour améliorer les caractéristiques de vos Héros et déverrouiller de puissantes compétences."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Orange Artifact Components.md"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
  | [Jambières Dragon](/fr/artifacts/Dragonbone Greaves/){: .btn .btn--era5} | **Santé de l'unité**: 8+(LEVEL\*3.2) %<br/>**Dégâts magiques**: 2+(LEVEL\*0.8) %<br/>**Savoir du Héros**: 12+(LEVEL\*4.8) | Des jambières taillées dans les tibias du Roi Dragon. Composant de la Puissance du Dragon patriarche. | 
  | [Lame ardente](/fr/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} | **Attaque de l'unité**: 6+(LEVEL\*2.4) %<br/>**Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Attaque du Héros**: 10+(LEVEL\*4) | Une épée faite de cristaux de Dragon de feu. Composant de la Puissance du Dragon patriarche. | 
  | [Couronne croc de Dragon](/fr/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Dégâts magiques**: 6+(LEVEL\*2.4) %<br/>**Défense du Héros**: 10+(LEVEL\*4) | Un casque fait de dents de dragon. Composant de la Puissance du Dragon patriarche. | 
- | [Armure Dragon](/fr/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4)<br/>**Savoir du Héros**: 16+(LEVEL\*6.4) | Une armure bénie par le Dragon sacré. Composant de la Puissance du Dragon patriarche. | 
+ | [Armure Dragon](/fr/artifacts/Dragon Scale Armor/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4)<br/>**Savoir du Héros**: 16+(LEVEL\*6.4) | Une armure bénie par le Dragon sacré. Composant de la Puissance du Dragon patriarche. | 
  | [Collier dent de Dragon](/fr/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 12+(LEVEL\*4.8) | Un collier béni par le Dragon sacré. Composant de la Puissance du Dragon patriarche. | 
  | [Glaive des Titans](/fr/artifacts/Titan's Gladius/){: .btn .btn--era5} | **Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Attaque du Héros**: 6+(LEVEL\*2.4)<br/>**Intelligence du Héros**: 10+(LEVEL\*4) | Une épée maniée par un Géant d'autrefois. Composant du Tonnerre des Titans. | 
  | [Bouclier sentinelle](/fr/artifacts/Sentinel's Shield/){: .btn .btn--era5} | **Santé de l'unité**: 6+(LEVEL\*2.4) %<br/>**Savoir du Héros**: 12+(LEVEL\*4.8) | Un bouclier imprégné de puissance sacrée. Composant du Tonnerre des Titans. | 

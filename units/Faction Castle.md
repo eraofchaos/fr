@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Era of Chaos Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Faction Castle"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maître Arbalétrier  |
   | 3 | ![Griffon](/images/u/ti_shijiu.jpg) | [Griffon](/fr/units/Griffin/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Griffon royal  |
   | 4 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Croisé  |
-  | 5 | ![Moine](/images/u/ti_senglv.jpg) | [Moine](/fr/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zélote  |
+  | 5 | ![Moine](/images/u/ti_senglv.jpg) | [Moine](/fr/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zélote  |
   | 6 | ![Cavalier](/images/u/ti_qishi.jpg) | [Cavalier](/fr/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Chevaliers légendaires  |
   | 7 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/fr/units/Paladin/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Paladin suprême  |
   | 8 | ![Ange](/images/u/ti_datianshi.jpg) | [Ange](/fr/units/Angel/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archange  |

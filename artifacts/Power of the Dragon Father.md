@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche. Puissance du Dragon patriarche Une relique sacrée forgée par la puissance du Roi Dragon à partir d'objets précieux. Réduit les dégâts des sorts."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Power of the Dragon Father.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
   |:---:|:---:|:---:| 
   |  [Jambières Dragon](/fr/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   |  [Collier dent de Dragon](/fr/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
   |  [Bouclier Dragon](/fr/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | ![Puissance du Dragon patriarche](/images/t/icon_artifact_40.png) **Puissance du Dragon patriarche** |  [Couronne croc de Dragon](/fr/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
-  |  [Lame ardente](/fr/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Armure Dragon](/fr/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+  |  [Lame ardente](/fr/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Armure Dragon](/fr/artifacts/Dragon Scale Armor/){: .btn .btn--era5} | 
 
 
 ## Détails
@@ -37,7 +37,7 @@ classes: wide
   | 2 | [Jambières Dragon](/fr/artifacts/Dragonbone Greaves/){: .btn .btn--era5} | **Santé de l'unité**: 8+(LEVEL\*3.2) %<br/>**Dégâts magiques**: 2+(LEVEL\*0.8) %<br/>**Savoir du Héros**: 12+(LEVEL\*4.8) | Des jambières taillées dans les tibias du Roi Dragon. Composant de la Puissance du Dragon patriarche. | 
   | 3 | [Lame ardente](/fr/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} | **Attaque de l'unité**: 6+(LEVEL\*2.4) %<br/>**Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Attaque du Héros**: 10+(LEVEL\*4) | Une épée faite de cristaux de Dragon de feu. Composant de la Puissance du Dragon patriarche. | 
   | 4 | [Couronne croc de Dragon](/fr/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | **Santé de l'unité**: 3+(LEVEL\*1.2) %<br/>**Dégâts magiques**: 6+(LEVEL\*2.4) %<br/>**Défense du Héros**: 10+(LEVEL\*4) | Un casque fait de dents de dragon. Composant de la Puissance du Dragon patriarche. | 
-  | 5 | [Armure Dragon](/fr/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4)<br/>**Savoir du Héros**: 16+(LEVEL\*6.4) | Une armure bénie par le Dragon sacré. Composant de la Puissance du Dragon patriarche. | 
+  | 5 | [Armure Dragon](/fr/artifacts/Dragon Scale Armor/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 6+(LEVEL\*2.4)<br/>**Savoir du Héros**: 16+(LEVEL\*6.4) | Une armure bénie par le Dragon sacré. Composant de la Puissance du Dragon patriarche. | 
   | 6 | [Collier dent de Dragon](/fr/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | **Attaque de l'unité**: 4+(LEVEL\*1.6) %<br/>**Dégâts magiques**: 4+(LEVEL\*1.6) %<br/>**Défense du Héros**: 12+(LEVEL\*4.8) | Un collier béni par le Dragon sacré. Composant de la Puissance du Dragon patriarche. | 
 
 

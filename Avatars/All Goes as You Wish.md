@@ -2,7 +2,7 @@
 title: "Avatar - Tout se passe à merveille"
 permalink: /Avatars/All Goes as You Wish/
 excerpt: "Era of Chaos  Tout se passe à merveille"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "All Goes as You Wish.md"
 toc: false

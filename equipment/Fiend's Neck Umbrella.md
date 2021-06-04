@@ -2,7 +2,7 @@
 title: "Aile de monstre"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "Era of Chaos Aile de monstre. Aile de monstre"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Fiend's Neck Umbrella.md"
 toc: false

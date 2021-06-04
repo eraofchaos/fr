@@ -2,7 +2,7 @@
 title: "Artefact - Lame d'Armageddon - Bâton de sagesse"
 permalink: /artifacts/Staff of Wisdom/
 excerpt: "Era of Chaos  Lame d'Armageddon - Bâton de sagesse. Une relique qui protège le Bouclier de glace. Composant de la Lame d'Armageddon."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Staff of Wisdom.md"
 toc: false

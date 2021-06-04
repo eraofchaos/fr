@@ -2,7 +2,7 @@
 title: "Emblème sacré - Luxure"
 permalink: /Emblem/Lust/
 excerpt: "Era of Chaos Luxure. Luxure. Era of Chaos Emblème sacré Luxure. Era of Chaos Chaos Luxure"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Lust.md"
 toc: false

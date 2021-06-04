@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-11 La peau verte"
 permalink: /Main Story/Chapter 21_11/
 excerpt: "Chapitre 21 - 11. Era of Chaos  Histoire principale - Chapitre 21_11. 21-11 La peau verte"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: fr
 ref: "Chapter 21_11.md"
 toc: false

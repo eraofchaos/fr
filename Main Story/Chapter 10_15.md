@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-15 Invitation à vos obsèques"
 permalink: /Main Story/Chapter 10_15/
 excerpt: "Chapitre 10 - 15. Era of Chaos  Histoire principale - Chapitre 10_15. 10-15 Invitation à vos obsèques"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 10_15.md"
 toc: false

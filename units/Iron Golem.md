@@ -3,7 +3,7 @@ title: "Golem de fer"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Golem de fer. Golem de fer Unités. Golem d'or. Era of Chaos Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
 unitID: 603
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Golem de fer"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction :** [Tour](/fr/units/Faction Tower/)
 
- **Race:** Humain
+ **Race:** Fiélon
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 

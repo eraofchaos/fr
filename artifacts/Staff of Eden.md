@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Le Bâton"
 permalink: /artifacts/Staff of Eden/
 excerpt: "Era of Chaos  Pomme d'Éden - Le Bâton. Un bâton conçu par la Première Civilisation. Il confère le savoir et la vie éternelle à son porteur."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Staff of Eden.md"
 toc: false

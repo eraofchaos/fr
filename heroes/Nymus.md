@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus est un fantôme avec une expérience de combat. C'est pour cela que l'Archidiable l'a nommée instructrice des Servantes des Abîmes. Son retour sur le champ de bataille instille la peur dans le cœur de ses ennemis."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Nymus"
 toc: true

@@ -2,7 +2,7 @@
 title: "Tentacules de l'abîme"
 permalink: /equipment/Tentacles from the Abyss/
 excerpt: "Era of Chaos Tentacules de l'abîme. Tentacules de l'abîme"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Tentacles from the Abyss.md"
 toc: false

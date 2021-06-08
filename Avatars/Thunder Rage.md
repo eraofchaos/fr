@@ -2,7 +2,7 @@
 title: "Avatar - Rage foudroyante"
 permalink: /Avatars/Thunder Rage/
 excerpt: "Era of Chaos  Rage foudroyante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Thunder Rage.md"
 toc: false

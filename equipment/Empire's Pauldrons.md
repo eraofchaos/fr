@@ -2,7 +2,7 @@
 title: "Épaulières de l'Empire"
 permalink: /equipment/Empire's Pauldrons/
 excerpt: "Era of Chaos Épaulières de l'Empire. Épaulières de l'Empire"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Empire's Pauldrons.md"
 toc: false

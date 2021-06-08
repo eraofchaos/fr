@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-1 Le Chevalier noir"
 permalink: /Main Story/Chapter 8_1/
 excerpt: "Chapitre 8 - 1. Era of Chaos  Histoire principale - Chapitre 8_1. 8-1 Le Chevalier noir"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 8_1.md"
 toc: false

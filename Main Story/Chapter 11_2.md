@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-2 Une résistance solitaire"
 permalink: /Main Story/Chapter 11_2/
 excerpt: "Chapitre 11 - 2. Era of Chaos  Histoire principale - Chapitre 11_2. 11-2 Une résistance solitaire"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 11_2.md"
 toc: false

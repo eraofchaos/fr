@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 12 Châtiment corporel"
 permalink: /Underground/Chapter 12/
 excerpt: "Chapitre 12 Châtiment corporel. Era of Chaos  Souterrain - Chapitre 12. Châtiment corporel"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Armure de combat légère"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Era of Chaos Armure de combat légère. Armure de combat légère"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Light Battle Armor.md"
 toc: false

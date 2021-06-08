@@ -3,7 +3,7 @@ title: "Nain"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Nain. Nain Unités. null. Era of Chaos Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Nain"
 toc: true

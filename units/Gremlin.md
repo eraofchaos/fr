@@ -3,7 +3,7 @@ title: "Lutin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Lutin. Lutin Unités. null. Era of Chaos Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Lutin"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction :** [Tour](/fr/units/Faction Tower/)
 
- **Race:** Humain
+ **Race:** Séide
 
  **Members:** [x9](/fr/units/Unit Member x9/)
 

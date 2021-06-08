@@ -2,7 +2,7 @@
 title: "Bâton bélier"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Era of Chaos Bâton bélier. Bâton bélier"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Rams-head Staff.md"
 toc: false

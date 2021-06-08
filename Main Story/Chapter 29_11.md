@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-11 Le tombeau du guerrier"
 permalink: /Main Story/Chapter 29_11/
 excerpt: "Chapitre 29 - 11. Era of Chaos  Histoire principale - Chapitre 29_11. 29-11 Le tombeau du guerrier"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 29_11.md"
 toc: false

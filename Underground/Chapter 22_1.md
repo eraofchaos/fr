@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 22 - 22-1 Graine de vie"
 permalink: /Underground/Chapter 22_1/
 excerpt: "Chapitre 22 - 1. Era of Chaos  Souterrain - Chapitre 22_1. 22-1 Graine de vie"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 22_1.md"
 toc: false

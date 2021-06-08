@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-4 Un affrontement imminent"
 permalink: /Main Story/Chapter 9_4/
 excerpt: "Chapitre 9 - 4. Era of Chaos  Histoire principale - Chapitre 9_4. 9-4 Un affrontement imminent"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 9_4.md"
 toc: false

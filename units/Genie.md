@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Djinn. Djinn Unités. Génie. Era of Chaos Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Djinn"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction :** [Tour](/fr/units/Faction Tower/)
 
- **Race:** Humain
+ **Race:** Magicien
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 

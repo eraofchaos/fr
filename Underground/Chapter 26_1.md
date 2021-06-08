@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 26 - 26-1 Harpie"
 permalink: /Underground/Chapter 26_1/
 excerpt: "Chapitre 26 - 1. Era of Chaos  Souterrain - Chapitre 26_1. 26-1 Harpie"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 26_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Épaulières de Gorgone"
 permalink: /equipment/Gorgon Shoulder-guards/
 excerpt: "Era of Chaos Épaulières de Gorgone. Épaulières de Gorgone"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Gorgon Shoulder-guards.md"
 toc: false

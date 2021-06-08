@@ -2,7 +2,7 @@
 title: "Bouclier des gladiateurs. Talent Ultime - Bouclier des gladiateurs"
 permalink: /PeakTalent/Shield of Gladiators/
 excerpt: "Era of Chaos Talent Ultime Bouclier des gladiateurs. Talent Ultime Bouclier des gladiateurs. Bouclier des gladiateurs"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Shield of Gladiators.md"
 toc: false

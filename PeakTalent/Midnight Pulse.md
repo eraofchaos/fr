@@ -2,7 +2,7 @@
 title: "Impulsion de minuit. Talent Ultime - Impulsion de minuit"
 permalink: /PeakTalent/Midnight Pulse/
 excerpt: "Era of Chaos Talent Ultime Impulsion de minuit. Talent Ultime Impulsion de minuit. Impulsion de minuit"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Midnight Pulse.md"
 toc: false

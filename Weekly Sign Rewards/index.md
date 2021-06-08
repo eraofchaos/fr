@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 25  Semaine de l'Hadès
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **21 Jun** | **5x [Diablotin](/ItemsFR/unt_226/)**  | Une escouade de Diablotins a rejoint votre armée et vous renforce ! |
+  | **22 Jun** | **5x [Gog](/ItemsFR/unt_227/)**  | Une escouade de Gogs a rejoint votre armée et vous renforce ! |
+  | **23 Jun** | **3x [Chien de l'Enfer](/ItemsFR/unt_228/)**  | Une escouade de Chiens de l'Enfer a rejoint votre armée et vous renforce ! |
+  | **24 Jun** | **5x [Coffre (Hadès)](/ItemsFR/con_1273/)**  | Votre compagnie de l'Hadès vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
+  | **25 Jun** | **3x [Démon](/ItemsFR/unt_229/)**  | Une escouade de Démons a rejoint votre armée et vous renforce ! |
+  | **26 Jun** | **3x [Servante des Abîmes](/ItemsFR/unt_230/)**  | Une escouade de Servantes des Abîmes a rejoint votre armée et vous renforce ! |
+  | **27 Jun** | **5x [Rashka](/ItemsFR/her_384/)**  | Le Héros Rashka s'intéresse à votre extension et souhaiterait rejoindre votre faction ! |
+
 
 #### 2021 Week 24  Semaine du Donjon
 

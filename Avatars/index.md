@@ -2,7 +2,7 @@
 title: "Cadre d'avatar et avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cadre d'avatar et avatar. Cadre d'avatar et avatar"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "index.md"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
   | 25 | ![Domination des Ténèbres](/images/a/avatarFrame_34.png) | [Domination des Ténèbres](/fr/Avatars/Darkness Dominance/) | + | Cadre d'avatar Domination des Ténèbres |
   | 26 | ![Dompteur du Destin (14 jours)](/images/a/avatarFrame_63.png) | [Dompteur du Destin (14 jours)](/fr/Avatars/Fate Dominator (14 Days)/) | - | Cadre d'avatar Dompteur du Destin |
   | 27 | ![Donjon](/images/a/avatarFrame_45.png) | [Donjon](/fr/Avatars/Dungeon/) | - | Cadre d'avatar Faction de Donjon |
-  | 28 |  | [Démon de l'Hadès](/fr/Avatars/Inferno Demon/) | - | Cadre d'avatar Démon de l'Hadès |
+  | 28 |  | [Démon de l'Hadès](/fr/Avatars/Inferno Demon/) | + | Cadre d'avatar Démon de l'Hadès |
   | 29 | ![Expédition planétaire](/images/a/avatarFrame_201.png) | [Expédition planétaire](/fr/Avatars/Global Expedition/) | + | Cadre d'avatar Expédition planétaire |
   | 30 | ![Faveur des Dieux (14 jours)](/images/a/avatarFrame_62.png) | [Faveur des Dieux (14 jours)](/fr/Avatars/Favor of the Gods (14 Days)/) | + | Cadre d'avatar Faveur des Dieux |
   | 31 | ![Flamme éternelle](/images/a/avatarFrame_77.png) | [Flamme éternelle](/fr/Avatars/Everlasting Flame/) | - | Cadre d'avatar Flame éternelle |

@@ -2,7 +2,7 @@
 title: "VIP - VIP 10"
 permalink: /VIP/VIP 10/
 excerpt: "Era of Chaos  Système VIP. VIP 10"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "VIP 10.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
 
  **4** <span style="color: black"><span style="color: #00FF1E;font-size:19px"> Vous permet d'accélérer chaque caserne 3 fois par jour.</span><span style="color: black">[pic=vip_newImg.png]</span><span style="color: black">
 
- **5** <span style="color: black"><span style="color: #FFECCD"> Vous permet d'acheter un accès à l'Arène glorieuse </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #FFECCD"> fois par jour.</span><span style="color: black">
+ **5** <span style="color: black"><span style="color: #462800"> Vous permet d'acheter un accès à l'Arène glorieuse </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #462800"> fois par jour.</span><span style="color: black">
 
  **6** <span style="color: black"><span style="color: #462800"> Vous permet de recourir à l'astrologie </span><span style="color: black"><span style="color: #00FF1E;font-size:19px">30 </span><span style="color: black"><span style="color: #462800">fois par jour.</span><span style="color: black">
 

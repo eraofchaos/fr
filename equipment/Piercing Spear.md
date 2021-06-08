@@ -2,7 +2,7 @@
 title: "Lance perçante"
 permalink: /equipment/Piercing Spear/
 excerpt: "Era of Chaos Lance perçante. Lance perçante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Piercing Spear.md"
 toc: false

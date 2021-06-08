@@ -3,7 +3,7 @@ title: "Élémentaire de l'esprit"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Élémentaire de l'esprit. Élémentaire de l'esprit Unités. Élémentaire de magie. Era of Chaos Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Élémentaire de l'esprit"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
- **Race:** Maître des bêtes
+ **Race:** Fiélon
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 
@@ -78,7 +78,7 @@ toc: true
 
  **Nom:** [Noyau spirituel](/fr/Exclusive/Psychic Elemental Spirit Core/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Noyau spirituel](/ItemsFR/con_1000/)
 

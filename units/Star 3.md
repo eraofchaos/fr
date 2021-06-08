@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Star 3"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Élémentaire de magie  |
+  | 1 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Élémentaire de magie  |
   | 2 | ![Momie](/images/u/ti_munaiyi.jpg) | [Momie](/fr/units/Mummy/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Roi Momie  |
   | 3 | ![Tigre blanc](/images/u/ti_baihu.jpg) | [Tigre blanc](/fr/units/White Tiger/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 4 | ![Oracle de Regna](/images/u/ti_haihou.jpg) | [Oracle de Regna](/fr/units/Regnan Seer/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Élémentaire des marées  |

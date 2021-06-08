@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 8 - 8-2 Un manque d'hommes"
 permalink: /Underground/Chapter 8_2/
 excerpt: "Chapitre 8 - 2. Era of Chaos  Souterrain - Chapitre 8_2. 8-2 Un manque d'hommes"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 8_2.md"
 toc: false

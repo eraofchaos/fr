@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-2 La tour bleue"
 permalink: /Main Story/Chapter 12_2/
 excerpt: "Chapitre 12 - 2. Era of Chaos  Histoire principale - Chapitre 12_2. 12-2 La tour bleue"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 12_2.md"
 toc: false

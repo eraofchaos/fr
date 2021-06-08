@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-10 Les envahisseurs"
 permalink: /Main Story/Chapter 7_10/
 excerpt: "Chapitre 7 - 10. Era of Chaos  Histoire principale - Chapitre 7_10. 7-10 Les envahisseurs"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 7_10.md"
 toc: false

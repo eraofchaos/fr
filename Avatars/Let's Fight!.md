@@ -2,7 +2,7 @@
 title: "Avatar - Combattons !"
 permalink: /Avatars/Let's Fight!/
 excerpt: "Era of Chaos  Combattons !"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Let's Fight!.md"
 toc: false

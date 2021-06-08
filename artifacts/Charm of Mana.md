@@ -2,7 +2,7 @@
 title: "Artefact - Puits de magie - Amulette de mana"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Era of Chaos  Puits de magie - Amulette de mana. Un charme qui renforce la magie. Composant du Puits de magie."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Charm of Mana.md"
 toc: false

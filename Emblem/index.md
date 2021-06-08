@@ -2,7 +2,7 @@
 title: "Emblème sacré"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblème sacré. Emblème sacré. Les Emblèmes sacrés augmentent considérablement la puissance des unités qui les équipent. Plusieurs combinaisons d'Emblèmes sacrés sont possibles, selon leur qualité et les factions auxquelles ils appartiennent, et elles octroient des caractéristiques supplémentaires exceptionnelles."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "index.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Élémentaire de feu. Élémentaire de feu Unités. Élémentaire d'énergie. Era of Chaos Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction :** [Conflux](/fr/units/Faction Conflux/)
 
- **Race:** Maître des bêtes
+ **Race:** Fiélon
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 

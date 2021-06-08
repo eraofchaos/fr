@@ -2,7 +2,7 @@
 title: "Emblème sacré - Noyau du réseau global"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "Era of Chaos Noyau du réseau global. Noyau du réseau global. Era of Chaos Emblème sacré Noyau du réseau global. Era of Chaos Neutre Noyau du réseau global"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Core of the Global Network.md"
 toc: false

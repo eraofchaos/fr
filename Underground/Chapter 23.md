@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 23 Indépendance"
 permalink: /Underground/Chapter 23/
 excerpt: "Chapitre 23 Indépendance. Era of Chaos  Souterrain - Chapitre 23. Indépendance"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 23.md"
 toc: false

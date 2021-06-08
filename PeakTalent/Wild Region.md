@@ -2,7 +2,7 @@
 title: "Région sauvage. Talent Ultime - Région sauvage"
 permalink: /PeakTalent/Wild Region/
 excerpt: "Era of Chaos Talent Ultime Région sauvage. Talent Ultime Région sauvage. Région sauvage"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Wild Region.md"
 toc: false

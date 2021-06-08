@@ -2,7 +2,7 @@
 title: "Crinière brumeuse"
 permalink: /equipment/Misty Mane/
 excerpt: "Era of Chaos Crinière brumeuse. Crinière brumeuse"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Misty Mane.md"
 toc: false

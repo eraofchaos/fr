@@ -2,7 +2,7 @@
 title: "Emblème sacré - Signe inquiétant"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Era of Chaos Signe inquiétant. Signe inquiétant. Era of Chaos Emblème sacré Signe inquiétant. Era of Chaos Mauvais Signe inquiétant"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Ominous Sign.md"
 toc: false

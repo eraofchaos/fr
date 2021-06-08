@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-11 Les homme de Deyja"
 permalink: /Main Story/Chapter 17_11/
 excerpt: "Chapitre 17 - 11. Era of Chaos  Histoire principale - Chapitre 17_11. 17-11 Les homme de Deyja"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 17_11.md"
 toc: false

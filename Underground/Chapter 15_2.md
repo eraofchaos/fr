@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 15 - 15-2 Lave souterraine"
 permalink: /Underground/Chapter 15_2/
 excerpt: "Chapitre 15 - 2. Era of Chaos  Souterrain - Chapitre 15_2. 15-2 Lave souterraine"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 15_2.md"
 toc: false

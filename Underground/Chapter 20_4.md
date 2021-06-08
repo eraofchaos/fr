@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 20 - 20-3 Destruction des Élémentaires"
 permalink: /Underground/Chapter 20_4/
 excerpt: "Chapitre 20 - 4. Era of Chaos  Souterrain - Chapitre 20_4. 20-3 Destruction des Élémentaires"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 20_4.md"
 toc: false

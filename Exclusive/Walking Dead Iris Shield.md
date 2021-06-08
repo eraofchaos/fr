@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Trépassé Exclusif."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Walking Dead Bouclier iris.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Si la cible est victime de <Démotivation>, la vitesse d'ATQ et le drain de vie du Trépassé augmentent de 20 %. |
   | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Le Trépassé récupère 1 % de ses PV max chaque seconde. |
   | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Le Trépassé diminue la DÉF des unités ennemies environnantes de 25 toutes les 4 secondes pendant les 5 prochaines secondes. L'effet peut être cumulé. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Au début du combat, la vitesse de déplacement des unités ennemies diminue de 30 pendant 4 secondes. Les dégâts de toutes les unités alliées de la Nécropole augmentent de 20 % pendant 20 secondes lorsqu'elles récupèrent leur vitesse de déplacement. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Au début du combat, la vitesse de déplacement des unités ennemies et alliées diminue de 30 pendant 4 secondes. Les dégâts de toutes les unités alliées de la Nécropole augmentent de 20 % pendant 20 secondes lorsqu'elles récupèrent leur vitesse de déplacement. |
 
 
 ## Améliorer

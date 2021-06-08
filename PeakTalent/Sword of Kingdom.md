@@ -2,7 +2,7 @@
 title: "Épée du royaume. Talent Ultime - Épée du royaume"
 permalink: /PeakTalent/Sword of Kingdom/
 excerpt: "Era of Chaos Talent Ultime Épée du royaume. Talent Ultime Épée du royaume. Épée du royaume"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Sword of Kingdom.md"
 toc: false

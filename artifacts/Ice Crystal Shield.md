@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre - Bouclier cristallin"
 permalink: /artifacts/Ice Crystal Shield/
 excerpt: "Era of Chaos  Épée de givre - Bouclier cristallin. Un bouclier sacré, scellé sur le plateau de Bracada. Composant de l'Épée de givre."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Ice Crystal Shield.md"
 toc: false

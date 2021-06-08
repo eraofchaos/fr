@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-3 Le pilier de Kurl"
 permalink: /Main Story/Chapter 19_3/
 excerpt: "Chapitre 19 - 3. Era of Chaos  Histoire principale - Chapitre 19_3. 19-3 Le pilier de Kurl"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 19_3.md"
 toc: false

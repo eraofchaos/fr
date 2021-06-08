@@ -2,7 +2,7 @@
 title: "Fête des bateaux-dragons"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Fête des bateaux-dragons - Quête des bateaux-dragons"
-last_modified_at: 2021-06-05
+last_modified_at: 2021-06-08
 locale: fr
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ sidebar:
 
   <span style="color: #3c2a1e">1. Lors de la fête des bateaux-dragons, un Lancier a reçu l'ordre de prendre un bateau-dragon pour explorer les mystérieux domaines aquatiques découverts récemment. Dans les domaines aquatiques, il a trouvé de nombreux mets magiques appelés les \"zongzis magiques\".</span><br/>
 
-<br/>  <span style="color: #3c2a1e">2. Chaque domaine aquatique contient %s zongzi(s) magique(s). Touchez le zongzi magique pour l'ouvrir et obtenir un objet rare ou lancer un événement.</span><br/>
+<br/>  <span style="color: #3c2a1e">2. Chaque domaine aquatique contient 20 zongzi(s) magique(s). Touchez le zongzi magique pour l'ouvrir et obtenir un objet rare ou lancer un événement.</span><br/>
 
 <br/>  <span style="color: #3c2a1e">3. Chaque domaine aquatique renferme un événement. Une fois ce dernier lancé, vous pouvez naviguer le bateau-dragon jusqu'au domaine aquatique suivant. Après avoir atteint le domaine aquatique suivant, vous ne pourrez pas retourner au domaine précédent.</span><br/>
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Quête des bateaux-dragons
 
-  **Talk Pikeman:** Merci de m'avoir trouvé ! Je m'occupe de faire avancer le bateau-dragon.
+  **Talk Pikeman:** [color=000000]Merci de m'avoir trouvé ! Je m'occupe de faire avancer le bateau-dragon.[-]
 
-  **Talk Mermaid:** Quelle chance, vous m'avez trouvé ! Laissez-moi vous aider.
+  **Talk Mermaid:** [color=000000]Quelle chance, vous m'avez trouvé ! Laissez-moi vous aider.[-]
 
-  **First Talk Regnan Seer :** Votre persévérance me touche, brave guerrier du bateau-dragon. Choisissez donc votre récompense.
+  **First Talk Regnan Seer :** [color=000000]Votre persévérance me touche, brave guerrier du bateau-dragon. Choisissez donc votre récompense.[-]
 
-  **Second Talk Regnan Seer:** Comme on se retrouve, brave guerrier du bateau-dragon. Votre persévérance est touchante. Choisissez donc votre récompense.
+  **Second Talk Regnan Seer:** [color=000000]Comme on se retrouve, brave guerrier du bateau-dragon. Votre persévérance est touchante. Choisissez donc votre récompense.[-]
 
-  **Final Talk Regnan Seer:** Voici toutes les récompenses, brave guerrier du bateau-dragon. Félicitations, vous avez terminé votre aventure !
+  **Final Talk Regnan Seer:** [color=000000]Voici toutes les récompenses, brave guerrier du bateau-dragon. Félicitations, vous avez terminé votre aventure ![-]
 
   **Movement Notification 1:** Puisqu'un nouveau matelot vous a rejoint, le bateau-dragon peut désormais naviguer vers des domaines aquatiques encore plus lointains.
 

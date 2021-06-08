@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Aéronef magique. Aéronef magique Unités. null. Era of Chaos La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Aéronef magique"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction :** [Tour](/fr/units/Faction Tower/)
 
- **Race:** Humain
+ **Race:** Fiélon
 
  **Members:** [x4](/fr/units/Unit Member x4/)
 

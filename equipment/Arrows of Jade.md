@@ -2,7 +2,7 @@
 title: "Flèches de jade"
 permalink: /equipment/Arrows of Jade/
 excerpt: "Era of Chaos Flèches de jade. Flèches de jade"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Arrows of Jade.md"
 toc: false

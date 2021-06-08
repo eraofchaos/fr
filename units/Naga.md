@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Naga. Naga Unités. Reine Naga. Era of Chaos Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Naga"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction :** [Tour](/fr/units/Faction Tower/)
 
- **Race:** Humain
+ **Race:** Magicien
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 

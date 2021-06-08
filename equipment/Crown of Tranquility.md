@@ -2,7 +2,7 @@
 title: "Couronne de quiétude"
 permalink: /equipment/Crown of Tranquility/
 excerpt: "Era of Chaos Couronne de quiétude. Couronne de quiétude"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Crown of Tranquility.md"
 toc: false

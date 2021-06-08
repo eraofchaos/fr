@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre - Bâton d'Ogre"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "Era of Chaos  Épée de givre - Bâton d'Ogre. Un bâton vénéré par les Ogres. Composant de l'Épée de givre."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Ogre's Staff.md"
 toc: false

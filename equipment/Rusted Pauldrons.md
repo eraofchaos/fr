@@ -2,7 +2,7 @@
 title: "Épaulières rouillées"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "Era of Chaos Épaulières rouillées. Épaulières rouillées"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Rusted Pauldrons.md"
 toc: false

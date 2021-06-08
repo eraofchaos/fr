@@ -2,7 +2,7 @@
 title: "Avatar - Renommée marine"
 permalink: /Avatars/Fame on the High Seas/
 excerpt: "Era of Chaos  Renommée marine"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Fame on the High Seas.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Adjudant Gem"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Era of Chaos  Adjudant Gem"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Adjutant Gem.md"
 QR: adhero_60304

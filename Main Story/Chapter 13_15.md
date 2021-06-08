@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-15 La victoire ou la mort"
 permalink: /Main Story/Chapter 13_15/
 excerpt: "Chapitre 13 - 15. Era of Chaos  Histoire principale - Chapitre 13_15. 13-15 La victoire ou la mort"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 13_15.md"
 toc: false

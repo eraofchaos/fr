@@ -2,7 +2,7 @@
 title: "Heaume gelé"
 permalink: /equipment/Frigid Helm/
 excerpt: "Era of Chaos Heaume gelé. Heaume gelé"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Frigid Helm.md"
 toc: false

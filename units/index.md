@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "index.md"
 toc: false
@@ -107,7 +107,7 @@ classes: wide
   | 85 | ![Wivern](/images/u/ti_feilong.jpg) | [Wivern](/fr/units/Wyvern/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Monarque Wivern  |
   | 86 | ![Élémentaire de feu](/images/u/ti_liehuoyuansu.jpg) | [Élémentaire de feu](/fr/units/Fire Elemental/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Élémentaire d'énergie  |
   | 87 | ![Élémentaire de glace](/images/u/ti_bingyuansu2.jpg) | [Élémentaire de glace](/fr/units/Ice Elemental/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Esprit de la neige silencieux  |
-  | 88 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Élémentaire de magie  |
+  | 88 | ![Élémentaire de l'esprit](/images/u/ti_jingshenyuansu.jpg) | [Élémentaire de l'esprit](/fr/units/Psychic Elemental/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Élémentaire de magie  |
   | 89 | ![Élémentaire de mer](/images/u/ti_haiyuansu.jpg) | [Élémentaire de mer](/fr/units/Sea Elemental/) | Lanceur de sorts | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Élémentaire des marées  |
   | 90 | ![Élémentaire de pierre](/images/u/ti_shiyuansu.jpg) | [Élémentaire de pierre](/fr/units/Stone Elemental/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
   | 91 | ![Élémentaire de tempête](/images/u/ti_leiyuansu2.jpg) | [Élémentaire de tempête](/fr/units/Storm Elemental/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Orage  |

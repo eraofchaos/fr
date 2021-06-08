@@ -2,7 +2,7 @@
 title: "Scapula du guerrier"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Era of Chaos Scapula du guerrier. Scapula du guerrier"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Warrior's Scapula.md"
 toc: false

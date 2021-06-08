@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-5 Un ordre diabolique"
 permalink: /Main Story/Chapter 17_5/
 excerpt: "Chapitre 17 - 5. Era of Chaos  Histoire principale - Chapitre 17_5. 17-5 Un ordre diabolique"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 17_5.md"
 toc: false

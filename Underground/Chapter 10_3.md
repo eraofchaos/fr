@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 10 - 10-3 Le corps du roi"
 permalink: /Underground/Chapter 10_3/
 excerpt: "Chapitre 10 - 3. Era of Chaos  Souterrain - Chapitre 10_3. 10-3 Le corps du roi"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 10_3.md"
 toc: false

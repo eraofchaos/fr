@@ -3,7 +3,7 @@ title: "Oracle de Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Oracle de Regna. Oracle de Regna Unités. Élémentaire des marées. Era of Chaos Porte-parole de la volonté des profondeurs qui cherche à protéger la souveraineté des océans. Il emploie le pouvoir des océans pour repousser tous les ennemis."
 unitID: 9907
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Oracle de Regna"
 toc: true

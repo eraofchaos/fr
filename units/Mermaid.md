@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Sirène. Sirène Unités. null. Era of Chaos Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Sirène"
 toc: true

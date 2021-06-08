@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 20 Tunnels et Troglodytes"
 permalink: /Underground/Chapter 20/
 excerpt: "Chapitre 20 Tunnels et Troglodytes. Era of Chaos  Souterrain - Chapitre 20. Tunnels et Troglodytes"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 20.md"
 toc: false

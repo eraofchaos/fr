@@ -3,7 +3,7 @@ title: "Golem dragon"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Golem dragon. Golem dragon Unités. null. Era of Chaos L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Golem dragon"
 toc: true
@@ -22,7 +22,7 @@ toc: true
 
  **Faction :** [Tour](/fr/units/Faction Tower/)
 
- **Race:** Dragon
+ **Race:** Fiélon
 
  **Members:** [x1](/fr/units/Unit Member x1/)
 

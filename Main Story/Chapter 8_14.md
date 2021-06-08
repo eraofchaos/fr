@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-14 L'érosion des forêts"
 permalink: /Main Story/Chapter 8_14/
 excerpt: "Chapitre 8 - 14. Era of Chaos  Histoire principale - Chapitre 8_14. 8-14 L'érosion des forêts"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "Chapter 8_14.md"
 toc: false

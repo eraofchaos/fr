@@ -42,7 +42,7 @@ sidebar:
 
 ## Ciseaux magiques
 
-  **Event Item:** Ciseaux magiques
+  **Event Item:** [Ciseaux magiques](/fr/Items/con_2175/)
 
   **Description:** Objet de la fête des bateaux-dragons. Ces ciseaux sont imprégnés d'une mystérieuse magie qui peut être utilisée pour couper les zongzis magiques, mais ils seront détruits après utilisation.
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Quête des bateaux-dragons
 
-  **Talk Pikeman:** [color=000000]Merci de m'avoir trouvé ! Je m'occupe de faire avancer le bateau-dragon.[-]
+  **Talk Pikeman:** <span style="color: #000000">Merci de m'avoir trouvé ! Je m'occupe de faire avancer le bateau-dragon.</span>
 
-  **Talk Mermaid:** [color=000000]Quelle chance, vous m'avez trouvé ! Laissez-moi vous aider.[-]
+  **Talk Mermaid:** <span style="color: #000000">Quelle chance, vous m'avez trouvé ! Laissez-moi vous aider.</span>
 
-  **First Talk Regnan Seer :** [color=000000]Votre persévérance me touche, brave guerrier du bateau-dragon. Choisissez donc votre récompense.[-]
+  **First Talk Regnan Seer :** <span style="color: #000000">Votre persévérance me touche, brave guerrier du bateau-dragon. Choisissez donc votre récompense.</span>
 
-  **Second Talk Regnan Seer:** [color=000000]Comme on se retrouve, brave guerrier du bateau-dragon. Votre persévérance est touchante. Choisissez donc votre récompense.[-]
+  **Second Talk Regnan Seer:** <span style="color: #000000">Comme on se retrouve, brave guerrier du bateau-dragon. Votre persévérance est touchante. Choisissez donc votre récompense.</span>
 
-  **Final Talk Regnan Seer:** [color=000000]Voici toutes les récompenses, brave guerrier du bateau-dragon. Félicitations, vous avez terminé votre aventure ![-]
+  **Final Talk Regnan Seer:** <span style="color: #000000">Voici toutes les récompenses, brave guerrier du bateau-dragon. Félicitations, vous avez terminé votre aventure !</span>
 
   **Movement Notification 1:** Puisqu'un nouveau matelot vous a rejoint, le bateau-dragon peut désormais naviguer vers des domaines aquatiques encore plus lointains.
 

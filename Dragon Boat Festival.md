@@ -2,7 +2,7 @@
 title: "Fête des bateaux-dragons"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Fête des bateaux-dragons - Quête des bateaux-dragons"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-10
 locale: fr
 ref: "index.md"
 toc: false
@@ -12,6 +12,68 @@ sidebar:
   nav: "docs"
 ---
 
+
+
+## Areas
+
+  |  Nr  | Area | Draw Amount | Draw Item | Rank Limit | 
+  |:-----|:----:|:-----------:|:-----------|:----------:|
+  | 1 | **1~3** | **20** | [Ciseaux magiques](/fr/Items/con_2175/) | TBD |
+  | 2 | **4~10** | **20** | [Ciseaux magiques](/fr/Items/con_2175/) | TBD |
+  | 3 | **11~30** | **20** | [Ciseaux magiques](/fr/Items/con_2175/) | TBD |
+
+
+## Récompense
+
+  |  Nr  | Event Récompense | Limit |
+  |:-----|:-------------|:-----:|
+  | 1 | **5** ![Clé d'or](/images/t/i_tool_3041.png)[Clé d'or](/ItemsFR/con_783/) | **5** |
+  | 2 | **2** ![Carte au trésor poussiéreuse](/images/t/i_810102.png)[Carte au trésor poussiéreuse](/ItemsFR/con_1156/) | **5** |
+  | 3 | **20** ![Perle étincelante](/images/t/i_10013.png)[Perle étincelante](/ItemsFR/con_527/) | **5** |
+  | 4 | **20** ![Âme d'unité SSR](/images/t/i_10021.png)[Âme d'unité SSR](/ItemsFR/con_535/) | **4** |
+  | 5 |  **2000x** [Cristal de sang de dragon](/ItemsFR/con_879/) | **2** |
+  | 6 | **1** ![Pack de composants (Artefact premium)](/images/t/i_907047.png)[Pack de composants (Artefact premium)](/ItemsFR/con_1507/) | **4** |
+  | 7 | **60** ![Mithril du néant](/images/t/i_3075.png)[Mithril du néant](/ItemsFR/con_817/) | **4** |
+  | 8 | **20** [Perle discrète](/ItemsFR/con_2135/) | **4** |
+  | 9 | **40** ![Ticket d'échange d'Emblème sacré](/images/t/i_10003.png)[Ticket d'échange d'Emblème sacré](/ItemsFR/con_513/) | **3** |
+  | 10 | **15** ![Pacte d'Oracle](/images/t/i_3074.png)[Pacte d'Oracle](/ItemsFR/con_816/) | **3** |
+  | 11 | **1** ![Coffre de composants d'artefact premium](/images/t/i_906054.png)[Coffre de composants d'artefact premium](/ItemsFR/con_1874/) | **1** |
+  | 12 |  **2500x** [Cristal de sang de dragon](/ItemsFR/con_879/) | **2** |
+  | 13 | **25** ![Pacte d'Oracle](/images/t/i_3074.png)[Pacte d'Oracle](/ItemsFR/con_816/) | **2** |
+  | 14 | **20** [Coffre de jetons d'unité SSR à sélectionner](/fr/Items/con_2172/) | **4** |
+  | 15 | **20** [Coffre de jetons d'unité de Commandant à sélectionner](/fr/Items/con_2173/) | **4** |
+
+
+## Pool of Rewards by Rank
+
+  |  Nr  | Rank | Drop | Drop Limit | Areas |
+  |:-----|:-----|:-----|:----------:|:-----:|
+  | 1 | **1** | ? | **1** | 1~3, 4~10, 11~30 |
+  | 2 | **2** | **1** ![Coffre de composants d'artefact épique](/images/t/i_907181.png)[Coffre de composants d'artefact épique](/ItemsFR/con_1926/) | **1** | 11~30 |
+  | 3 | **2** | **1** ![Carte au trésor poussiéreuse](/images/t/i_810102.png)[Carte au trésor poussiéreuse](/ItemsFR/con_1156/) | **2** | 11~30 |
+  | 4 | **2** | **1** ![Guide tactique](/images/t/i_994013.png)[Guide tactique](/ItemsFR/unk_2115/) | **2** | 4~10, 11~30 |
+  | 5 | **2** | **1** ![Cristal de sort](/images/t/artifact_41002.png)[Cristal de sort](/ItemsFR/art_189/) | **2** | 4~10, 11~30 |
+  | 6 | **2** | **6** ![Perle étincelante](/images/t/i_10013.png)[Perle étincelante](/ItemsFR/con_527/) | **2** | 4~10, 11~30 |
+  | 7 | **2** | **2** ![Jetons de Héros universel](/images/t/i_tool_3002.png)[Jetons de Héros universel](/ItemsFR/her_358/) | **2** | 1~3, 4~10, 11~30 |
+  | 8 | **2** | **2** ![Argent étoilé](/images/t/artifact_41003.png)[Argent étoilé](/ItemsFR/con_969/) | **2** | 1~3, 4~10, 11~30 |
+  | 9 | **3** | **3** ![Coffre de jetons d'arme](/images/t/i_906044.png)[Coffre de jetons d'arme](/ItemsFR/con_1367/) | **-** | 1~3, 4~10, 11~30 |
+  | 10 | **3** |  **20x** [Essence d'artefact](/ItemsFR/con_905/) | **-** | 1~3, 4~10, 11~30 |
+  | 11 | **3** | **1** ![Pack de pierres artificielles à choix multiples](/images/t/i_907094.png)[Pack de pierres artificielles à choix multiples](/ItemsFR/con_1480/) | **-** | 1~3, 4~10, 11~30 |
+  | 12 | **3** |  **100x** [Acier draconique](/ItemsFR/con_880/) | **-** | 1~3, 4~10, 11~30 |
+  | 13 | **3** |  **20x** [Jeton de connaissance](/ItemsFR/con_911/) | **-** | 1~3, 4~10, 11~30 |
+  | 14 | **3** | **10** ![Coffre matériaux (rare)](/images/t/i_304001.png)[Coffre matériaux (rare)](/ItemsFR/con_757/) | **-** | 1~3, 4~10, 11~30 |
+  | 15 | **3** | **25** ![Médaille de soutien](/images/t/i_994011.png)[Médaille de soutien](/ItemsFR/unk_2116/) | **-** | 1~3, 4~10, 11~30 |
+  | 16 | **3** | **1** ![Parchemin d'énergie](/images/t/i_backup_icon2.png)[Parchemin d'énergie](/ItemsFR/con_830/) | **-** | 1~3, 4~10, 11~30 |
+  | 17 | **4** |  **60x** [Sombracier](/ItemsFR/con_881/) | **-** | 1~3, 4~10, 11~30 |
+  | 18 | **4** | **10** ![Ingrédients de la potion de talent](/images/t/i_3049.png)[Ingrédients de la potion de talent](/ItemsFR/con_1120/) | **-** | 1~3, 4~10, 11~30 |
+  | 19 | **4** | **15** ![Parchemins de sorts](/images/t/i_tool_3004.png)[Parchemins de sorts](/ItemsFR/con_694/) | **-** | 1~3, 4~10, 11~30 |
+  | 20 | **4** | **2** [Cristal bleu](/ItemsFR/con_716/) | **-** | 1~3, 4~10, 11~30 |
+  | 21 | **4** | **2** ![Boîte de groupement (niv. basique)](/images/t/i_tujianhezi1.png)[Boîte de groupement (niv. basique)](/ItemsFR/con_774/) | **-** | 1~3, 4~10, 11~30 |
+  | 22 | **4** | **10** ![Coffre matériaux (basique)](/images/t/i_304002.png)[Coffre matériaux (basique)](/ItemsFR/con_756/) | **-** | 1~3, 4~10, 11~30 |
+  | 23 | **4** | **10** ![Pierre artificielle](/images/t/artifact_41001.png)[Pierre artificielle](/ItemsFR/art_188/) | **-** | 1~3, 4~10, 11~30 |
+  | 24 | **4** | **10** [Pierre de raffinage](/ItemsFR/con_814/) | **-** | 1~3, 4~10, 11~30 |
+  | 25 | **4** | **4** ![Grande potion d'EXP](/images/t/i_502.png)[Grande potion d'EXP](/ItemsFR/con_702/) | **-** | 1~3, 4~10, 11~30 |
+  | 26 | **4** | **1** ![Sac d'or](/images/t/i_512.png)[Sac d'or](/ItemsFR/con_714/) | **-** | 1~3, 4~10, 11~30 |
 
 
 ## Règles
@@ -72,15 +134,3 @@ sidebar:
 
   **Movement Notification 3:** Grâce à la protection de l'Océanide, le bateau-dragon peut naviguer vers des domaines aquatiques encore plus lointains.
 
-
-
-## Shop
-
-  |  Nr  | Icon | Item | Price, $ | Gems | 
-  |:-----|:------:|:------:|:-------|:------:|
-  | 1 | ![Coffret cadeau de la fête des bateaux-dragons](/images/t/i_907331.png) | [Coffret cadeau de la fête des bateaux-dragons](/ItemsFR/con_1715/) | **94.99** | **6180.0** |
-  | 2 | ![Coffret cadeau de la fête des bateaux-dragons](/images/t/i_907331.png) | [Coffret cadeau de la fête des bateaux-dragons](/ItemsFR/con_1716/) | **89.99** | **5880.0** |
-  | 3 | ![Coffret cadeau de la fête des bateaux-dragons](/images/t/i_907331.png) | [Coffret cadeau de la fête des bateaux-dragons](/ItemsFR/con_1717/) | **79.99** | **5180.0** |
-  | 4 | ![Coffret cadeau de la fête des bateaux-dragons](/images/t/i_907331.png) | [Coffret cadeau de la fête des bateaux-dragons](/ItemsFR/con_1718/) | **69.99** | **4480.0** |
-  | 5 | ![Coffret cadeau de la fête des bateaux-dragons](/images/t/i_907331.png) | [Coffret cadeau de la fête des bateaux-dragons](/ItemsFR/con_1719/) | **59.99** | **3880.0** |
-  | 6 | ![Coffret cadeau de la fête des bateaux-dragons](/images/t/i_907331.png) | [Coffret cadeau de la fête des bateaux-dragons](/ItemsFR/con_1720/) | **49.99** | **3280.0** |

@@ -2,7 +2,7 @@
 title: "Artefact - Miroir vengeur"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Miroir vengeur. Miroir vengeur Un mage faible a utilisé des sorts interdits pour créer cet objet maudit afin de se venger. Cet artefact peut améliorer la puissance de combat de vos troupes."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Mirror of Revenge.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sangle de protection"
 permalink: /equipment/Protective Strap/
 excerpt: "Era of Chaos Sangle de protection. Sangle de protection"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Protective Strap.md"
 toc: false

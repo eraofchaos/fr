@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Charging -  Units"
 permalink: /units/Unit Class Charging/
 excerpt: "Era of Chaos Unit Class Charging. Unit Class Charging. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Unit Class Charging"
 toc: false
@@ -15,11 +15,11 @@ classes: wide
   | 1 | ![Tigre blanc](/images/u/ti_baihu.jpg) | [Tigre blanc](/fr/units/White Tiger/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 2 | ![Chien de l'Enfer](/images/u/ti_santouquan.jpg) | [Chien de l'Enfer](/fr/units/Hell Hound/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 3 | ![Dompteur de requins](/images/u/ti_xunshashi.jpg) | [Dompteur de requins](/fr/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Chevaucheur de requins  |
-  | 4 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpie sinistre  |
+  | 4 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpie sinistre  |
   | 5 | ![Griffon](/images/u/ti_shijiu.jpg) | [Griffon](/fr/units/Griffin/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Griffon royal  |
   | 6 | ![Cavalier](/images/u/ti_qishi.jpg) | [Cavalier](/fr/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Chevaliers légendaires  |
   | 7 | ![Manticore](/images/u/ti_shixie.jpg) | [Manticore](/fr/units/Manticore/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicore  |
-  | 8 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 8 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mage elfe  |
   | 9 | ![Licorne](/images/u/ti_dujiaoshou.jpg) | [Licorne](/fr/units/Unicorn/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Licorne de guerre  |
   | 10 | ![Sorcière maléfique](/images/u/ti_xiemonv.jpg) | [Sorcière maléfique](/fr/units/Evil Sorceress/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 11 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |

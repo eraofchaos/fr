@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "index.md"
 toc: false
@@ -51,7 +51,7 @@ classes: wide
   | 29 | ![Effrit](/images/u/ti_liehuojingling.jpg) | [Effrit](/fr/units/Efreeti/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultan Effrit  |
   | 30 | ![Elfe sylvaine](/images/u/ti_mujingling.jpg) | [Elfe sylvaine](/fr/units/Wood Elf/) | À distance | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Grand Elfe  |
   | 31 | ![Farfadet](/images/u/ti_conglinyaojing.jpg) | [Farfadet](/fr/units/Leprechaun/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
-  | 32 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 32 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mage elfe  |
   | 33 | ![Garde sylvanien](/images/u/ti_shuyao.jpg) | [Garde sylvanien](/fr/units/Dendroid Guard/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldat sylvanien  |
   | 34 | ![Gargouille](/images/u/ti_shixianggui.jpg) | [Gargouille](/fr/units/Stone Gargoyle/) | Offensive | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 35 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/fr/units/Gnoll/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrier Gnoll  |
@@ -66,7 +66,7 @@ classes: wide
   | 44 | ![Guêpe serpent](/images/u/ti_longying.jpg) | [Guêpe serpent](/fr/units/Serpent Fly/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Guêpe dragon  |
   | 45 | ![Guêpier](/images/u/ti_dufengcao.jpg) | [Guêpier](/fr/units/Waspwort/) | À distance | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
   | 46 | ![Géant](/images/u/ti_taitan.jpg) | [Géant](/fr/units/Giant/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |
-  | 47 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpie sinistre  |
+  | 47 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpie sinistre  |
   | 48 | ![Homme-lézard](/images/u/ti_xiyiren.jpg) | [Homme-lézard](/fr/units/Lizardman/) | À distance | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 49 | ![Hydre](/images/u/ti_duotoulong.jpg) | [Hydre](/fr/units/Hydra/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Pyrohydre  |
   | 50 | ![Lancier](/images/u/ti_jibing.jpg) | [Lancier](/fr/units/Pikeman/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hallebardier  |

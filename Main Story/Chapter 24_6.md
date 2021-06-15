@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-6 Les secrets des Dragons"
 permalink: /Main Story/Chapter 24_6/
 excerpt: "Chapitre 24 - 6. Era of Chaos  Histoire principale - Chapitre 24_6. 24-6 Les secrets des Dragons"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 24_6.md"
 toc: false

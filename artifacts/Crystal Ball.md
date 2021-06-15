@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden - Boule de cristal"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Era of Chaos  Pomme d'Éden - Boule de cristal. Une boule de cristal brillante. Selon la légende, elle permet de lire l'avenir."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Crystal Ball.md"
 toc: false

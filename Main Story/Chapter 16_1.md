@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-1 Une âme ancienne"
 permalink: /Main Story/Chapter 16_1/
 excerpt: "Chapitre 16 - 1. Era of Chaos  Histoire principale - Chapitre 16_1. 16-1 Une âme ancienne"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 16_1.md"
 toc: false

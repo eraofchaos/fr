@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Star 2"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Effrit](/images/u/ti_liehuojingling.jpg) | [Effrit](/fr/units/Efreeti/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultan Effrit  |
   | 9 | ![Gargouille](/images/u/ti_shixianggui.jpg) | [Gargouille](/fr/units/Stone Gargoyle/) | Offensive | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 10 | ![Archimage](/images/u/ti_dafashi.jpg) | [Archimage](/fr/units/Arch Mage/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimage  |
-  | 11 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpie sinistre  |
+  | 11 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpie sinistre  |
   | 12 | ![Griffon](/images/u/ti_shijiu.jpg) | [Griffon](/fr/units/Griffin/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Griffon royal  |
   | 13 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Croisé  |
   | 14 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |

@@ -2,7 +2,7 @@
 title: "Gants de protection"
 permalink: /equipment/Protective Gloves/
 excerpt: "Era of Chaos Gants de protection. Gants de protection"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Protective Gloves.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefact - Anneau du Mage"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Era of Chaos  Anneau du Mage. Anneau du Mage Un anneau magique forgé à partir d'objets enchantés. Augmente les dégâts des sorts."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Ring of the Mage.md"
 toc: false

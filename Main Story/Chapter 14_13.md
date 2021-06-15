@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-13 S'approcher de la cible"
 permalink: /Main Story/Chapter 14_13/
 excerpt: "Chapitre 14 - 13. Era of Chaos  Histoire principale - Chapitre 14_13. 14-13 S'approcher de la cible"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 14_13.md"
 toc: false

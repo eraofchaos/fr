@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-10 Briser le silence"
 permalink: /Main Story/Chapter 5_10/
 excerpt: "Chapitre 5 - 10. Era of Chaos  Histoire principale - Chapitre 5_10. 5-10 Briser le silence"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 5_10.md"
 toc: false

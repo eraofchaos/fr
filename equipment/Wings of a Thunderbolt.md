@@ -2,7 +2,7 @@
 title: "Ailes foudroyantes"
 permalink: /equipment/Wings of a Thunderbolt/
 excerpt: "Era of Chaos Ailes foudroyantes. Ailes foudroyantes"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Wings of a Thunderbolt.md"
 toc: false

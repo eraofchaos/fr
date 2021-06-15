@@ -2,7 +2,7 @@
 title: "Flèche en acier"
 permalink: /equipment/Steel Arrow/
 excerpt: "Era of Chaos Flèche en acier. Flèche en acier"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Steel Arrow.md"
 toc: false

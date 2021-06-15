@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 15 - 15-6 L'autel du démon"
 permalink: /Main Story/Chapter 15_6/
 excerpt: "Chapitre 15 - 6. Era of Chaos  Histoire principale - Chapitre 15_6. 15-6 L'autel du démon"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 15_6.md"
 toc: false

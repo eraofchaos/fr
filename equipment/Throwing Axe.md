@@ -2,7 +2,7 @@
 title: "Hache de lancer"
 permalink: /equipment/Throwing Axe/
 excerpt: "Era of Chaos Hache de lancer. Hache de lancer"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Throwing Axe.md"
 toc: false

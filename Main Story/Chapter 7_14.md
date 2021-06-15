@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-14 Le cœur brisé"
 permalink: /Main Story/Chapter 7_14/
 excerpt: "Chapitre 7 - 14. Era of Chaos  Histoire principale - Chapitre 7_14. 7-14 Le cœur brisé"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 7_14.md"
 toc: false

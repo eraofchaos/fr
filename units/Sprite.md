@@ -1,9 +1,9 @@
 ---
 title: "Fée"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Fée. Fée Unités. . Era of Chaos Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
+excerpt: "Era of Chaos Fée. Fée Unités. Mage elfe. Era of Chaos Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
 unitID: 901
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Fée"
 toc: true
@@ -175,12 +175,12 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_mofaxianling.jpg)
+  ![Mage elfe](/images/u/tia_mofaxianling.jpg)
 
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Mage elfe
 
  **Awaking Description:** Vous vous tenez à la fenêtre et admirez les fleurs. Pendant ce temps, une Fée vous observe depuis le massif. Tout comme les fleurs fraîchement cueillies qui ornent leurs maisons, les Fées subliment les rêves des autres.
 
@@ -195,23 +195,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Dynamite énergétique
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bris d'énergie&gt; :</span><span style="color: #645252;font-size:18px"> Toutes les 20 secondes, inflige des dégâts équivalents à 200 % de sa propre ATQ à l'unité cible.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Vertige énergétique
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bris d'énergie&gt; :</span><span style="color: #645252;font-size:18px"> La première attaque contre l'unité cible inflige des dégâts équivalents à 200 % de sa propre ATQ.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Faveur de la Fée
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bénédiction de la Fée&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la résistance aux dégâts de toutes les unités alliées sur son chemin de 10 % supplémentaires. L'effet est doublé pour les unités de Lanceurs de sorts.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Bénédiction du serviteur
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bénédiction de la Fée&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les dégâts et l'ATQ de toutes les unités ennemies sur son chemin de 10 % supplémentaires.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Hommage
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dévouement&gt; :</span><span style="color: #645252;font-size:18px"> Inflige également Silence à 3 unités aléatoires sur le terrain. Dure 4 secondes.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Les paroles des morts
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dévouement&gt; :</span><span style="color: #645252;font-size:18px"> L'effet augmente et inflige Silence à la cible. Réduit également sa résistance aux dégâts de 15 %. Dure 4 secondes.</span>
 
 ## Technical info
  **runart:** 1

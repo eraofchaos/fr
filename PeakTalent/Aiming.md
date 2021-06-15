@@ -2,7 +2,7 @@
 title: "Visée. Talent Ultime - Visée"
 permalink: /PeakTalent/Aiming/
 excerpt: "Era of Chaos Talent Ultime Visée. Talent Ultime Visée. Visée"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Aiming.md"
 toc: false

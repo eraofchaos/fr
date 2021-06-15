@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Unit Member x4"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![Manticore](/images/u/ti_shixie.jpg) | [Manticore](/fr/units/Manticore/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicore  |
   | 24 | ![Pégase](/images/u/ti_feima.jpg) | [Pégase](/fr/units/Pegasus/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pégase d'argent  |
   | 25 | ![Basilic](/images/u/ti_xiyi.jpg) | [Basilic](/fr/units/Basilisk/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 26 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mage elfe  |
   | 27 | ![Pirates de Regna](/images/u/ti_haidao.jpg) | [Pirates de Regna](/fr/units/Regnan Pirates/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Roi des pirates  |
   | 28 | ![Garde sylvanien](/images/u/ti_shuyao.jpg) | [Garde sylvanien](/fr/units/Dendroid Guard/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldat sylvanien  |
   | 29 | ![Élémentaire de tempête](/images/u/ti_leiyuansu2.jpg) | [Élémentaire de tempête](/fr/units/Storm Elemental/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Orage  |

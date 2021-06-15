@@ -2,7 +2,7 @@
 title: "Épée du jugement"
 permalink: /equipment/Judgment Sword/
 excerpt: "Era of Chaos Épée du jugement. Épée du jugement"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Judgment Sword.md"
 toc: false

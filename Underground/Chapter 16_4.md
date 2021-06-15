@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 16 - 16-4 Échos de la guerre"
 permalink: /Underground/Chapter 16_4/
 excerpt: "Chapitre 16 - 4. Era of Chaos  Souterrain - Chapitre 16_4. 16-4 Échos de la guerre"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 16_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 28 - 28-2  Construction"
 permalink: /Underground/Chapter 28_2/
 excerpt: "Chapitre 28 - 2. Era of Chaos  Souterrain - Chapitre 28_2. 28-2  Construction"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 28_2.md"
 toc: false

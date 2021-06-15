@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-2 Le temple maudit"
 permalink: /Main Story/Chapter 3_2/
 excerpt: "Chapitre 3 - 2. Era of Chaos  Histoire principale - Chapitre 3_2. 3-2 Le temple maudit"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 3_2.md"
 toc: false

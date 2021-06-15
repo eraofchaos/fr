@@ -2,7 +2,7 @@
 title: "Épée des dieux. Talent Ultime - Épée des dieux"
 permalink: /PeakTalent/Sword of Gods/
 excerpt: "Era of Chaos Talent Ultime Épée des dieux. Talent Ultime Épée des dieux. Épée des dieux"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Sword of Gods.md"
 toc: false

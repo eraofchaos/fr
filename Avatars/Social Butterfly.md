@@ -2,7 +2,7 @@
 title: "Avatar - Adepte des mondanités"
 permalink: /Avatars/Social Butterfly/
 excerpt: "Era of Chaos  Adepte des mondanités"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Social Butterfly.md"
 toc: false

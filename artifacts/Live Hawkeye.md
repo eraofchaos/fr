@@ -2,7 +2,7 @@
 title: "Artefact - Œil de faucon vivant"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Era of Chaos  Œil de faucon vivant. Œil de faucon vivant Restez en vie. Ensuite, vous verrez plus de richesse."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Live Hawkeye.md"
 toc: false

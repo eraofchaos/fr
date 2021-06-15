@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-9 Le premier arbre"
 permalink: /Main Story/Chapter 3_9/
 excerpt: "Chapitre 3 - 9. Era of Chaos  Histoire principale - Chapitre 3_9. 3-9 Le premier arbre"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 3_9.md"
 toc: false

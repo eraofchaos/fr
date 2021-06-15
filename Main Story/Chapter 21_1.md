@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-1 Le conquérant"
 permalink: /Main Story/Chapter 21_1/
 excerpt: "Chapitre 21 - 1. Era of Chaos  Histoire principale - Chapitre 21_1. 21-1 Le conquérant"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 21_1.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 26  Semaine de la Forteresse
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **28 Jun** | **5x [Gnoll](/ItemsFR/unt_253/)**  | Une escouade de Gnolls a rejoint votre armée et vous renforce ! |
+  | **29 Jun** | **5x [Coffre de faction (Forteresse)](/ItemsFR/con_1277/)**  | Votre compagnie de la Forteresse vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
+  | **30 Jun** | **100x <i class="fas fa-gem"/>**  | Votre armée a découvert de nombreux trésors dans le sombre marais ! |
+  | **1 Jul** | **3x [Homme-lézard](/ItemsFR/unt_254/)**  | Une escouade d'Hommes-lézards a rejoint votre armée et vous renforce ! |
+  | **2 Jul** | **5x [Runes de groupement (Forteresse)](/ItemsFR/con_818/)**  | Votre compagnie de l'Hadès vous a rapporté un certain nombre de runes de grande valeur ! |
+  | **3 Jul** | **3x [Guêpe serpent](/ItemsFR/unt_255/)**  | Une escouade de Guêpes serpents a rejoint votre armée et vous renforce ! |
+  | **4 Jul** | **5x [Korbac](/ItemsFR/her_394/)**  | Un courageux Maître des bêtes s'est rendu sur votre territoire ! |
+
 
 #### 2021 Week 25  Semaine de l'Hadès
 

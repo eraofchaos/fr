@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Unit Member x9"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 7 | ![Gargouille](/images/u/ti_shixianggui.jpg) | [Gargouille](/fr/units/Stone Gargoyle/) | Offensive | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | ![Lancier](/images/u/ti_jibing.jpg) | [Lancier](/fr/units/Pikeman/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hallebardier  |
   | 9 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maître Arbalétrier  |
-  | 10 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpie sinistre  |
+  | 10 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpie sinistre  |
   | 11 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/fr/units/Troglodyte/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodyte des ténèbres  |
   | 12 | ![Griffon](/images/u/ti_shijiu.jpg) | [Griffon](/fr/units/Griffin/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Griffon royal  |
   | 13 | ![Œil maléfique](/images/u/ti_xieyan.jpg) | [Œil maléfique](/fr/units/Beholder/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Œil démoniaque  |

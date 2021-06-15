@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-8 La Tour des Mages"
 permalink: /Main Story/Chapter 19_8/
 excerpt: "Chapitre 19 - 8. Era of Chaos  Histoire principale - Chapitre 19_8. 19-8 La Tour des Mages"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 19_8.md"
 toc: false

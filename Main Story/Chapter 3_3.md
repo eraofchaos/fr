@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-3 Les charniers"
 permalink: /Main Story/Chapter 3_3/
 excerpt: "Chapitre 3 - 3. Era of Chaos  Histoire principale - Chapitre 3_3. 3-3 Les charniers"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 3_3.md"
 toc: false

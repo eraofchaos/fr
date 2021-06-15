@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-14 Il était une fois un traître"
 permalink: /Main Story/Chapter 18_14/
 excerpt: "Chapitre 18 - 14. Era of Chaos  Histoire principale - Chapitre 18_14. 18-14 Il était une fois un traître"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 18_14.md"
 toc: false

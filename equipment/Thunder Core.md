@@ -2,7 +2,7 @@
 title: "Noyau du tonnerre"
 permalink: /equipment/Thunder Core/
 excerpt: "Era of Chaos Noyau du tonnerre. Noyau du tonnerre"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Thunder Core.md"
 toc: false

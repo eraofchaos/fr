@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-3 Un chemin semé d'embûches"
 permalink: /Main Story/Chapter 11_3/
 excerpt: "Chapitre 11 - 3. Era of Chaos  Histoire principale - Chapitre 11_3. 11-3 Un chemin semé d'embûches"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 11_3.md"
 toc: false

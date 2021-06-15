@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Unit Rank R"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Centaure](/images/u/ti_banrenma.jpg) | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitaine Centaure  |
   | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/fr/units/Gnoll/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrier Gnoll  |
   | 10 | ![Squelette](/images/u/ti_kulouzhanshi.jpg) | [Squelette](/fr/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Guerrier squelette  |
-  | 11 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 11 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mage elfe  |
   | 12 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 13 | ![Gobelin](/images/u/ti_shourenzhanshi.jpg) | [Gobelin](/fr/units/Goblin/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgobelin  |
   | 14 | ![Chevaucheur de loup](/images/u/ti_langqibing.jpg) | [Chevaucheur de loup](/fr/units/Wolf Rider/) | Assaut | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Pillard  |

@@ -2,7 +2,7 @@
 title: "Bracelets à pointes"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Era of Chaos Bracelets à pointes. Bracelets à pointes"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Spiked Bracers.md"
 toc: false

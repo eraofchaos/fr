@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "Era of Chaos Exclusif Dungeon. Exclusif Dungeon. List of Exclusif Dungeon in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Exclusive Dungeon"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodyte](/fr/units/Troglodyte/) | [Épée](/fr/Exclusive/Troglodyte Sword/) | - | Assaut | [Jeton Épée](/ItemsFR/con_912/) | - |
-  | 2  | [Harpie](/fr/units/Harpy/) | [Pic du Chevalier](/fr/Exclusive/Harpy Knight Pike/) | - | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
+  | 2  | [Harpie](/fr/units/Harpy/) | [Pic du Chevalier](/fr/Exclusive/Harpy Knight Pike/) | + | Assaut | [Jeton Pic du Chevalier](/ItemsFR/con_916/) | - |
   | 3  | [Œil maléfique](/fr/units/Beholder/) | [Regard ténébreux](/fr/Exclusive/Beholder Dark Gaze/) | - | À distance | [Jeton Regard ténébreux](/ItemsFR/con_990/) | [Skin spécial Regard ténébreux](/ItemsFR/con_658/) |
   | 4  | [Méduse](/fr/units/Medusa/) | [Arc de la Méduse](/fr/Exclusive/Medusa Medusa's Bow/) | + | À distance | [Jeton Arc de la Méduse](/ItemsFR/con_991/) | [Peau spéciale Arc de la Méduse](/ItemsFR/con_659/) |
   | 5  | [Minotaure](/fr/units/Minotaur/) | [Bouclier iris](/fr/Exclusive/Minotaur Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |

@@ -2,7 +2,7 @@
 title: "Descente sauvage. Talent Ultime - Descente sauvage"
 permalink: /PeakTalent/Savage Descent/
 excerpt: "Era of Chaos Talent Ultime Descente sauvage. Talent Ultime Descente sauvage. Descente sauvage"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Savage Descent.md"
 toc: false

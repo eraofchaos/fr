@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 27 - 27-3 Prophète oriental"
 permalink: /Underground/Chapter 27_3/
 excerpt: "Chapitre 27 - 3. Era of Chaos  Souterrain - Chapitre 27_3. 27-3 Prophète oriental"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 27_3.md"
 toc: false

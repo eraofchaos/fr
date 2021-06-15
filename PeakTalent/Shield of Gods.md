@@ -2,7 +2,7 @@
 title: "Bouclier des dieux. Talent Ultime - Bouclier des dieux"
 permalink: /PeakTalent/Shield of Gods/
 excerpt: "Era of Chaos Talent Ultime Bouclier des dieux. Talent Ultime Bouclier des dieux. Bouclier des dieux"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Shield of Gods.md"
 toc: false

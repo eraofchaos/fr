@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Star 1"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 10 | ![Moine](/images/u/ti_senglv.jpg) | [Moine](/fr/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zélote  |
   | 11 | ![Cavalier](/images/u/ti_qishi.jpg) | [Cavalier](/fr/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Chevaliers légendaires  |
   | 12 | ![Squelette](/images/u/ti_kulouzhanshi.jpg) | [Squelette](/fr/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Guerrier squelette  |
-  | 13 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 13 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mage elfe  |
   | 14 | ![Trépassé](/images/u/ti_jiangshi.jpg) | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 15 | ![Gobelin](/images/u/ti_shourenzhanshi.jpg) | [Gobelin](/fr/units/Goblin/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgobelin  |
   | 16 | ![Chevaucheur de loup](/images/u/ti_langqibing.jpg) | [Chevaucheur de loup](/fr/units/Wolf Rider/) | Assaut | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Pillard  |

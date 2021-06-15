@@ -2,7 +2,7 @@
 title: "Secrets de faction. Talent Ultime - Secrets de faction"
 permalink: /PeakTalent/Faction Secrets/
 excerpt: "Era of Chaos Talent Ultime Secrets de faction. Talent Ultime Secrets de faction. Secrets de faction"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Faction Secrets.md"
 toc: false

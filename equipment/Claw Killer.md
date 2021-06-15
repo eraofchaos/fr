@@ -2,7 +2,7 @@
 title: "Griffe assassine"
 permalink: /equipment/Claw Killer/
 excerpt: "Era of Chaos Griffe assassine. Griffe assassine"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Claw Killer.md"
 toc: false

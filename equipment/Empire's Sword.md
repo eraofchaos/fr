@@ -2,7 +2,7 @@
 title: "Épée de l'Empire"
 permalink: /equipment/Empire's Sword/
 excerpt: "Era of Chaos Épée de l'Empire. Épée de l'Empire"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Empire's Sword.md"
 toc: false

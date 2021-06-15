@@ -3,7 +3,7 @@ title: "Effrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Effrit. Effrit Unités. Sultan Effrit. Era of Chaos Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Effrit"
 toc: true

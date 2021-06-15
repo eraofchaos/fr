@@ -2,7 +2,7 @@
 title: "Frappe précise. Talent Ultime - Frappe précise"
 permalink: /PeakTalent/Precise Strike/
 excerpt: "Era of Chaos Talent Ultime Frappe précise. Talent Ultime Frappe précise. Frappe précise"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Precise Strike.md"
 toc: false

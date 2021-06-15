@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 9 - 9-3 Éruption"
 permalink: /Underground/Chapter 9_3/
 excerpt: "Chapitre 9 - 3. Era of Chaos  Souterrain - Chapitre 9_3. 9-3 Éruption"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Chapter 9_3.md"
 toc: false

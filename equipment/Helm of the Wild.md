@@ -2,7 +2,7 @@
 title: "Heaume sauvage"
 permalink: /equipment/Helm of the Wild/
 excerpt: "Era of Chaos Heaume sauvage. Heaume sauvage"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Helm of the Wild.md"
 toc: false

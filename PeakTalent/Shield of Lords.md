@@ -2,7 +2,7 @@
 title: "Bouclier des Lords. Talent Ultime - Bouclier des Lords"
 permalink: /PeakTalent/Shield of Lords/
 excerpt: "Era of Chaos Talent Ultime Bouclier des Lords. Talent Ultime Bouclier des Lords. Bouclier des Lords"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Shield of Lords.md"
 toc: false

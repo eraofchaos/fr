@@ -2,7 +2,7 @@
 title: "Puissance des Seigneurs"
 permalink: /equipment/Might of Lords/
 excerpt: "Era of Chaos Puissance des Seigneurs. Puissance des Seigneurs"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Might of Lords.md"
 toc: false

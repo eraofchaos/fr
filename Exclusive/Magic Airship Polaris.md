@@ -2,7 +2,7 @@
 title: "Exclusif - Étoile polaire (Magic Airship)"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Étoile polaire. Étoile polaire. Era of Chaos Exclusif Étoile polaire. Aéronef magique Exclusif."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Magic Airship Étoile polaire.md"
 toc: false

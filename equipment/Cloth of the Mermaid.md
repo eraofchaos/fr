@@ -2,7 +2,7 @@
 title: "Étoffe de la sirène"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "Era of Chaos Étoffe de la sirène. Étoffe de la sirène"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Cloth of the Mermaid.md"
 toc: false

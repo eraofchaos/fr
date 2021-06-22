@@ -2,7 +2,7 @@
 title: "Artefact - Plume de l'émissaire - Anneau de diplomatie"
 permalink: /artifacts/Diplomat's Ring /
 excerpt: "Era of Chaos  Plume de l'émissaire - Anneau de diplomatie. Cet anneau scintillant témoigne de la noblesse du statut de son propriétaire. Il s'agit de l'un des composants de la Plume de l'émissaire."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Diplomat's Ring .md"
 toc: false

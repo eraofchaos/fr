@@ -2,7 +2,7 @@
 title: "Épaulières de l'âtre-flamme"
 permalink: /equipment/Pauldrons of Hearth Fire/
 excerpt: "Era of Chaos Épaulières de l'âtre-flamme. Épaulières de l'âtre-flamme"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Pauldrons of Hearth Fire.md"
 toc: false

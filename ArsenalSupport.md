@@ -2,7 +2,7 @@
 title: "Soutien"
 permalink: /ArsenalSupport.html
 excerpt: "Era of Chaos  Soutien. <span style="color: #8a5c1d;font-size:18px">L'espace sur le champ de bataille est limité. L'École de guerre est donc partie à la recherche d'un type de magie de soutien qui permettrait d'améliorer les capacités de combat des unités. Cette magie permet de transférer les capacités d'une unité de soutien vers une unité de combat, et donc d'améliorer les capacités de cette dernière.</span><br/><span style="color: #ffffff">　</span><br/>"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "ArsenalSupport.md"
 toc: false

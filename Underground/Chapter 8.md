@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 8 Pensées frénétiques"
 permalink: /Underground/Chapter 8/
 excerpt: "Chapitre 8 Pensées frénétiques. Era of Chaos  Souterrain - Chapitre 8. Pensées frénétiques"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 8.md"
 toc: false

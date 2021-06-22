@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 24 - 24-3 Puissance d'éclair"
 permalink: /Underground/Chapter 24_3/
 excerpt: "Chapitre 24 - 3. Era of Chaos  Souterrain - Chapitre 24_3. 24-3 Puissance d'éclair"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 24_3.md"
 toc: false

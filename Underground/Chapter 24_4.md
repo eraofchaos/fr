@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 24 - 24-4 Carnivores"
 permalink: /Underground/Chapter 24_4/
 excerpt: "Chapitre 24 - 4. Era of Chaos  Souterrain - Chapitre 24_4. 24-4 Carnivores"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 24_4.md"
 toc: false

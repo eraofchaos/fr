@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 17 - 17-4 La lampe du Djinn"
 permalink: /Underground/Chapter 17_4/
 excerpt: "Chapitre 17 - 4. Era of Chaos  Souterrain - Chapitre 17_4. 17-4 La lampe du Djinn"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 17_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Tour de contrôle principale"
 permalink: /equipment/Main Control Tower/
 excerpt: "Era of Chaos Tour de contrôle principale. Tour de contrôle principale"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Main Control Tower.md"
 toc: false

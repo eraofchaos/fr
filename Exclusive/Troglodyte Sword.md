@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Troglodyte)"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Troglodyte Exclusif."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Troglodyte Épée.md"
 toc: false

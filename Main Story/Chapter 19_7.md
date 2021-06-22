@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-7 Le réseau magique"
 permalink: /Main Story/Chapter 19_7/
 excerpt: "Chapitre 19 - 7. Era of Chaos  Histoire principale - Chapitre 19_7. 19-7 Le réseau magique"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 19_7.md"
 toc: false

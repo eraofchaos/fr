@@ -1,9 +1,9 @@
 ---
 title: "Arbalétrière de Regna"
 permalink: /units/Regnan Archer/
-excerpt: "Era of Chaos Arbalétrière de Regna. Arbalétrière de Regna Unités. null. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
+excerpt: "Era of Chaos Arbalétrière de Regna. Arbalétrière de Regna Unités. Tireur d'élite de Regna. Era of Chaos Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Arbalétrière de Regna"
 toc: true
@@ -184,12 +184,12 @@ toc: true
 
 ## Awaking
 
-  ![null](/images/u/tia_baozang.jpg)
+  ![Tireur d'élite de Regna](/images/u/tia_baozang.jpg)
 
 ### Awaking Détails
  **Is it possible right now?** NO
 
- **Awaking Name:** null
+ **Awaking Name:** Tireur d'élite de Regna
 
  **Awaking Description:** Les yeux rouges des femmes pirates instillent la peur dans le cœur des hommes. Tandis que les sots se laissent envoûter, les plus rusés prennent garde à ne jamais croiser leur regard.
 
@@ -204,23 +204,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Description:** 
+### 1st Skill (or 2nd): Éclair voleur d'âme
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flèche mortelle&gt;</span><span style="color: #645252;font-size:18px"> Huit secondes après le début du combat, inflige des dégâts égaux à 500 % de sa propre ATQ à l'unité ciblée, ainsi que Saignement, lui infligeant des dégâts égaux à 1 % de ses PV max toutes les secondes. L'effet dure 10 secondes. Peut blesser les cibles immunisées au Saignement. Le temps de recharge est de 20 secondes.</span>
 
-### 2nd Skill (or 1st): null
- **Description:** 
+### 2nd Skill (or 1st): Éclair voleur de vie
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flèche mortelle&gt;</span><span style="color: #645252;font-size:18px"> Huit secondes après le début du combat, inflige des dégâts égaux à 500 % de sa propre ATQ à l'unité ciblée, ainsi que Lenteur, lui infligeant des dégâts égaux à 1 % de ses PV max toutes les secondes. L'effet dure 10 secondes. Peut blesser les cibles immunisées à Lenteur. Le temps de recharge est de 20 secondes.</span>
 
-### 3rd Skill (or 4th): null
- **Description:** 
+### 3rd Skill (or 4th): Esquive tactique
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Entraînement tactique&gt;</span><span style="color: #645252;font-size:18px"> Lorsque vous êtes victime d'Étourdissement, Pétrification, Cristallisation, Gel ou Arrêt du temps, octroie une bulle égale à 30 % des PV max et augmente la DÉF de 15 %. L'effet dure 6 secondes et le temps de recharge est de 12 secondes. (Cette compétence n'est efficace que si Radiance est équipé.)</span>
 
-### 4th Skill (or 3rd): null
- **Description:** 
+### 4th Skill (or 3rd): Roue tactique
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Entraînement tactique&gt;</span><span style="color: #645252;font-size:18px"> Lorsque vous êtes victime de Silence, Démotivation, Paralysie, Découragement ou Cécité, augmente votre vitesse d'attaque de 30 % et les dégâts de vos coups critiques de 15 %. L'effet dure 6 secondes et le temps de recharge est de 12 secondes. (Cette compétence n'est efficace que si Radiance est équipé.)</span>
 
-### 5th Skill (or 6th): null
- **Description:** 
+### 5th Skill (or 6th): Tir à bout portant
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tir de soutien&gt;</span><span style="color: #645252;font-size:18px"> Lance &lt;Tir à bout portant&gt; à l'unité ennemie la plus proche toutes les 13 secondes, infligeant des dégâts égaux à 230 % de sa propre ATQ. Les dégâts sont doublés contre les unités victimes de Fragilisation.</span>
 
-### 6th Skill (or 5th): null
- **Description:** 
+### 6th Skill (or 5th): Puissance de feu de soutien
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tir de soutien&gt;</span><span style="color: #645252;font-size:18px"> Lorsqu'une unité alliée subit des dégâts supérieurs à 20 % de ses PV max, l'Arbalétrière de Regna lance &lt;Puissance de feu de soutien&gt;, augmentant ses propres coups critiques de 200 et son ATQ de 40 %. L'effet dure 5 secondes et est cumulable deux fois.</span>
 
 ## Technical info
  **runart:** 0

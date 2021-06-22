@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-8 L'autel du feu"
 permalink: /Main Story/Chapter 30_8/
 excerpt: "Chapitre 30 - 8. Era of Chaos  Histoire principale - Chapitre 30_8. 30-8 L'autel du feu"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 30_8.md"
 toc: false

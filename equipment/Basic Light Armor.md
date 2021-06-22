@@ -2,7 +2,7 @@
 title: "Armure légère standard"
 permalink: /equipment/Basic Light Armor/
 excerpt: "Era of Chaos Armure légère standard. Armure légère standard"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Basic Light Armor.md"
 toc: false

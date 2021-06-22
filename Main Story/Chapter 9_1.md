@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-1 Vestiges elfiques"
 permalink: /Main Story/Chapter 9_1/
 excerpt: "Chapitre 9 - 1. Era of Chaos  Histoire principale - Chapitre 9_1. 9-1 Vestiges elfiques"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 9_1.md"
 toc: false

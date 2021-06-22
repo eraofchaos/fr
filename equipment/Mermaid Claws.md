@@ -2,7 +2,7 @@
 title: "Griffes de sirène"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Era of Chaos Griffes de sirène. Griffes de sirène"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Mermaid Claws.md"
 toc: false

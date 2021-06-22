@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 Tatalia"
 permalink: /Main Story/Chapter 11/
 excerpt: "Chapitre 11. Era of Chaos  Histoire principale - Chapitre 11. Tatalia"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 11.md"
 toc: false

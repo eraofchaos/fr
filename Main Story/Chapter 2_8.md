@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-8 Un échange amical"
 permalink: /Main Story/Chapter 2_8/
 excerpt: "Chapitre 2 - 8. Era of Chaos  Histoire principale - Chapitre 2_8. 2-8 Un échange amical"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 2_8.md"
 toc: false

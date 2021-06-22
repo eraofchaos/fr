@@ -2,7 +2,7 @@
 title: "Arc long de massacre"
 permalink: /equipment/Slaughter Longbow/
 excerpt: "Era of Chaos Arc long de massacre. Arc long de massacre"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Slaughter Longbow.md"
 toc: false

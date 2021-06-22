@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-3 Une avancée courageuse"
 permalink: /Main Story/Chapter 22_3/
 excerpt: "Chapitre 22 - 3. Era of Chaos  Histoire principale - Chapitre 22_3. 22-3 Une avancée courageuse"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 22_3.md"
 toc: false

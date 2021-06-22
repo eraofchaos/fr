@@ -2,7 +2,7 @@
 title: "Rocher"
 permalink: /equipment/Boulder/
 excerpt: "Era of Chaos Rocher. Rocher"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Boulder.md"
 toc: false

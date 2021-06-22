@@ -2,7 +2,7 @@
 title: "Avatar - Maître des sorts"
 permalink: /Avatars/Spell Master/
 excerpt: "Era of Chaos  Maître des sorts"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Spell Master.md"
 toc: false

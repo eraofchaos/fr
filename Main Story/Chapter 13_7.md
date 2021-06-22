@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-7 Poursuite"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "Chapitre 13 - 7. Era of Chaos  Histoire principale - Chapitre 13_7. 13-7 Poursuite"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 13_7.md"
 toc: false

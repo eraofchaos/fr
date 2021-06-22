@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 18 - 18-3 Le pont des Orques"
 permalink: /Main Story/Chapter 18_3/
 excerpt: "Chapitre 18 - 3. Era of Chaos  Histoire principale - Chapitre 18_3. 18-3 Le pont des Orques"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 18_3.md"
 toc: false

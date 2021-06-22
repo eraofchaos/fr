@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 27 - 27-1 Macrobien"
 permalink: /Underground/Chapter 27_1/
 excerpt: "Chapitre 27 - 1. Era of Chaos  Souterrain - Chapitre 27_1. 27-1 Macrobien"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 27_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Queue enflammée"
 permalink: /equipment/Tail of Flame/
 excerpt: "Era of Chaos Queue enflammée. Queue enflammée"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Tail of Flame.md"
 toc: false

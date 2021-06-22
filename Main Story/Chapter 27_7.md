@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-7 L'alimentation des ténèbres"
 permalink: /Main Story/Chapter 27_7/
 excerpt: "Chapitre 27 - 7. Era of Chaos  Histoire principale - Chapitre 27_7. 27-7 L'alimentation des ténèbres"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 27_7.md"
 toc: false

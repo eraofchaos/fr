@@ -2,7 +2,7 @@
 title: "Épée de gloire. Talent Ultime - Épée de gloire"
 permalink: /PeakTalent/Sword of Glory/
 excerpt: "Era of Chaos Talent Ultime Épée de gloire. Talent Ultime Épée de gloire. Épée de gloire"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Sword of Glory.md"
 toc: false

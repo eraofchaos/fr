@@ -2,7 +2,7 @@
 title: "Atelier d'alchimie"
 permalink: /Alchemy Workshop/
 excerpt: "Atelier d'alchimie.L'Atelier d'alchimie est un endroit vraiment merveilleux. Non seulement il centralise le savoir de plusieurs races, mais il chapeaute également de nombreuses inventions incroyables."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "index.md"
 toc: false

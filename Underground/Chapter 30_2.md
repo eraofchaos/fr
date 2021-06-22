@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 30 - 30-2  Festin sanglant"
 permalink: /Underground/Chapter 30_2/
 excerpt: "Chapitre 30 - 2. Era of Chaos  Souterrain - Chapitre 30_2. 30-2  Festin sanglant"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 30_2.md"
 toc: false

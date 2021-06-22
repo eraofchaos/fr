@@ -2,7 +2,7 @@
 title: "Médaille des dieux. Talent Ultime - Médaille des dieux"
 permalink: /PeakTalent/Medal of Gods/
 excerpt: "Era of Chaos Talent Ultime Médaille des dieux. Talent Ultime Médaille des dieux. Médaille des dieux"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Medal of Gods.md"
 toc: false

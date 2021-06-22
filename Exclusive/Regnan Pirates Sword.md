@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Pirates de Regna Exclusif."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Regnan Pirates Épée.md"
 toc: false

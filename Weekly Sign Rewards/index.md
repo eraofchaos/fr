@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 27  Semaine de la Crique
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Jul** | **3x [Élémentaire de mer](/ItemsFR/unt_275/)**  | Une escouade d'Élémentaires de mer a rejoint votre armée et vous renforce ! |
+  | **6 Jul** | **3x [Pirates de Regna](/ItemsFR/unt_273/)**  | Une escouade de Pirates de Regna a rejoint votre armée et vous renforce ! |
+  | **7 Jul** | **100x <i class="fas fa-gem"/>**  | Les créatures du port des pirates vous offrent un petit amas de diamants ! |
+  | **8 Jul** | **3x [Coffre de faction (Crique)](/ItemsFR/con_1278/)**  | Votre compagnie du port vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
+  | **9 Jul** | **3x [Runes de groupement (Crique)](/ItemsFR/con_868/)**  | Votre compagnie du port vous a rapporté un certain nombre de runes de grande valeur ! |
+  | **10 Jul** | **1x [Tortue dragon](/ItemsFR/unt_278/)**  | Une escouade de Tortues dragons a rejoint votre armée et vous renforce ! |
+  | **11 Jul** | **1x [Jetons de Héros universel](/ItemsFR/her_358/)**  | Les créatures de la crique des pirates vous offrent un jeton de Héros universel ! |
+
 
 #### 2021 Week 26  Semaine de la Forteresse
 

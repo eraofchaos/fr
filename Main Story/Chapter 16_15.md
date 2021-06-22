@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-15 La garde des Nains"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Chapitre 16 - 15. Era of Chaos  Histoire principale - Chapitre 16_15. 16-15 La garde des Nains"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 16_15.md"
 toc: false

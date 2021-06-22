@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-8 Les bois flétris"
 permalink: /Main Story/Chapter 29_8/
 excerpt: "Chapitre 29 - 8. Era of Chaos  Histoire principale - Chapitre 29_8. 29-8 Les bois flétris"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 29_8.md"
 toc: false

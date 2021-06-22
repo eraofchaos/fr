@@ -2,7 +2,7 @@
 title: "Artefact - Arc du tireur d'élite - Flèches angéliques"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Era of Chaos  Arc du tireur d'élite - Flèches angéliques. Des flèches magiques confectionnées par les Elfes. Composant de l'Arc du tireur d'élite."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Angel Feather Arrows.md"
 toc: false

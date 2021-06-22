@@ -2,7 +2,7 @@
 title: "Elfe de la nature. Talent Ultime - Elfe de la nature"
 permalink: /PeakTalent/Nature Elf/
 excerpt: "Era of Chaos Talent Ultime Elfe de la nature. Talent Ultime Elfe de la nature. Elfe de la nature"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Nature Elf.md"
 toc: false

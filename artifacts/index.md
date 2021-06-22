@@ -2,7 +2,7 @@
 title: "Artefact"
 permalink: /artifacts/
 excerpt: "Era of Chaos  List of all Artefact. Récupérez des artefacts pour améliorer les caractéristiques de vos Héros et déverrouiller de puissantes compétences."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "index.md"
 toc: false

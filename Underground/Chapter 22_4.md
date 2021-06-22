@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 22 - 22-4 Ruses des dieux"
 permalink: /Underground/Chapter 22_4/
 excerpt: "Chapitre 22 - 4. Era of Chaos  Souterrain - Chapitre 22_4. 22-4 Ruses des dieux"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 22_4.md"
 toc: false

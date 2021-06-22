@@ -1,9 +1,9 @@
 ---
 title: "Serpent de Regna"
 permalink: /units/Regnan Serpent/
-excerpt: "Era of Chaos Serpent de Regna. Serpent de Regna Unités. . Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
+excerpt: "Era of Chaos Serpent de Regna. Serpent de Regna Unités. Gardien des marées. Era of Chaos Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Serpent de Regna"
 toc: true
@@ -192,43 +192,43 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_yurenyongshi.jpg)
+  ![Gardien des marées](/images/u/tia_yurenyongshi.jpg)
 
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Gardien des marées
 
- **Awaking Description:** 
+ **Awaking Description:** Les flots déchaînés des nuits pluvieuses chassent tous les bateaux de pêche. Mais pour les Serpents de Regna, ces nuits sont une grande occasion. Ils rejoignent en nombre la surface puis, avec délice, foulent les flots et profitent de la puissance de la nature grâce aux vagues et à la pluie. Il s'agit pour eux d'un rite. C'est ici que s'éveillent les Serpents de Regna.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Déployez un Serpent de Regna et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités de la Crique pour réussir le niveau Impitoyable ou un niveau supérieur de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> pièces d'équipement lors d'une aventure de guilde.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Gardien des marées dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Déployez un Serpent de Regna et remportez </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Secousse des abysses
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Piétinement des abysses&gt;</span><span style="color: #645252;font-size:18px"> Double les dégâts infligés, et réduit les dégâts des unités ennemies de 20 % pendant 5 secondes.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Secousse des mers lointaines
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Piétinement des abysses&gt;</span><span style="color: #645252;font-size:18px"> Double les dégâts infligés, et réduit la résistance aux dégâts des unités ennemies de 20 % pendant 5 secondes.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Protection des marées
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Guide de marée&gt;</span><span style="color: #645252;font-size:18px"> L'effet bonus de cette compétence est cumulable 2 fois de plus.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Guide des courants de fond
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Guide de marée&gt;</span><span style="color: #645252;font-size:18px"> L'effet bonus de cette compétence augmente de 50 % à chaque fois qu'il est cumulé.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Clairon de gardien de requins
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cor de bataille&gt;</span><span style="color: #645252;font-size:18px"> Pendant 7 secondes, réduit respectivement de 20 % et de 100 la DÉF et la ténacité des unités ennemies situées dans un large rayon. L'effet est augmenté de 50 % pour les unités ennemies victimes de Lenteur.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Clairon de sirène
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cor de bataille&gt;</span><span style="color: #645252;font-size:18px"> Pendant 7 secondes, réduit respectivement de 20 % et de 100 la vitesse d'attaque et les coups critiques des unités ennemies situées dans un large rayon. L'effet est augmenté de 50 % pour les unités ennemies victimes de Lenteur.</span>
 
 ## Technical info
  **runart:** 1

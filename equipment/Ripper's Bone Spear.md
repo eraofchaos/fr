@@ -2,7 +2,7 @@
 title: "Lance en os de l'éventreur"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Era of Chaos Lance en os de l'éventreur. Lance en os de l'éventreur"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Ripper's Bone Spear.md"
 toc: false

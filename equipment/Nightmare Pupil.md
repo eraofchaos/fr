@@ -2,7 +2,7 @@
 title: "Pupille de cauchemar"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Era of Chaos Pupille de cauchemar. Pupille de cauchemar"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Nightmare Pupil.md"
 toc: false

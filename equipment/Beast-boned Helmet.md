@@ -2,7 +2,7 @@
 title: "Heaume en os de bêtes"
 permalink: /equipment/Beast-boned Helmet/
 excerpt: "Era of Chaos Heaume en os de bêtes. Heaume en os de bêtes"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Beast-boned Helmet.md"
 toc: false

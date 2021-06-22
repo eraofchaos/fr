@@ -2,7 +2,7 @@
 title: "Griffes éclairs"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Era of Chaos Griffes éclairs. Griffes éclairs"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Claws of Lightning.md"
 toc: false

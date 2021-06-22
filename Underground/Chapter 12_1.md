@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 12 - 12-1 Armées en marche"
 permalink: /Underground/Chapter 12_1/
 excerpt: "Chapitre 12 - 1. Era of Chaos  Souterrain - Chapitre 12_1. 12-1 Armées en marche"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Chapter 12_1.md"
 toc: false

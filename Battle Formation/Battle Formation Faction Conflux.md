@@ -2,7 +2,7 @@
 title: "Formation de combat Conflux"
 permalink: /Battle Formation/Battle Formation Faction Conflux
 excerpt: "Formation de combat Conflux"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "BattleFormationFactionConflux"
 toc: false

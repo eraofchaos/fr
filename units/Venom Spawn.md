@@ -3,14 +3,11 @@ title: "Progéniture venimeuse"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Progéniture venimeuse. Progéniture venimeuse Unités. null. Era of Chaos Ces démons sont nés des flammes et des ombres des tréfonds de l'enfer. La légende raconte que ce sont les effroyables cauchemars qui calcinent les champs de bataille de leurs flammes karmiques du péché."
 unitID: 509
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Progéniture venimeuse"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Progéniture venimeuse](/images/u/ti_yanmo.jpg)
 
 ## General information
@@ -30,14 +27,14 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/fr/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/ItemsFR/unt_234/)
+ **Unit Soul:** [Progéniture venimeuse](/ItemsFR/unt_234/)
 
  **Short description:** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
 
  **Position :** Vole des âmes pour changer le cours du match. Sa mort n'est jamais vaine.
 
 ## Stats de base
- **Base HP: 13350.0**
+ **Base HP: 14000.0**
 
  **Base ATK: 375.0**
 
@@ -45,37 +42,37 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Vert | 187.5 | 16.0 | 10012.5 |
-  | Bleu | 375.0 | 32.0 | 20025.0 |
-  | Bleu +1 | 562.5 | 48.0 | 30037.5 |
-  | Bleu +2 | 787.5 | 67.2 | 42052.5 |
-  | Violet | 1012.5 | 86.4 | 54067.5 |
-  | Violet +1 | 1237.5 | 105.6 | 66082.5 |
-  | Violet +2 | 1500.0 | 128.0 | 80100.0 |
-  | Violet +3 | 1762.5 | 150.4 | 94117.5 |
-  | Orange | 2025.0 | 172.8 | 108135.0 |
-  | Orange +1 | 2325.0 | 198.4 | 124155.0 |
-  | Orange +2 | 2625.0 | 224.0 | 140175.0 |
-  | Orange +3 | 2925.0 | 249.6 | 156195.0 |
-  | Orange +4 | 3225.0 | 275.2 | 172215.0 |
-  | Orange +5 | 3675.0 | 313.6 | 196245.0 |
-  | Rouge | 4275.0 | 364.8 | 228285.0 |
+  | Vert | 187.5 | 20.5 | 10500.0 |
+  | Bleu | 375.0 | 41.0 | 21000.0 |
+  | Bleu +1 | 562.5 | 61.5 | 31500.0 |
+  | Bleu +2 | 787.5 | 86.1 | 44100.0 |
+  | Violet | 1012.5 | 110.7 | 56700.0 |
+  | Violet +1 | 1237.5 | 135.3 | 69300.0 |
+  | Violet +2 | 1500.0 | 164.0 | 84000.0 |
+  | Violet +3 | 1762.5 | 192.7 | 98700.0 |
+  | Orange | 2025.0 | 221.4 | 113400.0 |
+  | Orange +1 | 2325.0 | 254.2 | 130200.0 |
+  | Orange +2 | 2625.0 | 287.0 | 147000.0 |
+  | Orange +3 | 2925.0 | 319.8 | 163800.0 |
+  | Orange +4 | 3225.0 | 352.6 | 180600.0 |
+  | Orange +5 | 3675.0 | 401.8 | 205800.0 |
+  | Rouge | 4275.0 | 467.4 | 239400.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 52.5 | 0.33 | 8.04 | 1869.0 |
-  | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 8.86 | 2136.0 |
-  | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 9.68 | 2403.0 |
-  | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 10.5 | 2670.0 |
+  | **3x** <i class="fas fa-star"/> | 52.5 | 0.33 | 10.02 | 1960.0 |
+  | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 10.93 | 2240.0 |
+  | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 11.84 | 2520.0 |
+  | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 12.75 | 2800.0 |
 
 ## Équipement
 
   | I | Équipement  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/fr/equipment/UnknownEquipment_5091/) | **ATQ** | **DÉF** | 
-  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/fr/equipment/UnknownEquipment_5092/) | **PV** | **DÉF** | 
-  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/fr/equipment/UnknownEquipment_5093/) | **ATQ** | **DÉF** | 
-  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/fr/equipment/UnknownEquipment_5094/) | **PV** | **DÉF** | 
+  | ![Œil bestial](/images/e/e_5091.png) | [Œil bestial](/fr/equipment/Beastly Eye/) | **ATQ** | **DÉF** | 
+  | ![Hirondelle de la mort](/images/e/e_5092.png) | [Hirondelle de la mort](/fr/equipment/Swallow of Death/) | **PV** | **DÉF** | 
+  | ![Poigne de feu](/images/e/e_5093.png) | [Poigne de feu](/fr/equipment/Fire's Grasp/) | **ATQ** | **DÉF** | 
+  | ![Vestiges des flammes](/images/e/e_5094.png) | [Vestiges des flammes](/fr/equipment/Remnant of Flames/) | **PV** | **DÉF** | 
 
 ## Exclusif
 
@@ -223,6 +220,7 @@ toc: true
 ### Bonus de héros
 * [Mephala](/fr/heroes/Mephala/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/fr/heroes/Xeron/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/fr/heroes/Nymus/)  ->   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -307,7 +305,7 @@ toc: true
 
  **label1:** 4
 
- **speedmove:** 110
+ **speedmove:** 90
 
  **posclass:** 2
 

@@ -2,7 +2,7 @@
 title: "Robe courte des vertes-feuilles"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Era of Chaos Robe courte des vertes-feuilles. Robe courte des vertes-feuilles"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

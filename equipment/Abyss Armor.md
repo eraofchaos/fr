@@ -2,7 +2,7 @@
 title: "Armure de l'abîme"
 permalink: /equipment/Abyss Armor/
 excerpt: "Era of Chaos Armure de l'abîme. Armure de l'abîme"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Abyss Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-15 La nuit de la mort"
 permalink: /Main Story/Chapter 6_15/
 excerpt: "Chapitre 6 - 15. Era of Chaos  Histoire principale - Chapitre 6_15. 6-15 La nuit de la mort"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 6_15.md"
 toc: false

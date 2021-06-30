@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "index.md"
 toc: false
@@ -54,7 +54,7 @@ classes: wide
   | 32 | ![Fée](/images/u/ti_mofaxianling.jpg) | [Fée](/fr/units/Sprite/) | Assaut | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mage elfe  |
   | 33 | ![Garde sylvanien](/images/u/ti_shuyao.jpg) | [Garde sylvanien](/fr/units/Dendroid Guard/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldat sylvanien  |
   | 34 | ![Gargouille](/images/u/ti_shixianggui.jpg) | [Gargouille](/fr/units/Stone Gargoyle/) | Offensive | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
-  | 35 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/fr/units/Gnoll/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrier Gnoll  |
+  | 35 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/fr/units/Gnoll/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerrier Gnoll  |
   | 36 | ![Gobelin](/images/u/ti_shourenzhanshi.jpg) | [Gobelin](/fr/units/Goblin/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgobelin  |
   | 37 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/fr/units/Gog/) | Lanceur de sorts | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 38 | ![Golem de fer](/images/u/ti_tieren.jpg) | [Golem de fer](/fr/units/Iron Golem/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Golem d'or  |

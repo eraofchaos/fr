@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 16 Pour le Roi et la nation"
 permalink: /Underground/Chapter 16/
 excerpt: "Chapitre 16 Pour le Roi et la nation. Era of Chaos  Souterrain - Chapitre 16. Pour le Roi et la nation"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 16.md"
 toc: false

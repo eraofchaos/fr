@@ -2,7 +2,7 @@
 title: "Artefact - Élixir de vie - Potion d'énergie"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Era of Chaos  Élixir de vie - Potion d'énergie. Une bouteille qui donne de la vigueur. Composant de l'Élixir de vie."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Bottle of Energy.md"
 toc: false

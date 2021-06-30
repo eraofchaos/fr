@@ -2,7 +2,7 @@
 title: "Armure légère du requiem"
 permalink: /equipment/Light Armor of Requiem/
 excerpt: "Era of Chaos Armure légère du requiem. Armure légère du requiem"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Light Armor of Requiem.md"
 toc: false

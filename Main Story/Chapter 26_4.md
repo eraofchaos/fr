@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-4 La vallée des ténèbres"
 permalink: /Main Story/Chapter 26_4/
 excerpt: "Chapitre 26 - 4. Era of Chaos  Histoire principale - Chapitre 26_4. 26-4 La vallée des ténèbres"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 26_4.md"
 toc: false

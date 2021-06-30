@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-9 La tour de l'enquête"
 permalink: /Main Story/Chapter 4_9/
 excerpt: "Chapitre 4 - 9. Era of Chaos  Histoire principale - Chapitre 4_9. 4-9 La tour de l'enquête"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 4_9.md"
 toc: false

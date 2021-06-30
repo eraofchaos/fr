@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-3 L'armée alliée"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "Chapitre 5 - 3. Era of Chaos  Histoire principale - Chapitre 5_3. 5-3 L'armée alliée"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 5_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-2 La cabane à la sorcière"
 permalink: /Main Story/Chapter 2_2/
 excerpt: "Chapitre 2 - 2. Era of Chaos  Histoire principale - Chapitre 2_2. 2-2 La cabane à la sorcière"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 2_2.md"
 toc: false

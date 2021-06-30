@@ -3,7 +3,7 @@ title: "Lancier"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Lancier. Lancier Unités. Hallebardier. Era of Chaos Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Lancier"
 toc: true

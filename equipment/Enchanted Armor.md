@@ -2,7 +2,7 @@
 title: "Armure enchantée"
 permalink: /equipment/Enchanted Armor/
 excerpt: "Era of Chaos Armure enchantée. Armure enchantée"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Enchanted Armor.md"
 toc: false

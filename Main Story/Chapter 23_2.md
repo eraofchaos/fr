@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-2 Un objet brillant"
 permalink: /Main Story/Chapter 23_2/
 excerpt: "Chapitre 23 - 2. Era of Chaos  Histoire principale - Chapitre 23_2. 23-2 Un objet brillant"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 23_2.md"
 toc: false

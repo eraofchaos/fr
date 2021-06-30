@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Licorne. Licorne Unités. Licorne de guerre. Era of Chaos L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Licorne"
 toc: true

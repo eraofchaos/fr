@@ -2,7 +2,7 @@
 title: "Ailes antiques"
 permalink: /equipment/Ancient Wings/
 excerpt: "Era of Chaos Ailes antiques. Ailes antiques"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Ancient Wings.md"
 toc: false

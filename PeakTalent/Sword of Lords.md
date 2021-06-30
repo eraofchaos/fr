@@ -2,7 +2,7 @@
 title: "Épée des Lords. Talent Ultime - Épée des Lords"
 permalink: /PeakTalent/Sword of Lords/
 excerpt: "Era of Chaos Talent Ultime Épée des Lords. Talent Ultime Épée des Lords. Épée des Lords"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Sword of Lords.md"
 toc: false

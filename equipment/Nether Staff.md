@@ -2,7 +2,7 @@
 title: "Bâton des limbes"
 permalink: /equipment/Nether Staff/
 excerpt: "Era of Chaos Bâton des limbes. Bâton des limbes"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Nether Staff.md"
 toc: false

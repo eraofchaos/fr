@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-2 Le tombeau de la Liche"
 permalink: /Main Story/Chapter 29_2/
 excerpt: "Chapitre 29 - 2. Era of Chaos  Histoire principale - Chapitre 29_2. 29-2 Le tombeau de la Liche"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 29_2.md"
 toc: false

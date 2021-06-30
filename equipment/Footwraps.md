@@ -2,7 +2,7 @@
 title: "Bande molletière"
 permalink: /equipment/Footwraps/
 excerpt: "Era of Chaos Bande molletière. Bande molletière"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Footwraps.md"
 toc: false

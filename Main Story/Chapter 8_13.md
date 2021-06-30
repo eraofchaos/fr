@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-13 Pris aux tripes"
 permalink: /Main Story/Chapter 8_13/
 excerpt: "Chapitre 8 - 13. Era of Chaos  Histoire principale - Chapitre 8_13. 8-13 Pris aux tripes"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 8_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-3 La nourriture des Trépassés"
 permalink: /Main Story/Chapter 17_3/
 excerpt: "Chapitre 17 - 3. Era of Chaos  Histoire principale - Chapitre 17_3. 17-3 La nourriture des Trépassés"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 17_3.md"
 toc: false

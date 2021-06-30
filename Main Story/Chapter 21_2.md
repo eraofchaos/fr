@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-2 Le quart d'heure de gloire"
 permalink: /Main Story/Chapter 21_2/
 excerpt: "Chapitre 21 - 2. Era of Chaos  Histoire principale - Chapitre 21_2. 21-2 Le quart d'heure de gloire"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 21_2.md"
 toc: false

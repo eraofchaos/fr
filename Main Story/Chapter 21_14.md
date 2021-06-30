@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-14 Une coutume ancienne"
 permalink: /Main Story/Chapter 21_14/
 excerpt: "Chapitre 21 - 14. Era of Chaos  Histoire principale - Chapitre 21_14. 21-14 Une coutume ancienne"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 21_14.md"
 toc: false

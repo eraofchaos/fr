@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-7 La première famille"
 permalink: /Main Story/Chapter 25_7/
 excerpt: "Chapitre 25 - 7. Era of Chaos  Histoire principale - Chapitre 25_7. 25-7 La première famille"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 25_7.md"
 toc: false

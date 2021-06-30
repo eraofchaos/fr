@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-1 Le tombeau du guerrier"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "Chapitre 3 - 1. Era of Chaos  Histoire principale - Chapitre 3_1. 3-1 Le tombeau du guerrier"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 3_1.md"
 toc: false

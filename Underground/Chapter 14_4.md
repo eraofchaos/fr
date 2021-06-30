@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 14 - 14-4 Bataille sanglante"
 permalink: /Underground/Chapter 14_4/
 excerpt: "Chapitre 14 - 4. Era of Chaos  Souterrain - Chapitre 14_4. 14-4 Bataille sanglante"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 14_4.md"
 toc: false

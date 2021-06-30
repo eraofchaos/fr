@@ -2,7 +2,7 @@
 title: "Vestiges des flammes"
 permalink: /equipment/Remnant of Flames/
 excerpt: "Era of Chaos Vestiges des flammes. Vestiges des flammes"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Remnant of Flames.md"
 toc: false

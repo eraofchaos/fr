@@ -2,7 +2,7 @@
 title: "Bracelet en émeraude"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Era of Chaos Bracelet en émeraude. Bracelet en émeraude"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Emerald Arm Ring.md"
 toc: false

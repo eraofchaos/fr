@@ -2,7 +2,7 @@
 title: "Hache en obsidienne"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Era of Chaos Hache en obsidienne. Hache en obsidienne"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Obsidian Battle Axe.md"
 toc: false

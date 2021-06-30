@@ -2,7 +2,7 @@
 title: "Épaulières sauvages"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "Era of Chaos Épaulières sauvages. Épaulières sauvages"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Pauldrons of Wild.md"
 toc: false

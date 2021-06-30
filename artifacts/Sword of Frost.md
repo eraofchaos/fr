@@ -2,7 +2,7 @@
 title: "Artefact - Épée de givre"
 permalink: /artifacts/Sword of Frost/
 excerpt: "Era of Chaos  Épée de givre. Épée de givre L’immense glacier détruit la ville où il trouve son origine."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Sword of Frost.md"
 toc: false

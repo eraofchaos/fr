@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 18 - 18-2 Flamme infernale"
 permalink: /Underground/Chapter 18_2/
 excerpt: "Chapitre 18 - 2. Era of Chaos  Souterrain - Chapitre 18_2. 18-2 Flamme infernale"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 18_2.md"
 toc: false

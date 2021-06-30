@@ -2,7 +2,7 @@
 title: "Artefact - Lame d'Armageddon - Hache des sommets"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "Era of Chaos  Lame d'Armageddon - Hache des sommets. Une relique abandonnée par le roi des Nains après la bataille d'Enroth. Composant de la Lame d'Armageddon."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Mountain Battleaxe.md"
 toc: false

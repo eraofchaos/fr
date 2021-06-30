@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 11 - 11-4 Alliés au combat"
 permalink: /Underground/Chapter 11_4/
 excerpt: "Chapitre 11 - 4. Era of Chaos  Souterrain - Chapitre 11_4. 11-4 Alliés au combat"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 11_4.md"
 toc: false

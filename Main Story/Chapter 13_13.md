@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-13 La poursuite"
 permalink: /Main Story/Chapter 13_13/
 excerpt: "Chapitre 13 - 13. Era of Chaos  Histoire principale - Chapitre 13_13. 13-13 La poursuite"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 13_13.md"
 toc: false

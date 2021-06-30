@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-12 Une sensation diabolique"
 permalink: /Main Story/Chapter 21_12/
 excerpt: "Chapitre 21 - 12. Era of Chaos  Histoire principale - Chapitre 21_12. 21-12 Une sensation diabolique"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 21_12.md"
 toc: false

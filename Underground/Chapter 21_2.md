@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 21 - 21-2 Élémentaire de feu"
 permalink: /Underground/Chapter 21_2/
 excerpt: "Chapitre 21 - 2. Era of Chaos  Souterrain - Chapitre 21_2. 21-2 Élémentaire de feu"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 21_2.md"
 toc: false

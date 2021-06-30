@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 28  Semaine du Rempart
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Jul** | **5x [Centaure](/ItemsFR/unt_199/)**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
+  | **13 Jul** | **3x [Elfe sylvaine](/ItemsFR/unt_201/)**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
+  | **14 Jul** | **3x [Pégase](/ItemsFR/unt_202/)**  | Une escouade de Pégases a rejoint votre armée et vous renforce ! |
+  | **15 Jul** | **3x [Licorne](/ItemsFR/unt_204/)**  | Une escouade de Licornes a rejoint votre armée et vous renforce ! |
+  | **16 Jul** | **3x [Nain](/ItemsFR/unt_200/)**  | Une escouade de Nains a rejoint votre armée et vous renforce ! |
+  | **17 Jul** | **3x [Garde sylvanien](/ItemsFR/unt_203/)**  | Une escouade de Gardes sylvaniens a rejoint votre armée et vous renforce ! |
+  | **18 Jul** | **5x [Ryland](/ItemsFR/her_368/)**  | Le héros Ryland admire vos actions pour la protection de la nature et souhaite vous servir ! |
+
 
 #### 2021 Week 27  Semaine de la Crique
 

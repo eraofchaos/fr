@@ -2,7 +2,7 @@
 title: "Artefact - Puits de magie - Orbe mystique de mana"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Era of Chaos  Puits de magie - Orbe mystique de mana. Une boule de cristal aux puissants pouvoirs magiques. Composant du Puits de magie."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Mystic Orb of Mana.md"
 toc: false

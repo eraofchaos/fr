@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Cyclope Exclusif."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Cyclops Arc long.md"
 toc: false

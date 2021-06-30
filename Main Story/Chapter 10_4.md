@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-4 Le chemin de la mort"
 permalink: /Main Story/Chapter 10_4/
 excerpt: "Chapitre 10 - 4. Era of Chaos  Histoire principale - Chapitre 10_4. 10-4 Le chemin de la mort"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 10_4.md"
 toc: false

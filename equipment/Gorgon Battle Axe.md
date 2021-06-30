@@ -2,7 +2,7 @@
 title: "Hache de Gorgone"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "Era of Chaos Hache de Gorgone. Hache de Gorgone"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Gorgon Battle Axe.md"
 toc: false

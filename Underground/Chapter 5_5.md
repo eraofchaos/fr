@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 5 - 5-5 La victoire finale"
 permalink: /Underground/Chapter 5_5/
 excerpt: "Chapitre 5 - 5. Era of Chaos  Souterrain - Chapitre 5_5. 5-5 La victoire finale"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 5_5.md"
 toc: false

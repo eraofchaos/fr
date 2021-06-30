@@ -2,7 +2,7 @@
 title: "Emblème sacré - Roue du temps"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Roue du temps. Roue du temps. Era of Chaos Emblème sacré Roue du temps. Era of Chaos Bonté Roue du temps"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Gear of Time.md"
 toc: false

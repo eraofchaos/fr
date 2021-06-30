@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-6 Une rencontre bestiale"
 permalink: /Main Story/Chapter 14_6/
 excerpt: "Chapitre 14 - 6. Era of Chaos  Histoire principale - Chapitre 14_6. 14-6 Une rencontre bestiale"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 14_6.md"
 toc: false

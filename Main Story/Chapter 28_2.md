@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-2 La puissance de la forêt"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Chapitre 28 - 2. Era of Chaos  Histoire principale - Chapitre 28_2. 28-2 La puissance de la forêt"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 28_2.md"
 toc: false

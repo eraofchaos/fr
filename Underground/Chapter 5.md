@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 5 Pionnier"
 permalink: /Underground/Chapter 5/
 excerpt: "Chapitre 5 Pionnier. Era of Chaos  Souterrain - Chapitre 5. Pionnier"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 5.md"
 toc: false

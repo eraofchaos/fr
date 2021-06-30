@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-1 La vision de Dieu"
 permalink: /Main Story/Chapter 13_1/
 excerpt: "Chapitre 13 - 1. Era of Chaos  Histoire principale - Chapitre 13_1. 13-1 La vision de Dieu"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Chapter 13_1.md"
 toc: false

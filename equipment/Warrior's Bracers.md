@@ -2,7 +2,7 @@
 title: "Bracelets du guerrier"
 permalink: /equipment/Warrior's Bracers/
 excerpt: "Era of Chaos Bracelets du guerrier. Bracelets du guerrier"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Warrior's Bracers.md"
 toc: false

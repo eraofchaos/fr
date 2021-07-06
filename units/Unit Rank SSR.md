@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Unit Rank SSR"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Dompteur de requins](/images/u/ti_xunshashi.jpg) | [Dompteur de requins](/fr/units/Shark Trainer/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Chevaucheur de requins  |
   | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/fr/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Hurleur macabre  |
   | 5 | ![Farfadet](/images/u/ti_conglinyaojing.jpg) | [Farfadet](/fr/units/Leprechaun/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
-  | 6 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
+  | 6 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
   | 7 | ![Diable](/images/u/ti_daemo.jpg) | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |
   | 8 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/fr/units/Naga/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Reine Naga  |
   | 9 | ![Tortue dragon](/images/u/ti_longgui.jpg) | [Tortue dragon](/fr/units/Dragon Turtle/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tortue dragon primaire  |
@@ -28,7 +28,7 @@ classes: wide
   | 14 | ![Dragon rouge](/images/u/ti_chilong.jpg) | [Dragon rouge](/fr/units/Red Dragon/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 15 | ![Dragon vert](/images/u/ti_lvlong.jpg) | [Dragon vert](/fr/units/Green Dragon/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Dragon d'or  |
   | 16 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/fr/units/Gorgon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Grande Gorgone  |
-  | 17 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 17 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 18 | ![Chevalier noir](/images/u/ti_siwangqishi.jpg) | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Chevalier de l'Effroi  |
   | 19 | ![Hydre](/images/u/ti_duotoulong.jpg) | [Hydre](/fr/units/Hydra/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Pyrohydre  |
   | 20 | ![Guerriers spartiates](/images/u/ti_sibada.jpg) | [Guerriers spartiates](/fr/units/Spartan Warriors/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |

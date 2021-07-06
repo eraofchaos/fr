@@ -2,7 +2,7 @@
 title: "Avatar - Maître des Hadès"
 permalink: /Avatars/Inferno Ruler/
 excerpt: "Era of Chaos  Maître des Hadès"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Inferno Ruler.md"
 toc: false

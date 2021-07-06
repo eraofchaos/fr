@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-2 S'échapper de l'antre du Dragon"
 permalink: /Main Story/Chapter 17_2/
 excerpt: "Chapitre 17 - 2. Era of Chaos  Histoire principale - Chapitre 17_2. 17-2 S'échapper de l'antre du Dragon"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 17_2.md"
 toc: false

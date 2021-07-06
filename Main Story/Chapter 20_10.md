@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-10 La frontière"
 permalink: /Main Story/Chapter 20_10/
 excerpt: "Chapitre 20 - 10. Era of Chaos  Histoire principale - Chapitre 20_10. 20-10 La frontière"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 20_10.md"
 toc: false

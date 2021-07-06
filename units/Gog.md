@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Gog. Gog Unités. Magog. Era of Chaos Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Gog"
 toc: true

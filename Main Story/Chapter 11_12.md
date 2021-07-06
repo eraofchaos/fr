@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-12 Scarabée enchanté"
 permalink: /Main Story/Chapter 11_12/
 excerpt: "Chapitre 11 - 12. Era of Chaos  Histoire principale - Chapitre 11_12. 11-12 Scarabée enchanté"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 11_12.md"
 toc: false

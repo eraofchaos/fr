@@ -2,7 +2,7 @@
 title: "Vieux chasseur. Talent Ultime - Vieux chasseur"
 permalink: /PeakTalent/Old Hunter/
 excerpt: "Era of Chaos Talent Ultime Vieux chasseur. Talent Ultime Vieux chasseur. Vieux chasseur"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Old Hunter.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 25 - 25-3 Lame ensanglantée"
 permalink: /Underground/Chapter 25_3/
 excerpt: "Chapitre 25 - 3. Era of Chaos  Souterrain - Chapitre 25_3. 25-3 Lame ensanglantée"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 25_3.md"
 toc: false

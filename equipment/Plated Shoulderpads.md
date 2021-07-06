@@ -2,7 +2,7 @@
 title: "Épaulière blindée"
 permalink: /equipment/Plated Shoulderpads/
 excerpt: "Era of Chaos Épaulière blindée. Épaulière blindée"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Plated Shoulderpads.md"
 toc: false

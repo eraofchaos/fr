@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 29  Semaine de la Nécropole
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Jul** | **3x [Squelette](/ItemsFR/unt_208/)**  | Une escouade de Squelettes a rejoint votre armée et vous renforce ! |
+  | **20 Jul** | **3x [Trépassé](/ItemsFR/unt_209/)**  | Une escouade de Trépassés a rejoint votre armée et vous renforce ! |
+  | **21 Jul** | **100x <i class="fas fa-gem"/>**  | Vos troupes ont trouvé un certain nombre de trésors dans l'ancien tombeau en ruine ! |
+  | **22 Jul** | **2x [Vampire](/ItemsFR/unt_211/)**  | Une escouade de Vampires a rejoint votre armée et vous renforce ! |
+  | **23 Jul** | **2x [Revenante](/ItemsFR/unt_210/)**  | Une escouade de Revenantes a rejoint votre armée et vous renforce ! |
+  | **24 Jul** | **5x [Coffre (Nécropole)](/ItemsFR/con_1271/)**  | Vos unités de la Nécropole vous ont apporté de nombreux coffres au trésor ! |
+  | **25 Jul** | **3x [Vidomina](/ItemsFR/her_372/)**  | Vos guerriers Non-Morts intéressent Vidomina. Elle souhaite rejoindre votre équipe ! |
+
 
 #### 2021 Week 28  Semaine du Rempart
 

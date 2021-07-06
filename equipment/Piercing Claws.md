@@ -2,7 +2,7 @@
 title: "Griffes perçantes"
 permalink: /equipment/Piercing Claws/
 excerpt: "Era of Chaos Griffes perçantes. Griffes perçantes"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Piercing Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bouclier bouillonnant"
 permalink: /equipment/Boiling Shield/
 excerpt: "Era of Chaos Bouclier bouillonnant. Bouclier bouillonnant"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Boiling Shield.md"
 toc: false

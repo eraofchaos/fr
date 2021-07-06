@@ -2,7 +2,7 @@
 title: "Souffle de la mort"
 permalink: /equipment/Breath of Death/
 excerpt: "Era of Chaos Souffle de la mort. Souffle de la mort"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Breath of Death.md"
 toc: false

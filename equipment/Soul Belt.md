@@ -2,7 +2,7 @@
 title: "Ceinture spirituelle"
 permalink: /equipment/Soul Belt/
 excerpt: "Era of Chaos Ceinture spirituelle. Ceinture spirituelle"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Soul Belt.md"
 toc: false

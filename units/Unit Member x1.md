@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Unit Member x1"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/fr/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Hurleur macabre  |
   | 9 | ![Farfadet](/images/u/ti_conglinyaojing.jpg) | [Farfadet](/fr/units/Leprechaun/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
   | 10 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/fr/units/Troll/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 11 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
+  | 11 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
   | 12 | ![Diable](/images/u/ti_daemo.jpg) | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |
   | 13 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/fr/units/Venom Spawn/) | Défense | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 14 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/fr/units/Naga/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Reine Naga  |
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![Dragon vert](/images/u/ti_lvlong.jpg) | [Dragon vert](/fr/units/Green Dragon/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Dragon d'or  |
   | 24 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/fr/units/Gorgon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Grande Gorgone  |
   | 25 | ![Sorcière maléfique](/images/u/ti_xiemonv.jpg) | [Sorcière maléfique](/fr/units/Evil Sorceress/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
-  | 26 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 26 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 27 | ![Mante religieuse](/images/u/ti_tanglang.jpg) | [Mante religieuse](/fr/units/Mantis/) | Offensive | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
   | 28 | ![Hydre](/images/u/ti_duotoulong.jpg) | [Hydre](/fr/units/Hydra/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Pyrohydre  |
   | 29 | ![Guerriers spartiates](/images/u/ti_sibada.jpg) | [Guerriers spartiates](/fr/units/Spartan Warriors/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |

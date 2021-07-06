@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-10 Les gemmes elfiques"
 permalink: /Main Story/Chapter 16_10/
 excerpt: "Chapitre 16 - 10. Era of Chaos  Histoire principale - Chapitre 16_10. 16-10 Les gemmes elfiques"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 16_10.md"
 toc: false

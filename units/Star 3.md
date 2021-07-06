@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Star 3"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/fr/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Hurleur macabre  |
   | 12 | ![Farfadet](/images/u/ti_conglinyaojing.jpg) | [Farfadet](/fr/units/Leprechaun/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Maître Farfadet  |
   | 13 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/fr/units/Troll/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 14 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
+  | 14 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
   | 15 | ![Diable](/images/u/ti_daemo.jpg) | [Diable](/fr/units/Devil/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiable  |
   | 16 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Gardien des marées  |
   | 17 | ![Cauchemar](/images/u/ti_mengyanshou.jpg) | [Cauchemar](/fr/units/Nightmare/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Roi Cauchemar  |
@@ -50,7 +50,7 @@ classes: wide
   | 36 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/fr/units/Gorgon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Grande Gorgone  |
   | 37 | ![Sorcière maléfique](/images/u/ti_xiemonv.jpg) | [Sorcière maléfique](/fr/units/Evil Sorceress/) | Assaut | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 38 | ![Wivern](/images/u/ti_feilong.jpg) | [Wivern](/fr/units/Wyvern/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Monarque Wivern  |
-  | 39 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 39 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 40 | ![Druidesse](/images/u/ti_deluyi.jpg) | [Druidesse](/fr/units/Druid/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Archidruidesse  |
   | 41 | ![Mante religieuse](/images/u/ti_tanglang.jpg) | [Mante religieuse](/fr/units/Mantis/) | Offensive | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
   | 42 | ![Chevalier noir](/images/u/ti_siwangqishi.jpg) | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Chevalier de l'Effroi  |

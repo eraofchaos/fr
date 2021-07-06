@@ -2,7 +2,7 @@
 title: "Avatar - Cœur du Griffon"
 permalink: /Avatars/Griffin Heart/
 excerpt: "Era of Chaos  Cœur du Griffon"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Griffin Heart.md"
 toc: false

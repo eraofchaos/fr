@@ -2,7 +2,7 @@
 title: "Plastron éclair"
 permalink: /equipment/Breastplate of Lightning/
 excerpt: "Era of Chaos Plastron éclair. Plastron éclair"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Breastplate of Lightning.md"
 toc: false

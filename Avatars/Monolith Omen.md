@@ -2,7 +2,7 @@
 title: "Avatar - Présage de monolithe"
 permalink: /Avatars/Monolith Omen/
 excerpt: "Era of Chaos  Présage de monolithe"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Monolith Omen.md"
 toc: false

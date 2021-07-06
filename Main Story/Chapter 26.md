@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 Commandement prolongé"
 permalink: /Main Story/Chapter 26/
 excerpt: "Chapitre 26. Era of Chaos  Histoire principale - Chapitre 26. Commandement prolongé"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 26.md"
 toc: false

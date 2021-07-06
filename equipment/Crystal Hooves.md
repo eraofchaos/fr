@@ -2,7 +2,7 @@
 title: "Sabots en cristal"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Era of Chaos Sabots en cristal. Sabots en cristal"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Crystal Hooves.md"
 toc: false

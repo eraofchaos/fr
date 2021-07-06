@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-10 Les champignons"
 permalink: /Main Story/Chapter 25_10/
 excerpt: "Chapitre 25 - 10. Era of Chaos  Histoire principale - Chapitre 25_10. 25-10 Les champignons"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 25_10.md"
 toc: false

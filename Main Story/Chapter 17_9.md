@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-9 Le défi du Centaure"
 permalink: /Main Story/Chapter 17_9/
 excerpt: "Chapitre 17 - 9. Era of Chaos  Histoire principale - Chapitre 17_9. 17-9 Le défi du Centaure"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 17_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-10 Acquérir un esprit"
 permalink: /Main Story/Chapter 10_10/
 excerpt: "Chapitre 10 - 10. Era of Chaos  Histoire principale - Chapitre 10_10. 10-10 Acquérir un esprit"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 10_10.md"
 toc: false

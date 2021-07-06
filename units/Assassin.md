@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassin. Assassin Unités. null. Era of Chaos Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Assassin"
 toc: true
@@ -75,6 +75,14 @@ toc: true
   |  | [Bottes en cuir](/fr/equipment/Leather Boots/) | **PV** | **DÉF** | 
 
 ## Exclusif
+
+ **Nom:** [Lame secrète](/fr/Exclusive/Assassin Hidden Blade/) 
+
+ **Is Open:** + 
+
+ **Item to Rang supérieur:** [Jeton Lame secrète](/fr/Items/con_2200/)
+
+ **Skin:** [Skin spécial Lame secrète](/fr/Items/con_2199/)
 
 
 ## Emblèmes sacrés recommandés

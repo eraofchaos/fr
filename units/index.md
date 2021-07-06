@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "index.md"
 toc: false
@@ -22,9 +22,9 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Adjudicatrice](/images/u/ti_shenpanguan.jpg) | [Adjudicatrice](/fr/units/Judicator/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 2 | ![Ange](/images/u/ti_datianshi.jpg) | [Ange](/fr/units/Angel/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archange  |
-  | 3 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
+  | 3 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
   | 4 | ![Archimage](/images/u/ti_dafashi.jpg) | [Archimage](/fr/units/Arch Mage/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimage  |
-  | 5 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 5 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/fr/units/Assassin/) | Assaut | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 6 | ![Aéronef magique](/images/u/ti_reqiqiu.jpg) | [Aéronef magique](/fr/units/Magic Airship/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 7 | ![Basilic](/images/u/ti_xiyi.jpg) | [Basilic](/fr/units/Basilisk/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 8 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/fr/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Hurleur macabre  |

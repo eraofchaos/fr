@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-8 Où est passé l'éclaireur"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "Chapitre 23 - 8. Era of Chaos  Histoire principale - Chapitre 23_8. 23-8 Où est passé l'éclaireur"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 23_8.md"
 toc: false

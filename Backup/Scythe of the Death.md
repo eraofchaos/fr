@@ -2,7 +2,7 @@
 title: "Backup - Attaque de la faux de la mort"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Attaque de la faux de la mort"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Scythe of the Death.md"
 toc: false

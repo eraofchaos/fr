@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 1 - 1-2 Le château en ruines"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Chapitre 1 - 2. Era of Chaos  Histoire principale - Chapitre 1_2. 1-2 Le château en ruines"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 1_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ailes couvre-ciel"
 permalink: /equipment/Sky-blocking Wings/
 excerpt: "Era of Chaos Ailes couvre-ciel. Ailes couvre-ciel"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Sky-blocking Wings.md"
 toc: false

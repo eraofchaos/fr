@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 19 Affaires neutres"
 permalink: /Underground/Chapter 19/
 excerpt: "Chapitre 19 Affaires neutres. Era of Chaos  Souterrain - Chapitre 19. Affaires neutres"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 19.md"
 toc: false

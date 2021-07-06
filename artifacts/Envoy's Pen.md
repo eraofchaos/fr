@@ -2,7 +2,7 @@
 title: "Artefact - Plume de l'émissaire"
 permalink: /artifacts/Envoy's Pen/
 excerpt: "Era of Chaos  Plume de l'émissaire. Plume de l'émissaire Un symbole de force et de pouvoir. Relique vénérée réservée aux vainqueurs."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Envoy's Pen.md"
 toc: false

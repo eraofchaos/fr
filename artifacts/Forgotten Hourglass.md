@@ -2,7 +2,7 @@
 title: "Artefact - Miroir vengeur - Sablier oublié"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "Era of Chaos  Miroir vengeur - Sablier oublié. Lors de l'utilisation de sorts interdits, il protège le Lanceur de sorts des représailles de forces maléfiques. Composant du Miroir vengeur."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Forgotten Hourglass.md"
 toc: false

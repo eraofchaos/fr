@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-13 L'atelier"
 permalink: /Main Story/Chapter 28_13/
 excerpt: "Chapitre 28 - 13. Era of Chaos  Histoire principale - Chapitre 28_13. 28-13 L'atelier"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 28_13.md"
 toc: false

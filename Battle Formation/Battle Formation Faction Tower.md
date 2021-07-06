@@ -2,7 +2,7 @@
 title: "Formation de combat Tour"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Formation de combat Tour"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "BattleFormationFactionTower"
 toc: false

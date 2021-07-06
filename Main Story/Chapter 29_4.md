@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-4 L'autel du sang"
 permalink: /Main Story/Chapter 29_4/
 excerpt: "Chapitre 29 - 4. Era of Chaos  Histoire principale - Chapitre 29_4. 29-4 L'autel du sang"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 29_4.md"
 toc: false

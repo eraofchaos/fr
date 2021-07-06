@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-15 La vallée du cristal"
 permalink: /Main Story/Chapter 22_15/
 excerpt: "Chapitre 22 - 15. Era of Chaos  Histoire principale - Chapitre 22_15. 22-15 La vallée du cristal"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 22_15.md"
 toc: false

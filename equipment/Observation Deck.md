@@ -2,7 +2,7 @@
 title: "Quai d'observation"
 permalink: /equipment/Observation Deck/
 excerpt: "Era of Chaos Quai d'observation. Quai d'observation"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Observation Deck.md"
 toc: false

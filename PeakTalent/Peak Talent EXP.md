@@ -2,7 +2,7 @@
 title: "Talent Ultime EXP"
 permalink: /PeakTalent/Peak Talent EXP/
 excerpt: "Era of Chaos Talent Ultime EXP. Talent Ultime EXP"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Peak Talent EXP.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 1 - 1-3 La fontaine de Jouvence"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Chapitre 1 - 3. Era of Chaos  Histoire principale - Chapitre 1_3. 1-3 La fontaine de Jouvence"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 1_3.md"
 toc: false

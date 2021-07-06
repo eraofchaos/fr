@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-6 La patrie brisée"
 permalink: /Main Story/Chapter 7_6/
 excerpt: "Chapitre 7 - 6. Era of Chaos  Histoire principale - Chapitre 7_6. 7-6 La patrie brisée"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 7_6.md"
 toc: false

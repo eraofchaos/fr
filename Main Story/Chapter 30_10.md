@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-10 La cité sulfureuse"
 permalink: /Main Story/Chapter 30_10/
 excerpt: "Chapitre 30 - 10. Era of Chaos  Histoire principale - Chapitre 30_10. 30-10 La cité sulfureuse"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 30_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bâton de théocratie"
 permalink: /equipment/Staff of Theocracy/
 excerpt: "Era of Chaos Bâton de théocratie. Bâton de théocratie"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Staff of Theocracy.md"
 toc: false

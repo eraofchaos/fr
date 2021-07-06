@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-14 Le quartier général de l'Hadès"
 permalink: /Main Story/Chapter 30_14/
 excerpt: "Chapitre 30 - 14. Era of Chaos  Histoire principale - Chapitre 30_14. 30-14 Le quartier général de l'Hadès"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 30_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-6 Le gîte sylvain"
 permalink: /Main Story/Chapter 29_6/
 excerpt: "Chapitre 29 - 6. Era of Chaos  Histoire principale - Chapitre 29_6. 29-6 Le gîte sylvain"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 29_6.md"
 toc: false

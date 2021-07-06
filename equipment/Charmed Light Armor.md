@@ -2,7 +2,7 @@
 title: "Armure légère ensorcelée"
 permalink: /equipment/Charmed Light Armor/
 excerpt: "Era of Chaos Armure légère ensorcelée. Armure légère ensorcelée"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Charmed Light Armor.md"
 toc: false

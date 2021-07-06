@@ -2,7 +2,7 @@
 title: "Avatar - Maître du ciel"
 permalink: /Avatars/Ruler of Sky/
 excerpt: "Era of Chaos  Maître du ciel"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Ruler of Sky.md"
 toc: false

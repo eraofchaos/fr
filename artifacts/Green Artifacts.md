@@ -2,7 +2,7 @@
 title: "Green Artifacts"
 permalink: /artifacts/Green Artifacts/
 excerpt: "Era of Chaos  List of all Green Artifacts . Récupérez des artefacts pour améliorer les caractéristiques de vos Héros et déverrouiller de puissantes compétences."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Green Artifacts.md"
 toc: false

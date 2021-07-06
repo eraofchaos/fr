@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-5 Le poste-frontière"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "Chapitre 2 - 5. Era of Chaos  Histoire principale - Chapitre 2_5. 2-5 Le poste-frontière"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 2_5.md"
 toc: false

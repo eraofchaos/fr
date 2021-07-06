@@ -2,7 +2,7 @@
 title: "Avatar - Monstre Nian"
 permalink: /Avatars/Nian Monster/
 excerpt: "Era of Chaos  Monstre Nian"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Nian Monster.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "Era of Chaos Exclusif Neutral Army. Exclusif Neutral Army. List of Exclusif Neutral Army in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Exclusive Neutral Army"
 toc: false
@@ -17,5 +17,5 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Assassin](/fr/units/Assassin/) | - | - | - | none | none |
+  | 1  | [Assassin](/fr/units/Assassin/) | [Lame secrète](/fr/Exclusive/Assassin Hidden Blade/) | + | Soutien | [Jeton Lame secrète](/fr/Items/con_2200/) | [Skin spécial Lame secrète](/fr/Items/con_2199/) |
   | 2  | [Guerriers spartiates](/fr/units/Spartan Warriors/) | - | - | - | none | none |

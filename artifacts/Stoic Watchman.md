@@ -2,7 +2,7 @@
 title: "Artefact - Œil de faucon vivant - Guetteur"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Era of Chaos  Œil de faucon vivant - Guetteur. Une sculpture représentant un aventurier aux yeux rougeoyants. Composant de l'Œil de faucon vivant."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Stoic Watchman.md"
 toc: false

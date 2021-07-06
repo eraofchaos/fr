@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 10 - 10-2 En quête de la tombe"
 permalink: /Underground/Chapter 10_2/
 excerpt: "Chapitre 10 - 2. Era of Chaos  Souterrain - Chapitre 10_2. 10-2 En quête de la tombe"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 10_2.md"
 toc: false

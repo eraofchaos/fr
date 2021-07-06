@@ -2,7 +2,7 @@
 title: "Griffes brûlantes"
 permalink: /equipment/Scalding Claws/
 excerpt: "Era of Chaos Griffes brûlantes. Griffes brûlantes"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Scalding Claws.md"
 toc: false

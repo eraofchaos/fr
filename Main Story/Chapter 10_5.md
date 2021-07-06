@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-5 Le fragment d'âme"
 permalink: /Main Story/Chapter 10_5/
 excerpt: "Chapitre 10 - 5. Era of Chaos  Histoire principale - Chapitre 10_5. 10-5 Le fragment d'âme"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 10_5.md"
 toc: false

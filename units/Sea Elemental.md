@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Élémentaire de mer. Élémentaire de mer Unités. Élémentaire des marées. Era of Chaos Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Élémentaire de mer"
 toc: true

@@ -2,7 +2,7 @@
 title: "Emblème sacré - Autonyme oublié"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Era of Chaos Autonyme oublié. Autonyme oublié. Era of Chaos Emblème sacré Autonyme oublié. Era of Chaos Mauvais Autonyme oublié"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Forgotten Autonym.md"
 toc: false

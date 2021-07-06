@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 15 - 15-11 Invoquer le démon"
 permalink: /Main Story/Chapter 15_11/
 excerpt: "Chapitre 15 - 11. Era of Chaos  Histoire principale - Chapitre 15_11. 15-11 Invoquer le démon"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 15_11.md"
 toc: false

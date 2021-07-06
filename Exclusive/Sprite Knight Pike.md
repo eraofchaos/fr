@@ -2,7 +2,7 @@
 title: "Exclusif - Pic du Chevalier (Sprite)"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Pic du Chevalier. Pic du Chevalier. Era of Chaos Exclusif Pic du Chevalier. Fée Exclusif."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Sprite Pic du Chevalier.md"
 toc: false

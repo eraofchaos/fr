@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 - 2-1 Renaissance au soleil"
 permalink: /Underground/Chapter 2_1/
 excerpt: "Chapitre 2 - 1. Era of Chaos  Souterrain - Chapitre 2_1. 2-1 Renaissance au soleil"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 2_1.md"
 toc: false

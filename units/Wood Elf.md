@@ -3,7 +3,7 @@ title: "Elfe sylvaine"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Elfe sylvaine. Elfe sylvaine Unités. Grand Elfe. Era of Chaos Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches."
 unitID: 203
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Elfe sylvaine"
 toc: true

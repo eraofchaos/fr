@@ -2,7 +2,7 @@
 title: "Artefact - Alliance angélique"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Alliance angélique. Alliance angélique Une relique sacrée forgée par la puissance angélique à partir d'objets précieux. Augmente la puissance de vos alliés."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Angelic Alliance.md"
 toc: false

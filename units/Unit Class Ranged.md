@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Era of Chaos Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Unit Class Ranged"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Démone de glace](/images/u/ti_bingmo.jpg) | [Démone de glace](/fr/units/Ice Demon/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 3 | ![Lutin](/images/u/ti_xiaoyaojing.jpg) | [Lutin](/fr/units/Gremlin/) | À distance | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 4 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/fr/units/Troll/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 5 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
+  | 5 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/fr/units/Regnan Archer/) | À distance | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tireur d'élite de Regna  |
   | 6 | ![Grand Arbalétrier](/images/u/ti_nushou.jpg) | [Grand Arbalétrier](/fr/units/Marksman/) | À distance | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maître Arbalétrier  |
   | 7 | ![Méduse](/images/u/ti_meidusha.jpg) | [Méduse](/fr/units/Medusa/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reine Méduse  |
   | 8 | ![Homme-lézard](/images/u/ti_xiyiren.jpg) | [Homme-lézard](/fr/units/Lizardman/) | À distance | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

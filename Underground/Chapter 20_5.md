@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 20 - 20-5 Souffle de glace"
 permalink: /Underground/Chapter 20_5/
 excerpt: "Chapitre 20 - 5. Era of Chaos  Souterrain - Chapitre 20_5. 20-5 Souffle de glace"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 20_5.md"
 toc: false

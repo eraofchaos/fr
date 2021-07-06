@@ -2,7 +2,7 @@
 title: "Collier de l'âme de Poséidon"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "Era of Chaos Collier de l'âme de Poséidon. Collier de l'âme de Poséidon"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Poseidon's Soul Necklace.md"
 toc: false

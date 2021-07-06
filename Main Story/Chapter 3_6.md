@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 3 - 3-6 Le camp des bandits"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Chapitre 3 - 6. Era of Chaos  Histoire principale - Chapitre 3_6. 3-6 Le camp des bandits"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 3_6.md"
 toc: false

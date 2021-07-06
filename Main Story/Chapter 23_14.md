@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-14 Une odeur de soufre"
 permalink: /Main Story/Chapter 23_14/
 excerpt: "Chapitre 23 - 14. Era of Chaos  Histoire principale - Chapitre 23_14. 23-14 Une odeur de soufre"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 23_14.md"
 toc: false

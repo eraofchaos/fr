@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 - 2-3 Une autre crise"
 permalink: /Underground/Chapter 2_3/
 excerpt: "Chapitre 2 - 3. Era of Chaos  Souterrain - Chapitre 2_3. 2-3 Une autre crise"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "Chapter 2_3.md"
 toc: false

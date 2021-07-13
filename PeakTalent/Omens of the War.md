@@ -2,7 +2,7 @@
 title: "Les tambours de la guerre. Talent Ultime - Les tambours de la guerre"
 permalink: /PeakTalent/Omens of the War/
 excerpt: "Era of Chaos Talent Ultime Les tambours de la guerre. Talent Ultime Les tambours de la guerre. Les tambours de la guerre"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Omens of the War.md"
 toc: false

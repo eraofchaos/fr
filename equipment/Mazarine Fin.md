@@ -2,7 +2,7 @@
 title: "Nageoire bleu foncé"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Era of Chaos Nageoire bleu foncé. Nageoire bleu foncé"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Mazarine Fin.md"
 toc: false

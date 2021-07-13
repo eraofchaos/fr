@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 12 - 12-13 Le secret"
 permalink: /Main Story/Chapter 12_13/
 excerpt: "Chapitre 12 - 13. Era of Chaos  Histoire principale - Chapitre 12_13. 12-13 Le secret"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 12_13.md"
 toc: false

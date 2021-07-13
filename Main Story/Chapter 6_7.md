@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-7 Le marais sanglant"
 permalink: /Main Story/Chapter 6_7/
 excerpt: "Chapitre 6 - 7. Era of Chaos  Histoire principale - Chapitre 6_7. 6-7 Le marais sanglant"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 6_7.md"
 toc: false

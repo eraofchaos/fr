@@ -4,7 +4,7 @@ permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Seigneur Nighon depuis peu, Mutare possède la capacité innée de commander les dragons, ce qui la rend quasi invincible sur le champ de bataille."
 heroID: 61301
 QR: hero_61301
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Mutare"
 toc: true

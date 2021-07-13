@@ -2,7 +2,7 @@
 title: "Exclusif - Arc de la Méduse (Medusa)"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arc de la Méduse. Arc de la Méduse. Era of Chaos Exclusif Arc de la Méduse. Méduse Exclusif."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Medusa Arc de la Méduse.md"
 toc: false

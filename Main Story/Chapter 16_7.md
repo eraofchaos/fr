@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-7 Nécromancien et traître"
 permalink: /Main Story/Chapter 16_7/
 excerpt: "Chapitre 16 - 7. Era of Chaos  Histoire principale - Chapitre 16_7. 16-7 Nécromancien et traître"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 16_7.md"
 toc: false

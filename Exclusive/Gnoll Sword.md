@@ -2,7 +2,7 @@
 title: "Exclusif - Épée (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Épée. Épée. Era of Chaos Exclusif Épée. Gnoll Exclusif."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Gnoll Épée.md"
 toc: false

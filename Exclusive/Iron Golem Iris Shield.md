@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Iron Golem)"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Golem de fer Exclusif."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Iron Golem Bouclier iris.md"
 toc: false

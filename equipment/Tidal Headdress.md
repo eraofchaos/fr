@@ -2,7 +2,7 @@
 title: "Coiffe raz-de-marée"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Era of Chaos Coiffe raz-de-marée. Coiffe raz-de-marée"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Tidal Headdress.md"
 toc: false

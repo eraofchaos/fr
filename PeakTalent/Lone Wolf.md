@@ -2,7 +2,7 @@
 title: "Loup solitaire. Talent Ultime - Loup solitaire"
 permalink: /PeakTalent/Lone Wolf/
 excerpt: "Era of Chaos Talent Ultime Loup solitaire. Talent Ultime Loup solitaire. Loup solitaire"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Lone Wolf.md"
 toc: false

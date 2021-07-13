@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-15 Céleste"
 permalink: /Main Story/Chapter 19_15/
 excerpt: "Chapitre 19 - 15. Era of Chaos  Histoire principale - Chapitre 19_15. 19-15 Céleste"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 19_15.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Trépassé. Trépassé Unités. Zombie. Era of Chaos Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Trépassé"
 toc: true
@@ -125,7 +125,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts subis par les Trépassés augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si l'ennemi qui attaque le Mort-vivant est dans un état de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, l'effet double.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %.</span><span style="color: black">

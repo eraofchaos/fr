@@ -3,7 +3,7 @@ title: "Chevalier noir"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Chevalier noir. Chevalier noir Unités. Chevalier de l'Effroi. Era of Chaos Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chevalier noir"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques du Chevalier noir augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts critiques de 50 %.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %.</span><span style="color: black">

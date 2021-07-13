@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-13 L'armée royale"
 permalink: /Main Story/Chapter 9_13/
 excerpt: "Chapitre 9 - 13. Era of Chaos  Histoire principale - Chapitre 9_13. 9-13 L'armée royale"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 9_13.md"
 toc: false

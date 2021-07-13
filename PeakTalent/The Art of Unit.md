@@ -2,7 +2,7 @@
 title: "L'Art de l'unité. Talent Ultime - L'Art de l'unité"
 permalink: /PeakTalent/The Art of Unit/
 excerpt: "Era of Chaos Talent Ultime L'Art de l'unité. Talent Ultime L'Art de l'unité. L'Art de l'unité"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "The Art of Unit.md"
 toc: false

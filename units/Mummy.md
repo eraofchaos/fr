@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Momie. Momie Unités. Roi Momie. Era of Chaos Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Momie"
 toc: true
@@ -119,7 +119,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">La DÉF de la Momie augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si l'ennemi qui attaque la Momie souffre de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Maladie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, l'effet double.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %.</span><span style="color: black">

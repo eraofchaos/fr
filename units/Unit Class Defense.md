@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Unit Class Defense"
 toc: false
@@ -24,8 +24,8 @@ classes: wide
   | 10 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/fr/units/Venom Spawn/) | Défense | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 11 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Croisé  |
   | 12 | ![Tortue dragon](/images/u/ti_longgui.jpg) | [Tortue dragon](/fr/units/Dragon Turtle/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tortue dragon primaire  |
-  | 13 | ![Centaure](/images/u/ti_banrenma.jpg) | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitaine Centaure  |
-  | 14 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 13 | ![Centaure](/images/u/ti_banrenma.jpg) | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitaine Centaure  |
+  | 14 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Guerrier Nain  |
   | 15 | ![Minotaure](/images/u/ti_niutouguai.jpg) | [Minotaure](/fr/units/Minotaur/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Roi Minotaure  |
   | 16 | ![Golem dragon](/images/u/ti_kuileilong.jpg) | [Golem dragon](/fr/units/Dragon Golem/) | Défense | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 17 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/fr/units/Paladin/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Paladin suprême  |

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 28 - 28-5  Vol intermédiaire"
 permalink: /Underground/Chapter 28_5/
 excerpt: "Chapitre 28 - 5. Era of Chaos  Souterrain - Chapitre 28_5. 28-5  Vol intermédiaire"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 28_5.md"
 toc: false

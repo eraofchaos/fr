@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-11 La défense de la cité"
 permalink: /Main Story/Chapter 6_11/
 excerpt: "Chapitre 6 - 11. Era of Chaos  Histoire principale - Chapitre 6_11. 6-11 La défense de la cité"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 6_11.md"
 toc: false

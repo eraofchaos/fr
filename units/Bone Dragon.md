@@ -3,7 +3,7 @@ title: "Dragon squelette"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Dragon squelette. Dragon squelette Unités. Dragon fantôme. Era of Chaos Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Dragon squelette"
 toc: true
@@ -122,7 +122,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Quand un Dragon squelette est sur le champ de bataille, la résistance aux dégâts de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %.</span><span style="color: black">

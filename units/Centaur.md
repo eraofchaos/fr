@@ -3,7 +3,7 @@ title: "Centaure"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Centaure. Centaure Unités. Capitaine Centaure. Era of Chaos Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Centaure"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nom:** [Bouclier iris](/fr/Exclusive/Centaur Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Bouclier iris](/ItemsFR/con_913/)
 

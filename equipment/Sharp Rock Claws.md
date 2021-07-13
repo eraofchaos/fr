@@ -2,7 +2,7 @@
 title: "Griffes en pierre tranchantes"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "Era of Chaos Griffes en pierre tranchantes. Griffes en pierre tranchantes"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Sharp Rock Claws.md"
 toc: false

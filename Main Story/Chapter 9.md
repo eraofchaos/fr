@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 Les Terres du chaos"
 permalink: /Main Story/Chapter 9/
 excerpt: "Chapitre 9. Era of Chaos  Histoire principale - Chapitre 9. Les Terres du chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 9.md"
 toc: false

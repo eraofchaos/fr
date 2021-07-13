@@ -2,7 +2,7 @@
 title: "Sacrifice maléfique. Talent Ultime - Sacrifice maléfique"
 permalink: /PeakTalent/Evil Sacrifice/
 excerpt: "Era of Chaos Talent Ultime Sacrifice maléfique. Talent Ultime Sacrifice maléfique. Sacrifice maléfique"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Evil Sacrifice.md"
 toc: false

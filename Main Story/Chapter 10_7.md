@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-7 Pendentif de flegme"
 permalink: /Main Story/Chapter 10_7/
 excerpt: "Chapitre 10 - 7. Era of Chaos  Histoire principale - Chapitre 10_7. 10-7 Pendentif de flegme"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 10_7.md"
 toc: false

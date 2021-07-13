@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-7 La forêt sacrée"
 permalink: /Main Story/Chapter 29_7/
 excerpt: "Chapitre 29 - 7. Era of Chaos  Histoire principale - Chapitre 29_7. 29-7 La forêt sacrée"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 29_7.md"
 toc: false

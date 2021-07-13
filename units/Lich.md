@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Liche. Liche Unités. Grande Liche. Era of Chaos Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Liche"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Quand la Liche est sur le champ de bataille, les PV et l'ATQ des Squelettes et des Dragons squelettes augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %.</span><span style="color: black">

@@ -2,7 +2,7 @@
 title: "Queue enchantée"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Era of Chaos Queue enchantée. Queue enchantée"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Enchanted Tail.md"
 toc: false

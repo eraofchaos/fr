@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Squelette. Squelette Unités. Guerrier squelette. Era of Chaos Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Squelette"
 toc: true
@@ -122,7 +122,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les Squelettes sont immunisés contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts que les unités à distance leur infligent sont réduits de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %.</span><span style="color: black">

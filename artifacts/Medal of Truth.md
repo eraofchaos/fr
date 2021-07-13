@@ -2,7 +2,7 @@
 title: "Artefact - Œil de faucon vivant - Médaille de vérité"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Era of Chaos  Œil de faucon vivant - Médaille de vérité. Un charme de sorcière orné d'yeux. Composant de l'Œil de faucon vivant."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Medal of Truth.md"
 toc: false

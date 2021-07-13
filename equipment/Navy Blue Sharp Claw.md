@@ -2,7 +2,7 @@
 title: "Griffe tranchante bleu marine"
 permalink: /equipment/Navy Blue Sharp Claw/
 excerpt: "Era of Chaos Griffe tranchante bleu marine. Griffe tranchante bleu marine"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Navy Blue Sharp Claw.md"
 toc: false

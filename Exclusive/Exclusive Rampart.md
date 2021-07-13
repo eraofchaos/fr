@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exclusif Rampart. Exclusif Rampart. List of Exclusif Rampart in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Exclusive Rampart"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Exclusif | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centaure](/fr/units/Centaur/) | [Bouclier iris](/fr/Exclusive/Centaur Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
+  | 1  | [Centaure](/fr/units/Centaur/) | [Bouclier iris](/fr/Exclusive/Centaur Iris Shield/) | + | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
   | 2  | [Nain](/fr/units/Dwarf/) | [Bouclier iris](/fr/Exclusive/Dwarf Iris Shield/) | - | Assaut | [Jeton Bouclier iris](/ItemsFR/con_913/) | - |
   | 3  | [Elfe sylvaine](/fr/units/Wood Elf/) | [Arc long](/fr/Exclusive/Wood Elf Long Bow/) | - | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
   | 4  | [Pégase](/fr/units/Pegasus/) | [Arc long](/fr/Exclusive/Pegasus Long Bow/) | + | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |

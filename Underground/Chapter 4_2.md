@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 4 - 4-2 En état de siège"
 permalink: /Underground/Chapter 4_2/
 excerpt: "Chapitre 4 - 2. Era of Chaos  Souterrain - Chapitre 4_2. 4-2 En état de siège"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 4_2.md"
 toc: false

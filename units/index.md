@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "index.md"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
   | 9 | ![Béhémoth](/images/u/ti_bimeng.jpg) | [Béhémoth](/fr/units/Behemoth/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Béhémoth royal  |
   | 10 | ![Cauchemar](/images/u/ti_mengyanshou.jpg) | [Cauchemar](/fr/units/Nightmare/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Roi Cauchemar  |
   | 11 | ![Cavalier](/images/u/ti_qishi.jpg) | [Cavalier](/fr/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Chevaliers légendaires  |
-  | 12 | ![Centaure](/images/u/ti_banrenma.jpg) | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitaine Centaure  |
+  | 12 | ![Centaure](/images/u/ti_banrenma.jpg) | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitaine Centaure  |
   | 13 | ![Champion des ténèbres](/images/u/ti_sishen.jpg) | [Champion des ténèbres](/fr/units/Dark Champion/) | Offensive | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 14 | ![Chevalier noir](/images/u/ti_siwangqishi.jpg) | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Chevalier de l'Effroi  |
   | 15 | ![Chevaucheur de loup](/images/u/ti_langqibing.jpg) | [Chevaucheur de loup](/fr/units/Wolf Rider/) | Assaut | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Pillard  |
@@ -80,7 +80,7 @@ classes: wide
   | 58 | ![Momie](/images/u/ti_munaiyi.jpg) | [Momie](/fr/units/Mummy/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Roi Momie  |
   | 59 | ![Méduse](/images/u/ti_meidusha.jpg) | [Méduse](/fr/units/Medusa/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reine Méduse  |
   | 60 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/fr/units/Naga/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Reine Naga  |
-  | 61 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 61 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Guerrier Nain  |
   | 62 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/fr/units/Ogre/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre Mage  |
   | 63 | ![Oiseau de feu](/images/u/ti_fenghuang.jpg) | [Oiseau de feu](/fr/units/Firebird/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phoenix  |
   | 64 | ![Oracle de Regna](/images/u/ti_haihou.jpg) | [Oracle de Regna](/fr/units/Regnan Seer/) | Lanceur de sorts | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Élémentaire des marées  |

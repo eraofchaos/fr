@@ -2,7 +2,7 @@
 title: "Capuchon enchanté"
 permalink: /equipment/Enchanted Hood/
 excerpt: "Era of Chaos Capuchon enchanté. Capuchon enchanté"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Enchanted Hood.md"
 toc: false

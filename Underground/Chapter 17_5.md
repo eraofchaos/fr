@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 17 - 17-5 Sang et garde"
 permalink: /Underground/Chapter 17_5/
 excerpt: "Chapitre 17 - 5. Era of Chaos  Souterrain - Chapitre 17_5. 17-5 Sang et garde"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 17_5.md"
 toc: false

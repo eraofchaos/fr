@@ -2,7 +2,7 @@
 title: "Dents brûlantes"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Era of Chaos Dents brûlantes. Dents brûlantes"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Scalding Teeth.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Rampart -  Units"
 permalink: /units/Faction Rampart/
 excerpt: "Era of Chaos Faction Rampart. Faction Rampart. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Faction Rampart"
 toc: false
@@ -14,8 +14,8 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Centaure](/images/u/ti_banrenma.jpg) | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitaine Centaure  |
-  | 2 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 1 | ![Centaure](/images/u/ti_banrenma.jpg) | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitaine Centaure  |
+  | 2 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Guerrier Nain  |
   | 3 | ![Elfe sylvaine](/images/u/ti_mujingling.jpg) | [Elfe sylvaine](/fr/units/Wood Elf/) | À distance | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Grand Elfe  |
   | 4 | ![Pégase](/images/u/ti_feima.jpg) | [Pégase](/fr/units/Pegasus/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pégase d'argent  |
   | 5 | ![Garde sylvanien](/images/u/ti_shuyao.jpg) | [Garde sylvanien](/fr/units/Dendroid Guard/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldat sylvanien  |

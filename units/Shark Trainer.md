@@ -3,7 +3,7 @@ title: "Dompteur de requins"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Dompteur de requins. Dompteur de requins Unités. Chevaucheur de requins. Era of Chaos Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues."
 unitID: 9909
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Dompteur de requins"
 toc: true

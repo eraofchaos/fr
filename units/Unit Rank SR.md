@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Unit Rank SR"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 21 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Croisé  |
   | 22 | ![Méduse](/images/u/ti_meidusha.jpg) | [Méduse](/fr/units/Medusa/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reine Méduse  |
   | 23 | ![Moine](/images/u/ti_senglv.jpg) | [Moine](/fr/units/Monk/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zélote  |
-  | 24 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 24 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Guerrier Nain  |
   | 25 | ![Minotaure](/images/u/ti_niutouguai.jpg) | [Minotaure](/fr/units/Minotaur/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Roi Minotaure  |
   | 26 | ![Aéronef magique](/images/u/ti_reqiqiu.jpg) | [Aéronef magique](/fr/units/Magic Airship/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 27 | ![Homme-lézard](/images/u/ti_xiyiren.jpg) | [Homme-lézard](/fr/units/Lizardman/) | À distance | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

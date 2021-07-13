@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-13 Protéger le trésor"
 permalink: /Main Story/Chapter 23_13/
 excerpt: "Chapitre 23 - 13. Era of Chaos  Histoire principale - Chapitre 23_13. 23-13 Protéger le trésor"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 23_13.md"
 toc: false

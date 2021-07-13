@@ -2,7 +2,7 @@
 title: "Faux du diable"
 permalink: /equipment/Devil's Scythe/
 excerpt: "Era of Chaos Faux du diable. Faux du diable"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Devil's Scythe.md"
 toc: false

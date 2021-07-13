@@ -2,7 +2,7 @@
 title: "Médaille des gladiateurs. Talent Ultime - Médaille des gladiateurs"
 permalink: /PeakTalent/Medal of Gladiators/
 excerpt: "Era of Chaos Talent Ultime Médaille des gladiateurs. Talent Ultime Médaille des gladiateurs. Médaille des gladiateurs"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Medal of Gladiators.md"
 toc: false

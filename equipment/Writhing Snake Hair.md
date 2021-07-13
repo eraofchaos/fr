@@ -2,7 +2,7 @@
 title: "Coiffe de serpent entortillé"
 permalink: /equipment/Writhing Snake Hair/
 excerpt: "Era of Chaos Coiffe de serpent entortillé. Coiffe de serpent entortillé"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Writhing Snake Hair.md"
 toc: false

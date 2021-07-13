@@ -2,7 +2,7 @@
 title: "Exclusif - Bouclier iris (Centaur)"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Bouclier iris. Bouclier iris. Era of Chaos Exclusif Bouclier iris. Centaure Exclusif."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Centaur Bouclier iris.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Assaut
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1440
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Choc traumatique> : Une onde de choc massive est créée lorsque le Centaure finit de lancer <Choc guerrier>, ce qui ralentit les ennemis à portée de l'onde de choc et diminue leurs dégâts de 20 % pendant 10 secondes. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Au début de la bataille, le Centaure accorde à toutes les unités alliées de première ligne un bouclier égal à 20 % des PV max pendant 20 secondes. |
+  |  Réveil  | **100x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Choc traumatique> : Une onde de choc massive est créée lorsque le Centaure finit de lancer <Choc guerrier>, ce qui ralentit les ennemis à portée de l'onde de choc et diminue leurs dégâts de 15 % pendant 8 secondes. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Au début de la bataille, le Centaure accorde à toutes les unités alliées de première ligne un bouclier égal à 15 % des PV max pendant 15 secondes. |
   | **2x** <i class="fas fa-star"/> | **90x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Lorsque le Centaure reçoit un bouclier, sa DÉF augmente de 20 % pendant 10 secondes. Cet effet ne peut pas se cumuler. |
   | **3x** <i class="fas fa-star"/> | **130x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Choc traumatique> : Prolonge la durée de 10 secondes et inflige aux unités ennemies des dégâts équivalents à 10 % de l'ATQ une fois toutes les 0,5 seconde. |
   | **4x** <i class="fas fa-star"/> | **170x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente les PV du Centaure de 10 % à chaque fois qu'une unité du Rempart est déployée. |
   | **5x** <i class="fas fa-star"/> | **210x** [Jeton Bouclier iris](/ItemsFR/con_913/) | Augmente la résistance aux dégâts d'unité du Centaure de 3 % à chaque fois qu'une unité du Rempart est déployée. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Piétinement écrasant> : Lance immédiatement <Piétinement écrasant> lorsque le Centaure reçoit un bouclier, ce qui inflige des dégâts équivalents à 100 % de son ATQ aux ennemis à portée et étourdit les ennemis ralentis pendant 1 à 3 secondes. Le temps de recharge est de 5 secondes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Bouclier iris](/ItemsFR/con_913/) | <Piétinement écrasant> : Lance immédiatement <Piétinement écrasant> lorsque le Centaure reçoit un bouclier, ce qui inflige des dégâts équivalents à 100 % de son ATQ aux ennemis à portée et étourdit les ennemis ralentis pendant 1 à 3 secondes. Le temps de recharge est de 9 secondes. |
 
 
 ## Améliorer

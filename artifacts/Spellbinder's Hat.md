@@ -2,7 +2,7 @@
 title: "Artefact - Chapeau des sages"
 permalink: /artifacts/Spellbinder's Hat/
 excerpt: "Era of Chaos  Chapeau des sages. Chapeau des sages Un Chapeau des sages représentant le plus grand honneur accordé aux Mages. Seuls ceux qui maîtrisent le feu, l'eau, l'air et la terre sont dignes de le porter. Améliore nettement l'affinité avec la magie élémentaire."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Spellbinder's Hat.md"
 toc: false

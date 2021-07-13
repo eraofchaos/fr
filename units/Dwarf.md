@@ -1,9 +1,9 @@
 ---
 title: "Nain"
 permalink: /units/Dwarf/
-excerpt: "Era of Chaos Nain. Nain Unités. null. Era of Chaos Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
+excerpt: "Era of Chaos Nain. Nain Unités. Guerrier Nain. Era of Chaos Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Nain"
 toc: true
@@ -186,41 +186,43 @@ toc: true
 
 ## Awaking
 
+  ![Guerrier Nain](/images/u/unknown.png)
+
 ### Awaking Détails
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Guerrier Nain
 
- **Awaking Description:** null
+ **Awaking Description:** On m'appelait autrefois le Nain. J'ai 333 ans, et je vis à Avlee. Je suis encore célibataire. Chaque jour dans le Trésor des Nains, je cogne des gens jusqu'à ce qu'ils ne puissent plus se relever, et je travaille sans relâche jusqu'à 5 heures du matin, heure à laquelle je peux enfin rentrer chez moi. Mais à peine une minute plus tard, voilà que je dois déjà repartir au boulot.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Nain et au moins 3 unités du Rempart pour réussir 1 fois le niveau Impitoyable, ou un niveau supérieur, de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Récupérez 5 ressources pendant une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez 100 âmes de Guerrier Nain dans les niveaux 15-2 et 15-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez 1 Nain et remportez 1 combat de Duel de champions.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Hurlement de désespoir
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurlement de désespoir&gt; :</span><span style="color: #645252;font-size:18px"> La portée de &lt;Hurlement du Nain&gt; s'étend à tout le champ de bataille et augmente les dégâts des unités alliées de 10 %.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): Hurlement des remparts
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurlement de désespoir&gt; :</span><span style="color: #645252;font-size:18px"> &lt;Hurlement du Nain&gt; octroie également un bouclier équivalent à 15 % des PV max aux unités alliées dans un certain rayon. L'effet dure 20 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): Explosion d'épines
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Explosion d'épines&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque la compétence se lance, réduit la résistance aux dégâts de l'unité cible de 20 % supplémentaires pendant 5 secondes.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Anti-céphalée
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Anti-céphalée&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la durée de l'effet d'Étourdissement de la compétence de 4 secondes. Si l'unité cible est victime de Saignement, ses dégâts sont réduits de 10 %. Dure 8 secondes.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Lame de bois
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lame de bois&gt; :</span><span style="color: #645252;font-size:18px"> Augmente de 300 la ténacité des unités alliées qui se trouvent dans le voile.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Mur de fer boisé
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mur de fer boisé&gt; :</span><span style="color: #645252;font-size:18px"> Augmente de 20 % la résistance aux dégâts critiques des unités alliées qui se trouvent dans le voile.</span>
 
 ## Technical info
  **runart:** 1

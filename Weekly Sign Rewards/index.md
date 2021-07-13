@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 30  Semaine du Château
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **26 Jul** | **5x [Lancier](/ItemsFR/unt_190/)**  | Une escouade de Lanciers a rejoint votre armée et vous renforce ! |
+  | **27 Jul** | **5x [Grand Arbalétrier](/ItemsFR/unt_191/)**  | Une escouade de Grands Arbalétriers a rejoint votre armée et vous renforce ! |
+  | **28 Jul** | **3x [Spadassin](/ItemsFR/unt_193/)**  | Une escouade de Spadassins a rejoint votre armée et vous renforce ! |
+  | **29 Jul** | **3x [Griffon](/ItemsFR/unt_192/)**  | Une escouade de Griffons a rejoint votre armée et vous renforce ! |
+  | **30 Jul** | **3x [Moine](/ItemsFR/unt_194/)**  | Une escouade de Moines a rejoint votre armée et vous renforce ! |
+  | **31 Jul** | **3x [Cavalier ](/ItemsFR/unt_195/)**  | Une escouade de Cavaliers a rejoint votre armée et vous renforce ! |
+  | **1 Aug** | **5x [Adelaïde](/ItemsFR/her_359/)**  | Un Mage capable de contrôler la neige s'est rendu sur votre territoire ! |
+
 
 #### 2021 Week 29  Semaine de la Nécropole
 

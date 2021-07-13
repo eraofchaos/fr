@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Star 2"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | ![Harpie](/images/u/ti_yingshenren.jpg) | [Harpie](/fr/units/Harpy/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpie sinistre  |
   | 12 | ![Griffon](/images/u/ti_shijiu.jpg) | [Griffon](/fr/units/Griffin/) | Assaut | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Griffon royal  |
   | 13 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Croisé  |
-  | 14 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 14 | ![Nain](/images/u/ti_airen.jpg) | [Nain](/fr/units/Dwarf/) | Défense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Guerrier Nain  |
   | 15 | ![Minotaure](/images/u/ti_niutouguai.jpg) | [Minotaure](/fr/units/Minotaur/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Roi Minotaure  |
   | 16 | ![Homme-lézard](/images/u/ti_xiyiren.jpg) | [Homme-lézard](/fr/units/Lizardman/) | À distance | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 17 | ![Elfe sylvaine](/images/u/ti_mujingling.jpg) | [Elfe sylvaine](/fr/units/Wood Elf/) | À distance | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Grand Elfe  |

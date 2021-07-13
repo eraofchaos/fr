@@ -2,7 +2,7 @@
 title: "Heaume du serment"
 permalink: /equipment/Vow Helmet/
 excerpt: "Era of Chaos Heaume du serment. Heaume du serment"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Vow Helmet.md"
 toc: false

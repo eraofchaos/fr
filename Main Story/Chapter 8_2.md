@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-2 Une histoire sans fin"
 permalink: /Main Story/Chapter 8_2/
 excerpt: "Chapitre 8 - 2. Era of Chaos  Histoire principale - Chapitre 8_2. 8-2 Une histoire sans fin"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 8_2.md"
 toc: false

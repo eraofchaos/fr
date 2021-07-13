@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-6 La tour de garde"
 permalink: /Main Story/Chapter 4_6/
 excerpt: "Chapitre 4 - 6. Era of Chaos  Histoire principale - Chapitre 4_6. 4-6 La tour de garde"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 4_6.md"
 toc: false

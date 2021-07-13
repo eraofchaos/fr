@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 28 - 28-4  Sacrifice honorable"
 permalink: /Underground/Chapter 28_4/
 excerpt: "Chapitre 28 - 4. Era of Chaos  Souterrain - Chapitre 28_4. 28-4  Sacrifice honorable"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 28_4.md"
 toc: false

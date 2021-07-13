@@ -2,7 +2,7 @@
 title: "Avatar - Messager céleste"
 permalink: /Avatars/Heaven Messenger/
 excerpt: "Era of Chaos  Messager céleste"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Heaven Messenger.md"
 toc: false

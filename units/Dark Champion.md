@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Champion des ténèbres. Champion des ténèbres Unités. null. Era of Chaos C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Champion des ténèbres"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les PV nécessaires pour déclencher Fin de la destinée augmentent de 4 % supplémentaires par unité de la Nécropole présente sur le champ de bataille. Ils augmentent également de 1 % supplémentaire par unité invoquée par la Nécropole sur le champ de bataille. Fin de la destinée peut se déclencher jusqu'à un maximum de 25 % de PV. Quand un Héros allié lance un sort de terre, le temps de recharge d'un sort aléatoire diminue de 4 secondes.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %.</span><span style="color: black">

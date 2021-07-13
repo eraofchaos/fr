@@ -2,7 +2,7 @@
 title: "Exclusif - Marées diurnes (Regnan Serpent)"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Marées diurnes. Marées diurnes. Era of Chaos Exclusif Marées diurnes. Serpent de Regna Exclusif."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Regnan Serpent Marées diurnes.md"
 toc: false

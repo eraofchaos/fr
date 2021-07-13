@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 24 Marée élémentaire"
 permalink: /Underground/Chapter 24/
 excerpt: "Chapitre 24 Marée élémentaire. Era of Chaos  Souterrain - Chapitre 24. Marée élémentaire"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 24.md"
 toc: false

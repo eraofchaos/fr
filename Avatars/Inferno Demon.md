@@ -2,7 +2,7 @@
 title: "Avatar - Démon de l'Hadès"
 permalink: /Avatars/Inferno Demon/
 excerpt: "Era of Chaos  Démon de l'Hadès"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Inferno Demon.md"
 toc: false

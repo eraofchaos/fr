@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-13 La guilde des Mages"
 permalink: /Main Story/Chapter 22_13/
 excerpt: "Chapitre 22 - 13. Era of Chaos  Histoire principale - Chapitre 22_13. 22-13 La guilde des Mages"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Chapter 22_13.md"
 toc: false

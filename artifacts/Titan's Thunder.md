@@ -2,7 +2,7 @@
 title: "Artefact - Tonnerre des Titans"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Tonnerre des Titans. Tonnerre des Titans Une légendaire relique sacrée, forgée à partir de trésors des Géants. Fait tomber la foudre sur les ennemis."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Titan's Thunder.md"
 toc: false

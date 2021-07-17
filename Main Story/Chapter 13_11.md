@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-11 À l'aube de la guerre"
 permalink: /Main Story/Chapter 13_11/
 excerpt: "Chapitre 13 - 11. Era of Chaos  Histoire principale - Chapitre 13_11. 13-11 À l'aube de la guerre"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 13_11.md"
 toc: false

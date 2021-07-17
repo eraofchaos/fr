@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 22 - 22-2 Le Mage en fuite"
 permalink: /Main Story/Chapter 22_2/
 excerpt: "Chapitre 22 - 2. Era of Chaos  Histoire principale - Chapitre 22_2. 22-2 Le Mage en fuite"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 22_2.md"
 toc: false

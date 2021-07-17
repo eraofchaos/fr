@@ -2,7 +2,7 @@
 title: "Couronne noire"
 permalink: /equipment/Carrion Crown/
 excerpt: "Era of Chaos Couronne noire. Couronne noire"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Carrion Crown.md"
 toc: false

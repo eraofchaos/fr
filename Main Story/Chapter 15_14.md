@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 15 - 15-14 Surgit le démon"
 permalink: /Main Story/Chapter 15_14/
 excerpt: "Chapitre 15 - 14. Era of Chaos  Histoire principale - Chapitre 15_14. 15-14 Surgit le démon"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 15_14.md"
 toc: false

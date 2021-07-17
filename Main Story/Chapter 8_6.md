@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-6 Un projet découvert au grand jour"
 permalink: /Main Story/Chapter 8_6/
 excerpt: "Chapitre 8 - 6. Era of Chaos  Histoire principale - Chapitre 8_6. 8-6 Un projet découvert au grand jour"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 8_6.md"
 toc: false

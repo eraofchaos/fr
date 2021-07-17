@@ -2,7 +2,7 @@
 title: "Bandeau rayonnant"
 permalink: /equipment/Radiance Headband/
 excerpt: "Era of Chaos Bandeau rayonnant. Bandeau rayonnant"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Radiance Headband.md"
 toc: false

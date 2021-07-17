@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 19 - 19-5 La loi du monde"
 permalink: /Underground/Chapter 19_5/
 excerpt: "Chapitre 19 - 5. Era of Chaos  Souterrain - Chapitre 19_5. 19-5 La loi du monde"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 19_5.md"
 toc: false

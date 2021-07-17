@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-6 Nécromancie"
 permalink: /Main Story/Chapter 20_6/
 excerpt: "Chapitre 20 - 6. Era of Chaos  Histoire principale - Chapitre 20_6. 20-6 Nécromancie"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 20_6.md"
 toc: false

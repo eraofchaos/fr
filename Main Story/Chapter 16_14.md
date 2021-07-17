@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-14 Les remerciements du Rôdeur"
 permalink: /Main Story/Chapter 16_14/
 excerpt: "Chapitre 16 - 14. Era of Chaos  Histoire principale - Chapitre 16_14. 16-14 Les remerciements du Rôdeur"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 16_14.md"
 toc: false

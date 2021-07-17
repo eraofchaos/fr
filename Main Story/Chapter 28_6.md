@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-6 La mine d'or abandonnée"
 permalink: /Main Story/Chapter 28_6/
 excerpt: "Chapitre 28 - 6. Era of Chaos  Histoire principale - Chapitre 28_6. 28-6 La mine d'or abandonnée"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 28_6.md"
 toc: false

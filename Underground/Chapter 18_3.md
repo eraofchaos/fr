@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 18 - 18-3 Restriction de race"
 permalink: /Underground/Chapter 18_3/
 excerpt: "Chapitre 18 - 3. Era of Chaos  Souterrain - Chapitre 18_3. 18-3 Restriction de race"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 18_3.md"
 toc: false

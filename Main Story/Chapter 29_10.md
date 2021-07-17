@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-10 La ville de la Chance"
 permalink: /Main Story/Chapter 29_10/
 excerpt: "Chapitre 29 - 10. Era of Chaos  Histoire principale - Chapitre 29_10. 29-10 La ville de la Chance"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 29_10.md"
 toc: false

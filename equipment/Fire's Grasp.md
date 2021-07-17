@@ -2,7 +2,7 @@
 title: "Poigne de feu"
 permalink: /equipment/Fire's Grasp/
 excerpt: "Era of Chaos Poigne de feu. Poigne de feu"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Fire's Grasp.md"
 toc: false

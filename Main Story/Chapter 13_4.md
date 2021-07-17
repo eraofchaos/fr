@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 13 - 13-4 Justice"
 permalink: /Main Story/Chapter 13_4/
 excerpt: "Chapitre 13 - 4. Era of Chaos  Histoire principale - Chapitre 13_4. 13-4 Justice"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 13_4.md"
 toc: false

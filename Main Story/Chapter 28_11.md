@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-11 Les charniers"
 permalink: /Main Story/Chapter 28_11/
 excerpt: "Chapitre 28 - 11. Era of Chaos  Histoire principale - Chapitre 28_11. 28-11 Les charniers"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 28_11.md"
 toc: false

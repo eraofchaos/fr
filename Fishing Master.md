@@ -2,7 +2,7 @@
 title: "Maître de la pêche"
 permalink: /Fishing Master/
 excerpt: "Era of Chaos  Maître de la pêche - []　　Cher seigneur, vous avez reçu des récompenses pour votre pêche. Allez y jeter un coup d'œil.[]"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "index.md"
 toc: false

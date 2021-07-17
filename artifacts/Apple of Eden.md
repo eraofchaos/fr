@@ -2,7 +2,7 @@
 title: "Artefact - Pomme d'Éden"
 permalink: /artifacts/Apple of Eden/
 excerpt: "Era of Chaos  Pomme d'Éden. Pomme d'Éden Une relique de l'ancienne civilisation des Précurseurs. Selon la légende, cet artefact peut manipuler toute forme de vie."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Apple of Eden.md"
 toc: false

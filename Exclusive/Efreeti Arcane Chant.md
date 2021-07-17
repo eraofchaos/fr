@@ -2,7 +2,7 @@
 title: "Exclusif - Mélopée des arcanes (Efreeti)"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Era of Chaos Mélopée des arcanes. Mélopée des arcanes. Era of Chaos Exclusif Mélopée des arcanes. Effrit Exclusif."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Efreeti Mélopée des arcanes.md"
 toc: false

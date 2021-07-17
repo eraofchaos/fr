@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 12 - 12-2 Roi des Non-Morts"
 permalink: /Underground/Chapter 12_2/
 excerpt: "Chapitre 12 - 2. Era of Chaos  Souterrain - Chapitre 12_2. 12-2 Roi des Non-Morts"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 12_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-7 La fille magique"
 permalink: /Main Story/Chapter 20_7/
 excerpt: "Chapitre 20 - 7. Era of Chaos  Histoire principale - Chapitre 20_7. 20-7 La fille magique"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 20_7.md"
 toc: false

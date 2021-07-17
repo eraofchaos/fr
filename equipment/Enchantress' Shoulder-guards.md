@@ -2,7 +2,7 @@
 title: "Épaulière de l'enchanteresse"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "Era of Chaos Épaulière de l'enchanteresse. Épaulière de l'enchanteresse"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Enchantress' Shoulder-guards.md"
 toc: false

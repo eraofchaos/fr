@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-6 Le discours de la reine"
 permalink: /Main Story/Chapter 2_6/
 excerpt: "Chapitre 2 - 6. Era of Chaos  Histoire principale - Chapitre 2_6. 2-6 Le discours de la reine"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 2_6.md"
 toc: false

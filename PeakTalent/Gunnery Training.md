@@ -2,7 +2,7 @@
 title: "Entraînement au tir. Talent Ultime - Entraînement au tir"
 permalink: /PeakTalent/Gunnery Training/
 excerpt: "Era of Chaos Talent Ultime Entraînement au tir. Talent Ultime Entraînement au tir. Entraînement au tir"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Gunnery Training.md"
 toc: false

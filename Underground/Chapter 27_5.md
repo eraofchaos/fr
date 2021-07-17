@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 27 - 27-5 Tempête cyclonique"
 permalink: /Underground/Chapter 27_5/
 excerpt: "Chapitre 27 - 5. Era of Chaos  Souterrain - Chapitre 27_5. 27-5 Tempête cyclonique"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 27_5.md"
 toc: false

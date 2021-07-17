@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-7 Se lever"
 permalink: /Main Story/Chapter 7_7/
 excerpt: "Chapitre 7 - 7. Era of Chaos  Histoire principale - Chapitre 7_7. 7-7 Se lever"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 7_7.md"
 toc: false

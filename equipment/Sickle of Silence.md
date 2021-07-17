@@ -2,7 +2,7 @@
 title: "Faucille du silence"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Era of Chaos Faucille du silence. Faucille du silence"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Sickle of Silence.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 14 - 14-3 L'assaut de la forteresse"
 permalink: /Main Story/Chapter 14_3/
 excerpt: "Chapitre 14 - 3. Era of Chaos  Histoire principale - Chapitre 14_3. 14-3 L'assaut de la forteresse"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 14_3.md"
 toc: false

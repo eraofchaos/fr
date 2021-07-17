@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 19 - 19-11 Talent magique"
 permalink: /Main Story/Chapter 19_11/
 excerpt: "Chapitre 19 - 11. Era of Chaos  Histoire principale - Chapitre 19_11. 19-11 Talent magique"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 19_11.md"
 toc: false

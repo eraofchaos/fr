@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-4 Le vieil homme empoisonné"
 permalink: /Main Story/Chapter 23_4/
 excerpt: "Chapitre 23 - 4. Era of Chaos  Histoire principale - Chapitre 23_4. 23-4 Le vieil homme empoisonné"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 23_4.md"
 toc: false

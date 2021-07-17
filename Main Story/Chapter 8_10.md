@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-10 La cité au fond du lac"
 permalink: /Main Story/Chapter 8_10/
 excerpt: "Chapitre 8 - 10. Era of Chaos  Histoire principale - Chapitre 8_10. 8-10 La cité au fond du lac"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 8_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Cor de bataille. Talent Ultime - Cor de bataille"
 permalink: /PeakTalent/Battle Horn/
 excerpt: "Era of Chaos Talent Ultime Cor de bataille. Talent Ultime Cor de bataille. Cor de bataille"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Battle Horn.md"
 toc: false

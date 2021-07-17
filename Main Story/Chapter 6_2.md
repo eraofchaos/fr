@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-2 Rencontre interarmées"
 permalink: /Main Story/Chapter 6_2/
 excerpt: "Chapitre 6 - 2. Era of Chaos  Histoire principale - Chapitre 6_2. 6-2 Rencontre interarmées"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 6_2.md"
 toc: false

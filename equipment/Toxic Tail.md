@@ -2,7 +2,7 @@
 title: "Queue toxique"
 permalink: /equipment/Toxic Tail/
 excerpt: "Era of Chaos Queue toxique. Queue toxique"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Toxic Tail.md"
 toc: false

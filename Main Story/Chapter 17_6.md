@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-6 La taverne des Nains"
 permalink: /Main Story/Chapter 17_6/
 excerpt: "Chapitre 17 - 6. Era of Chaos  Histoire principale - Chapitre 17_6. 17-6 La taverne des Nains"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 17_6.md"
 toc: false

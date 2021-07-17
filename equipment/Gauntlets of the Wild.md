@@ -2,7 +2,7 @@
 title: "Gantelets sauvages"
 permalink: /equipment/Gauntlets of the Wild/
 excerpt: "Era of Chaos Gantelets sauvages. Gantelets sauvages"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Gauntlets of the Wild.md"
 toc: false

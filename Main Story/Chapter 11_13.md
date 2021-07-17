@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 11 - 11-13 La Croix du mérite"
 permalink: /Main Story/Chapter 11_13/
 excerpt: "Chapitre 11 - 13. Era of Chaos  Histoire principale - Chapitre 11_13. 11-13 La Croix du mérite"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 11_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusif - Lame secrète (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Era of Chaos Lame secrète. Lame secrète. Era of Chaos Exclusif Lame secrète. Assassin Exclusif."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Assassin Lame secrète.md"
 toc: false

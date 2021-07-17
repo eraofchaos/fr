@@ -2,7 +2,7 @@
 title: "Corne de bœuf mortelle"
 permalink: /equipment/Deadly Ox Horn/
 excerpt: "Era of Chaos Corne de bœuf mortelle. Corne de bœuf mortelle"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Deadly Ox Horn.md"
 toc: false

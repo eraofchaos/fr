@@ -2,7 +2,7 @@
 title: "Pantalon en cuir"
 permalink: /equipment/Leather Trousers/
 excerpt: "Era of Chaos Pantalon en cuir. Pantalon en cuir"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Leather Trousers.md"
 toc: false

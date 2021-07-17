@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 - 2-4 Se regrouper et renaître"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Chapitre 2 - 4. Era of Chaos  Souterrain - Chapitre 2_4. 2-4 Se regrouper et renaître"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 2_4.md"
 toc: false

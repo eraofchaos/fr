@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 14 - 14-2 Couloir souterrain"
 permalink: /Underground/Chapter 14_2/
 excerpt: "Chapitre 14 - 2. Era of Chaos  Souterrain - Chapitre 14_2. 14-2 Couloir souterrain"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 14_2.md"
 toc: false

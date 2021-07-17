@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 27 La voie du pèlerin"
 permalink: /Underground/Chapter 27/
 excerpt: "Chapitre 27 La voie du pèlerin. Era of Chaos  Souterrain - Chapitre 27. La voie du pèlerin"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "Chapter 27.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Royaume de la Mort"
 permalink: /Avatars/Death Kingdom/
 excerpt: "Era of Chaos  Royaume de la Mort"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Death Kingdom.md"
 toc: false
@@ -16,5 +16,5 @@ classes: wide
 
  **Tips:** Élément obtenu en participant à un événement 
 
- **Is available:**  - 
+ **Is available:**  + 
 

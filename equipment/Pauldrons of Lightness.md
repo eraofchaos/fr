@@ -2,7 +2,7 @@
 title: "Épaulières de légèreté"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "Era of Chaos Épaulières de légèreté. Épaulières de légèreté"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Pauldrons of Lightness.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 17 - 17-2 Souvenir du Mage"
 permalink: /Underground/Chapter 17_2/
 excerpt: "Chapitre 17 - 2. Era of Chaos  Souterrain - Chapitre 17_2. 17-2 Souvenir du Mage"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 17_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Queue de dragon fougueux"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Era of Chaos Queue de dragon fougueux. Queue de dragon fougueux"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Vehement Dragon Tail.md"
 toc: false

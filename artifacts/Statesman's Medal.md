@@ -2,7 +2,7 @@
 title: "Artefact - Plume de l'émissaire - Médaille de dignité"
 permalink: /artifacts/Statesman's Medal/
 excerpt: "Era of Chaos  Plume de l'émissaire - Médaille de dignité. Cette médaille enregistre les prouesses de son propriétaire. Il s'agit de l'un des composants de la Plume de l'émissaire."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Statesman's Medal.md"
 toc: false

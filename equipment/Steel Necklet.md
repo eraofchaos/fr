@@ -2,7 +2,7 @@
 title: "Pendentif en acier"
 permalink: /equipment/Steel Necklet/
 excerpt: "Era of Chaos Pendentif en acier. Pendentif en acier"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Steel Necklet.md"
 toc: false

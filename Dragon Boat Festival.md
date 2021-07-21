@@ -2,7 +2,7 @@
 title: "Fête des bateaux-dragons"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Fête des bateaux-dragons - Quête des bateaux-dragons"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "index.md"
 toc: false

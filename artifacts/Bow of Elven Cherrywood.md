@@ -2,7 +2,7 @@
 title: "Artefact - Arc du tireur d'élite - Arc elfique"
 permalink: /artifacts/Bow of Elven Cherrywood/
 excerpt: "Era of Chaos  Arc du tireur d'élite - Arc elfique. Un arc long taillé dans du bois par les Elfes. Composant de l'Arc du tireur d'élite."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Bow of Elven Cherrywood.md"
 toc: false

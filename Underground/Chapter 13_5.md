@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 13 - 13-5 Jugement du septième jour"
 permalink: /Underground/Chapter 13_5/
 excerpt: "Chapitre 13 - 5. Era of Chaos  Souterrain - Chapitre 13_5. 13-5 Jugement du septième jour"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 13_5.md"
 toc: false

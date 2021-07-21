@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "Era of Chaos Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Hero Rank SSR"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![Gem](/images/h/h_Gem.jpg) | [Gem](/fr/heroes/Gem/) | Rempart | Druidesse | **SSR** |  Guérison naturelle | SSR |
   | 5 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/fr/heroes/Xeron/) | Hadès | Démoniaque | **SSR** |  Archidiable | SSR |
   | 6 | ![Seigneur Haart](/images/h/h_LordHaart.jpg) | [Seigneur Haart](/fr/heroes/Lord Haart/) | Nécropole | Chevalier de la mort | **SSR** |  Chevalier de la mort | SR- |
-  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/fr/heroes/Ezio/) | Armée neutre |  | **SSR** |  Confrérie | R+ |
+  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/fr/heroes/Ezio/) | Neutralité |  | **SSR** |  Confrérie | R+ |
   | 8 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/fr/heroes/Tazar/) | Forteresse | Maître des bêtes | **SSR** |  Rage sanguinaire | SSR |
   | 9 | ![Sandro](/images/h/h_Sandro.jpg) | [Sandro](/fr/heroes/Sandro/) | Nécropole | Nécromancien | **SSR** |  Les Ténèbres se répandent | SSR |
   | 10 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/fr/heroes/Astral/) | Tour | Magicien | **SSR** |  Amplification magique | SSR |

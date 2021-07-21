@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 26 - 26-2 Jalousie maladive"
 permalink: /Underground/Chapter 26_2/
 excerpt: "Chapitre 26 - 2. Era of Chaos  Souterrain - Chapitre 26_2. 26-2 Jalousie maladive"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 26_2.md"
 toc: false

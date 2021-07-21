@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Guerriers spartiates. Guerriers spartiates Unités. null. Era of Chaos Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Guerriers spartiates"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
- **Faction :** [Armée neutre](/fr/units/Faction Neutral Army/)
+ **Faction :** [Neutralité](/fr/units/Faction Neutral/)
 
  **Race:** Guilde des Assassins
 

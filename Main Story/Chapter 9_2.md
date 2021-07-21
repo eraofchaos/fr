@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-2 Engagés"
 permalink: /Main Story/Chapter 9_2/
 excerpt: "Chapitre 9 - 2. Era of Chaos  Histoire principale - Chapitre 9_2. 9-2 Engagés"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 9_2.md"
 toc: false

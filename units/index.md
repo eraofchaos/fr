@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Unités"
 permalink: /units/
 excerpt: "Era of Chaos Unités. List of ALL Unités in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Faction : [Conflux](/fr/units/Faction Conflux/){: .btn .btn--primary} [Hadès](/fr/units/Faction Inferno/){: .btn .btn--success} [Donjon](/fr/units/Faction Dungeon/){: .btn .btn--warning} [Forteresse](/fr/units/Faction Fortress/){: .btn .btn--danger} [Rempart](/fr/units/Faction Rampart/){: .btn .btn--info} [Château](/fr/units/Faction Castle/){: .btn .btn--primary} [Tour](/fr/units/Faction Tower/){: .btn .btn--success} [Bastion](/fr/units/Faction Stronghold/){: .btn .btn--warning} [Crique](/fr/units/Faction Cove/){: .btn .btn--danger} [Armée neutre](/fr/units/Faction Neutral Army/){: .btn .btn--info} [Nécropole](/fr/units/Faction Necropolis/){: .btn .btn--primary} 
+  by Faction : [Neutralité](/fr/units/Faction Neutral/){: .btn .btn--primary} [Conflux](/fr/units/Faction Conflux/){: .btn .btn--success} [Hadès](/fr/units/Faction Inferno/){: .btn .btn--warning} [Donjon](/fr/units/Faction Dungeon/){: .btn .btn--danger} [Forteresse](/fr/units/Faction Fortress/){: .btn .btn--info} [Rempart](/fr/units/Faction Rampart/){: .btn .btn--primary} [Château](/fr/units/Faction Castle/){: .btn .btn--success} [Tour](/fr/units/Faction Tower/){: .btn .btn--warning} [Bastion](/fr/units/Faction Stronghold/){: .btn .btn--danger} [Crique](/fr/units/Faction Cove/){: .btn .btn--info} [Nécropole](/fr/units/Faction Necropolis/){: .btn .btn--primary} 
 
   by Classe: [À distance](/fr/units/Unit Class Ranged/){: .btn .btn--primary} [Assaut](/fr/units/Unit Class Charging/){: .btn .btn--success} [Lanceur de sorts](/fr/units/Unit Class Caster/){: .btn .btn--warning} [Offensive](/fr/units/Unit Class Offense/){: .btn .btn--danger} [Défense](/fr/units/Unit Class Defense/){: .btn .btn--info} 
 
@@ -90,7 +90,7 @@ classes: wide
   | 68 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/fr/units/Venom Spawn/) | Défense | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 69 | ![Pégase](/images/u/ti_feima.jpg) | [Pégase](/fr/units/Pegasus/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pégase d'argent  |
   | 70 | ![Revenante](/images/u/ti_youling.jpg) | [Revenante](/fr/units/Wight/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spectre  |
-  | 71 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstre marin ancestral  |
+  | 71 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Monstre marin ancestral  |
   | 72 | ![Rock](/images/u/ti_leiniao.jpg) | [Rock](/fr/units/Roc/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Rock foudroyant  |
   | 73 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/fr/units/Regnan Serpent/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Gardien des marées  |
   | 74 | ![Servante des Abîmes](/images/u/ti_diyulingzhu.jpg) | [Servante des Abîmes](/fr/units/Pit Fiend/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Seigneur des Abîmes  |

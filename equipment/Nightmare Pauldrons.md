@@ -2,7 +2,7 @@
 title: "Épaulières des cauchemars"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "Era of Chaos Épaulières des cauchemars. Épaulières des cauchemars"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Nightmare Pauldrons.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Druidesse. Druidesse Unités. Archidruidesse. Era of Chaos Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Druidesse"
 toc: true

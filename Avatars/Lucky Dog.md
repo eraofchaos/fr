@@ -2,7 +2,7 @@
 title: "Avatar - Chien porte-bonheur"
 permalink: /Avatars/Lucky Dog/
 excerpt: "Era of Chaos  Chien porte-bonheur"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Lucky Dog.md"
 toc: false

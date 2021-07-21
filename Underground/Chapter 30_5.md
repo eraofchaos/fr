@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 30 - 30-5  Exploration mortelle"
 permalink: /Underground/Chapter 30_5/
 excerpt: "Chapitre 30 - 5. Era of Chaos  Souterrain - Chapitre 30_5. 30-5  Exploration mortelle"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 30_5.md"
 toc: false

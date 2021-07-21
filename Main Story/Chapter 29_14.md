@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 29 - 29-14 Le temple de haut niveau"
 permalink: /Main Story/Chapter 29_14/
 excerpt: "Chapitre 29 - 14. Era of Chaos  Histoire principale - Chapitre 29_14. 29-14 Le temple de haut niveau"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 29_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 10 Gryphonheart"
 permalink: /Underground/Chapter 10/
 excerpt: "Chapitre 10 Gryphonheart. Era of Chaos  Souterrain - Chapitre 10. Gryphonheart"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 10.md"
 toc: false

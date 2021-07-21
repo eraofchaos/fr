@@ -2,7 +2,7 @@
 title: "Adjudant Zydar"
 permalink: /heroes/Adjutant Zydar/
 excerpt: "Era of Chaos  Adjudant Zydar"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Adjutant Zydar.md"
 QR: adhero_60901

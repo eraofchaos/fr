@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 8 - 8-11 L'Elfe sylvaine"
 permalink: /Main Story/Chapter 8_11/
 excerpt: "Chapitre 8 - 11. Era of Chaos  Histoire principale - Chapitre 8_11. 8-11 L'Elfe sylvaine"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 8_11.md"
 toc: false

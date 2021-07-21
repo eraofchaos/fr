@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 23 - 23-3 Ravage du tonnerre"
 permalink: /Underground/Chapter 23_3/
 excerpt: "Chapitre 23 - 3. Era of Chaos  Souterrain - Chapitre 23_3. 23-3 Ravage du tonnerre"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 23_3.md"
 toc: false

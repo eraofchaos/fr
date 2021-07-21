@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassin. Assassin Unités. null. Era of Chaos Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Assassin"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Classe Description:** Assaut : les unités d'assaut attaquent les ennemis situés sur la ligne arrière et augmentent les dégâts critiques infligés aux unités à distance et de Lanceurs de sorts.
 
- **Faction :** [Armée neutre](/fr/units/Faction Neutral Army/)
+ **Faction :** [Neutralité](/fr/units/Faction Neutral/)
 
  **Race:** Guilde des Assassins
 

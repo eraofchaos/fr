@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 23 - 23-1 Bon tireur"
 permalink: /Underground/Chapter 23_1/
 excerpt: "Chapitre 23 - 1. Era of Chaos  Souterrain - Chapitre 23_1. 23-1 Bon tireur"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 23_1.md"
 toc: false

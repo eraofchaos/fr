@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Era of Chaos Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Faction Conflux"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Formation de combat](/fr/Battle Formation/Battle Formation Faction Conflux)
 
- [Conflux](/fr/units/Faction Conflux/){: .btn .btn--primary} [Hadès](/fr/units/Faction Inferno/){: .btn .btn--success} [Donjon](/fr/units/Faction Dungeon/){: .btn .btn--warning} [Forteresse](/fr/units/Faction Fortress/){: .btn .btn--danger} [Rempart](/fr/units/Faction Rampart/){: .btn .btn--info} [Château](/fr/units/Faction Castle/){: .btn .btn--primary} [Tour](/fr/units/Faction Tower/){: .btn .btn--success} [Bastion](/fr/units/Faction Stronghold/){: .btn .btn--warning} [Crique](/fr/units/Faction Cove/){: .btn .btn--danger} [Armée neutre](/fr/units/Faction Neutral Army/){: .btn .btn--info} [Nécropole](/fr/units/Faction Necropolis/){: .btn .btn--primary} 
+ [Neutralité](/fr/units/Faction Neutral/){: .btn .btn--primary} [Conflux](/fr/units/Faction Conflux/){: .btn .btn--success} [Hadès](/fr/units/Faction Inferno/){: .btn .btn--warning} [Donjon](/fr/units/Faction Dungeon/){: .btn .btn--danger} [Forteresse](/fr/units/Faction Fortress/){: .btn .btn--info} [Rempart](/fr/units/Faction Rampart/){: .btn .btn--primary} [Château](/fr/units/Faction Castle/){: .btn .btn--success} [Tour](/fr/units/Faction Tower/){: .btn .btn--warning} [Bastion](/fr/units/Faction Stronghold/){: .btn .btn--danger} [Crique](/fr/units/Faction Cove/){: .btn .btn--info} [Nécropole](/fr/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Unit Rank SR"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/fr/units/Ogre/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre Mage  |
   | 4 | ![Cyclope](/images/u/ti_duyanjuren.jpg) | [Cyclope](/fr/units/Cyclops/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Roi Cyclope  |
   | 5 | ![Oiseau de feu](/images/u/ti_fenghuang.jpg) | [Oiseau de feu](/fr/units/Firebird/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phoenix  |
-  | 6 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstre marin ancestral  |
+  | 6 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/fr/units/Revyaratan/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Monstre marin ancestral  |
   | 7 | ![Démon](/images/u/ti_changjiaoemo.jpg) | [Démon](/fr/units/Demon/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Garde de l'Hadès  |
   | 8 | ![Chien de l'Enfer](/images/u/ti_santouquan.jpg) | [Chien de l'Enfer](/fr/units/Hell Hound/) | Assaut | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 9 | ![Servante des Abîmes](/images/u/ti_diyulingzhu.jpg) | [Servante des Abîmes](/fr/units/Pit Fiend/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Seigneur des Abîmes  |

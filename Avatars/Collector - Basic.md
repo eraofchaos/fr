@@ -2,7 +2,7 @@
 title: "Avatar - Collectionneur - Basique"
 permalink: /Avatars/Collector - Basic/
 excerpt: "Era of Chaos  Collectionneur - Basique"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Collector - Basic.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-8 Le piège du Centaure"
 permalink: /Main Story/Chapter 16_8/
 excerpt: "Chapitre 16 - 8. Era of Chaos  Histoire principale - Chapitre 16_8. 16-8 Le piège du Centaure"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 16_8.md"
 toc: false

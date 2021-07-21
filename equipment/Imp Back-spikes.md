@@ -2,7 +2,7 @@
 title: "Piques dorsaux de Diablotin"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "Era of Chaos Piques dorsaux de Diablotin. Piques dorsaux de Diablotin"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Imp Back-spikes.md"
 toc: false

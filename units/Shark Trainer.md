@@ -3,7 +3,7 @@ title: "Dompteur de requins"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Dompteur de requins. Dompteur de requins Unités. Chevaucheur de requins. Era of Chaos Un cimeterre à la main, le Cauchemar de la mort se tient sur le dos d'un requin, au-dessus des vagues."
 unitID: 9909
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Dompteur de requins"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Brise-vagues](/fr/Items/con_2225/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Brise-vagues](/fr/Items/con_2223/)
 
 
 ## Emblèmes sacrés recommandés

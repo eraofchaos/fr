@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 7 - 7-1 Danger imminent"
 permalink: /Main Story/Chapter 7_1/
 excerpt: "Chapitre 7 - 1. Era of Chaos  Histoire principale - Chapitre 7_1. 7-1 Danger imminent"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 7_1.md"
 toc: false

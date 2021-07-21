@@ -2,7 +2,7 @@
 title: "Emblème sacré - Souffle du Roi Dragon"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Souffle du Roi Dragon. Souffle du Roi Dragon. Era of Chaos Emblème sacré Souffle du Roi Dragon. Era of Chaos Mauvais Souffle du Roi Dragon"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Dragon King's Breath.md"
 toc: false

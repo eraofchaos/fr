@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-1 Artisanat elfique"
 permalink: /Main Story/Chapter 17_1/
 excerpt: "Chapitre 17 - 1. Era of Chaos  Histoire principale - Chapitre 17_1. 17-1 Artisanat elfique"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 17_1.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 31  Semaine du Bastion
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **2 Aug** | **5x [Gobelin](/ItemsFR/unt_217/)**  | Une escouade de Gobelins a rejoint votre armée et vous renforce ! |
+  | **3 Aug** | **5x [Chevaucheur de loup](/ItemsFR/unt_218/)**  | Une escouade de Chevaucheurs de loup a rejoint votre armée et vous renforce ! |
+  | **4 Aug** | **100x <i class="fas fa-gem"/>**  | Les Orques sous votre commandement ont pillé un tas de diamants pour vous ! |
+  | **5 Aug** | **5x [Orque](/ItemsFR/unt_219/)**  | Une escouade d'Orques a rejoint votre armée et vous renforce ! |
+  | **6 Aug** | **3x [Ogre](/ItemsFR/unt_220/)**  | Une escouade d'Ogres a rejoint votre armée et vous renforce ! |
+  | **7 Aug** | **3x [Cyclope](/ItemsFR/unt_222/)**  | Une escouade de Cyclopes a rejoint votre armée et vous renforce ! |
+  | **8 Aug** | **5x [Crag Hack](/ItemsFR/her_375/)**  | Vos expéditions incessantes ont attiré l'attention du héros Crag Hack. Il souhaite rejoindre votre armée ! |
+
 
 #### 2021 Week 30  Semaine du Château
 

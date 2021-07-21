@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Unités. Monstre marin ancestral. Era of Chaos Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Revyaratan"
 toc: true
@@ -80,11 +80,11 @@ toc: true
 
  **Nom:** [Marées obscures](/fr/Exclusive/Revyaratan Gloom Tides/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
- **Item to Rang supérieur:** -
+ **Item to Rang supérieur:** [Jeton Marées obscures](/fr/Items/con_2224/)
 
- **Skin:** -
+ **Skin:** [Skin spécial Marées obscures](/fr/Items/con_2222/)
 
 
 ## Emblèmes sacrés recommandés

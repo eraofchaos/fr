@@ -2,7 +2,7 @@
 title: "Cor ardent"
 permalink: /equipment/Fiery Horn/
 excerpt: "Era of Chaos Cor ardent. Cor ardent"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Fiery Horn.md"
 toc: false

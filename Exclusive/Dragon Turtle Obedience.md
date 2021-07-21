@@ -2,13 +2,13 @@
 title: "Exclusif - Obéissance (Dragon Turtle)"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Era of Chaos Obéissance. Obéissance. Era of Chaos Exclusif Obéissance. Tortue dragon Exclusif."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Dragon Turtle Obéissance.md"
 toc: false
 classes: wide
 ---
- [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Armée neutre](/fr/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Neutralité](/fr/Exclusive/Exclusive Neutral/){: .btn .btn--primary} [Conflux](/fr/Exclusive/Exclusive Conflux/){: .btn .btn--success} [Hadès](/fr/Exclusive/Exclusive Inferno/){: .btn .btn--warning} [Donjon](/fr/Exclusive/Exclusive Dungeon/){: .btn .btn--danger} [Forteresse](/fr/Exclusive/Exclusive Fortress/){: .btn .btn--info} [Rempart](/fr/Exclusive/Exclusive Rampart/){: .btn .btn--primary} [Château](/fr/Exclusive/Exclusive Castle/){: .btn .btn--success} [Tour](/fr/Exclusive/Exclusive Tower/){: .btn .btn--warning} [Bastion](/fr/Exclusive/Exclusive Stronghold/){: .btn .btn--danger} [Crique](/fr/Exclusive/Exclusive Cove/){: .btn .btn--info} [Nécropole](/fr/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ### Détails
  **Nom: Obéissance** 

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 2 Ange gardien"
 permalink: /Underground/Chapter 2/
 excerpt: "Chapitre 2 Ange gardien. Era of Chaos  Souterrain - Chapitre 2. Ange gardien"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 2.md"
 toc: false

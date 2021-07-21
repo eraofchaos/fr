@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Manticore. Manticore Unités. Scorpicore. Era of Chaos Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Manticore"
 toc: true

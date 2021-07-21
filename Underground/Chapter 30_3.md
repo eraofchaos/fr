@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 30 - 30-3  Tir de précision"
 permalink: /Underground/Chapter 30_3/
 excerpt: "Chapitre 30 - 3. Era of Chaos  Souterrain - Chapitre 30_3. 30-3  Tir de précision"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 30_3.md"
 toc: false

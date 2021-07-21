@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Champion des ténèbres. Champion des ténèbres Unités. null. Era of Chaos C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Champion des ténèbres"
 toc: true
@@ -110,7 +110,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Quand les PV de la cible sont inférieurs à 40 %, le Champion des ténèbres enterre la cible sous une pierre tombale pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. L'unité enterrée est réduite au silence et ne peut pas être soignée. Elle ne peut ni bouger, ni attaquer. Tous les dégâts qui lui seront infligés pendant ce temps seront renvoyés à 4 unités ennemies à distance. Tant que la pierre tombale n'a pas disparu, toutes les unités alliées de la Nécropole à portée bénéficieront d'une restauration de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max par seconde. Le temps de recharge est de 28 secondes.</span><span style="color: black">
 
 ### Compétence normale 3 : Monarque squelette
- **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les PV nécessaires pour déclencher Fin de la destinée augmentent de 4 % supplémentaires par unité de la Nécropole présente sur le champ de bataille. Ils augmentent également de 1 % supplémentaire par unité invoquée par la Nécropole sur le champ de bataille. Fin de la destinée peut se déclencher jusqu'à un maximum de 25 % de PV. Quand un Héros allié lance un sort de terre, le temps de recharge d'un sort aléatoire diminue de 4 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts des unités et les dégâts d'unité augmentent de  </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les PV nécessaires pour déclencher Fin de la destinée augmentent de 4 % supplémentaires par unité de la Nécropole présente sur le champ de bataille. Ils augmentent également de 1 % supplémentaire par unité invoquée par la Nécropole sur le champ de bataille. Fin de la destinée peut se déclencher jusqu'à un maximum de 25 % de PV. Quand un Héros allié lance un sort de terre, le temps de recharge d'un sort aléatoire diminue de 4 secondes.</span><span style="color: black">
 
 ### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">

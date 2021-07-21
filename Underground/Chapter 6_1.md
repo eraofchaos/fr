@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 6 - 6-1 Une infestation de démons"
 permalink: /Underground/Chapter 6_1/
 excerpt: "Chapitre 6 - 1. Era of Chaos  Souterrain - Chapitre 6_1. 6-1 Une infestation de démons"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 6_1.md"
 toc: false

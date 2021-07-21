@@ -2,7 +2,7 @@
 title: "Réalisation militaire. Talent Ultime - Réalisation militaire"
 permalink: /PeakTalent/Military Attainment/
 excerpt: "Era of Chaos Talent Ultime Réalisation militaire. Talent Ultime Réalisation militaire. Réalisation militaire"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Military Attainment.md"
 toc: false

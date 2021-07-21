@@ -2,7 +2,7 @@
 title: "Bracelet du loup"
 permalink: /equipment/Bracer of the Wolf/
 excerpt: "Era of Chaos Bracelet du loup. Bracelet du loup"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Bracer of the Wolf.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-7 L'adoration des Dieux"
 permalink: /Main Story/Chapter 28_7/
 excerpt: "Chapitre 28 - 7. Era of Chaos  Histoire principale - Chapitre 28_7. 28-7 L'adoration des Dieux"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chapter 28_7.md"
 toc: false

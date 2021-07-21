@@ -2,7 +2,7 @@
 title: "Avatar - Cœur de permanence"
 permalink: /Avatars/Heart of Permanence/
 excerpt: "Era of Chaos  Cœur de permanence"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Heart of Permanence.md"
 toc: false

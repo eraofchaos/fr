@@ -2,7 +2,7 @@
 title: "Rocher enchaîné"
 permalink: /equipment/Chained Boulder/
 excerpt: "Era of Chaos Rocher enchaîné. Rocher enchaîné"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Chained Boulder.md"
 toc: false

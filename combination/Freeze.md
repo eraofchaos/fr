@@ -2,7 +2,7 @@
 title: "Infos combinaison for Gel"
 permalink: /combination/Freeze/
 excerpt: "Infos combinaison - Gel. Units and Heroes Formation."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "Gel.md"
 toc: false

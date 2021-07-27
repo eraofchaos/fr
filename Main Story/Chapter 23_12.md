@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-12 Un bain de sang de Dragon"
 permalink: /Main Story/Chapter 23_12/
 excerpt: "Chapitre 23 - 12. Era of Chaos  Histoire principale - Chapitre 23_12. 23-12 Un bain de sang de Dragon"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 23_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefact - Plume de l'émissaire - Écharpe d'ambassadeur"
 permalink: /artifacts/Ambassador's Sash/
 excerpt: "Era of Chaos  Plume de l'émissaire - Écharpe d'ambassadeur. Vous avez aidé l'ambassadeur à réparer son essieu. Pour vous remercier, il vous offre une médaille sur laquelle est inscrit le message \"Cela vous aidera peut-être à en convaincre d'autres\". Il s'agit de l'un des composants de la Plume de l'émissaire."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Ambassador's Sash.md"
 toc: false

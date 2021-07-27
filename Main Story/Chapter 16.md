@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 Pour le Roi et la nation"
 permalink: /Main Story/Chapter 16/
 excerpt: "Chapitre 16. Era of Chaos  Histoire principale - Chapitre 16. Pour le Roi et la nation"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 16.md"
 toc: false

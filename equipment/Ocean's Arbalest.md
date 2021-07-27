@@ -2,7 +2,7 @@
 title: "Arbalète de l'océan"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "Era of Chaos Arbalète de l'océan. Arbalète de l'océan"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Ocean's Arbalest.md"
 toc: false

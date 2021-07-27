@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 6 La chute de la capitale"
 permalink: /Underground/Chapter 6/
 excerpt: "Chapitre 6 La chute de la capitale. Era of Chaos  Souterrain - Chapitre 6. La chute de la capitale"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 6.md"
 toc: false

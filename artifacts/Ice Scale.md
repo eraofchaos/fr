@@ -2,7 +2,7 @@
 title: "Artefact - Miroir vengeur - Écaille de glace"
 permalink: /artifacts/Ice Scale/
 excerpt: "Era of Chaos  Miroir vengeur - Écaille de glace. Un objet permettant de réguler une puissante magie de glace. Composant du Miroir vengeur."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Ice Scale.md"
 toc: false

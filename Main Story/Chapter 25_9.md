@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-9 Pluie dans le souterrain"
 permalink: /Main Story/Chapter 25_9/
 excerpt: "Chapitre 25 - 9. Era of Chaos  Histoire principale - Chapitre 25_9. 25-9 Pluie dans le souterrain"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 25_9.md"
 toc: false

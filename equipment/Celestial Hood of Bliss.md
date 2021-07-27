@@ -2,7 +2,7 @@
 title: "Capuche céleste bénie"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Era of Chaos Capuche céleste bénie. Capuche céleste bénie"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Celestial Hood of Bliss.md"
 toc: false

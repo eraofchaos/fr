@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 18 - 18-1 Brouillon"
 permalink: /Underground/Chapter 18_1/
 excerpt: "Chapitre 18 - 1. Era of Chaos  Souterrain - Chapitre 18_1. 18-1 Brouillon"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 18_1.md"
 toc: false

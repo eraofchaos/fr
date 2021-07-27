@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 21 - 21-3 Salves de guerre"
 permalink: /Underground/Chapter 21_3/
 excerpt: "Chapitre 21 - 3. Era of Chaos  Souterrain - Chapitre 21_3. 21-3 Salves de guerre"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 21_3.md"
 toc: false

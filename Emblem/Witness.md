@@ -2,7 +2,7 @@
 title: "Emblème sacré - Témoin"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Témoin. Témoin. Era of Chaos Emblème sacré Témoin. Era of Chaos Bonté Témoin"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Witness.md"
 toc: false

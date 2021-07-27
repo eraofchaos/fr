@@ -2,7 +2,7 @@
 title: "Griffes de putréfaction"
 permalink: /equipment/Claws of Decay/
 excerpt: "Era of Chaos Griffes de putréfaction. Griffes de putréfaction"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Claws of Decay.md"
 toc: false

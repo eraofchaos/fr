@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 20 - 20-2 Gardien des Élémentaires"
 permalink: /Underground/Chapter 20_2/
 excerpt: "Chapitre 20 - 2. Era of Chaos  Souterrain - Chapitre 20_2. 20-2 Gardien des Élémentaires"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 20_2.md"
 toc: false

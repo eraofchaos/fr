@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 30 - 30-4  Nul ne passera"
 permalink: /Underground/Chapter 30_4/
 excerpt: "Chapitre 30 - 4. Era of Chaos  Souterrain - Chapitre 30_4. 30-4  Nul ne passera"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 30_4.md"
 toc: false

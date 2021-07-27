@@ -2,7 +2,7 @@
 title: "Arbalète légère"
 permalink: /equipment/Light Crossbow/
 excerpt: "Era of Chaos Arbalète légère. Arbalète légère"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Light Crossbow.md"
 toc: false

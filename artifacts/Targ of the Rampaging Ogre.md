@@ -2,7 +2,7 @@
 title: "Artefact - Hache de férocité - Targe de la dévastation"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "Era of Chaos  Hache de férocité - Targe de la dévastation. Butin pris sur le cadavre d'un lieutenant Ogre. Composant de la Hache de férocité."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Targ of the Rampaging Ogre.md"
 toc: false

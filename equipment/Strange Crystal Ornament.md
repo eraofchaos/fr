@@ -2,7 +2,7 @@
 title: "Bibelot mystérieux en cristal"
 permalink: /equipment/Strange Crystal Ornament/
 excerpt: "Era of Chaos Bibelot mystérieux en cristal. Bibelot mystérieux en cristal"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Strange Crystal Ornament.md"
 toc: false

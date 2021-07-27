@@ -2,7 +2,7 @@
 title: "Avatar - Ombre de la bête"
 permalink: /Avatars/Shadow of Beast/
 excerpt: "Era of Chaos  Ombre de la bête"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Shadow of Beast.md"
 toc: false

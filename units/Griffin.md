@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Griffon. Griffon Unités. Griffon royal. Era of Chaos Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Griffon"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Nom:** [Pic du Chevalier](/fr/Exclusive/Griffin Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rang supérieur:** [Jeton Pic du Chevalier](/ItemsFR/con_916/)
 

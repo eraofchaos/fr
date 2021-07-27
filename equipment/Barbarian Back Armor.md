@@ -2,7 +2,7 @@
 title: "Armure dorsale barbare"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "Era of Chaos Armure dorsale barbare. Armure dorsale barbare"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Barbarian Back Armor.md"
 toc: false

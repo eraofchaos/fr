@@ -2,7 +2,7 @@
 title: "Artefact - Codex de l'Archimage - Bâton d'interruption"
 permalink: /artifacts/Staff of Disruption/
 excerpt: "Era of Chaos  Codex de l'Archimage - Bâton d'interruption. Un bâton renfermant un puissant pouvoir. L'un des Codex de l'Archimage."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Staff of Disruption.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-11 La tente aux longs piquets"
 permalink: /Main Story/Chapter 30_11/
 excerpt: "Chapitre 30 - 11. Era of Chaos  Histoire principale - Chapitre 30_11. 30-11 La tente aux longs piquets"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 30_11.md"
 toc: false

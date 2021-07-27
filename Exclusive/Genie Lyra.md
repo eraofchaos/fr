@@ -2,7 +2,7 @@
 title: "Exclusif - Lyre (Genie)"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyre. Lyre. Era of Chaos Exclusif Lyre. Djinn Exclusif."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Genie Lyre.md"
 toc: false

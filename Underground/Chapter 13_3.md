@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 13 - 13-3 Le champ ensanglanté"
 permalink: /Underground/Chapter 13_3/
 excerpt: "Chapitre 13 - 3. Era of Chaos  Souterrain - Chapitre 13_3. 13-3 Le champ ensanglanté"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 13_3.md"
 toc: false

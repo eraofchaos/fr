@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 Dragon corrosif"
 permalink: /Main Story/Chapter 23/
 excerpt: "Chapitre 23. Era of Chaos  Histoire principale - Chapitre 23. Dragon corrosif"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 23.md"
 toc: false

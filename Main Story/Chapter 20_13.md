@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 20 - 20-13 Magie quantique"
 permalink: /Main Story/Chapter 20_13/
 excerpt: "Chapitre 20 - 13. Era of Chaos  Histoire principale - Chapitre 20_13. 20-13 Magie quantique"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 20_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pierre du crépuscule"
 permalink: /equipment/Twilight Stone/
 excerpt: "Era of Chaos Pierre du crépuscule. Pierre du crépuscule"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Twilight Stone.md"
 toc: false

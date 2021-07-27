@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-8 L'imposante masse de rochers"
 permalink: /Main Story/Chapter 28_8/
 excerpt: "Chapitre 28 - 8. Era of Chaos  Histoire principale - Chapitre 28_8. 28-8 L'imposante masse de rochers"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 28_8.md"
 toc: false

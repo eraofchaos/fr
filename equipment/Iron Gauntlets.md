@@ -2,7 +2,7 @@
 title: "Gantelets en fer"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "Era of Chaos Gantelets en fer. Gantelets en fer"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Iron Gauntlets.md"
 toc: false

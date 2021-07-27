@@ -2,7 +2,7 @@
 title: "La Forme instable. Talent Ultime - La Forme instable"
 permalink: /PeakTalent/The Unstable Form/
 excerpt: "Era of Chaos Talent Ultime La Forme instable. Talent Ultime La Forme instable. La Forme instable"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "The Unstable Form.md"
 toc: false

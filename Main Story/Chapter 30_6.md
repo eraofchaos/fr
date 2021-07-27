@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 30 - 30-6 L'arbre mort et la tablette en pierre"
 permalink: /Main Story/Chapter 30_6/
 excerpt: "Chapitre 30 - 6. Era of Chaos  Histoire principale - Chapitre 30_6. 30-6 L'arbre mort et la tablette en pierre"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 30_6.md"
 toc: false

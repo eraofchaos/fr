@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-3 Descendre en piqué ou prendre son envol"
 permalink: /Main Story/Chapter 28_3/
 excerpt: "Chapitre 28 - 3. Era of Chaos  Histoire principale - Chapitre 28_3. 28-3 Descendre en piqué ou prendre son envol"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 28_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 3 - 3-1 Un chemin dangereux"
 permalink: /Underground/Chapter 3_1/
 excerpt: "Chapitre 3 - 1. Era of Chaos  Souterrain - Chapitre 3_1. 3-1 Un chemin dangereux"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 3_1.md"
 toc: false

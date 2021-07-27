@@ -2,7 +2,7 @@
 title: "Exclusif - Aile de dragon resplendissante (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Aile de dragon resplendissante. Aile de dragon resplendissante. Era of Chaos Exclusif Aile de dragon resplendissante. Dragon vert Exclusif."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Green Dragon Aile de dragon resplendissante.md"
 toc: false

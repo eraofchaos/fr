@@ -2,7 +2,7 @@
 title: "Toge de lunétoile"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Era of Chaos Toge de lunétoile. Toge de lunétoile"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Gown of Moon and Stars.md"
 toc: false

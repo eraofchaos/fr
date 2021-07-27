@@ -2,7 +2,7 @@
 title: "Crin de feu"
 permalink: /equipment/Horsehair of Fire/
 excerpt: "Era of Chaos Crin de feu. Crin de feu"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Horsehair of Fire.md"
 toc: false

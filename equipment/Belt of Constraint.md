@@ -2,7 +2,7 @@
 title: "Ceinture de restriction"
 permalink: /equipment/Belt of Constraint/
 excerpt: "Era of Chaos Ceinture de restriction. Ceinture de restriction"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Belt of Constraint.md"
 toc: false

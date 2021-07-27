@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 15 - 15-4 Couloir infernal"
 permalink: /Underground/Chapter 15_4/
 excerpt: "Chapitre 15 - 4. Era of Chaos  Souterrain - Chapitre 15_4. 15-4 Couloir infernal"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 15_4.md"
 toc: false

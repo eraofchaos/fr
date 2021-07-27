@@ -2,7 +2,7 @@
 title: "Dissimulation. Talent Ultime - Dissimulation"
 permalink: /PeakTalent/Concealment/
 excerpt: "Era of Chaos Talent Ultime Dissimulation. Talent Ultime Dissimulation. Dissimulation"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Concealment.md"
 toc: false

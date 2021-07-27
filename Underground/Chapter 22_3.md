@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 22 - 22-3 Chair à canon"
 permalink: /Underground/Chapter 22_3/
 excerpt: "Chapitre 22 - 3. Era of Chaos  Souterrain - Chapitre 22_3. 22-3 Chair à canon"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 22_3.md"
 toc: false

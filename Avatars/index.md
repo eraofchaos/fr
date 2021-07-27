@@ -2,7 +2,7 @@
 title: "Cadre d'avatar et avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cadre d'avatar et avatar. Cadre d'avatar et avatar"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "index.md"
 toc: false
@@ -110,10 +110,10 @@ classes: wide
   | 97 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/fr/Avatars/Unknown Avatar Frame 1066/) | - |  |
   | 98 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/fr/Avatars/Unknown Avatar Frame 1067/) | - |  |
   | 99 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/fr/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 100 | ![Unknown Avatar Frame 1126](/images/a/avatarFrame_126.png) | [Unknown Avatar Frame 1126](/fr/Avatars/Unknown Avatar Frame 1126/) | + |  |
-  | 101 | ![Voie de l'essor](/images/a/avatarFrame_68.png) | [Voie de l'essor](/fr/Avatars/Path to Growth/) | - | Cadre d'avatar Voie de l'essor |
-  | 102 | ![Volonté des Dieux](/images/a/avatarFrame_30.png) | [Volonté des Dieux](/fr/Avatars/Will of the Gods/) | + | Cadre d'avatar Volonté des Dieux |
-  | 103 | ![Volonté du Conflux](/images/a/avatarFrame_117.png) | [Volonté du Conflux](/fr/Avatars/Conflux Will/) | + | Cadre d'avatar Volonté du Conflux |
-  | 104 |  | [Âme de la nature](/fr/Avatars/Nature's Soul/) | - | Cadre d'avatar Âme de la nature |
-  | 105 | ![Âme de la terre](/images/a/avatarFrame_53.png) | [Âme de la terre](/fr/Avatars/Soul of Earth/) | - | Cadre d'avatar Âme de la terre |
-  | 106 | ![Âme du dragon](/images/a/avatarFrame_52.png) | [Âme du dragon](/fr/Avatars/Dragon Soul/) | + | Cadre d'avatar Âme du Dragon |
+  | 100 | ![Voie de l'essor](/images/a/avatarFrame_68.png) | [Voie de l'essor](/fr/Avatars/Path to Growth/) | - | Cadre d'avatar Voie de l'essor |
+  | 101 | ![Volonté des Dieux](/images/a/avatarFrame_30.png) | [Volonté des Dieux](/fr/Avatars/Will of the Gods/) | + | Cadre d'avatar Volonté des Dieux |
+  | 102 | ![Volonté du Conflux](/images/a/avatarFrame_117.png) | [Volonté du Conflux](/fr/Avatars/Conflux Will/) | + | Cadre d'avatar Volonté du Conflux |
+  | 103 |  | [Âme de la nature](/fr/Avatars/Nature's Soul/) | - | Cadre d'avatar Âme de la nature |
+  | 104 | ![Âme de la terre](/images/a/avatarFrame_53.png) | [Âme de la terre](/fr/Avatars/Soul of Earth/) | - | Cadre d'avatar Âme de la terre |
+  | 105 | ![Âme du dragon](/images/a/avatarFrame_52.png) | [Âme du dragon](/fr/Avatars/Dragon Soul/) | + | Cadre d'avatar Âme du Dragon |
+  | 106 | ![Été relaxant](/images/a/avatarFrame_126.png) | [Été relaxant](/fr/Avatars/Chilled-out Summer/) | + | Cadre d'avatar Été relaxant |

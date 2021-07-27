@@ -2,7 +2,7 @@
 title: "Avatar - Bastion"
 permalink: /Avatars/Stronghold/
 excerpt: "Era of Chaos  Bastion"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Stronghold.md"
 toc: false

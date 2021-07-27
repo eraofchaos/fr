@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 32  Semaine de la Tour
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **9 Aug** | **5x [Lutin](/ItemsFR/unt_235/)**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
+  | **10 Aug** | **3x [Gargouille](/ItemsFR/unt_236/)**  | Une escouade de Gargouilles a rejoint votre armée et vous renforce ! |
+  | **11 Aug** | **100x <i class="fas fa-gem"/>**  | Vous avez eu plusieurs surprises pendant votre étude de l'alchimie ! |
+  | **12 Aug** | **3x [Golem de fer](/ItemsFR/unt_237/)**  | Une escouade de Golems de fer a rejoint votre armée et vous renforce ! |
+  | **13 Aug** | **3x [Coffre (Tour)](/ItemsFR/con_1274/)**  | Vous avez découvert de jolis coffres dans le laboratoire ésotérique de la Tour ! |
+  | **14 Aug** | **3x [Mage](/ItemsFR/unt_238/)**  | Une escouade de Mages a rejoint votre armée et vous renforce ! |
+  | **15 Aug** | **5x [Solmyr](/ItemsFR/her_386/)**  | Vos recherches de l'arcane ont attiré l'attention de Solmyr. Il souhaite rejoindre votre armée ! |
+
 
 #### 2021 Week 31  Semaine du Bastion
 

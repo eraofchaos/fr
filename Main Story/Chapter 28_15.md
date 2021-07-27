@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 28 - 28-15 La cité du crépuscule"
 permalink: /Main Story/Chapter 28_15/
 excerpt: "Chapitre 28 - 15. Era of Chaos  Histoire principale - Chapitre 28_15. 28-15 La cité du crépuscule"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 28_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 24 - 24-1 L'habitat des fées"
 permalink: /Main Story/Chapter 24_1/
 excerpt: "Chapitre 24 - 1. Era of Chaos  Histoire principale - Chapitre 24_1. 24-1 L'habitat des fées"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Chapter 24_1.md"
 toc: false

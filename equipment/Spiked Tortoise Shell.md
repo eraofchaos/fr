@@ -2,7 +2,7 @@
 title: "Carapace de tortue à pointes"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Era of Chaos Carapace de tortue à pointes. Carapace de tortue à pointes"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "Spiked Tortoise Shell.md"
 toc: false

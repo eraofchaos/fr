@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 2 - 2-3 Le sanctuaire"
 permalink: /Main Story/Chapter 2_3/
 excerpt: "Chapitre 2 - 3. Era of Chaos  Histoire principale - Chapitre 2_3. 2-3 Le sanctuaire"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 2_3.md"
 toc: false

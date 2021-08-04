@@ -2,7 +2,7 @@
 title: "Pupille du défunt"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Era of Chaos Pupille du défunt. Pupille du défunt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Pupil of the Departed.md"
 toc: false

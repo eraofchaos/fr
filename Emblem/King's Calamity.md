@@ -2,7 +2,7 @@
 title: "Emblème sacré - Calamité du roi"
 permalink: /Emblem/King's Calamity/
 excerpt: "Era of Chaos Calamité du roi. Calamité du roi. Era of Chaos Emblème sacré Calamité du roi. Era of Chaos Mauvais Calamité du roi"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "King's Calamity.md"
 toc: false

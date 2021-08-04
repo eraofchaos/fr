@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-14 L'importance du Dragon"
 permalink: /Main Story/Chapter 25_14/
 excerpt: "Chapitre 25 - 14. Era of Chaos  Histoire principale - Chapitre 25_14. 25-14 L'importance du Dragon"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 25_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Incarnation de justice"
 permalink: /Avatars/Righteous Justice/
 excerpt: "Era of Chaos  Incarnation de justice"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Righteous Justice.md"
 toc: false

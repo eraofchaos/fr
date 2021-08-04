@@ -2,7 +2,7 @@
 title: "Emblème sacré - Héritage des Ironfist"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Héritage des Ironfist. Héritage des Ironfist. Era of Chaos Emblème sacré Héritage des Ironfist. Era of Chaos Ordre Héritage des Ironfist"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Ironfist's Legacy.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 10 - 10-8 Esprit d'oppression"
 permalink: /Main Story/Chapter 10_8/
 excerpt: "Chapitre 10 - 8. Era of Chaos  Histoire principale - Chapitre 10_8. 10-8 Esprit d'oppression"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 10_8.md"
 toc: false

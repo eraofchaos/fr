@@ -2,7 +2,7 @@
 title: "Épaulières sanguinaires"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "Era of Chaos Épaulières sanguinaires. Épaulières sanguinaires"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Bloodthirsty Pauldrons.md"
 toc: false

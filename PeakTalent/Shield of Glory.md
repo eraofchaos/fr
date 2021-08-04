@@ -2,7 +2,7 @@
 title: "Bouclier de gloire. Talent Ultime - Bouclier de gloire"
 permalink: /PeakTalent/Shield of Glory/
 excerpt: "Era of Chaos Talent Ultime Bouclier de gloire. Talent Ultime Bouclier de gloire. Bouclier de gloire"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Shield of Glory.md"
 toc: false

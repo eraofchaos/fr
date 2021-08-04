@@ -2,7 +2,7 @@
 title: "Avatar - Landes"
 permalink: /Avatars/The Moor/
 excerpt: "Era of Chaos  Landes"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "The Moor.md"
 toc: false

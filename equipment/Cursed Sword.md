@@ -2,7 +2,7 @@
 title: "Épée maudite"
 permalink: /equipment/Cursed Sword/
 excerpt: "Era of Chaos Épée maudite. Épée maudite"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Cursed Sword.md"
 toc: false

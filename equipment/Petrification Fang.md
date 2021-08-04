@@ -2,7 +2,7 @@
 title: "Croc de pétrification"
 permalink: /equipment/Petrification Fang/
 excerpt: "Era of Chaos Croc de pétrification. Croc de pétrification"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Petrification Fang.md"
 toc: false

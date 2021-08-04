@@ -2,7 +2,7 @@
 title: "Exclusif - Hache de Berserker (Berserker)"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Hache de Berserker. Hache de Berserker. Era of Chaos Exclusif Hache de Berserker. Berserker Exclusif."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Berserker Hache de Berserker.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Soutien
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1660
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusif |
   |:-------------|:---------------:|:---------------:|
-  |  Réveil  | **100x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | <Hache tournoyante> : Le Berserker lance une hache tournoyante, infligeant des dégâts équivalant à 150 % de son ATQ aux unités ennemies dans une large zone devant lui et infligeant Saignement pendant 8 secondes. Le temps de recharge est de 18 secondes. |
+  |  Réveil  | **100x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | <Hache tournoyante> : Le Berserker lance une hache tournoyante, infligeant des dégâts équivalant à 50 % de son ATQ aux unités ennemies dans une large zone devant lui et infligeant Saignement pendant 8 secondes. Le temps de recharge est de 18 secondes. |
   | **1x** <i class="fas fa-star"/> | **50x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | Augmente les dégâts d'unité du Berserker de 15 %. Augmente les dégâts d'unité de 15 % supplémentaires lorsqu'il combat des unités étourdies. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | Les attaques du Berserker ont 5 % de chance d'étourdir une cible pendant 1,5 seconde. Se déclenche seulement une fois toutes les 5 secondes. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | <Coup de grâce> : Le Berserker inflige des dégâts équivalents à 225 % de son ATQ à l'unité cible, tout en réduisant de 20 % la résistance aux dégâts et de 10 % la DÉF de sa cible. Si l'unité cible est victime de Saignement, diminue ses dégâts d'unité de 20 % et sa vitesse d'attaque de 10 % pendant 10 secondes. Le temps de recharge est de 25 secondes. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | Les attaques du Berserker ont 20 % de chance d'étourdir une cible pendant 1,5 seconde. Se déclenche seulement une fois toutes les 5 secondes. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | <Coup de grâce> : Le Berserker inflige des dégâts équivalents à 100 % de son ATQ à l'unité cible, tout en réduisant de 20 % la résistance aux dégâts et de 10 % la DÉF de sa cible. Si l'unité cible est victime de Saignement, diminue ses dégâts d'unité de 20 % et sa vitesse d'attaque de 10 % pendant 10 secondes. Le temps de recharge est de 25 secondes. |
   | **4x** <i class="fas fa-star"/> | **170x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | Après avoir lancé <Coup de grâce>, le Berserker augmente ses dégâts d'unité de 15 % et sa résistance aux dégâts d'unité de 10 % pendant 15 secondes. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | Chacune des attaques du Berserker augmente sa propre vitesse d'attaque de 1 %, dans la limite de 50 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | <Incinération> : 15 secondes après le début de la bataille, le Berserker sacrifie une quantité de PV égale à 10 % de ses PV max pour infliger à l'unité cible des dégâts équivalents à 30% de ses PV max. Le Berserker augmente également ses coups critiques de 300 et les dégâts de ses coups critiques de 15 % pendant 5 secondes, tout en infligeant Saignement pendant 10 secondes. Le temps de recharge est de 30 secondes. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | Chacune des attaques du Berserker augmente sa propre vitesse d'attaque de 2 %, dans la limite de 50 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Jeton Hache de Berserker](/ItemsFR/con_983/) | <Incinération> : 15 secondes après le début de la bataille, le Berserker sacrifie une quantité de PV égale à 5 % de ses PV max pour infliger à l'unité cible des dégâts équivalents à 25% de ses PV max. Le Berserker augmente également ses coups critiques de 300 et les dégâts de ses coups critiques de 20 % pendant 10 secondes, tout en infligeant Saignement pendant 10 secondes. Le temps de recharge est de 30 secondes. |
 
 
 ## Améliorer

@@ -2,7 +2,7 @@
 title: "Médaille du royaume. Talent Ultime - Médaille du royaume"
 permalink: /PeakTalent/Medal of Kingdom/
 excerpt: "Era of Chaos Talent Ultime Médaille du royaume. Talent Ultime Médaille du royaume. Médaille du royaume"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Medal of Kingdom.md"
 toc: false

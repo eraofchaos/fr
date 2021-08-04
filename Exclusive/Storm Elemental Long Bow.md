@@ -2,7 +2,7 @@
 title: "Exclusif - Arc long (Storm Elemental)"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Arc long. Arc long. Era of Chaos Exclusif Arc long. Élémentaire de tempête Exclusif."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Storm Elemental Arc long.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 9 - 9-7 Une victoire imminente"
 permalink: /Main Story/Chapter 9_7/
 excerpt: "Chapitre 9 - 7. Era of Chaos  Histoire principale - Chapitre 9_7. 9-7 Une victoire imminente"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 9_7.md"
 toc: false

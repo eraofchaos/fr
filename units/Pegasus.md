@@ -3,7 +3,7 @@ title: "Pégase"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Pégase. Pégase Unités. Pégase d'argent. Era of Chaos Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Pégase"
 toc: true

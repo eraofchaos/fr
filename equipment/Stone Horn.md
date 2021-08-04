@@ -2,7 +2,7 @@
 title: "Cor en pierre"
 permalink: /equipment/Stone Horn/
 excerpt: "Era of Chaos Cor en pierre. Cor en pierre"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Stone Horn.md"
 toc: false

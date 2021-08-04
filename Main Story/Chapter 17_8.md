@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-8 La mine des Nains"
 permalink: /Main Story/Chapter 17_8/
 excerpt: "Chapitre 17 - 8. Era of Chaos  Histoire principale - Chapitre 17_8. 17-8 La mine des Nains"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 17_8.md"
 toc: false

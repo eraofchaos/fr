@@ -2,7 +2,7 @@
 title: "Talent Ultime"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Talent Ultime. Talent Ultime. Les talents ultimes seront disponibles au niv. 110."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "index.md"
 toc: false

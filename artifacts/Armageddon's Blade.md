@@ -2,7 +2,7 @@
 title: "Artefact - Lame d'Armageddon"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Era of Chaos  Lame d'Armageddon. Lame d'Armageddon La flamme damnée brûlera votre âme."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Armageddon's Blade.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Emblème sacré - Feu ancien"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Feu ancien. Feu ancien. Era of Chaos Emblème sacré Feu ancien. Era of Chaos Ordre Feu ancien"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Ancient Fire.md"
 toc: false

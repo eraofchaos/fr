@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 6 - 6-3 Une avancée rapide"
 permalink: /Underground/Chapter 6_3/
 excerpt: "Chapitre 6 - 3. Era of Chaos  Souterrain - Chapitre 6_3. 6-3 Une avancée rapide"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 6_3.md"
 toc: false

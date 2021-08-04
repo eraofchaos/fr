@@ -2,7 +2,7 @@
 title: "Peau de fer"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Era of Chaos Peau de fer. Peau de fer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Ironclad Skin.md"
 toc: false

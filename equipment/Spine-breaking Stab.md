@@ -2,7 +2,7 @@
 title: "Poignard brise-os"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "Era of Chaos Poignard brise-os. Poignard brise-os"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Spine-breaking Stab.md"
 toc: false

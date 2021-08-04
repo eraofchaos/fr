@@ -2,7 +2,7 @@
 title: "Heaume lourd de l'avant-vie"
 permalink: /equipment/Heavy Helm of Pre-life/
 excerpt: "Era of Chaos Heaume lourd de l'avant-vie. Heaume lourd de l'avant-vie"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Heavy Helm of Pre-life.md"
 toc: false

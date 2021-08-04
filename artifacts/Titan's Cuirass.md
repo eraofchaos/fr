@@ -2,7 +2,7 @@
 title: "Artefact - Tonnerre des Titans - Cuirasse des Titans"
 permalink: /artifacts/Titan's Cuirass/
 excerpt: "Era of Chaos  Tonnerre des Titans - Cuirasse des Titans. Une armure faite du minerai d'un météore. Composant du Tonnerre des Titans."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Titan's Cuirass.md"
 toc: false

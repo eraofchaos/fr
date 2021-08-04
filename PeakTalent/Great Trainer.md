@@ -2,7 +2,7 @@
 title: "Grand formateur. Talent Ultime - Grand formateur"
 permalink: /PeakTalent/Great Trainer/
 excerpt: "Era of Chaos Talent Ultime Grand formateur. Talent Ultime Grand formateur. Grand formateur"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Great Trainer.md"
 toc: false

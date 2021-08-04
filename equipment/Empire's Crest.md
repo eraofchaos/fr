@@ -2,7 +2,7 @@
 title: "Armoiries de l'Empire"
 permalink: /equipment/Empire's Crest/
 excerpt: "Era of Chaos Armoiries de l'Empire. Armoiries de l'Empire"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Empire's Crest.md"
 toc: false

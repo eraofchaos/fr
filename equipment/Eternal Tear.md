@@ -2,7 +2,7 @@
 title: "Larmes éternelles"
 permalink: /equipment/Eternal Tear/
 excerpt: "Era of Chaos Larmes éternelles. Larmes éternelles"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Eternal Tear.md"
 toc: false

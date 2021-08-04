@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 7 Les régions frontalières"
 permalink: /Underground/Chapter 7/
 excerpt: "Chapitre 7 Les régions frontalières. Era of Chaos  Souterrain - Chapitre 7. Les régions frontalières"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 7.md"
 toc: false

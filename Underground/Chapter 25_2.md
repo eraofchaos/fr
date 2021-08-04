@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 25 - 25-2 Marionnette de fer"
 permalink: /Underground/Chapter 25_2/
 excerpt: "Chapitre 25 - 2. Era of Chaos  Souterrain - Chapitre 25_2. 25-2 Marionnette de fer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 25_2.md"
 toc: false

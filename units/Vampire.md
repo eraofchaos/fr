@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Vampire. Vampire Unités. Seigneur Vampire. Era of Chaos Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Vampire"
 toc: true

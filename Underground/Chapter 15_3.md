@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 15 - 15-3 Sculpture d'Ange"
 permalink: /Underground/Chapter 15_3/
 excerpt: "Chapitre 15 - 3. Era of Chaos  Souterrain - Chapitre 15_3. 15-3 Sculpture d'Ange"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 15_3.md"
 toc: false

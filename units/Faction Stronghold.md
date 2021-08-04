@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Stronghold -  Units"
 permalink: /units/Faction Stronghold/
 excerpt: "Era of Chaos Faction Stronghold. Faction Stronghold. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Faction Stronghold"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/fr/units/Ogre/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre Mage  |
   | 3 | ![Cyclope](/images/u/ti_duyanjuren.jpg) | [Cyclope](/fr/units/Cyclops/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Roi Cyclope  |
   | 4 | ![Béhémoth](/images/u/ti_bimeng.jpg) | [Béhémoth](/fr/units/Behemoth/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Béhémoth royal  |
-  | 5 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/fr/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Hurleur macabre  |
+  | 5 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/fr/units/Berserker/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Hurleur macabre  |
   | 6 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/fr/units/Troll/) | À distance | - | Commandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 7 | ![Gobelin](/images/u/ti_shourenzhanshi.jpg) | [Gobelin](/fr/units/Goblin/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgobelin  |
   | 8 | ![Chevaucheur de loup](/images/u/ti_langqibing.jpg) | [Chevaucheur de loup](/fr/units/Wolf Rider/) | Assaut | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Pillard  |

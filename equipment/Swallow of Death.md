@@ -2,7 +2,7 @@
 title: "Hirondelle de la mort"
 permalink: /equipment/Swallow of Death/
 excerpt: "Era of Chaos Hirondelle de la mort. Hirondelle de la mort"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Swallow of Death.md"
 toc: false

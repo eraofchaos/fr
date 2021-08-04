@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 25 - 25-11 L'aide du sage"
 permalink: /Main Story/Chapter 25_11/
 excerpt: "Chapitre 25 - 11. Era of Chaos  Histoire principale - Chapitre 25_11. 25-11 L'aide du sage"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 25_11.md"
 toc: false

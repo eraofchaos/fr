@@ -2,7 +2,7 @@
 title: "Ailes sinistres"
 permalink: /equipment/Sinister Wings/
 excerpt: "Era of Chaos Ailes sinistres. Ailes sinistres"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Sinister Wings.md"
 toc: false

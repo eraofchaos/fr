@@ -2,7 +2,7 @@
 title: "Orbe mystique de mana"
 permalink: /equipment/Mystic Orb of Mana/
 excerpt: "Era of Chaos Orbe mystique de mana. Orbe mystique de mana"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Mystic Orb of Mana.md"
 toc: false

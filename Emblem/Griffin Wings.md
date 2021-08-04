@@ -2,7 +2,7 @@
 title: "Emblème sacré - Ailes de Griffon"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Era of Chaos Ailes de Griffon. Ailes de Griffon. Era of Chaos Emblème sacré Ailes de Griffon. Era of Chaos Ordre Ailes de Griffon"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Griffin Wings.md"
 toc: false

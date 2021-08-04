@@ -2,7 +2,7 @@
 title: "Glace ancestrale"
 permalink: /equipment/Ancient Ice/
 excerpt: "Era of Chaos Glace ancestrale. Glace ancestrale"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Ancient Ice.md"
 toc: false

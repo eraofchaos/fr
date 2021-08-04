@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 23 - 23-2 La puissance de la défense"
 permalink: /Underground/Chapter 23_2/
 excerpt: "Chapitre 23 - 2. Era of Chaos  Souterrain - Chapitre 23_2. 23-2 La puissance de la défense"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 23_2.md"
 toc: false

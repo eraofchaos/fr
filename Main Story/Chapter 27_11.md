@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 27 - 27-11 Une éternité"
 permalink: /Main Story/Chapter 27_11/
 excerpt: "Chapitre 27 - 11. Era of Chaos  Histoire principale - Chapitre 27_11. 27-11 Une éternité"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 27_11.md"
 toc: false

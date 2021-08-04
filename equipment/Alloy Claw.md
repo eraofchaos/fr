@@ -2,7 +2,7 @@
 title: "Griffe en alliage"
 permalink: /equipment/Alloy Claw/
 excerpt: "Era of Chaos Griffe en alliage. Griffe en alliage"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Alloy Claw.md"
 toc: false

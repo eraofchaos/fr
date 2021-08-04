@@ -2,7 +2,7 @@
 title: "Chapeau d'acier"
 permalink: /equipment/Steel Cap/
 excerpt: "Era of Chaos Chapeau d'acier. Chapeau d'acier"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Steel Cap.md"
 toc: false

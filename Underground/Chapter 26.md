@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 26 Le son du destin"
 permalink: /Underground/Chapter 26/
 excerpt: "Chapitre 26 Le son du destin. Era of Chaos  Souterrain - Chapitre 26. Le son du destin"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 26.md"
 toc: false

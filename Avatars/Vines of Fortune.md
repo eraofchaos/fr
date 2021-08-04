@@ -2,7 +2,7 @@
 title: "Avatar - Lianes porte-bonheur"
 permalink: /Avatars/Vines of Fortune/
 excerpt: "Era of Chaos  Lianes porte-bonheur"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Vines of Fortune.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-10 Le pilier de l'Œil maléfique"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "Chapitre 26 - 10. Era of Chaos  Histoire principale - Chapitre 26_10. 26-10 Le pilier de l'Œil maléfique"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 26_10.md"
 toc: false

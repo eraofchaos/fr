@@ -2,7 +2,7 @@
 title: "Maître de guerre. Talent Ultime - Maître de guerre"
 permalink: /PeakTalent/War Master/
 excerpt: "Era of Chaos Talent Ultime Maître de guerre. Talent Ultime Maître de guerre. Maître de guerre"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "War Master.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 5 - 5-11 Un Ange tombé du ciel"
 permalink: /Main Story/Chapter 5_11/
 excerpt: "Chapitre 5 - 11. Era of Chaos  Histoire principale - Chapitre 5_11. 5-11 Un Ange tombé du ciel"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 5_11.md"
 toc: false

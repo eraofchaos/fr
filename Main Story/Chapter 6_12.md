@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 6 - 6-12 Une prise essentielle"
 permalink: /Main Story/Chapter 6_12/
 excerpt: "Chapitre 6 - 12. Era of Chaos  Histoire principale - Chapitre 6_12. 6-12 Une prise essentielle"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 6_12.md"
 toc: false

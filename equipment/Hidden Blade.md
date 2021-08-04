@@ -2,7 +2,7 @@
 title: "Lame secrète"
 permalink: /equipment/Hidden Blade/
 excerpt: "Era of Chaos Lame secrète. Lame secrète"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Hidden Blade.md"
 toc: false

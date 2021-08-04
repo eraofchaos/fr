@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-13 Cauchemar au pays"
 permalink: /Main Story/Chapter 17_13/
 excerpt: "Chapitre 17 - 13. Era of Chaos  Histoire principale - Chapitre 17_13. 17-13 Cauchemar au pays"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 17_13.md"
 toc: false

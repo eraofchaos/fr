@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 16 - 16-2 Le chasseur de primes"
 permalink: /Main Story/Chapter 16_2/
 excerpt: "Chapitre 16 - 2. Era of Chaos  Histoire principale - Chapitre 16_2. 16-2 Le chasseur de primes"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 16_2.md"
 toc: false

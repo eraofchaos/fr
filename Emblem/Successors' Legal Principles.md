@@ -2,7 +2,7 @@
 title: "Emblème sacré - Droits des successeurs"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Era of Chaos Droits des successeurs. Droits des successeurs. Era of Chaos Emblème sacré Droits des successeurs. Era of Chaos Neutre Droits des successeurs"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Successors' Legal Principles.md"
 toc: false

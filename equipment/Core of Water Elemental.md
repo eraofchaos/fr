@@ -2,7 +2,7 @@
 title: "Noyau d'Élémentaire d'eau"
 permalink: /equipment/Core of Water Elemental/
 excerpt: "Era of Chaos Noyau d'Élémentaire d'eau. Noyau d'Élémentaire d'eau"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Core of Water Elemental.md"
 toc: false

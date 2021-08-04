@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 17 - 17-15 L'invasion diabolique"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Chapitre 17 - 15. Era of Chaos  Histoire principale - Chapitre 17_15. 17-15 L'invasion diabolique"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 17_15.md"
 toc: false

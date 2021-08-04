@@ -2,7 +2,7 @@
 title: "Chevalerie. Talent Ultime - Chevalerie"
 permalink: /PeakTalent/Chivalry/
 excerpt: "Era of Chaos Talent Ultime Chevalerie. Talent Ultime Chevalerie. Chevalerie"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chivalry.md"
 toc: false

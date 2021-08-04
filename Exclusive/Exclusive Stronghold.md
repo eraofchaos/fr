@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusif Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Exclusif Stronghold. Exclusif Stronghold. List of Exclusif Stronghold in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Exclusive Stronghold"
 toc: false
@@ -24,5 +24,5 @@ classes: wide
   | 5  | [Rock](/fr/units/Roc/) | [Mélopée des arcanes](/fr/Exclusive/Roc Arcane Chant/) | - | Assaut | [Jeton Mélopée des arcanes](/ItemsFR/con_915/) | - |
   | 6  | [Cyclope](/fr/units/Cyclops/) | [Arc long](/fr/Exclusive/Cyclops Long Bow/) | + | Assaut | [Jeton Arc long](/ItemsFR/con_914/) | - |
   | 7  | [Béhémoth](/fr/units/Behemoth/) | [Esprit sanguinaire](/fr/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Soutien | [Jeton Esprit sanguinaire](/ItemsFR/con_982/) | [Skin spécial Esprit sanguinaire](/ItemsFR/con_650/) |
-  | 8  | [Berserker](/fr/units/Berserker/) | [Hache de Berserker](/fr/Exclusive/Berserker Berserker's Axe/) | - | Soutien | [Jeton Hache de Berserker](/ItemsFR/con_983/) | [Skin spécial Hache de Berserker](/ItemsFR/con_651/) |
+  | 8  | [Berserker](/fr/units/Berserker/) | [Hache de Berserker](/fr/Exclusive/Berserker Berserker's Axe/) | + | Soutien | [Jeton Hache de Berserker](/ItemsFR/con_983/) | [Skin spécial Hache de Berserker](/ItemsFR/con_651/) |
   | 9  | [Troll](/fr/units/Troll/) | - | - | - | none | none |

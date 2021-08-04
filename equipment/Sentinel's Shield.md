@@ -2,7 +2,7 @@
 title: "Bouclier sentinelle"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Era of Chaos Bouclier sentinelle. Bouclier sentinelle"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Sentinel's Shield.md"
 toc: false

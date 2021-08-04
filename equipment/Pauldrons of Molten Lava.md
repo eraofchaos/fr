@@ -2,7 +2,7 @@
 title: "Épaulières de lave en fusion"
 permalink: /equipment/Pauldrons of Molten Lava/
 excerpt: "Era of Chaos Épaulières de lave en fusion. Épaulières de lave en fusion"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Pauldrons of Molten Lava.md"
 toc: false

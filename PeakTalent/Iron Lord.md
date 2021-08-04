@@ -2,7 +2,7 @@
 title: "Seigneur de Fer. Talent Ultime - Seigneur de Fer"
 permalink: /PeakTalent/Iron Lord/
 excerpt: "Era of Chaos Talent Ultime Seigneur de Fer. Talent Ultime Seigneur de Fer. Seigneur de Fer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Iron Lord.md"
 toc: false

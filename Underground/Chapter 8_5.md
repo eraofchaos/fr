@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 8 - 8-5 L'armée des morts"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Chapitre 8 - 5. Era of Chaos  Souterrain - Chapitre 8_5. 8-5 L'armée des morts"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 8_5.md"
 toc: false

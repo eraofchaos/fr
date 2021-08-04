@@ -2,7 +2,7 @@
 title: "Griffes des flammes furieuses"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "Era of Chaos Griffes des flammes furieuses. Griffes des flammes furieuses"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Claws of Raging Flame.md"
 toc: false

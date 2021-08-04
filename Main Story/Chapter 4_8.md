@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 4 - 4-8 La tour du bec de fer"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Chapitre 4 - 8. Era of Chaos  Histoire principale - Chapitre 4_8. 4-8 La tour du bec de fer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 4_8.md"
 toc: false

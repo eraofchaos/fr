@@ -2,7 +2,7 @@
 title: "Artefact - Puissance du Dragon patriarche - Jambières Dragon"
 permalink: /artifacts/Dragonbone Greaves/
 excerpt: "Era of Chaos  Puissance du Dragon patriarche - Jambières Dragon. Des jambières taillées dans les tibias du Roi Dragon. Composant de la Puissance du Dragon patriarche."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Dragonbone Greaves.md"
 toc: false

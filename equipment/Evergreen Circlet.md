@@ -2,7 +2,7 @@
 title: "Bandeau verdoyant"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "Era of Chaos Bandeau verdoyant. Bandeau verdoyant"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Evergreen Circlet.md"
 toc: false

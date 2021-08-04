@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Récompenses totales."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 33  Semaine de la Forteresse
+
+  |  Date  |  Récompense  |  Récompense Description    |
+  |:-------|:---------------|:------------------------:|
+  | **16 Aug** | **5x [Gnoll](/ItemsFR/unt_253/)**  | Une escouade de Gnolls a rejoint votre armée et vous renforce ! |
+  | **17 Aug** | **5x [Coffre de faction (Forteresse)](/ItemsFR/con_1277/)**  | Votre compagnie de la Forteresse vous a rapporté un certain nombre de coffres au trésor de grande valeur ! |
+  | **18 Aug** | **100x <i class="fas fa-gem"/>**  | Votre armée a découvert de nombreux trésors dans le sombre marais ! |
+  | **19 Aug** | **3x [Homme-lézard](/ItemsFR/unt_254/)**  | Une escouade d'Hommes-lézards a rejoint votre armée et vous renforce ! |
+  | **20 Aug** | **5x [Runes de groupement (Forteresse)](/ItemsFR/con_818/)**  | Votre compagnie de l'Hadès vous a rapporté un certain nombre de runes de grande valeur ! |
+  | **21 Aug** | **3x [Guêpe serpent](/ItemsFR/unt_255/)**  | Une escouade de Guêpes serpents a rejoint votre armée et vous renforce ! |
+  | **22 Aug** | **5x [Korbac](/ItemsFR/her_394/)**  | Un courageux Maître des bêtes s'est rendu sur votre territoire ! |
+
 
 #### 2021 Week 32  Semaine de la Tour
 

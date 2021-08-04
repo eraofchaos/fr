@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 21 - 21-9 L'origine des Orques"
 permalink: /Main Story/Chapter 21_9/
 excerpt: "Chapitre 21 - 9. Era of Chaos  Histoire principale - Chapitre 21_9. 21-9 L'origine des Orques"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 21_9.md"
 toc: false

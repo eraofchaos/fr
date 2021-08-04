@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Chevaucheur de loup. Chevaucheur de loup Unités. Pillard. Era of Chaos Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chevaucheur de loup"
 toc: true

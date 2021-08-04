@@ -2,7 +2,7 @@
 title: "Médaille des Lords. Talent Ultime - Médaille des Lords"
 permalink: /PeakTalent/Medal of Lords/
 excerpt: "Era of Chaos Talent Ultime Médaille des Lords. Talent Ultime Médaille des Lords. Médaille des Lords"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Medal of Lords.md"
 toc: false

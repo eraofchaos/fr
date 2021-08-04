@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 23 - 23-3 Le métal corrodé"
 permalink: /Main Story/Chapter 23_3/
 excerpt: "Chapitre 23 - 3. Era of Chaos  Histoire principale - Chapitre 23_3. 23-3 Le métal corrodé"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 23_3.md"
 toc: false

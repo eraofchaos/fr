@@ -2,7 +2,7 @@
 title: "Histoire principale - Chapitre 26 - 26-9 Le chant de l'enchanteresse"
 permalink: /Main Story/Chapter 26_9/
 excerpt: "Chapitre 26 - 9. Era of Chaos  Histoire principale - Chapitre 26_9. 26-9 Le chant de l'enchanteresse"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 26_9.md"
 toc: false

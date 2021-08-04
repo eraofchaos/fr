@@ -2,7 +2,7 @@
 title: "Artefact - Armure du Damné"
 permalink: /artifacts/Armor of the Damned/
 excerpt: "Era of Chaos  Armure du Damné. Armure du Damné Une armure faite de reliques magiques des Non-Morts. Affaiblit les capacités d'un ennemi."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Armor of the Damned.md"
 toc: false

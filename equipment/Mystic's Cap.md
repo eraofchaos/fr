@@ -2,7 +2,7 @@
 title: "Chapeau mystique"
 permalink: /equipment/Mystic's Cap/
 excerpt: "Era of Chaos Chapeau mystique. Chapeau mystique"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Mystic's Cap.md"
 toc: false

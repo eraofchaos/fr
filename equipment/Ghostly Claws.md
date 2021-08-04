@@ -2,7 +2,7 @@
 title: "Griffes spectrales"
 permalink: /equipment/Ghostly Claws/
 excerpt: "Era of Chaos Griffes spectrales. Griffes spectrales"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Ghostly Claws.md"
 toc: false

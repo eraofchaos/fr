@@ -2,7 +2,7 @@
 title: "Formation de combat "
 permalink: /Battle Formation/
 excerpt: "Formation de combat.Chaque faction est unique en termes de potentiel et d'énergie. Activez la formation de combat exclusive pour déchainer votre pouvoir latent."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "index.md"
 toc: false

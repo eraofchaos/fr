@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 27 - 27-4 Poète maniaque"
 permalink: /Underground/Chapter 27_4/
 excerpt: "Chapitre 27 - 4. Era of Chaos  Souterrain - Chapitre 27_4. 27-4 Poète maniaque"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 27_4.md"
 toc: false

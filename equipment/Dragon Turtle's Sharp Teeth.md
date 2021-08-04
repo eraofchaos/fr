@@ -2,7 +2,7 @@
 title: "Dents tranchantes de Tortue dragon"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Era of Chaos Dents tranchantes de Tortue dragon. Dents tranchantes de Tortue dragon"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

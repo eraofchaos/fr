@@ -2,7 +2,7 @@
 title: "Souterrain - Chapitre 23 - 23-4 Renaissance de la flamme éternelle"
 permalink: /Underground/Chapter 23_4/
 excerpt: "Chapitre 23 - 4. Era of Chaos  Souterrain - Chapitre 23_4. 23-4 Renaissance de la flamme éternelle"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Chapter 23_4.md"
 toc: false
